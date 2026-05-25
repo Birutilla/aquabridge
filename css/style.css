@@ -28,7 +28,6 @@ h1 { font-size: clamp(28px, 4vw, 44px); }
 h2 { font-size: clamp(22px, 3vw, 34px); }
 h3 { font-size: 19px; }
 p { font-size: 16px; line-height: 1.75; max-width: 700px; }
-.profile-right p { max-width: none; }
 .container { max-width: var(--max-w); margin: 0 auto; padding: 0 28px; }
 
 /* ── Buttons ───────────────────────────────────────────────────────────── */
@@ -77,8 +76,8 @@ p { font-size: 16px; line-height: 1.75; max-width: 700px; }
 /* ── Hero light ────────────────────────────────────────────────────────── */
 .hero-light { background: var(--lgray); padding: 68px 0 60px; border-bottom: 1px solid var(--mgray); }
 .hero-light .hero-pre { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--teal); font-weight: 600; margin-bottom: 14px; }
-.hero-light h1 { margin-bottom: 16px; max-width: 620px; }
-.hero-light .hero-sub { color: var(--dgray); font-size: 17px; max-width: 580px; line-height: 1.75; }
+.hero-light h1 { margin-bottom: 16px; max-width: 700px; }
+.hero-light .hero-sub { color: var(--dgray); font-size: 17px; max-width: 700px; line-height: 1.75; }
 
 /* ── Sections ──────────────────────────────────────────────────────────── */
 section { padding: 76px 0; }
@@ -166,7 +165,7 @@ section { padding: 76px 0; }
 .profile-name-mobile { display: none; }
 .profile-right h3 { font-size: 22px; margin-bottom: 3px; }
 .profile-right .role { font-size: 14px; color: var(--teal); font-weight: 600; margin-bottom: 16px; letter-spacing: 0.02em; }
-  .profile-right p { font-size: 15px; line-height: 1.75; color: var(--dgray); margin-bottom: 0; max-width: none; }
+  .profile-right p { font-size: 15px; line-height: 1.75; color: var(--dgray); margin-bottom: 0; }
 
 /* ── Contact form ──────────────────────────────────────────────────────── */
 .contact-layout { display: grid; grid-template-columns: 1.3fr 1fr; gap: 64px; align-items: start; }
