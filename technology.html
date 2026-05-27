@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The complete landscape of operational technology for Chile's salmon farming industry: water quality monitoring, oxygenation systems, sea lice management, fish health analytics, feeding optimization, biomass estimation, harmful algal bloom early warning, and farm data integration.">
+  <meta name="keywords" content="salmon aquaculture technology Chile, aquaculture monitoring systems, sea lice detection Chile, salmon oxygenation systems, fish health monitoring technology, HAB early warning salmon, biomass estimation aquaculture, salmon farm software Chile, aquaculture sensors Chile, Atlantic salmon technology, coho salmon monitoring, Salmo salar farming technology, SERNAPESCA technology, SalmonChile suppliers, salmon lice counter, underwater camera salmon, aquaculture water quality sensor, net inspection ROV, salmon feeding optimization, aquaculture data integration">
+  <title>Technology Sectors — AquaBridge | Chilean Salmon Aquaculture Technology Landscape</title>
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.aquabridge.cl/technology.html">
+  <meta property="og:title" content="Technology Sectors — AquaBridge | Chilean Salmon Aquaculture">
+  <meta property="og:description" content="The operational technology landscape for Chile's salmon farming industry: 12 technology sectors, 8 major producers, and the pain points driving demand right now.">
+  <meta property="og:image" content="https://www.aquabridge.cl/images/salmon_bridge.png">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Technology Sectors — AquaBridge | Chilean Salmon Aquaculture">
+  <meta name="twitter:description" content="The operational technology landscape for Chile's salmon farming industry: 12 sectors, 8 major producers, and the pain points driving demand.">
+  <meta name="twitter:image" content="https://www.aquabridge.cl/images/salmon_bridge.png">
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Operational Technology Landscape for Chile's Salmon Farming Industry",
+    "description": "A comprehensive overview of the 12 technology sectors with active demand in Chile's salmon aquaculture industry, including water quality monitoring, sea lice management, fish health analytics, feeding optimization, and farm data integration.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "AquaBridge Chile SpA",
+      "url": "https://www.aquabridge.cl"
+    },
+    "about": [
+      { "@type": "Thing", "name": "Salmon aquaculture technology" },
+      { "@type": "Thing", "name": "Aquaculture monitoring systems" },
+      { "@type": "Thing", "name": "Sea lice management" },
+      { "@type": "Thing", "name": "Fish health monitoring" },
+      { "@type": "Thing", "name": "Chilean salmon industry" }
+    ]
+  }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ── Technology page extras ── */
+    .sector-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+      gap: 24px;
+      margin-top: 44px;
+    }
+    .sector-card {
+      background: var(--white);
+      border: 1px solid var(--mgray);
+      border-radius: 12px;
+      padding: 28px;
+      border-top: 3px solid var(--teal);
+    }
+    .sector-card h3 {
+      font-size: 16px;
+      color: var(--navy);
+      margin-bottom: 10px;
+    }
+    .sector-card p {
+      font-size: 14px;
+      line-height: 1.7;
+      color: var(--dgray);
+      max-width: none;
+    }
+    .sector-card .sector-tag {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--teal);
+      margin-bottom: 8px;
+    }
+    .producers-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 36px;
+      font-size: 14px;
+    }
+    .producers-table th {
+      text-align: left;
+      padding: 10px 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--teal);
+      border-bottom: 2px solid var(--mgray);
+    }
+    .producers-table td {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--lgray);
+      color: var(--dgray);
+      line-height: 1.55;
+      vertical-align: top;
+    }
+    .producers-table td:first-child {
+      font-weight: 600;
+      color: var(--navy);
+      white-space: nowrap;
+    }
+    .producers-table tr:last-child td {
+      border-bottom: none;
+    }
+    .producers-table tr:hover td {
+      background: var(--lgray);
+    }
+    .rank-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--navy);
+      color: var(--white);
+      font-size: 11px;
+      font-weight: 700;
+      margin-right: 8px;
+      flex-shrink: 0;
+    }
+    .pain-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      margin-top: 32px;
+    }
+    .pain-item {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 20px;
+      align-items: start;
+      padding: 22px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .pain-item:last-child {
+      border-bottom: none;
+    }
+    .pain-num {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--teal);
+      line-height: 1;
+      padding-top: 2px;
+    }
+    .pain-body h4 {
+      font-size: 16px;
+      color: var(--white);
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+    .pain-body p {
+      font-size: 14px;
+      color: rgba(255,255,255,0.58);
+      max-width: none;
+      line-height: 1.65;
+    }
+    .market-intro-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px;
+      align-items: start;
+      margin-top: 44px;
+    }
+    .market-intro-grid p {
+      font-size: 15px;
+      line-height: 1.8;
+      color: var(--dgray);
+      max-width: none;
+    }
+    .market-intro-grid p + p {
+      margin-top: 14px;
+    }
+    @media (max-width: 720px) {
+      .market-intro-grid { grid-template-columns: 1fr; gap: 24px; }
+      .producers-table { font-size: 13px; }
+      .producers-table th, .producers-table td { padding: 10px; }
+    }
+
+    .matrix-grid { display:grid; grid-template-columns:1fr 260px; gap:40px; align-items:start; margin-top:44px; }
+    .srs-chart-grid { display:grid; grid-template-columns:200px 1fr; gap:36px; align-items:center; margin:32px 0 24px; padding:24px 28px; background:rgba(255,255,255,0.05); border-radius:12px; border:1px solid rgba(255,255,255,0.08); }
+    @media (max-width:720px) {
+      .matrix-grid { grid-template-columns:1fr; }
+      .srs-chart-grid { grid-template-columns:1fr; justify-items:center; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <div class="container">
+      <div class="nav-inner">
+        <a href="index.html" class="nav-logo">
+          <img src="images/logo.png" alt="AquaBridge" onerror="this.style.display='none'">
+          <span class="nav-logo-text">AQUABRIDGE</span>
+        </a>
+        <div class="nav-links">
+          <a href="index.html" data-i18n="nav_home">Home</a>
+          <a href="services.html" data-i18n="nav_services">Services</a>
+          <a href="technology.html" class="active" data-i18n="nav_technology">Landscape</a>
+          <a href="about.html" data-i18n="nav_about">About</a>
+          <a href="contact.html" class="nav-cta" data-i18n="nav_contact">Contact</a>
+          <div class="lang-toggle desktop">
+            <button class="lang-btn active" data-lang="en">EN</button>
+            <button class="lang-btn" data-lang="no">NO</button>
+          </div>
+        </div>
+        <button class="nav-hamburger" aria-label="Open menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+      <div class="nav-mobile">
+        <a href="index.html" data-i18n="nav_home">Home</a>
+        <a href="services.html" data-i18n="nav_services">Services</a>
+        <a href="technology.html" data-i18n="nav_technology">Landscape</a>
+        <a href="about.html" data-i18n="nav_about">About</a>
+        <a href="contact.html" data-i18n="nav_contact">Contact</a>
+        <div class="lang-toggle">
+          <button class="lang-btn active" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="no">NO</button>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <div class="hero-light">
+    <div class="container">
+      <p class="hero-pre" data-i18n="tech_pre">Market intelligence</p>
+      <h1 data-i18n="tech_h1">The Chilean salmon technology landscape.</h1>
+      <p class="hero-sub" data-i18n="tech_sub">Chile's salmon sector generates USD 6.55 billion in annual export revenue and operates at industrial scale across Atlantic salmon, coho, and trout, with active demand for technology solutions spanning water quality monitoring, oxygenation, sea lice management, fish health and behavioral analytics, feeding optimization, biomass estimation, harmful algal bloom early warning, and farm data integration.</p>
+    </div>
+  </div>
+
+  <!-- MARKET CONTEXT -->
+  <section class="sec-white">
+    <div class="container">
+      <p class="sec-label" data-i18n="tech_mkt_label">The market</p>
+      <h2 class="sec-h2" data-i18n="tech_mkt_h2">Why Chile is a priority market for aquaculture technology.</h2>
+      <div class="market-intro-grid">
+        <div>
+          <p>Chile is the world's second-largest salmon producer, generating USD 6.55 billion in export revenue in 2025 across 83 destination countries. Production is concentrated in the Los Lagos and Aysén regions, where eight major producer groups operate hundreds of sea cage sites in the Patagonian fjords. The scale is industrial: over 825,000 tonnes exported in 2025 alone, supported by a supply chain that runs from freshwater hatcheries in La Araucanía to processing plants in Puerto Montt and Puerto Aysén.</p>
+          <p style="margin-top:14px;">Technology adoption has accelerated sharply in recent years, driven by three converging pressures: chronic disease burden from SRS and sea lice that resists conventional treatment, tightening welfare and environmental regulations from SERNAPESCA, and the relentless cost pressure of a commodity market where feed represents 50 to 60 percent of production costs. Producers that once relied on antibiotics, manual monitoring, and intuition-based feeding are actively seeking technology that reduces mortality, improves feed conversion, and generates verifiable compliance data.</p>
+        </div>
+        <div>
+          <p>The result is a buyer base that is large, concentrated, and actively evaluating technology. The eight major producers are well-funded, internationally oriented companies accustomed to working with foreign suppliers. Several are subsidiaries of Norwegian or Japanese multinationals, with procurement cultures that align with global standards.</p>
+          <p style="margin-top:14px;">For international technology companies, Chile presents a significant and accessible opportunity. The challenge is not demand: the challenge is access. Buying decisions are made at the C-suite level, in Spanish, within a network of relationships that took decades to build. AquaBridge provides that access.</p>
+          <div style="margin-top:28px; padding:20px 24px; background:var(--lgray); border-radius:10px; border-left:3px solid var(--teal);">
+            <p style="font-size:14px; color:var(--navy); font-weight:600; max-width:none; line-height:1.6;">Major producers: AquaChile, Mowi Chile, Cermaq Chile, Multi X, Blumar, Camanchaca, Ventisqueros, Australis Seafoods</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TECHNOLOGY SECTORS -->
+  <section class="sec-gray">
+    <div class="container">
+      <p class="sec-label" data-i18n="tech_sectors_label">Technology sectors</p>
+      <h2 class="sec-h2" data-i18n="tech_sectors_h2">12 technology categories with active demand in Chile.</h2>
+      <p class="sec-sub" data-i18n="tech_sectors_sub">These are the areas where Chilean salmon producers are actively evaluating, piloting, and purchasing technology. If your product fits any of these categories, there is a market here.</p>
+
+      <div class="sector-grid">
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s1_tag">Water quality</span>
+          <h3 data-i18n="tech_s1_h">Water Quality Monitoring Systems</h3>
+          <p>Multiparameter sensor networks measuring dissolved oxygen, CO2, total dissolved gas, temperature, salinity, pH, and turbidity in real time. Most farms still rely on manual spot checks. Continuous monitoring with predictive alerting reduces mortality events and improves regulatory compliance data.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s2_tag">Oxygenation</span>
+          <h3 data-i18n="tech_s2_h">Oxygenation and Aeration Technology</h3>
+          <p>Pure oxygen injection systems, on-site oxygen generators, diffuser equipment, and surface aerators. Distinct from generic aeration: salmon farms require high-precision dissolved oxygen management. Low DO events cause acute mortality; CO2 and total dissolved gas buildup in enclosed or stratified cages causes chronic stress and suppressed immune function.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s3_tag">Sea lice</span>
+          <h3 data-i18n="tech_s3_h">Sea Lice Monitoring and Treatment Technology</h3>
+          <p>The highest-spend technology category after feed. Covers optical lice counters, AI-powered image classification, eDNA detection systems, laser-based non-chemical treatment, mechanical freshwater treatment systems, and barrier skirts. Chemical treatment resistance is growing, making non-chemical alternatives the primary growth segment in Chile.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s4_tag">Fish health</span>
+          <h3 data-i18n="tech_s4_h">Fish Health Monitoring and Biosecurity Technology</h3>
+          <p>Non-pharmaceutical, device and software-based health surveillance. AI-powered wound and lesion detection at feed stations, gill health assessment systems, dead fish detection and removal robots, eDNA-based pathogen surveillance, and biosecurity audit software. The distinction from veterinary products is important: AquaBridge represents the technology layer, not drugs or biologics.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s5_tag">Computer vision</span>
+          <h3 data-i18n="tech_s5_h">Computer Vision and Behavioral Monitoring</h3>
+          <p>Underwater camera systems using AI to analyze swim speed, depth distribution, surface crowding, circular swimming patterns as stress indicators, and feeding response. Also covers acoustic telemetry for individual fish tracking and hydroacoustic systems for schooling behavior analysis. Welfare monitoring is increasingly required by SERNAPESCA and international export buyers.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s6_tag">Feeding</span>
+          <h3 data-i18n="tech_s6_h">Feeding Optimization and Appetite Detection</h3>
+          <p>Underwater cameras monitoring uneaten pellet fallout to detect satiation, demand feeders triggered by fish behavior, AI systems correlating environmental variables with feed intake, automatic feed cart systems, and silo inventory management. With feed at 50 to 60 percent of production costs, a five percent efficiency improvement is significant at Chilean farm scale.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s7_tag">Biomass</span>
+          <h3 data-i18n="tech_s7_h">Biomass Estimation Technology</h3>
+          <p>Stereo-camera systems mounted on feed pipes that automatically measure fish length and estimate weight without handling, and echosounder-based stock estimation. Chilean producers currently rely on sampling and mortality-adjusted models with significant error margins. Accurate in-pen biomass data improves feed plans, harvest timing, and financial reporting precision.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s8_tag">Algal blooms</span>
+          <h3 data-i18n="tech_s8_h">Harmful Algal Bloom Early Warning</h3>
+          <p>A critical Chile-specific category. Blooms in the Los Lagos and Aysén regions have caused mass mortality events. Technology includes in-situ fluorometers, satellite remote sensing services, automated phytoplankton samplers, and subscription-based early warning platforms. Response tools include deep-water oxygenation systems and decision support for emergency pen relocation.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s9_tag">Net and cage</span>
+          <h3 data-i18n="tech_s9_h">Net and Cage Integrity Systems</h3>
+          <p>ROVs and autonomous underwater vehicles for net inspection, biofouling detection, mooring inspection, and anchor integrity verification. Also underwater net cleaning robots that remove biofouling without manual diving. Biofouled nets restrict water flow and oxygen exchange. Mooring failures at exposed Patagonian sites carry significant regulatory and financial liability.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s10_tag">Infrastructure</span>
+          <h3 data-i18n="tech_s10_h">Structural and Infrastructure Technology</h3>
+          <p>Submersible cage systems that descend during storms or high-lice pressure periods, semi-closed containment systems that create physical barriers against lice larvae and jellyfish, offshore pen structures for high-exposure sites, and floating feed barge systems. Norway has significant installed base in these technologies; Chile is still in the adoption phase.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s11_tag">Software</span>
+          <h3 data-i18n="tech_s11_h">Farm Management Software and Data Integration</h3>
+          <p>Aquaculture management systems that unify sensor data, production records, regulatory reporting, mortality logs, and treatment history into a single operational view. The pain point is fragmentation: most Chilean farms run five to ten disconnected systems with no integration layer. Platform and API-connected dashboard solutions represent an underserved and high-value need.</p>
+        </div>
+
+        <div class="sector-card">
+          <span class="sector-tag" data-i18n="tech_s12_tag">Compliance</span>
+          <h3 data-i18n="tech_s12_h">Environmental Compliance and Reporting Technology</h3>
+          <p>Monitoring systems and software that satisfy SERNAPESCA reporting requirements: benthic impact monitoring with seabed sensors, organic fallout measurement, environmental limit tracking, and automatic report generation. Demand is driven by SERNAPESCA audit requirements and by international buyers who require certified environmental performance data from Chilean suppliers.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- DEMAND MATRIX -->
+  <section class="sec-white">
+    <div class="container">
+      <p class="sec-label" data-i18n="tech_matrix_label">Strategic overview</p>
+      <h2 class="sec-h2" data-i18n="tech_matrix_h2">Urgency vs. market readiness across 12 technology sectors.</h2>
+      <p class="sec-sub" data-i18n="tech_matrix_sub">Each sector plotted by buyer urgency (how acute the pain is) against market readiness (how prepared Chilean producers are to evaluate and purchase). Sectors in the upper-right quadrant represent the most immediate commercial entry points. AquaBridge assessment, 2026.</p>
+      <div class="matrix-grid">
+        <div>
+          <canvas id="demandMatrix"></canvas>
+        </div>
+        <div>
+          <p style="font-size:11px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; color:var(--teal); margin-bottom:16px;">Sectors</p>
+          <ol style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:7px;">
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">1</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Sea Lice Monitoring &amp; Treatment</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">2</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Disease Detection &amp; Biosecurity</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">3</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Feeding Optimization</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">4</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">HAB Early Warning</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">5</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Water Quality Monitoring</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">6</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Oxygenation &amp; Aeration</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">7</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Farm Management Software</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">8</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Biomass Estimation</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">9</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Net &amp; Cage Integrity</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">10</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Environmental Compliance</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">11</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Computer Vision &amp; Behavioral</span></li>
+            <li style="display:flex; gap:8px; align-items:baseline;"><span style="min-width:18px; font-size:11px; font-weight:700; color:var(--teal);">12</span><span style="font-size:12px; color:var(--dgray); line-height:1.4;">Infrastructure &amp; Cage Systems</span></li>
+          </ol>
+          <div style="margin-top:20px; display:flex; flex-direction:column; gap:6px; border-top:1px solid var(--mgray); padding-top:14px;">
+            <div style="display:flex; align-items:center; gap:8px;"><span style="width:10px; height:10px; border-radius:50%; background:#1A7BA4; flex-shrink:0;"></span><span style="font-size:11px; color:var(--dgray);">High priority</span></div>
+            <div style="display:flex; align-items:center; gap:8px;"><span style="width:10px; height:10px; border-radius:50%; background:#1B3A5C; flex-shrink:0;"></span><span style="font-size:11px; color:var(--dgray);">High urgency, early-stage</span></div>
+            <div style="display:flex; align-items:center; gap:8px;"><span style="width:10px; height:10px; border-radius:50%; background:#6B8FAE; flex-shrink:0;"></span><span style="font-size:11px; color:var(--dgray);">Established demand</span></div>
+            <div style="display:flex; align-items:center; gap:8px;"><span style="width:10px; height:10px; border-radius:50%; background:#A0B4C6; flex-shrink:0;"></span><span style="font-size:11px; color:var(--dgray);">Developing</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PAIN POINTS -->
+  <section class="sec-navy">
+    <div class="container">
+      <p class="sec-label" style="color:var(--teal);" data-i18n="tech_pain_label">What is driving demand</p>
+      <h2 class="sec-h2 navy-h2" data-i18n="tech_pain_h2">The pain points behind the technology investment.</h2>
+      <p class="sec-sub light" data-i18n="tech_pain_sub">These are the problems that Chilean salmon producers are spending money to solve right now. Technologies that address any of these areas have an active, funded buyer base.</p>
+      <div class="pain-list">
+        <div class="pain-item">
+          <div class="pain-num">01</div>
+          <div class="pain-body">
+            <h4 data-i18n="tech_pain1_h">SRS and antibiotic dependency</h4>
+            <p>Piscirickettsia salmonis is responsible for 52.8% of all infectious Atlantic salmon deaths and drives 97.51% of all antimicrobial use in Chilean salmon farming (SERNAPESCA, 2025). No effective vaccine exists. Producers are under regulatory and export-market pressure to reduce antibiotic use, driving investment in early detection, immune support, and biosecurity technology.</p>
+          </div>
+        </div>
+        <div class="pain-item">
+          <div class="pain-num">02</div>
+          <div class="pain-body">
+            <h4 data-i18n="tech_pain2_h">Sea lice resistance to chemical treatment</h4>
+            <p>Caligus rogercresseyi has developed significant resistance to available chemical treatments. Non-pharmacological treatment events grew 36.1% in 2025 (SERNAPESCA), as producers shift toward laser systems, mechanical treatment, optical monitoring, and barrier technologies. Between 8.4% and 25.4% of active centers operated above the regulatory infestation threshold during 2025.</p>
+          </div>
+        </div>
+        <div class="pain-item">
+          <div class="pain-num">03</div>
+          <div class="pain-body">
+            <h4 data-i18n="tech_pain3_h">Harmful algal bloom events</h4>
+            <p>Recurring HAB events in Los Lagos and Aysén cause acute mortality and emergency pen relocations. Real-time detection and early warning systems are underprovided relative to the scale of the risk. Chilean producers have experienced billion-peso losses from single bloom events.</p>
+          </div>
+        </div>
+        <div class="pain-item">
+          <div class="pain-num">04</div>
+          <div class="pain-body">
+            <h4 data-i18n="tech_pain4_h">Water quality and dissolved gas monitoring gaps</h4>
+            <p>Marine mortality in Chile runs at 9.7% annually, equivalent to over 60,000 tonnes of dead biomass per year (Aquabench, 2025). Dissolved oxygen, CO2, and total dissolved gas levels in cages are still largely managed through manual checks on most farms. Real-time monitoring with predictive alerting remains the exception, not the standard, creating avoidable mortality events and welfare compliance risk.</p>
+          </div>
+        </div>
+        <div class="pain-item">
+          <div class="pain-num">05</div>
+          <div class="pain-body">
+            <h4 data-i18n="tech_pain5_h">Feed waste and imprecise biomass data</h4>
+            <p>Feed represents 50 to 60 percent of production costs. Imprecise appetite detection and inaccurate biomass estimation lead to overfeeding, elevated feed conversion ratios, and poor harvest timing decisions. Technologies that demonstrably improve feed efficiency carry a strong commercial case at the scale Chilean producers operate.</p>
+          </div>
+        </div>
+        <div class="pain-item">
+          <div class="pain-num">06</div>
+          <div class="pain-body">
+            <h4 data-i18n="tech_pain6_h">Data fragmentation across farm systems</h4>
+            <p>Most Chilean farms operate five to ten disconnected sensor, software, and reporting systems with no integration layer. The inability to correlate environmental, health, and production data in real time limits operational decision-making. Integrated farm management platforms are an underserved and growing need.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <div class="cta-section">
+    <div class="container">
+      <h2 data-i18n="tech_cta_h2">Does your technology fit any of these categories?</h2>
+      <p data-i18n="tech_cta_p">If it does, there is a funded, active buyer base in Chile waiting for it. Talk to us and we will tell you honestly whether the fit is real and who the right first customers would be.</p>
+      <a href="contact.html" class="btn btn-white" data-i18n="tech_cta_btn">Start the conversation</a>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <img src="images/logo.png" alt="AquaBridge" onerror="this.style.display='none'">
+            <span class="footer-logo-text">AQUABRIDGE</span>
+          </div>
+          <p class="footer-tag">Global connectivity for the aquaculture industry.</p>
+        </div>
+        <nav class="footer-nav">
+          <a href="services.html">Services</a>
+          <a href="technology.html">Technology</a>
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <p class="footer-copy">© 2026 AquaBridge Chile SpA. All rights reserved.</p>
+        <div class="lang-toggle">
+          <button class="lang-btn active" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="no">NO</button>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js"></script>
+  <script>
+  (function () {
+    if (typeof Chart === 'undefined') return;
+    if (typeof ChartDataLabels !== 'undefined') {
+      Chart.register(ChartDataLabels);
+    }
+
+    // ── SRS Antibiotic Donut ─────────────────────────────────────────────────
+    const donutEl = document.getElementById('srsDonut');
+    if (donutEl) {
+      new Chart(donutEl, {
+        type: 'doughnut',
+        data: {
+          labels: ['P. salmonis (SRS)', 'All other pathogens'],
+          datasets: [{
+            data: [97.51, 2.49],
+            backgroundColor: ['#1A7BA4', 'rgba(255,255,255,0.14)'],
+            borderColor:      ['#1A7BA4', 'rgba(255,255,255,0.06)'],
+            borderWidth: 1,
+            hoverOffset: 4
+          }]
+        },
+        options: {
+          responsive: false,
+          cutout: '74%',
+          plugins: {
+            legend: { display: false },
+            datalabels: { display: false },
+            tooltip: {
+              callbacks: {
+                label: ctx => '  ' + ctx.label + ': ' + ctx.parsed.toFixed(2) + '%'
+              }
+            }
+          }
+        }
+      });
+    }
+
+    // ── Technology Demand Matrix ──────────────────────────────────────────────
+    const matrixEl = document.getElementById('demandMatrix');
+    if (matrixEl) {
+      const MID_X = 3.5, MID_Y = 3.9;
+      const C = { tr:'#1A7BA4', tl:'#1B3A5C', br:'#6B8FAE', bl:'#A0B4C6' };
+      const pts = [
+        { x:4.3, y:5.0, n:1  },  // Sea Lice
+        { x:3.0, y:4.8, n:2  },  // Fish Health
+        { x:4.2, y:4.5, n:3  },  // Feeding
+        { x:2.8, y:4.6, n:4  },  // HAB
+        { x:4.1, y:4.2, n:5  },  // Water Quality
+        { x:4.5, y:4.0, n:6  },  // Oxygenation
+        { x:3.4, y:4.3, n:7  },  // Farm Software
+        { x:3.2, y:4.0, n:8  },  // Biomass
+        { x:4.0, y:3.2, n:9  },  // Net & Cage
+        { x:3.8, y:3.5, n:10 },  // Compliance
+        { x:3.1, y:3.4, n:11 },  // Computer Vision
+        { x:2.2, y:3.0, n:12 },  // Infrastructure
+      ];
+      const colors = pts.map(p =>
+        p.x >= MID_X && p.y >= MID_Y ? C.tr :
+        p.x <  MID_X && p.y >= MID_Y ? C.tl :
+        p.x >= MID_X && p.y <  MID_Y ? C.br : C.bl
+      );
+
+      const quadBg = {
+        id: 'quadBg',
+        beforeDraw(chart) {
+          const { ctx, chartArea: ca, scales: { x, y } } = chart;
+          if (!ca) return;
+          const mx = x.getPixelForValue(MID_X);
+          const my = y.getPixelForValue(MID_Y);
+          ctx.save();
+          [
+            { rx:mx,      ry:ca.top, rw:ca.right-mx,  rh:my-ca.top,      fill:'rgba(26,123,164,0.05)', tx:ca.right-6, ty:ca.top+11, ta:'right', label:'High Priority' },
+            { rx:ca.left, ry:ca.top, rw:mx-ca.left,   rh:my-ca.top,      fill:'rgba(27,58,92,0.05)',   tx:ca.left+6,  ty:ca.top+11, ta:'left',  label:'High Urgency'  },
+            { rx:mx,      ry:my,     rw:ca.right-mx,  rh:ca.bottom-my,   fill:'rgba(107,143,174,0.04)',tx:ca.right-6, ty:ca.bottom-6, ta:'right',label:'Established'   },
+            { rx:ca.left, ry:my,     rw:mx-ca.left,   rh:ca.bottom-my,   fill:'rgba(160,180,198,0.04)',tx:ca.left+6,  ty:ca.bottom-6, ta:'left', label:'Developing'    },
+          ].forEach(q => {
+            ctx.fillStyle = q.fill;
+            ctx.fillRect(q.rx, q.ry, q.rw, q.rh);
+            ctx.fillStyle = 'rgba(0,0,0,0.22)';
+            ctx.font = '500 9.5px Inter, sans-serif';
+            ctx.textAlign = q.ta;
+            ctx.textBaseline = 'top';
+            ctx.fillText(q.label, q.tx, q.ty);
+          });
+          ctx.strokeStyle = 'rgba(0,0,0,0.08)';
+          ctx.lineWidth = 1;
+          ctx.setLineDash([4,3]);
+          ctx.beginPath(); ctx.moveTo(mx, ca.top); ctx.lineTo(mx, ca.bottom); ctx.stroke();
+          ctx.beginPath(); ctx.moveTo(ca.left, my); ctx.lineTo(ca.right, my); ctx.stroke();
+          ctx.setLineDash([]);
+          ctx.restore();
+        }
+      };
+
+      const SECTOR_NAMES = ['','Sea Lice Treatment','Disease Detection & Biosecurity','Feeding Optimization','HAB Early Warning','Water Quality Monitoring','Oxygenation & Aeration','Farm Management Software','Biomass Estimation','Net & Cage Integrity','Environmental Compliance','Computer Vision','Infrastructure & Cage Systems'];
+
+      new Chart(matrixEl, {
+        type: 'scatter',
+        plugins: [quadBg],
+        data: {
+          datasets: [{
+            data: pts.map(p => ({ x:p.x, y:p.y, n:p.n })),
+            backgroundColor: colors,
+            borderColor: colors.map(c => c + 'bb'),
+            borderWidth: 1.5,
+            pointRadius: 13,
+            pointHoverRadius: 15,
+          }]
+        },
+        options: {
+          responsive: true,
+          aspectRatio: 1.5,
+          scales: {
+            x: {
+              min:1.6, max:5.4,
+              title: { display:true, text:'Market Readiness →', font:{size:11, family:"'Inter',sans-serif"}, color:'#999', padding:{top:4} },
+              grid: { color:'rgba(0,0,0,0.05)' },
+              ticks: { stepSize:1, callback: v => ({2:'Low',5:'High'}[Math.round(v)]||''), font:{size:10}, color:'#bbb' }
+            },
+            y: {
+              min:1.6, max:5.4,
+              title: { display:true, text:'Buyer Urgency ↑', font:{size:11, family:"'Inter',sans-serif"}, color:'#999', padding:{bottom:4} },
+              grid: { color:'rgba(0,0,0,0.05)' },
+              ticks: { stepSize:1, callback: v => ({2:'Low',5:'High'}[Math.round(v)]||''), font:{size:10}, color:'#bbb' }
+            }
+          },
+          plugins: {
+            legend: { display:false },
+            tooltip: {
+              displayColors: false,
+              callbacks: {
+                title: () => '',
+                label: ctx => '  ' + SECTOR_NAMES[ctx.raw.n]
+              }
+            },
+            datalabels: {
+              color: '#fff',
+              anchor: 'center',
+              align: 'center',
+              formatter: val => val.n,
+              font: { size:9.5, weight:'700', family:"'Inter',sans-serif" },
+              padding: 0
+            }
+          }
+        }
+      });
+    }
+  })();
+  </script>
+  <script src="js/main.js"></script>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
