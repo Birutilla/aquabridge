@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T15:39:27Z",
+  "updated": "2026-05-28T15:50:41Z",
   "articles": [
     {
       "title": {
@@ -18,11 +18,11 @@
       "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
-        "es": "Tecnología",
+        "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 6,
+      "score": 7,
       "cross_source": false
     },
     {
@@ -42,7 +42,7 @@
       "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
-        "es": "Tecnología",
+        "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
@@ -62,7 +62,7 @@
         "en": "The PTI Sustainable Salmon Industry brought together public, private and academic actors in Puerto Montt to project new lines of work aimed at strengthening the sustainability, competitiveness and territorial impact of salmon farming in the Los Lagos Region. The entry PTI Sustainable Salmon Industry projects new strategic stage was first published in Mundoacuicola.",
         "no": "PTI Sustainable Salmon Industry samlet offentlige, private og akademiske aktører i Puerto Montt for å projisere nye arbeidslinjer med sikte på å styrke bærekraften, konkurranseevnen og territorielle virkningen av lakseoppdrett i Los Lagos-regionen. Oppføringen PTI Sustainable Salmon Industry projects new strategisk stadium ble først publisert i Mundoacuicola."
       },
-      "source": "Mundo Acuícola",
+      "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
       "category": "industry",
       "category_label": {
@@ -86,32 +86,8 @@
         "en": "More than 400 representatives of the salmon farming ecosystem have already confirmed their participation in the meeting that will take place this Thursday, May 28 in Puerto Montt. The day will bring together national and regional authorities, union leaders, main executives of production and supplier companies, researchers, academia and historical protagonists of the sector, in a program aimed at highlighting the past, present and future of Chilean salmon farming. The entry Today commemorates 50 years of Chilean salmon farming with a focus on history, recognition and future was first published in Mundoacuicola.",
         "no": "Mer enn 400 representanter for lakseoppdrettsøkosystemet har allerede bekreftet sin deltakelse på møtet som finner sted torsdag 28. mai i Puerto Montt. Dagen vil samle nasjonale og regionale myndigheter, fagforeningsledere, hovedledere i produksjons- og leverandørbedrifter, forskere, akademia og historiske hovedpersoner i sektoren, i et program som tar sikte på å synliggjøre fortiden, nåtiden og fremtiden for chilensk lakseoppdrett. Oppslaget Today commemorates 50 år med chilensk lakseoppdrett med fokus på historie, anerkjennelse og fremtid ble først publisert i Mundoacuicola."
       },
-      "source": "Mundo Acuícola",
+      "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Investigador chileno expone en principal simposio mundial de nutrición de peces",
-        "en": "Chilean researcher presents at the main world symposium on fish nutrition",
-        "no": "Chilensk forsker presenterer på verdens største symposium om fiskeernæring"
-      },
-      "url": "https://www.aqua.cl/investigador-chileno-expone-en-principal-simposio-mundial-de-nutricion-de-peces/",
-      "date": "Thu, 28 May 2026 10:42:00 +0000",
-      "summary": {
-        "es": "El Dr. Jurij Wacyk, investigador del Center for Antimicrobial Stewardship in Aquaculture (CASA) y del Center for Research and Innovation in Aquaculture (CRIA), participó en el 22nd International Symposium on Fish Nutrition and Feeding (ISFNF 2026), realizado entre el 18 y el 21 de mayo en el Darwin Convention Centre, en Darwin, Australia. Considerado uno de los encuentros científicos más relevantes a nivel internacional en nutrición y alimentación de peces, el simposio reunió a investigadores, especialistas y representantes de la industria acuícola de distintos países para compartir avances científicos y fortalecer la colaboración internacional en torno a los desafíos de la acuicultura. En e",
-        "en": "Dr. Jurij Wacyk, researcher at the Center for Antimicrobial Stewardship in Aquaculture (CASA) and the Center for Research and Innovation in Aquaculture (CRIA), participated in the 22nd International Symposium on Fish Nutrition and Feeding (ISFNF 2026), held between May 18 and 21 at the Darwin Convention Centre, in Darwin, Australia. Considered one of the most relevant international scientific meetings on fish nutrition and feeding, the symposium brought together researchers, specialists and representatives of the aquaculture industry from different countries to share scientific advances and strengthen international collaboration around the challenges of aquaculture. Jan",
-        "no": "Dr. Jurij Wacyk, forsker ved Center for Antimicrobial Stewardship in Aquaculture (CASA) og Center for Research and Innovation in Aquaculture (CRIA), deltok på det 22. internasjonale symposiumet om fiskernæring og fôring (ISFNF 2026), som ble holdt mellom 18. og 21. mai på Darwin Convention Centre, i Darwin, Australia. Ansett som et av de mest relevante internasjonale vitenskapelige møtene om fiskeernæring og fôring, samlet symposiet forskere, spesialister og representanter for havbruksnæringen fra ulike land for å dele vitenskapelige fremskritt og styrke internasjonalt samarbeid rundt utfordringene ved havbruk. Jan"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -147,16 +123,16 @@
     },
     {
       "title": {
-        "es": "Mercado Blumar es reconocido por Sernapesca en aniversario de Sello Azul",
-        "en": "Mercado Blumar is recognized by Sernapesca on the Blue Seal anniversary",
-        "no": "Mercado Blumar er anerkjent av Sernapesca på Blue Seal-jubileet"
+        "es": "Investigador chileno expone en principal simposio mundial de nutrición de peces",
+        "en": "Chilean researcher presents at the main world symposium on fish nutrition",
+        "no": "Chilensk forsker presenterer på verdens største symposium om fiskeernæring"
       },
-      "url": "https://www.aqua.cl/mercado-blumar-es-reconocido-por-sernapesca-en-aniversario-de-sello-azul/",
-      "date": "Thu, 28 May 2026 10:48:00 +0000",
+      "url": "https://www.aqua.cl/investigador-chileno-expone-en-principal-simposio-mundial-de-nutricion-de-peces/",
+      "date": "Thu, 28 May 2026 10:42:00 +0000",
       "summary": {
-        "es": "En el marco de la conmemoración de los 10 años del programa Sello Azul en la región de Magallanes, Blumar y el Servicio Nacional de Pesca y Acuicultura (Sernapesca) realizaron una actividad conjunta en Mercado Blumar, espacio que fue reconocido por su compromiso con la comercialización responsable y la trazabilidad de productos del mar. El Sello Azul es una certificación otorgada por Sernapesca a establecimientos que acreditan el origen legal de los productos del mar que comercializan, promoviendo la pesca responsable y el consumo sustentable de recursos marinos. La instancia reunió a representantes de ambas organizaciones y relevó el trabajo colaborativo entre el sector público y privado pa",
-        "en": "As part of the commemoration of the 10 years of the Blue Seal program in the Magallanes region, Blumar and the National Fisheries and Aquaculture Service (Sernapesca) carried out a joint activity at Mercado Blumar, a space that was recognized for its commitment to responsible marketing and traceability of seafood products. The Blue Seal is a certification granted by Sernapesca to establishments that certify the legal origin of the seafood they market, promoting responsible fishing and the sustainable consumption of marine resources. The event brought together representatives of both organizations and highlighted the collaborative work between the public and private sectors to",
-        "no": "Som en del av markeringen av de 10 årene med Blue Seal-programmet i Magallanes-regionen, gjennomførte Blumar og National Fisheries and Aquaculture Service (Sernapesca) en felles aktivitet på Mercado Blumar, et område som ble anerkjent for sitt engasjement for ansvarlig markedsføring og sporbarhet av sjømatprodukter. Blue Seal er en sertifisering gitt av Sernapesca til virksomheter som sertifiserer den lovlige opprinnelsen til sjømaten de markedsfører, og fremmer ansvarlig fiske og bærekraftig forbruk av marine ressurser. Arrangementet samlet representanter for begge organisasjonene og fremhevet samarbeidet mellom offentlig og privat sektor"
+        "es": "El Dr. Jurij Wacyk, investigador del Center for Antimicrobial Stewardship in Aquaculture (CASA) y del Center for Research and Innovation in Aquaculture (CRIA), participó en el 22nd International Symposium on Fish Nutrition and Feeding (ISFNF 2026), realizado entre el 18 y el 21 de mayo en el Darwin Convention Centre, en Darwin, Australia. Considerado uno de los encuentros científicos más relevantes a nivel internacional en nutrición y alimentación de peces, el simposio reunió a investigadores, especialistas y representantes de la industria acuícola de distintos países para compartir avances científicos y fortalecer la colaboración internacional en torno a los desafíos de la acuicultura. En e",
+        "en": "Dr. Jurij Wacyk, researcher at the Center for Antimicrobial Stewardship in Aquaculture (CASA) and the Center for Research and Innovation in Aquaculture (CRIA), participated in the 22nd International Symposium on Fish Nutrition and Feeding (ISFNF 2026), held between May 18 and 21 at the Darwin Convention Centre, in Darwin, Australia. Considered one of the most relevant international scientific meetings on fish nutrition and feeding, the symposium brought together researchers, specialists and representatives of the aquaculture industry from different countries to share scientific advances and strengthen international collaboration around the challenges of aquaculture. Jan",
+        "no": "Dr. Jurij Wacyk, forsker ved Center for Antimicrobial Stewardship in Aquaculture (CASA) og Center for Research and Innovation in Aquaculture (CRIA), deltok på det 22. internasjonale symposiumet om fiskernæring og fôring (ISFNF 2026), som ble holdt mellom 18. og 21. mai på Darwin Convention Centre, i Darwin, Australia. Ansett som et av de mest relevante internasjonale vitenskapelige møtene om fiskeernæring og fôring, samlet symposiet forskere, spesialister og representanter for havbruksnæringen fra ulike land for å dele vitenskapelige fremskritt og styrke internasjonalt samarbeid rundt utfordringene ved havbruk. Jan"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -167,7 +143,31 @@
         "no": "Bransjenyheter"
       },
       "score": 12,
-      "cross_source": true
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Watermind proyecta expansión de soluciones predictivas para fortalecer eficiencia y gestión de riesgos en salmonicultura",
+        "en": "Watermind plans expansion of predictive solutions to strengthen efficiency and risk management in salmon farming",
+        "no": "Watermind planlegger utvidelse av prediktive løsninger for å styrke effektivitet og risikostyring i lakseoppdrett"
+      },
+      "url": "https://www.mundoacuicola.cl/new/watermind-proyecta-expansion-de-soluciones-predictivas-para-fortalecer-eficiencia-y-gestion-de-riesgos-en-salmonicultura/",
+      "date": "Wed, 27 May 2026 16:00:48 +0000",
+      "summary": {
+        "es": "La startup chilena, recientemente reconocida en el Salmon MAS Pitch 2026, presentó parte de sus avances durante el Blue Pitch de Blue Week realizado en Puerto Montt, destacando nuevas aplicaciones para anticipar floraciones algales nocivas, eventos de bajo oxígeno y optimizar operaciones en centros de cultivo. La entrada Watermind proyecta expansión de soluciones predictivas para fortalecer eficiencia y gestión de riesgos en salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "The Chilean startup, recently recognized at the Salmon MAS Pitch 2026, presented part of its advances during the Blue Week Blue Pitch held in Puerto Montt, highlighting new applications to anticipate harmful algal blooms, low oxygen events and optimize operations in farming centers. The entry Watermind projects expansion of predictive solutions to strengthen efficiency and risk management in salmon farming was first published in Mundoacuicola.",
+        "no": "Den chilenske oppstarten, som nylig ble anerkjent på Salmon MAS Pitch 2026, presenterte deler av sine fremskritt under Blue Week Blue Pitch som ble holdt i Puerto Montt, og fremhevet nye applikasjoner for å forutse skadelig algeoppblomstring, lave oksygenhendelser og optimalisere driften i oppdrettssentre. Oppføringen Watermind prosjekter utvidelse av prediktive løsninger for å styrke effektivitet og risikostyring i lakseoppdrett ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 11,
+      "cross_source": false
     },
     {
       "title": {
@@ -182,13 +182,13 @@
         "en": "SalmonChile valued the incorporation of the historic producing and exporting company, highlighting that its entry strengthens the unity of the sector and provides solid leadership in sustainability and technological innovation. The entry Invermar joins SalmonChile as a new associate was first published in Mundoacuicola.",
         "no": "SalmonChile verdsatte inkorporeringen av det historiske produserende og eksporterende selskapet, og fremhevet at dets inntreden styrker enheten i sektoren og gir solid lederskap innen bærekraft og teknologisk innovasjon. Oppføringen Invermar slutter seg til SalmonChile som en ny medarbeider ble først publisert i Mundoacuicola."
       },
-      "source": "Mundo Acuícola",
+      "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
-        "no": "Marked og næringsliv"
+        "no": "Marked og naringsliv"
       },
       "score": 12,
       "cross_source": true
@@ -206,13 +206,13 @@
         "en": "Camanchaca reported consolidated revenues of US$240 million during the first quarter of 2026, driven by higher sales in fishing, salmon and mussels, in a scenario marked by lower availability of horse mackerel and health challenges associated with SRS. The entry Camanchaca increases its income by 10% in T1 despite the crisis due to the availability of horse mackerel was published first in Mundoacuicola.",
         "no": "Camanchaca rapporterte konsoliderte inntekter på USD 240 millioner i første kvartal 2026, drevet av høyere salg innen fiske, laks og blåskjell, i et scenario preget av lavere tilgjengelighet av hestmakrell og helseutfordringer knyttet til SRS. Oppføringen Camanchaca øker inntekten med 10 % i T1 til tross for krisen på grunn av tilgjengeligheten av hestmakrell ble først publisert i Mundoacuicola."
       },
-      "source": "Mundo Acuícola",
+      "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
-        "no": "Marked og næringsliv"
+        "no": "Marked og naringsliv"
       },
       "score": 10,
       "cross_source": false
@@ -236,7 +236,7 @@
       "category_label": {
         "es": "Medioambiente",
         "en": "Environment & Sustainability",
-        "no": "Miljø og bærekraft"
+        "no": "Miljo og baerekraft"
       },
       "score": 13,
       "cross_source": true
@@ -260,7 +260,7 @@
       "category_label": {
         "es": "Medioambiente",
         "en": "Environment & Sustainability",
-        "no": "Miljø og bærekraft"
+        "no": "Miljo og baerekraft"
       },
       "score": 12,
       "cross_source": true
@@ -278,7 +278,7 @@
         "en": "The Undersecretariat of Fisheries and Aquaculture brought together authorities, artisanal fishing leaders, indigenous representatives, academics and productive actors in Puerto Montt to debate proposals for modifications to the Lafkenche Law and the governance challenges of the coastline. The entry Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt was first published in Mundoacuicola.",
         "no": "Undersekretariatet for fiskeri og akvakultur samlet myndigheter, håndverksfiskeledere, urfolksrepresentanter, akademikere og produktive aktører i Puerto Montt for å diskutere forslag til endringer i Lafkenche-loven og styringsutfordringene ved kystlinjen. Oppføringen Lafkenche Law: Productive sectors and Authorities addressed reforms in Puerto Montt ble først publisert i Mundoacuicola."
       },
-      "source": "Mundo Acuícola",
+      "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
       "category": "regulatory",
       "category_label": {
