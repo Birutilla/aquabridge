@@ -37,9 +37,30 @@
       letter-spacing: 0.08em;
       text-transform: uppercase;
       color: #fff;
-      background: var(--teal, #1A7BA4);
+      background: #8899aa;
       padding: 3px 10px;
       border-radius: 3px;
+    }
+    .news-cat {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 3px;
+    }
+    .news-cat-technology  { background: #E8F4FB; color: #1278A0; }
+    .news-cat-regulatory  { background: #FFF3E0; color: #B56A00; }
+    .news-cat-market      { background: #E8F5E9; color: #2E7D32; }
+    .news-cat-environment { background: #F3E5F5; color: #6A1B9A; }
+    .news-cat-industry    { background: #ECEFF1; color: #37474F; }
+    .news-cross-source {
+      display: inline-block;
+      font-size: 10px;
+      color: #999;
+      font-style: italic;
+      margin-left: 4px;
     }
     .news-date {
       font-size: 12px;
@@ -224,12 +245,20 @@
           const title   = (art.title   && art.title[lang])   || art.title.es   || '';
           const summary = (art.summary && art.summary[lang]) || art.summary.es || '';
           const date    = formatDate(art.date);
+          const catLabel = (art.category_label && art.category_label[lang])
+                           || (art.category_label && art.category_label.en) || '';
+          const catClass = 'news-cat news-cat-' + (art.category || 'industry');
+          const crossTag = art.cross_source
+            ? '<span class="news-cross-source">&#9679; ' + (lang === 'no' ? 'Flere kilder' : 'Multiple sources') + '</span>'
+            : '';
 
           return [
             '<article class="news-card">',
             '  <div class="news-meta">',
+            catLabel ? '    <span class="' + catClass + '">' + escHtml(catLabel) + '</span>' : '',
             '    <span class="news-source">' + escHtml(art.source) + '</span>',
-            date ? '    <span class="news-date">' + escHtml(date) + '</span>' : '',
+            date     ? '    <span class="news-date">' + escHtml(date) + '</span>' : '',
+            crossTag,
             '  </div>',
             '  <h3>' + escHtml(title) + '</h3>',
             summary ? '  <p>' + escHtml(summary) + '</p>' : '',
