@@ -5,8 +5,9 @@ Mon/Thu via scheduled task. Fetches news, classifies into 5 categories,
 boosts cross-source stories, applies quotas for balanced coverage,
 translates EN+NO, writes news-data.json, git pushes.
 
-Categories: technology | regulatory | market | environment | industry
-Quota: 3 tech · 2 regulatory · 2 market · 2 environment · 1 industry
+Display order: technology | industry | market | environment | regulatory
+Selection: min 2 tech · min 2 industry · min 2 market · max 2 env · max 2 regulatory
+Total: up to 12 articles
 
 pip install feedparser deep-translator beautifulsoup4 requests
 """
@@ -19,7 +20,7 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT   = SCRIPT_DIR.parent
 OUTPUT_JSON = SCRIPT_DIR / "news-data.json"
-MAX_ARTICLES = 10
+MAX_ARTICLES = 12
 
 SOURCES = [
     {"name":"mundoacuicola","label":"Mundo Acuícola","type":"rss",
@@ -31,8 +32,9 @@ SOURCES = [
 ]
 
 CATEGORIES = {
+    # min: guaranteed slots filled first; max: hard ceiling
     "technology": {
-        "label": "Technology", "quota": 3,
+        "label": "Technology", "min": 2, "max": 99,
         "pos": ["sensor","sensores","monitoreo","monitoring","tecnología","tecnologia",
                 "software","plataforma","platform","datos","digitalización","automatización",
                 "inteligencia artificial","machine learning","iot","oxígeno","oxigeno","co2",
@@ -43,19 +45,19 @@ CATEGORIES = {
                 "eficiencia alimentaria","alimentador","sistema","system","aqura","bioproc","biomarc","bioled"],
         "neg": ["fútbol","deporte","arte","receta","turismo","concurso"],
     },
-    "regulatory": {
-        "label": "Regulatory & Policy", "quota": 2,
-        "pos": ["ley","law","reglamento","regulation","regulación","sernapesca","subpesca",
-                "subsecretaría","gobierno","government","ministerio","president","presidenta",
-                "decreto","normativa","norma","fiscalización","concesión","concesiones",
-                "permiso","licencia","autorización","política","policy","ley de pesca",
-                "seremi","congreso","senado","diputados","tribunal","multa","sanción",
-                "reforma","reform","aprobó","promulgó","anunció","lafkenche",
-                "cambio legal","legal","diputado","ejecutivo","modifica","acuerdo político"],
-        "neg": ["fútbol","deporte","arte","receta","sello azul","certificación"],
+    "industry": {
+        "label": "Industry & General", "min": 2, "max": 99,
+        "pos": ["industria","industry","sector","gremio","salmonchile","sernapesca",
+                "aquasur","feria","evento","event","congreso","conference","simposio",
+                "acuicultura","aquaculture","salmonicultura","producción nacional",
+                "trabajadores","empleo","employment","región de los lagos","patagonia",
+                "puerto montt","puerto varas","chiloé","aysén","50 años","aniversario",
+                "informe","report","estudio","study","investigación","universidad",
+                "research","ciencia","science"],
+        "neg": ["fútbol","deporte","receta"],
     },
     "market": {
-        "label": "Market & Business", "quota": 2,
+        "label": "Market & Business", "min": 2, "max": 99,
         "pos": ["exportación","exportaciones","export","exports","precio","precios",
                 "price","mercado","market","demanda","demand","oferta","supply",
                 "producción","production","cosecha","harvest","toneladas","tonnes",
@@ -69,7 +71,7 @@ CATEGORIES = {
         "neg": ["fútbol","deporte","arte","receta"],
     },
     "environment": {
-        "label": "Environment & Sustainability", "quota": 2,
+        "label": "Environment & Sustainability", "min": 0, "max": 2,
         "pos": ["sostenibilidad","sustainability","sustentabilidad","medio ambiente",
                 "ambiental","fitoplancton","bloom","floración","marea roja","alga",
                 "floracion","algal bloom","mortalidad","mortality","escape","escapes",
@@ -82,20 +84,21 @@ CATEGORIES = {
                 "educación ambiental","abastecimiento sostenible","huella de carbono"],
         "neg": ["fútbol","deporte","receta"],
     },
-    "industry": {
-        "label": "Industry & General", "quota": 1,
-        "pos": ["industria","industry","sector","gremio","salmonchile","sernapesca",
-                "aquasur","feria","evento","event","congreso","conference","simposio",
-                "acuicultura","aquaculture","salmonicultura","producción nacional",
-                "trabajadores","empleo","employment","región de los lagos","patagonia",
-                "puerto montt","puerto varas","chiloé","aysén","50 años","aniversario",
-                "informe","report","estudio","study","investigación","universidad",
-                "research","ciencia","science"],
-        "neg": ["fútbol","deporte","receta"],
+    "regulatory": {
+        "label": "Regulatory & Policy", "min": 0, "max": 2,
+        "pos": ["ley","law","reglamento","regulation","regulación","sernapesca","subpesca",
+                "subsecretaría","gobierno","government","ministerio","president","presidenta",
+                "decreto","normativa","norma","fiscalización","concesión","concesiones",
+                "permiso","licencia","autorización","política","policy","ley de pesca",
+                "seremi","congreso","senado","diputados","tribunal","multa","sanción",
+                "reforma","reform","aprobó","promulgó","anunció","lafkenche",
+                "cambio legal","legal","diputado","ejecutivo","modifica","acuerdo político"],
+        "neg": ["fútbol","deporte","arte","receta","sello azul","certificación"],
     },
 }
 
-CATEGORY_ORDER = ["technology","regulatory","market","environment","industry"]
+# Display order on the news page
+CATEGORY_ORDER = ["technology","industry","market","environment","regulatory"]
 
 CATEGORY_LABELS = {
     "technology":  {"es":"Tecnología",     "en":"Technology",                 "no":"Teknologi"},
@@ -108,6 +111,34 @@ CATEGORY_LABELS = {
 STOPWORDS = {"de","del","la","el","los","las","en","un","una","y","a","que","se",
              "su","por","con","para","al","es","son","han","the","of","in","and",
              "to","for","is","are","has","its","into","from","this"}
+
+
+# ── Salmon relevance gate ──────────────────────────────────────────────────
+# An article MUST mention at least one of these to be considered at all.
+SALMON_REQUIRED = [
+    "salmón","salmon","salmonicultura","salmon farming","salmonero","salmonera",
+    "acuicultura","aquaculture","trucha","trout","coho","smolt","piscicultura",
+    "mowi","cermaq","camanchaca","multiexport","blumar","aquachile","ventisqueros",
+    "sernapesca","salmonchile","subpesca","salmones","loch duart","invermar",
+    "caligus","srs","piscirickettsia","sea lice","skretting","biomar","cargill",
+]
+
+# Explicit exclusion: these topics are never relevant even if other kws match
+EXCLUDED_TOPICS = [
+    "agroalimentario","agricultura ","ganadería","bovino","vacuno","avicultura",
+    "horticultura","viticultura","fruticultura","cereales","apicultura",
+    "forestal","silvicultura","contenido patrocinado","publicidad",
+]
+
+def is_salmon_relevant(article):
+    text = (article["title"] + " " + article["description_es"]).lower()
+    # Must contain at least one salmon/aquaculture term
+    if not any(kw in text for kw in SALMON_REQUIRED):
+        return False
+    # Must not be a clearly unrelated agri-food topic
+    if any(kw in text for kw in EXCLUDED_TOPICS):
+        return False
+    return True
 
 
 def fetch_rss(source):
@@ -140,6 +171,7 @@ def fetch_html_salmonexpert(source):
     try:
         import requests
         from bs4 import BeautifulSoup
+        from concurrent.futures import ThreadPoolExecutor, as_completed
     except ImportError:
         print("requests/bs4 not installed.", file=sys.stderr); return []
     print(f"  Fetching HTML: {source['url']}")
@@ -162,16 +194,61 @@ def fetch_html_salmonexpert(source):
             if parent:
                 h = parent.find(["h1","h2","h3"])
                 if h: title = h.get_text(strip=True)
-        desc = ""
-        parent = a.find_parent(["article","div","li"])
-        if parent:
-            p = parent.find("p")
-            if p: desc = p.get_text(strip=True)[:700]
         if title and len(title) > 10:
+            # Strip sponsored-content labels that bleed into titles
+            title = re.sub(r"^(Contenido Patrocinado|Patrocinado|Publicidad|Sponsored)\s*", "", title, flags=re.IGNORECASE).strip()
+            if not title or len(title) < 10:
+                continue
             articles.append({"title":title,"url":url,"date":"",
-                              "description_es":desc,"source":source["label"],
+                              "description_es":"","source":source["label"],
                               "source_id":source["name"]})
-    return articles[:40]
+
+    # Pre-filter by title salmon relevance so we only fetch pages that matter
+    salmon_terms = SALMON_REQUIRED  # already defined at module level
+    def title_is_salmon(art):
+        t = art["title"].lower()
+        return any(kw in t for kw in salmon_terms)
+
+    candidates = [a for a in articles if title_is_salmon(a)]
+    # Fall back to first 30 if pre-filter is too aggressive
+    if len(candidates) < 5:
+        candidates = articles[:30]
+    candidates = candidates[:25]
+
+    def fetch_desc(art):
+        """Fetch og:description for a single article. Returns (url, description)."""
+        try:
+            r = requests.get(art["url"], timeout=10,
+                             headers={"User-Agent":"Mozilla/5.0 (AquaBridgeNewsBot/2.0)"})
+            r.raise_for_status()
+            s = BeautifulSoup(r.text, "html.parser")
+            meta = (s.find("meta", attrs={"property":"og:description"}) or
+                    s.find("meta", attrs={"name":"description"}))
+            if meta and meta.get("content","").strip():
+                desc = meta["content"].strip()
+                desc = re.sub(r"^(Contenido Patrocinado|Patrocinado|Publicidad|Sponsored)\s*",
+                              "", desc, flags=re.IGNORECASE).strip()
+                return art["url"], desc[:700]
+        except Exception:
+            pass
+        return art["url"], ""
+
+    print(f"  Fetching descriptions for {len(candidates)} SalmonExpert articles (parallel)...")
+    desc_map = {}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = {pool.submit(fetch_desc, art): art for art in candidates}
+        for future in as_completed(futures):
+            url, desc = future.result()
+            if desc:
+                desc_map[url] = desc
+
+    for art in articles:
+        if art["url"] in desc_map:
+            art["description_es"] = desc_map[art["url"]]
+
+    fetched = sum(1 for a in articles if a["description_es"])
+    print(f"  → {len(articles)} articles found, {fetched} with descriptions")
+    return articles
 
 
 def classify_and_score(article):
@@ -198,43 +275,93 @@ def title_fingerprint(title):
 
 
 def apply_cross_source_boost(articles):
+    """Boost score for stories appearing on 2+ sources, then deduplicate.
+    When the same story appears on multiple sources, keep only the one with
+    the highest score (after boost) and discard the rest."""
     fps = [title_fingerprint(a["title"]) for a in articles]
+
+    # Step 1: mark cross-source articles and apply boost
     for i, art in enumerate(articles):
-        if not fps[i]: continue
+        if not fps[i]:
+            continue
         for j, other in enumerate(articles):
-            if i == j or other["source_id"] == art["source_id"]: continue
+            if i == j or other["source_id"] == art["source_id"]:
+                continue
             if len(fps[i] & fps[j]) >= 2:
                 art["cross_source"] = True
                 art["score"] += 4
                 break
-    return articles
+
+    # Step 2: deduplicate — for each cluster of near-duplicate articles,
+    # keep only the highest-scoring one
+    kept = []
+    discarded = set()
+    for i, art in enumerate(articles):
+        if i in discarded:
+            continue
+        cluster = [i]
+        for j in range(i + 1, len(articles)):
+            if j in discarded:
+                continue
+            if fps[i] and fps[j] and len(fps[i] & fps[j]) >= 2:
+                cluster.append(j)
+        if len(cluster) > 1:
+            # Keep the one with the highest score
+            best = max(cluster, key=lambda idx: articles[idx]["score"])
+            for idx in cluster:
+                if idx != best:
+                    discarded.add(idx)
+        kept.append(articles[i])
+
+    unique = [a for i, a in enumerate(articles) if i not in discarded]
+    removed = len(articles) - len(unique)
+    if removed:
+        print(f"  Deduplication: removed {removed} near-duplicate articles")
+    return unique
 
 
 def select_with_quotas(articles):
+    """
+    Selection strategy:
+      1. Fill minimums for tech / industry / market (2 each = 6 slots).
+      2. Fill remaining slots (up to MAX_ARTICLES=12) by score, but never
+         exceed the per-category max (env ≤ 2, regulatory ≤ 2; others unlimited).
+      3. Sort final list by CATEGORY_ORDER then score descending.
+    """
     by_cat = defaultdict(list)
     for art in articles:
         by_cat[art["category"]].append(art)
     for cat in by_cat:
         by_cat[cat].sort(key=lambda x: x["score"], reverse=True)
 
-    selected, seen = [], set()
-    for cat_key in CATEGORY_ORDER:
-        quota = CATEGORIES[cat_key]["quota"]
-        filled = 0
-        for art in by_cat.get(cat_key, []):
-            if filled >= quota: break
-            if art["url"] not in seen:
-                selected.append(art); seen.add(art["url"]); filled += 1
+    selected, seen, cat_count = [], set(), defaultdict(int)
 
+    # Pass 1: guarantee minimums for tech / industry / market
+    for cat_key in CATEGORY_ORDER:
+        min_q = CATEGORIES[cat_key]["min"]
+        for art in by_cat.get(cat_key, []):
+            if cat_count[cat_key] >= min_q: break
+            if art["url"] not in seen:
+                selected.append(art)
+                seen.add(art["url"])
+                cat_count[cat_key] += 1
+
+    # Pass 2: fill remaining slots by score, respecting per-category max
     remaining = MAX_ARTICLES - len(selected)
     if remaining > 0:
-        for art in sorted(articles, key=lambda x: x["score"], reverse=True):
+        pool = sorted(articles, key=lambda x: x["score"], reverse=True)
+        for art in pool:
             if remaining <= 0: break
-            if art["url"] not in seen:
-                selected.append(art); seen.add(art["url"]); remaining -= 1
+            if art["url"] in seen: continue
+            cat = art["category"]
+            if cat_count[cat] >= CATEGORIES[cat]["max"]: continue
+            selected.append(art)
+            seen.add(art["url"])
+            cat_count[cat] += 1
+            remaining -= 1
 
-    cat_rank = {k:i for i,k in enumerate(CATEGORY_ORDER)}
-    selected.sort(key=lambda x: (cat_rank.get(x["category"],99), -x["score"]))
+    cat_rank = {k: i for i, k in enumerate(CATEGORY_ORDER)}
+    selected.sort(key=lambda x: (cat_rank.get(x["category"], 99), -x["score"]))
     return selected[:MAX_ARTICLES]
 
 
@@ -285,6 +412,11 @@ def main():
         art["score"] = score
         art["cross_source"] = False
 
+    # 2b. Salmon relevance gate
+    before = len(all_articles)
+    all_articles = [a for a in all_articles if is_salmon_relevant(a)]
+    print(f"  Salmon gate: {before - len(all_articles)} articles removed, {len(all_articles)} remain")
+
     # 3. Cross-source boost
     all_articles = apply_cross_source_boost(all_articles)
     boosted = sum(1 for a in all_articles if a["cross_source"])
@@ -295,8 +427,9 @@ def main():
     for cat_key in CATEGORY_ORDER:
         pool = sorted([a for a in all_articles if a["category"]==cat_key],
                       key=lambda x: x["score"], reverse=True)
-        quota = CATEGORIES[cat_key]["quota"]
-        print(f"  {CATEGORIES[cat_key]['label']:32s} {len(pool):3d} articles  (quota:{quota})")
+        mn = CATEGORIES[cat_key]["min"]; mx = CATEGORIES[cat_key]["max"]
+        limit_str = f"min:{mn}" if mx == 99 else f"max:{mx}"
+        print(f"  {CATEGORIES[cat_key]['label']:32s} {len(pool):3d} articles  ({limit_str})")
         for a in pool[:3]:
             cross = " [CROSS]" if a["cross_source"] else ""
             print(f"      [{a['score']:+d}]{cross} {a['title'][:65]}")

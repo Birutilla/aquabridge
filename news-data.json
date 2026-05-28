@@ -1,13 +1,37 @@
 {
-  "updated": "2026-05-28T15:03:54Z",
+  "updated": "2026-05-28T15:39:27Z",
   "articles": [
     {
       "title": {
-        "es": "BioProc proyecta su tecnología Aqura hacia la salmonicultura chilena",
-        "en": "BioProc projects its Aqura technology towards Chilean salmon farming",
-        "no": "BioProc projiserer sin Aqura-teknologi mot chilensk lakseoppdrett"
+        "es": "Control inteligente del oxígeno: cómo anticiparse a eventos críticos en salmonicultura",
+        "en": "Intelligent oxygen control: how to anticipate critical events in salmon farming",
+        "no": "Intelligent oksygenkontroll: hvordan forutse kritiske hendelser i lakseoppdrett"
       },
-      "url": "https://www.salmonexpert.cl/aqura-biofiltracion-bioproc/bioproc-proyecta-su-tecnologia-aqura-hacia-la-salmonicultura-chilena/2125716",
+      "url": "https://www.salmonexpert.cl/cpi-cpi-equipment-oxigenacion/control-inteligente-del-oxigeno-como-anticiparse-a-eventos-criticos-en-salmonicultura/2123167",
+      "date": "",
+      "summary": {
+        "es": "El sistema de CPI Equipment permite programar rutinas automatizadas de oxigenación vinculadas a los horarios de alimentación. Esto significa que la inyección de oxígeno puede iniciarse de forma anticipada.",
+        "en": "The CPI Equipment system allows you to program automated oxygenation routines linked to feeding schedules. This means that oxygen injection can be started early.",
+        "no": "CPI Equipment-systemet lar deg programmere automatiserte oksygeneringsrutiner knyttet til fôringsplaner. Dette betyr at oksygeninjeksjon kan startes tidlig."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnología",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 6,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Tecnología, biotecnología y energía marcarán nueva edición de Salmonexpert Seminars",
+        "en": "Technology, biotechnology and energy will mark the new edition of Salmonexpert Seminars",
+        "no": "Teknologi, bioteknologi og energi vil prege den nye utgaven av Salmonexpert Seminars"
+      },
+      "url": "https://www.salmonexpert.cl/eficiencia-energetica-inteligencia-artificial-salmonexpert-seminars/tecnologia-biotecnologia-y-energia-marcaran-nueva-edicion-de-salmonexpert-seminars/2123245",
       "date": "",
       "summary": {
         "es": "",
@@ -22,152 +46,8 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 10,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Ley Lafkenche: sectores productivos y autoridades abordaron reformas en Puerto Montt",
-        "en": "Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt",
-        "no": "Lafkenche Law: produktive sektorer og myndigheter tok for seg reformer i Puerto Montt"
-      },
-      "url": "https://www.mundoacuicola.cl/new/ley-lafkenche-sectores-productivos-y-autoridades-abordaron-reformas-en-puerto-montt/",
-      "date": "Wed, 27 May 2026 17:08:13 +0000",
-      "summary": {
-        "es": "La Subsecretaría de Pesca y Acuicultura reunió en Puerto Montt a autoridades, dirigentes de la pesca artesanal, representantes indígenas, académicos y actores productivos para debatir propuestas de modificación a la Ley Lafkenche y los desafíos de gobernanza del borde costero. La entrada Ley Lafkenche: sectores productivos y autoridades abordaron reformas en Puerto Montt se publicó primero en Mundoacuicola .",
-        "en": "The Undersecretariat of Fisheries and Aquaculture brought together authorities, artisanal fishing leaders, indigenous representatives, academics and productive actors in Puerto Montt to debate proposals for modifications to the Lafkenche Law and the governance challenges of the coastline. The entry Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt was first published in Mundoacuicola.",
-        "no": "Undersekretariatet for fiskeri og akvakultur samlet myndigheter, håndverksfiskeledere, urfolksrepresentanter, akademikere og produktive aktører i Puerto Montt for å diskutere forslag til endringer i Lafkenche-loven og styringsutfordringene ved kystlinjen. Oppføringen Lafkenche Law: Productive sectors and Authorities addressed reforms in Puerto Montt ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuícola",
-      "source_id": "mundoacuicola",
-      "category": "regulatory",
-      "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
-      },
-      "score": 12,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Diputado Bernales exige al Ejecutivo acelerar la modificación de la Ley Lafkenche",
-        "en": "Representative Bernales demands that the Executive accelerate the modification of the Lafkenche Law",
-        "no": "Representanten Bernales krever at administrasjonen fremskynder endringen av Lafkenche-loven"
-      },
-      "url": "https://www.aqua.cl/diputado-bernales-exige-al-ejecutivo-acelerar-la-modificacion-de-la-ley-lafkenche/",
-      "date": "Thu, 28 May 2026 10:49:00 +0000",
-      "summary": {
-        "es": "El diputado de la región de Los Lagos, Alejandro Bernales, exigió cambios urgentes a la Ley Lafkenche por falta de avances concretos. Los pescadores y vecinos del borde costero de la región de Los Lagos llevan años asistiendo a reuniones, mesas de trabajo y seminarios que siempre arrojan las mismas conclusiones sin ningún resultado concreto. Así lo planteó el diputado por el Distrito 26, Alejandro Bernales, quien exigió al Ejecutivo iniciar de inmediato los procesos necesarios para modificar la Ley Lafkenche , incluyendo la consulta indígena y el ingreso de proyectos a la Cámara de Diputados. «El insumo que ha entregado la región de Los Lagos es fuerte y claro: hay que hacer una modificación",
-        "en": "The deputy of the Los Lagos region, Alejandro Bernales, demanded urgent changes to the Lafkenche Law due to lack of concrete progress. Fishermen and residents of the coastal area of ​​the Los Lagos region have been attending meetings, workshops and seminars for years that always yield the same conclusions without any concrete results. This was stated by the representative for District 26, Alejandro Bernales, who demanded that the Executive immediately begin the necessary processes to modify the Lafkenche Law, including indigenous consultation and the submission of projects to the Chamber of Deputies. «The input that the Los Lagos region has provided is strong and clear: a modification must be made",
-        "no": "Stedfortrederen for Los Lagos-regionen, Alejandro Bernales, krevde hasteendringer i Lafkenche-loven på grunn av mangel på konkret fremgang. Fiskere og innbyggere i kystområdet i Los Lagos-regionen har deltatt på møter, workshops og seminarer i årevis som alltid gir de samme konklusjonene uten noen konkrete resultater. Dette ble uttalt av representanten for distrikt 26, Alejandro Bernales, som krevde at den utøvende ledelsen umiddelbart skulle starte de nødvendige prosessene for å endre Lafkenche-loven, inkludert urfolkskonsultasjon og innsending av prosjekter til Deputertkammeret. «Innspillet som Los Lagos-regionen har gitt er sterkt og tydelig: en modifikasjon må gjøres"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "regulatory",
-      "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
-      },
-      "score": 12,
+      "score": 4,
       "cross_source": false
-    },
-    {
-      "title": {
-        "es": "Invermar se incorpora como nuevo asociado a SalmonChile",
-        "en": "Invermar joins SalmonChile as a new associate",
-        "no": "Invermar slutter seg til SalmonChile som en ny medarbeider"
-      },
-      "url": "https://www.mundoacuicola.cl/new/invermar-se-incorpora-como-nuevo-asociado-a-salmonchile/",
-      "date": "Wed, 27 May 2026 16:12:14 +0000",
-      "summary": {
-        "es": "SalmonChile valoró la incorporación de la histórica empresa productora y exportadora, destacando que su ingreso fortalece la unidad del sector y aporta un sólido liderazgo en sostenibilidad e innovación tecnológica. La entrada Invermar se incorpora como nuevo asociado a SalmonChile se publicó primero en Mundoacuicola .",
-        "en": "SalmonChile valued the incorporation of the historic producing and exporting company, highlighting that its entry strengthens the unity of the sector and provides solid leadership in sustainability and technological innovation. The entry Invermar joins SalmonChile as a new associate was first published in Mundoacuicola.",
-        "no": "SalmonChile verdsatte inkorporeringen av det historiske produserende og eksporterende selskapet, og fremhevet at dets inntreden styrker enheten i sektoren og gir solid lederskap innen bærekraft og teknologisk innovasjon. Oppføringen Invermar slutter seg til SalmonChile som en ny medarbeider ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuícola",
-      "source_id": "mundoacuicola",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og næringsliv"
-      },
-      "score": 12,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Camanchaca aumenta 10% sus ingresos en T1 pese a crisis por disponibilidad de jurel",
-        "en": "Camanchaca increases its income in T1 by 10% despite the crisis due to the availability of horse mackerel",
-        "no": "Camanchaca øker inntekten i T1 med 10 % til tross for krisen på grunn av tilgjengeligheten av hestmakrell"
-      },
-      "url": "https://www.mundoacuicola.cl/new/camanchaca-aumenta-10-sus-ingresos-en-t1-pese-a-crisis-por-disponibilidad-de-jurel/",
-      "date": "Wed, 27 May 2026 13:28:13 +0000",
-      "summary": {
-        "es": "Camanchaca reportó ingresos consolidados por US$240 millones durante el primer trimestre de 2026, impulsados por mayores ventas en pesca, salmones y mejillones, en un escenario marcado por menor disponibilidad de jurel y desafíos sanitarios asociados al SRS. La entrada Camanchaca aumenta 10% sus ingresos en T1 pese a crisis por disponibilidad de jurel se publicó primero en Mundoacuicola .",
-        "en": "Camanchaca reported consolidated revenues of US$240 million during the first quarter of 2026, driven by higher sales in fishing, salmon and mussels, in a scenario marked by lower availability of horse mackerel and health challenges associated with SRS. The entry Camanchaca increases its income by 10% in T1 despite the crisis due to the availability of horse mackerel was published first in Mundoacuicola.",
-        "no": "Camanchaca rapporterte konsoliderte inntekter på USD 240 millioner i første kvartal 2026, drevet av høyere salg innen fiske, laks og blåskjell, i et scenario preget av lavere tilgjengelighet av hestmakrell og helseutfordringer knyttet til SRS. Oppføringen Camanchaca øker inntekten med 10 % i T1 til tross for krisen på grunn av tilgjengeligheten av hestmakrell ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuícola",
-      "source_id": "mundoacuicola",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og næringsliv"
-      },
-      "score": 10,
-      "cross_source": false
-    },
-    {
-      "title": {
-        "es": "Skretting publica Reporte de Impacto 2025 con avances en abastecimiento responsable e innovación",
-        "en": "Skretting publishes 2025 Impact Report with advances in responsible sourcing and innovation",
-        "no": "Skretting publiserer 2025 Impact Report med fremskritt innen ansvarlig innkjøp og innovasjon"
-      },
-      "url": "https://www.aqua.cl/skretting-publica-reporte-de-impacto-2025-con-avances-en-abastecimiento-responsable-e-innovacion/",
-      "date": "Thu, 28 May 2026 10:45:00 +0000",
-      "summary": {
-        "es": "Skretting anunció el lanzamiento de su Reporte de Impacto 2025, documento que detalla los principales avances alcanzados por la compañía en materias de sostenibilidad, abastecimiento responsable, acción climática, innovación y desarrollo de la acuicultura. El propósito de Skretting es “Alimentar el Futuro” y, frente a una población mundial proyectada en 10 mil millones de personas para 2050, la compañía busca fortalecer su aporte a la seguridad alimentaria global de manera sostenible y responsable. El reporte profundiza en el desempeño de la empresa en áreas estratégicas como ingredientes, clima y medioambiente, buena ciudadanía, medios de vida y bienestar animal. Además, complementa el info",
-        "en": "Skretting announced the launch of its 2025 Impact Report, a document that details the main advances made by the company in sustainability, responsible sourcing, climate action, innovation and aquaculture development. Skretting's purpose is to “Feed the Future” and, facing a world population projected at 10 billion people by 2050, the company seeks to strengthen its contribution to global food security in a sustainable and responsible manner. The report delves into the company's performance in strategic areas such as ingredients, climate and environment, good citizenship, livelihoods and animal welfare. In addition, it complements the information",
-        "no": "Skretting annonserte lanseringen av sin 2025 Impact Report, et dokument som beskriver de viktigste fremskrittene selskapet har gjort innen bærekraft, ansvarlig innkjøp, klimatiltak, innovasjon og havbruksutvikling. Skrettings formål er å «føde fremtiden», og overfor en verdensbefolkning anslått til 10 milliarder mennesker innen 2050, søker selskapet å styrke sitt bidrag til global matsikkerhet på en bærekraftig og ansvarlig måte. Rapporten fordyper selskapets prestasjoner på strategiske områder som ingredienser, klima og miljø, godt medborgerskap, levebrød og dyrevelferd. I tillegg utfyller den informasjonen"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljø og bærekraft"
-      },
-      "score": 12,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Ventisqueros impulsa proyectos de educación ambiental en escuelas de Quemchi",
-        "en": "Ventisqueros promotes environmental education projects in Quemchi schools",
-        "no": "Ventisqueros fremmer miljøutdanningsprosjekter i Quemchi-skoler"
-      },
-      "url": "https://www.aqua.cl/ventisqueros-impulsa-proyectos-de-educacion-ambiental-en-escuelas-de-quemchi/",
-      "date": "Thu, 28 May 2026 10:47:00 +0000",
-      "summary": {
-        "es": "Ventisqueros realizó una nueva jornada de entrega de fondos de su programa Escuelas Sustentables, iniciativa orientada a fortalecer proyectos medioambientales impulsados por establecimientos educacionales de las comunas donde la compañía mantiene operaciones. Tras iniciar las premiaciones en Hualaihué, la empresa se trasladó hasta Quemchi para concretar la entrega de recursos a nuevas comunidades educativas participantes del programa. Escuelas de Quemchi desarrollarán proyectos de sostenibilidad En esta edición, los fondos fueron adjudicados a la Escuela Santa Ana de Quemchi, el Liceo Bicentenario de Quemchi y la Escuela Huite, establecimientos que implementarán iniciativas relacionadas con ",
-        "en": "Ventisqueros held a new day to deliver funds from its Sustainable Schools program, an initiative aimed at strengthening environmental projects promoted by educational establishments in the communities where the company maintains operations. After starting the awards in Hualaihué, the company moved to Quemchi to deliver resources to new educational communities participating in the program. Quemchi schools will develop sustainability projects In this edition, the funds were awarded to the Santa Ana School of Quemchi, the Liceo Bicentenario de Quemchi and the Huite School, establishments that will implement initiatives related to",
-        "no": "Ventisqueros holdt en ny dag for å levere midler fra sitt Sustainable Schools-program, et initiativ som tar sikte på å styrke miljøprosjekter fremmet av utdanningsinstitusjoner i lokalsamfunnene der selskapet har virksomhet. Etter å ha startet prisene i Hualaihué, flyttet selskapet til Quemchi for å levere ressurser til nye utdanningsmiljøer som deltar i programmet. Quemchi-skoler skal utvikle bærekraftsprosjekter I denne utgaven ble midlene tildelt Santa Ana-skolen i Quemchi, Liceo Bicentenario de Quemchi og Huite-skolen, etablissementer som skal gjennomføre initiativer knyttet til"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljø og bærekraft"
-      },
-      "score": 11,
-      "cross_source": true
     },
     {
       "title": {
@@ -239,6 +119,174 @@
         "no": "Bransjenyheter"
       },
       "score": 14,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "Conferencia Internacional SRS 2026 abrirá inscripciones para evento en Puerto Varas",
+        "en": "SRS 2026 International Conference will open registration for the event in Puerto Varas",
+        "no": "SRS 2026 International Conference vil åpne registrering for arrangementet i Puerto Varas"
+      },
+      "url": "https://www.aqua.cl/conferencia-internacional-srs-2026-abrira-inscripciones-para-evento-en-puerto-varas/",
+      "date": "Thu, 28 May 2026 10:43:00 +0000",
+      "summary": {
+        "es": "El próximo 30 de mayo de 2026 se abrirán oficialmente las inscripciones para la Conferencia Internacional SRS 2026, encuentro que se desarrollará entre el 9 y el 11 de noviembre en la ciudad de Puerto Varas. El evento, organizado por el Centro Interdisciplinario para la Investigación Acuícola – Investigación Aplicada (CIA-INCAR²), se llevará a cabo en el Hotel Wyndham Petra y busca consolidarse como un espacio de discusión científica y técnica en torno a la piscirickettsiosis (SRS), una de las enfermedades más relevantes que afecta a la salmonicultura. El académico de la Universidad Andrés Bello y director alterno del CIA-INCAR², Rubén Avendaño Herrera, explicó que la conferencia busca trans",
+        "en": "On May 30, 2026, registration will officially open for the SRS 2026 International Conference, a meeting that will take place between November 9 and 11 in the city of Puerto Varas. The event, organized by the Interdisciplinary Center for Aquaculture Research – Applied Research (CIA-INCAR²), will take place at the Wyndham Petra Hotel and seeks to consolidate itself as a space for scientific and technical discussion around piscirickettsiosis (SRS), one of the most relevant diseases that affects salmon farming. The academic of the Andrés Bello University and alternate director of the CIA-INCAR², Rubén Avendaño Herrera, explained that the conference seeks to trans",
+        "no": "30. mai 2026 åpner registreringen offisielt for SRS 2026 International Conference, et møte som vil finne sted mellom 9. og 11. november i byen Puerto Varas. Arrangementet, organisert av Interdisciplinary Center for Aquaculture Research – Applied Research (CIA-INCAR²), vil finne sted på Wyndham Petra Hotel og søker å konsolidere seg selv som et rom for vitenskapelig og teknisk diskusjon rundt piscirickettsiosis (SRS), en av de mest relevante sykdommene som påvirker lakseoppdrett. Akademikeren ved Andrés Bello-universitetet og alternativ direktør for CIA-INCAR², Rubén Avendaño Herrera, forklarte at konferansen søker å overføre"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Mercado Blumar es reconocido por Sernapesca en aniversario de Sello Azul",
+        "en": "Mercado Blumar is recognized by Sernapesca on the Blue Seal anniversary",
+        "no": "Mercado Blumar er anerkjent av Sernapesca på Blue Seal-jubileet"
+      },
+      "url": "https://www.aqua.cl/mercado-blumar-es-reconocido-por-sernapesca-en-aniversario-de-sello-azul/",
+      "date": "Thu, 28 May 2026 10:48:00 +0000",
+      "summary": {
+        "es": "En el marco de la conmemoración de los 10 años del programa Sello Azul en la región de Magallanes, Blumar y el Servicio Nacional de Pesca y Acuicultura (Sernapesca) realizaron una actividad conjunta en Mercado Blumar, espacio que fue reconocido por su compromiso con la comercialización responsable y la trazabilidad de productos del mar. El Sello Azul es una certificación otorgada por Sernapesca a establecimientos que acreditan el origen legal de los productos del mar que comercializan, promoviendo la pesca responsable y el consumo sustentable de recursos marinos. La instancia reunió a representantes de ambas organizaciones y relevó el trabajo colaborativo entre el sector público y privado pa",
+        "en": "As part of the commemoration of the 10 years of the Blue Seal program in the Magallanes region, Blumar and the National Fisheries and Aquaculture Service (Sernapesca) carried out a joint activity at Mercado Blumar, a space that was recognized for its commitment to responsible marketing and traceability of seafood products. The Blue Seal is a certification granted by Sernapesca to establishments that certify the legal origin of the seafood they market, promoting responsible fishing and the sustainable consumption of marine resources. The event brought together representatives of both organizations and highlighted the collaborative work between the public and private sectors to",
+        "no": "Som en del av markeringen av de 10 årene med Blue Seal-programmet i Magallanes-regionen, gjennomførte Blumar og National Fisheries and Aquaculture Service (Sernapesca) en felles aktivitet på Mercado Blumar, et område som ble anerkjent for sitt engasjement for ansvarlig markedsføring og sporbarhet av sjømatprodukter. Blue Seal er en sertifisering gitt av Sernapesca til virksomheter som sertifiserer den lovlige opprinnelsen til sjømaten de markedsfører, og fremmer ansvarlig fiske og bærekraftig forbruk av marine ressurser. Arrangementet samlet representanter for begge organisasjonene og fremhevet samarbeidet mellom offentlig og privat sektor"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "Invermar se incorpora como nuevo asociado a SalmonChile",
+        "en": "Invermar joins SalmonChile as a new associate",
+        "no": "Invermar slutter seg til SalmonChile som en ny medarbeider"
+      },
+      "url": "https://www.mundoacuicola.cl/new/invermar-se-incorpora-como-nuevo-asociado-a-salmonchile/",
+      "date": "Wed, 27 May 2026 16:12:14 +0000",
+      "summary": {
+        "es": "SalmonChile valoró la incorporación de la histórica empresa productora y exportadora, destacando que su ingreso fortalece la unidad del sector y aporta un sólido liderazgo en sostenibilidad e innovación tecnológica. La entrada Invermar se incorpora como nuevo asociado a SalmonChile se publicó primero en Mundoacuicola .",
+        "en": "SalmonChile valued the incorporation of the historic producing and exporting company, highlighting that its entry strengthens the unity of the sector and provides solid leadership in sustainability and technological innovation. The entry Invermar joins SalmonChile as a new associate was first published in Mundoacuicola.",
+        "no": "SalmonChile verdsatte inkorporeringen av det historiske produserende og eksporterende selskapet, og fremhevet at dets inntreden styrker enheten i sektoren og gir solid lederskap innen bærekraft og teknologisk innovasjon. Oppføringen Invermar slutter seg til SalmonChile som en ny medarbeider ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuícola",
+      "source_id": "mundoacuicola",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og næringsliv"
+      },
+      "score": 12,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "Camanchaca aumenta 10% sus ingresos en T1 pese a crisis por disponibilidad de jurel",
+        "en": "Camanchaca increases its income in T1 by 10% despite the crisis due to the availability of horse mackerel",
+        "no": "Camanchaca øker inntekten i T1 med 10 % til tross for krisen på grunn av tilgjengeligheten av hestmakrell"
+      },
+      "url": "https://www.mundoacuicola.cl/new/camanchaca-aumenta-10-sus-ingresos-en-t1-pese-a-crisis-por-disponibilidad-de-jurel/",
+      "date": "Wed, 27 May 2026 13:28:13 +0000",
+      "summary": {
+        "es": "Camanchaca reportó ingresos consolidados por US$240 millones durante el primer trimestre de 2026, impulsados por mayores ventas en pesca, salmones y mejillones, en un escenario marcado por menor disponibilidad de jurel y desafíos sanitarios asociados al SRS. La entrada Camanchaca aumenta 10% sus ingresos en T1 pese a crisis por disponibilidad de jurel se publicó primero en Mundoacuicola .",
+        "en": "Camanchaca reported consolidated revenues of US$240 million during the first quarter of 2026, driven by higher sales in fishing, salmon and mussels, in a scenario marked by lower availability of horse mackerel and health challenges associated with SRS. The entry Camanchaca increases its income by 10% in T1 despite the crisis due to the availability of horse mackerel was published first in Mundoacuicola.",
+        "no": "Camanchaca rapporterte konsoliderte inntekter på USD 240 millioner i første kvartal 2026, drevet av høyere salg innen fiske, laks og blåskjell, i et scenario preget av lavere tilgjengelighet av hestmakrell og helseutfordringer knyttet til SRS. Oppføringen Camanchaca øker inntekten med 10 % i T1 til tross for krisen på grunn av tilgjengeligheten av hestmakrell ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuícola",
+      "source_id": "mundoacuicola",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og næringsliv"
+      },
+      "score": 10,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Ventisqueros entrega fondos a escuelas de Quemchi para educación ambiental y sostenibilidad",
+        "en": "Ventisqueros delivers funds to Quemchi schools for environmental education and sustainability",
+        "no": "Ventisqueros leverer midler til Quemchi-skoler for miljøundervisning og bærekraft"
+      },
+      "url": "https://www.salmonexpert.cl/escuelas-quemchi-ventisqueros/ventisqueros-entrega-fondos-a-escuelas-de-quemchi-para-educacion-ambiental-y-sostenibilidad/2129347",
+      "date": "",
+      "summary": {
+        "es": "A través de su programa Escuelas Sustentables, la compañía apoyará iniciativas de reciclaje, manejo de residuos, educación ambiental y recuperación de espacios desarrolladas por establecimientos educacionales.",
+        "en": "Through its Sustainable Schools program, the company will support recycling, waste management, environmental education and space recovery initiatives developed by educational establishments.",
+        "no": "Gjennom sitt Sustainable Schools-program vil selskapet støtte resirkulering, avfallshåndtering, miljøopplæring og romgjenvinningsinitiativer utviklet av utdanningsinstitusjoner."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljø og bærekraft"
+      },
+      "score": 13,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "Skretting publica Reporte de Impacto 2025 con avances en abastecimiento responsable e innovación",
+        "en": "Skretting publishes 2025 Impact Report with advances in responsible sourcing and innovation",
+        "no": "Skretting publiserer 2025 Impact Report med fremskritt innen ansvarlig innkjøp og innovasjon"
+      },
+      "url": "https://www.aqua.cl/skretting-publica-reporte-de-impacto-2025-con-avances-en-abastecimiento-responsable-e-innovacion/",
+      "date": "Thu, 28 May 2026 10:45:00 +0000",
+      "summary": {
+        "es": "Skretting anunció el lanzamiento de su Reporte de Impacto 2025, documento que detalla los principales avances alcanzados por la compañía en materias de sostenibilidad, abastecimiento responsable, acción climática, innovación y desarrollo de la acuicultura. El propósito de Skretting es “Alimentar el Futuro” y, frente a una población mundial proyectada en 10 mil millones de personas para 2050, la compañía busca fortalecer su aporte a la seguridad alimentaria global de manera sostenible y responsable. El reporte profundiza en el desempeño de la empresa en áreas estratégicas como ingredientes, clima y medioambiente, buena ciudadanía, medios de vida y bienestar animal. Además, complementa el info",
+        "en": "Skretting announced the launch of its 2025 Impact Report, a document that details the main advances made by the company in sustainability, responsible sourcing, climate action, innovation and aquaculture development. Skretting's purpose is to “Feed the Future” and, facing a world population projected at 10 billion people by 2050, the company seeks to strengthen its contribution to global food security in a sustainable and responsible manner. The report delves into the company's performance in strategic areas such as ingredients, climate and environment, good citizenship, livelihoods and animal welfare. In addition, it complements the information",
+        "no": "Skretting annonserte lanseringen av sin 2025 Impact Report, et dokument som beskriver de viktigste fremskrittene selskapet har gjort innen bærekraft, ansvarlig innkjøp, klimatiltak, innovasjon og havbruksutvikling. Skrettings formål er å «føde fremtiden», og overfor en verdensbefolkning anslått til 10 milliarder mennesker innen 2050, søker selskapet å styrke sitt bidrag til global matsikkerhet på en bærekraftig og ansvarlig måte. Rapporten fordyper selskapets prestasjoner på strategiske områder som ingredienser, klima og miljø, godt medborgerskap, levebrød og dyrevelferd. I tillegg utfyller den informasjonen"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljø og bærekraft"
+      },
+      "score": 12,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "Ley Lafkenche: sectores productivos y autoridades abordaron reformas en Puerto Montt",
+        "en": "Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt",
+        "no": "Lafkenche Law: produktive sektorer og myndigheter tok for seg reformer i Puerto Montt"
+      },
+      "url": "https://www.mundoacuicola.cl/new/ley-lafkenche-sectores-productivos-y-autoridades-abordaron-reformas-en-puerto-montt/",
+      "date": "Wed, 27 May 2026 17:08:13 +0000",
+      "summary": {
+        "es": "La Subsecretaría de Pesca y Acuicultura reunió en Puerto Montt a autoridades, dirigentes de la pesca artesanal, representantes indígenas, académicos y actores productivos para debatir propuestas de modificación a la Ley Lafkenche y los desafíos de gobernanza del borde costero. La entrada Ley Lafkenche: sectores productivos y autoridades abordaron reformas en Puerto Montt se publicó primero en Mundoacuicola .",
+        "en": "The Undersecretariat of Fisheries and Aquaculture brought together authorities, artisanal fishing leaders, indigenous representatives, academics and productive actors in Puerto Montt to debate proposals for modifications to the Lafkenche Law and the governance challenges of the coastline. The entry Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt was first published in Mundoacuicola.",
+        "no": "Undersekretariatet for fiskeri og akvakultur samlet myndigheter, håndverksfiskeledere, urfolksrepresentanter, akademikere og produktive aktører i Puerto Montt for å diskutere forslag til endringer i Lafkenche-loven og styringsutfordringene ved kystlinjen. Oppføringen Lafkenche Law: Productive sectors and Authorities addressed reforms in Puerto Montt ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuícola",
+      "source_id": "mundoacuicola",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
+      },
+      "score": 12,
       "cross_source": true
     }
   ]
