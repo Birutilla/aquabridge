@@ -48,7 +48,11 @@ CATEGORIES = {
                 "algoritmo","robot","dron","camara","deteccion","prediccion","predictivo",
                 "predictivas","eficiencia alimentaria","alimentador","sistema inteligente",
                 "watermind","aqura","bioproc","biomarc","bioled","cpi equipment","pro-oceanus",
-                "sensor dissolved","real-time","tiempo real","automatizado","automatica"],
+                "sensor dissolved","real-time","tiempo real","automatizado","automatica",
+                "startup","app","aplicacion","solucion digital","soluciones digitales",
+                "soluciones predictivas","solucion predictiva","gestion del riesgo",
+                "optimizar operaciones","optimizacion","anticipar eventos","pitch",
+                "inteligencia predictiva","alerta temprana","early warning"],
         "neg": ["futbol","deporte","arte","receta","turismo","concurso"],
     },
     "industry": {
@@ -493,6 +497,17 @@ def main():
             print("  No changes.")
         else:
             subprocess.run(["git", "-C", str(REPO_ROOT), "push"],
+                           check=True, capture_output=True)
+            print("  Pushed successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"  Git error: {e.stderr.decode() if e.stderr else e}", file=sys.stderr)
+
+    print("\nDone.\n")
+
+
+if __name__ == "__main__":
+    main()
+                           "-C", str(REPO_ROOT), "push"],
                            check=True, capture_output=True)
             print("  Pushed successfully.")
     except subprocess.CalledProcessError as e:
