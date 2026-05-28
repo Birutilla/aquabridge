@@ -2,7 +2,7 @@
 
 const T = {
   en: {
-    nav_home:"Home", nav_services:"Services", nav_technology:"Landscape", nav_about:"About", nav_contact:"Contact",
+    nav_home:"Home", nav_services:"Services", nav_technology:"Landscape", nav_about:"About", nav_news:"News", nav_contact:"Contact",
     // ── Landscape page ──────────────────────────────────────────────────────
     tech_pre:"Market intelligence",
     tech_h1:"The Chilean salmon technology landscape.",
@@ -73,6 +73,7 @@ const T = {
     mkt_s2_n:"1,035,618", mkt_s2_l:"Tonnes exported to 83 countries",
     mkt_s3_n:"USD 30B+", mkt_s3_l:"Projected global market value by 2030",
     mkt_s4_n:"300+", mkt_s4_l:"Active farm centers in Patagonia",
+    mkt_location:"AquaBridge is based in Puerto Varas, the operational center of Chile's salmon industry, placing our team at the heart of the market we represent.",
     vs_label:"Why AquaBridge",
     vs_h2:"The right way to enter this market.",
     vs_sub:"Two conventional alternatives are available to international companies entering Chile. Both have significant limitations.",
@@ -142,6 +143,11 @@ const T = {
     about_pre:"The company",
     about_h1:"Four partners. One shared commitment.",
     about_sub:"AquaBridge brings together four professionals with deep, complementary expertise across aquaculture technology, commercial leadership, legal and financial management, and international business development, united by a shared commitment to connecting the world's best aquaculture technology with Chile's salmon industry.",
+    about_location:"Based in Puerto Varas, Chile's salmon industry capital.",
+    news_pre:"Chile Salmon Industry",
+    news_h1:"Industry news.",
+    news_sub:"Curated updates from Chile's salmon farming sector \u2014 technology, regulation, market trends, and production news, updated twice weekly from leading industry sources.",
+    news_loading:"Loading latest news\u2026",
     model_h2:"A pure connector model.",
     model_p1:"AquaBridge does not distribute, resell, or hold inventory. We facilitate introductions and commercial relationships between international technology companies and Chilean salmon producers. We earn a monthly retainer and a 10% commission on confirmed sales.",
     model_p2:"This structure keeps us commercially aligned with our clients' success. Our fees grow when their revenues grow. There is no incentive for us to extend an engagement beyond the point where value is being created.",
@@ -165,7 +171,7 @@ const T = {
     ci_email_lbl:"Email", ci_base_lbl:"Base", ci_base:"Puerto Varas, Chile",
   },
   no: {
-    nav_home:"Hjem", nav_services:"Tjenester", nav_technology:"Oversikt", nav_about:"Om oss", nav_contact:"Kontakt",
+    nav_home:"Hjem", nav_services:"Tjenester", nav_technology:"Oversikt", nav_about:"Om oss", nav_news:"Nyheter", nav_contact:"Kontakt",
     // ── Landscape-siden ──────────────────────────────────────────────────────
     tech_pre:"Markedsinnsikt",
     tech_h1:"Det chilenske lakseteknologilandskapet.",
@@ -236,6 +242,7 @@ const T = {
     mkt_s2_n:"1 035 618", mkt_s2_l:"Tonn eksportert til 83 land",
     mkt_s3_n:"USD 30 mrd+", mkt_s3_l:"Forventet global markedsverdi innen 2030",
     mkt_s4_n:"300+", mkt_s4_l:"Aktive oppdrettsanlegg i Patagonia",
+    mkt_location:"AquaBridge er basert i Puerto Varas, det operasjonelle senteret for Chiles lakseindustri, og plasserer teamet vårt i hjertet av markedet vi representerer.",
     vs_label:"Hvorfor AquaBridge",
     vs_h2:"Den riktige måten å entre dette markedet på.",
     vs_sub:"To konvensjonelle alternativer er tilgjengelige for internasjonale selskaper som skal inn i Chile. Begge har vesentlige begrensninger.",
@@ -302,6 +309,11 @@ const T = {
     about_pre:"Selskapet",
     about_h1:"Fire partnere. Én felles forpliktelse.",
     about_sub:"AquaBridge samler fire fagfolk med dyp, komplementær ekspertise innen havbruksteknologi, kommersiell ledelse, juridisk og finansiell forvaltning og internasjonal forretningsutvikling, forent av en felles forpliktelse til å koble verdens beste havbruksteknologi med Chiles lakseindustri.",
+    about_location:"Basert i Puerto Varas, Chiles lakseindustrihovedstad.",
+    news_pre:"Chilensk lakseindustri",
+    news_h1:"Bransjenytt.",
+    news_sub:"Utvalgte oppdateringer fra den chilenske lakseoppdrettssektoren — teknologi, regulering, markedstrender og produksjonsnyheter, oppdatert to ganger i uken fra ledende bransjekilder.",
+    news_loading:"Laster siste nyheter…",
     model_h2:"En ren tilkoblingsmodell.",
     model_p1:"AquaBridge distribuerer ikke, videreselger ikke og holder ikke varelager. Vi tilrettelegger introduksjoner og kommersielle relasjoner mellom internasjonale teknologiselskaper og chilenske lakseprodusenter. Vi tjener en månedlig retainer og 10% provisjon på bekreftede salg.",
     model_p2:"Denne strukturen holder oss kommersielt justert med klientenes suksess. Honorærene våre vokser når inntektene deres vokser. Det er ingen incentiver for oss til å forlenge et engasjement utover det punktet der verdi skapes.",
@@ -347,6 +359,7 @@ function applyLang(lang) {
   });
   localStorage.setItem('ab_lang', lang);
   document.documentElement.lang = lang === 'no' ? 'no' : 'en';
+  document.dispatchEvent(new CustomEvent('ab:langchange', { detail: lang }));
 }
 
 function initNav() {

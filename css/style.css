@@ -251,3 +251,7 @@ section { padding: 76px 0; }
   h2 { font-size: 22px; }
   .stats-4 { grid-template-columns: 1fr; }
 }
+
+/* Location callouts */
+.mkt-location { color: rgba(255,255,255,0.72); font-size: 15px; margin-top: 36px; font-style: italic; }
+.hero-location { color: var(--teal); font-size: 13px; margin-top: 20px; margin-bottom: 0; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; }

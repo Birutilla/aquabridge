@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Latest news from Chile's salmon farming industry — curated updates on technology, regulation, production, and market trends, updated twice weekly.">
+  <meta name="keywords" content="Chile salmon industry news, aquaculture news Chile, salmon technology news, SalmonChile updates, salmon farming Chile">
+  <title>Industry News — AquaBridge | Chile Salmon Industry Updates</title>
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.aquabridge.cl/news.html">
+  <meta property="og:title" content="Industry News — AquaBridge | Chile Salmon Industry Updates">
+  <meta property="og:description" content="Latest news from Chile's salmon farming industry — curated technology, regulation, and market updates.">
+  <meta property="og:image" content="https://www.aquabridge.cl/images/salmon_bridge.png">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Industry News — AquaBridge | Chile Salmon Industry Updates">
+  <meta name="twitter:description" content="Latest news from Chile's salmon farming industry.">
+  <meta name="twitter:image" content="https://www.aquabridge.cl/images/salmon_bridge.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ── News-specific styles ─────────────────────────────────── */
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+    }
+    .news-source {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #fff;
+      background: var(--teal, #1A7BA4);
+      padding: 3px 10px;
+      border-radius: 3px;
+    }
+    .news-date {
+      font-size: 12px;
+      color: var(--muted-text, #888);
+    }
+    .news-card {
+      background: #fff;
+      border: 1px solid #D8E4EF;
+      border-radius: 6px;
+      padding: 28px 32px;
+      margin-bottom: 18px;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .news-card:hover {
+      box-shadow: 0 4px 20px rgba(27,58,92,0.10);
+      transform: translateY(-2px);
+    }
+    .news-card h3 {
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--navy, #1B3A5C);
+      margin: 0 0 10px;
+      line-height: 1.4;
+    }
+    .news-card p {
+      font-size: 14px;
+      color: #555;
+      line-height: 1.7;
+      margin: 0 0 16px;
+    }
+    .news-read-more {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--teal, #1A7BA4);
+      text-decoration: none;
+      letter-spacing: 0.02em;
+    }
+    .news-read-more:hover {
+      text-decoration: underline;
+    }
+    .news-updated {
+      font-size: 12px;
+      color: #999;
+      margin-bottom: 32px;
+      font-style: italic;
+    }
+    .news-loading {
+      padding: 60px 0;
+      text-align: center;
+      color: #888;
+      font-size: 15px;
+    }
+    .news-empty {
+      padding: 60px 0;
+      text-align: center;
+      color: #999;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="container">
+      <div class="nav-inner">
+        <a href="index.html" class="nav-logo">
+          <img src="images/logo.png" alt="AquaBridge" onerror="this.style.display='none'">
+          <span class="nav-logo-text">AQUABRIDGE</span>
+        </a>
+        <div class="nav-links">
+          <a href="index.html" data-i18n="nav_home">Home</a>
+          <a href="services.html" data-i18n="nav_services">Services</a>
+          <a href="technology.html" data-i18n="nav_technology">Landscape</a>
+          <a href="about.html" data-i18n="nav_about">About</a>
+          <a href="news.html" data-i18n="nav_news">News</a>
+          <a href="contact.html" class="nav-cta" data-i18n="nav_contact">Contact</a>
+          <div class="lang-toggle desktop">
+            <button class="lang-btn active" data-lang="en">EN</button>
+            <button class="lang-btn" data-lang="no">NO</button>
+          </div>
+        </div>
+        <button class="nav-hamburger" aria-label="Open menu"><span></span><span></span><span></span></button>
+      </div>
+      <div class="nav-mobile">
+        <a href="index.html" data-i18n="nav_home">Home</a>
+        <a href="services.html" data-i18n="nav_services">Services</a>
+        <a href="technology.html" data-i18n="nav_technology">Landscape</a>
+        <a href="about.html" data-i18n="nav_about">About</a>
+        <a href="news.html" data-i18n="nav_news">News</a>
+        <a href="contact.html" data-i18n="nav_contact">Contact</a>
+        <div class="lang-toggle"><button class="lang-btn active" data-lang="en">EN</button><button class="lang-btn" data-lang="no">NO</button></div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <div class="hero-light">
+    <div class="container">
+      <p class="hero-pre" data-i18n="news_pre">Chile Salmon Industry</p>
+      <h1 data-i18n="news_h1">Industry news.</h1>
+      <p class="hero-sub" data-i18n="news_sub">Curated updates from Chile's salmon farming sector — technology, regulation, market trends, and production news, updated twice weekly from leading industry sources.</p>
+    </div>
+  </div>
+
+  <!-- NEWS FEED -->
+  <section class="sec-white" style="padding-top:48px; padding-bottom:72px;">
+    <div class="container">
+      <div id="news-updated" class="news-updated"></div>
+      <div id="news-feed">
+        <div class="news-loading" data-i18n="news_loading">Loading latest news&hellip;</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <div class="cta-section">
+    <div class="container">
+      <h2 data-i18n="cta_h2">Planning to enter Chile?</h2>
+      <p data-i18n="cta_p">Let us tell you honestly whether your product is ready for this market, and who the right first customers would be.</p>
+      <a href="contact.html" class="btn btn-white" data-i18n="cta_btn">Start the conversation</a>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <div class="footer-logo"><img src="images/logo.png" alt="AquaBridge" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"><span class="footer-logo-text">AQUABRIDGE</span></div>
+          <p class="footer-tag" data-i18n="footer_tag">Global connectivity for the aquaculture industry.</p>
+        </div>
+        <nav class="footer-nav">
+          <a href="services.html" data-i18n="nav_services">Services</a>
+          <a href="technology.html" data-i18n="nav_technology">Landscape</a>
+          <a href="about.html" data-i18n="nav_about">About</a>
+          <a href="news.html" data-i18n="nav_news">News</a>
+          <a href="contact.html" data-i18n="nav_contact">Contact</a>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <p class="footer-copy" data-i18n="footer_copy">© 2026 AquaBridge Chile SpA. All rights reserved.</p>
+        <div class="lang-toggle"><button class="lang-btn active" data-lang="en">EN</button><button class="lang-btn" data-lang="no">NO</button></div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    // ── News renderer ──────────────────────────────────────────────────────
+    (function () {
+      const feed     = document.getElementById('news-feed');
+      const updated  = document.getElementById('news-updated');
+      let   newsData = null;
+
+      // Format an ISO date string into a readable local date
+      function formatDate(raw) {
+        if (!raw) return '';
+        try {
+          const d = new Date(raw);
+          if (isNaN(d)) return '';
+          return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+        } catch (e) {
+          return '';
+        }
+      }
+
+      // Render the feed using the current language
+      function renderNews(lang) {
+        if (!newsData) return;
+
+        // Updated timestamp
+        if (newsData.updated) {
+          const d = new Date(newsData.updated);
+          const label = lang === 'no' ? 'Sist oppdatert' : 'Last updated';
+          updated.textContent = label + ': ' + d.toLocaleDateString(
+            lang === 'no' ? 'nb-NO' : 'en-GB',
+            { day: 'numeric', month: 'long', year: 'numeric' }
+          );
+        }
+
+        const readMore = lang === 'no' ? 'Les hele artikkelen →' : 'Read full article →';
+
+        feed.innerHTML = newsData.articles.map(function (art) {
+          const title   = (art.title   && art.title[lang])   || art.title.es   || '';
+          const summary = (art.summary && art.summary[lang]) || art.summary.es || '';
+          const date    = formatDate(art.date);
+
+          return [
+            '<article class="news-card">',
+            '  <div class="news-meta">',
+            '    <span class="news-source">' + escHtml(art.source) + '</span>',
+            date ? '    <span class="news-date">' + escHtml(date) + '</span>' : '',
+            '  </div>',
+            '  <h3>' + escHtml(title) + '</h3>',
+            summary ? '  <p>' + escHtml(summary) + '</p>' : '',
+            '  <a href="' + escHtml(art.url) + '" class="news-read-more" target="_blank" rel="noopener noreferrer">' + readMore + '</a>',
+            '</article>',
+          ].join('\n');
+        }).join('\n');
+      }
+
+      function escHtml(str) {
+        return String(str)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;');
+      }
+
+      // Load JSON then render
+      fetch('news-data.json?v=' + Date.now())
+        .then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.json();
+        })
+        .then(function (data) {
+          newsData = data;
+          const lang = localStorage.getItem('ab_lang') || 'en';
+          renderNews(lang);
+        })
+        .catch(function (err) {
+          feed.innerHTML = '<div class="news-empty">News is currently unavailable. Please check back soon.</div>';
+          console.error('News fetch error:', err);
+        });
+
+      // Re-render when language changes (main.js fires a custom event)
+      document.addEventListener('ab:langchange', function (e) {
+        renderNews(e.detail);
+      });
+    })();
+  </script>
+</body>
+</html>
