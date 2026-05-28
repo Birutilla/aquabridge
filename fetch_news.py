@@ -507,14 +507,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-                           "-C", str(REPO_ROOT), "push"],
-                           check=True, capture_output=True)
-            print("  Pushed successfully.")
-    except subprocess.CalledProcessError as e:
-        print(f"  Git error: {e.stderr.decode() if e.stderr else e}", file=sys.stderr)
-
-    print("\nDone.\n")
-
-
-if __name__ == "__main__":
-    main()
