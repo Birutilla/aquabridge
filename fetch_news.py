@@ -43,7 +43,8 @@ CATEGORIES = {
                 "software","plataforma","platform","digitalizacion","automatizacion",
                 "inteligencia artificial","machine learning","iot","oxigeno","co2",
                 "tdg","gas disuelto","biomasa","biomass","caligus","piojo","sea lice",
-                "srs","piscirickettsia","vision artificial","computer vision","telemetria",
+                "srs","piscirickettsia","tenacibaculosis","tenacibaculum","autovacuna",
+                "vision artificial","computer vision","telemetria",
                 "innovacion","innovation","herramienta","equipo","equipment","dispositivo",
                 "algoritmo","robot","dron","camara","deteccion","prediccion","predictivo",
                 "predictivas","eficiencia alimentaria","alimentador","sistema inteligente",
@@ -130,6 +131,7 @@ SALMON_REQUIRED = [
     "mowi","cermaq","camanchaca","multiexport","blumar","aquachile","ventisqueros",
     "sernapesca","salmonchile","subpesca","salmones","loch duart","invermar",
     "caligus","srs","piscirickettsia","sea lice","skretting","biomar","cargill",
+    "tenacibaculosis","tenacibaculum",
 ]
 
 EXCLUDED_TOPICS = [
