@@ -51,8 +51,8 @@ p { font-size: 16px; line-height: 1.75; max-width: 700px; }
 .nav-links { display: flex; align-items: center; gap: 0; }
 .nav-links a { font-size: 14px; color: var(--dgray); padding: 8px 16px; border-bottom: 2px solid transparent; transition: color var(--t), border-color var(--t); white-space: nowrap; display: block; }
 .nav-links a:hover, .nav-links a.active { color: var(--navy); border-bottom-color: var(--teal); }
-.nav-links a.nav-cta { background: var(--navy); color: var(--white); border-radius: var(--r); margin-left: 12px; border-bottom: 2px solid transparent; padding: 8px 18px; }
-.nav-links a.nav-cta:hover { background: var(--teal); }
+.nav-links a.nav-cta { background: none; color: var(--dgray); border-radius: 0; margin-left: 0; }
+.nav-links a.nav-cta:hover { background: none; color: var(--navy); }
 .lang-toggle { display: flex; align-items: center; gap: 1px; margin-left: 20px; background: var(--lgray); border-radius: 20px; padding: 3px; border: 1px solid var(--mgray); flex-shrink: 0; }
 .lang-btn { background: none; border: none; cursor: pointer; font-size: 12px; font-weight: 600; color: var(--dgray); padding: 3px 9px; border-radius: 16px; transition: background var(--t), color var(--t); font-family: var(--font); letter-spacing: 0.04em; }
 .lang-btn.active { background: var(--navy); color: var(--white); }
