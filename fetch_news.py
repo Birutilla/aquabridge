@@ -33,6 +33,8 @@ SOURCES = [
      "url": "https://www.aqua.cl/feed/"},
     {"name": "salmonexpert", "label": "Salmon Expert", "type": "html",
      "url": "https://www.salmonexpert.cl/"},
+    {"name": "infosalmon", "label": "InfoSalmon", "type": "rss",
+     "url": "https://infosalmon.cl/feed/"},
 ]
 
 # All keywords written WITHOUT accents for consistent normalize() matching

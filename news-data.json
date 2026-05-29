@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-28T15:50:41Z",
+  "updated": "2026-05-29T12:00:00Z",
   "articles": [
+    {
+      "title": {
+        "es": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos",
+        "en": "At landmark 50th anniversary event, salmon industry calls for sustained investment in science and technology",
+        "no": "I historisk markering av 50 år med lakseoppdrett: industrien krever langsiktig satsing på forskning og teknologi"
+      },
+      "url": "https://www.salmonexpert.cl/50-aos-de-la-salmonicultura-consejo-del-salmon-salmonchile/en-masivo-evento-industria-salmonicultora-llama-a-impulsar-ciencia-y-tecnologia-para-nuevos-desafios/2130336",
+      "date": "2026-05-29T09:40:00.000Z",
+      "summary": {
+        "es": "En un masivo evento en Puerto Montt que reunió a cerca de 400 líderes de la industria, científicos y autoridades de gobierno para conmemorar los 50 años de la salmonicultura chilena, los expertos hicieron un llamado a sostener una inversión en ciencia y tecnología como condición para mantener la competitividad. El especialista Carlos Wurmann propuso invertir entre 0,5% y 0,75% del valor de las exportaciones en I+D durante al menos una década. Ministros del gobierno se comprometieron a reducir barreras regulatorias, mientras líderes de la industria subrayaron que la adopción tecnológica y marcos institucionales claros definirán la competitividad de la salmonicultura en las próximas décadas.",
+        "en": "At a major event in Puerto Montt marking 50 years of Chilean salmon farming, some 400 industry leaders, scientists, and government officials called for a sustained commitment to science and technology to secure the sector's future competitiveness. Expert Carlos Wurmann proposed that Chile invest 0.5–0.75% of salmon export revenue annually in R&D for at least a decade. Government ministers pledged to reduce regulatory barriers, while SalmonChile president Patricio Melero and other leaders emphasized that technology adoption and clear institutional frameworks will define Chile's position in global salmon markets over the coming decades.",
+        "no": "Under en stor markering i Puerto Montt av 50 år med chilensk lakseoppdrett samlet rundt 400 bransjeledere, forskere og myndighetspersoner, og oppfordret til langsiktig satsing på forskning og teknologi for å sikre sektorens fremtidige konkurranseevne. Ekspert Carlos Wurmann foreslo at Chile investerer 0,5–0,75 % av lakseksportinntektene i FoU over minst et tiår. Regjeringsministre lovet å redusere regulatoriske barrierer, mens SalmonChile-president Patricio Melero og andre ledere understreket at teknologiadopsjon og klare institusjonelle rammer vil definere Chiles posisjon i globale laksmarkeder i kommende tiår."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 17,
+      "cross_source": false
+    },
     {
       "title": {
         "es": "Control inteligente del oxígeno: cómo anticiparse a eventos críticos en salmonicultura",
