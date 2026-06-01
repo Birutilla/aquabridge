@@ -1,28 +1,28 @@
 {
-  "updated": "2026-05-29T12:00:00Z",
+  "updated": "2026-06-01T19:03:36Z",
   "articles": [
     {
       "title": {
-        "es": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos",
-        "en": "At landmark 50th anniversary event, salmon industry calls for sustained investment in science and technology",
-        "no": "I historisk markering av 50 år med lakseoppdrett: industrien krever langsiktig satsing på forskning og teknologi"
+        "es": "Startup\tWildsense fortalece desarrollo robótico aplicado al salmón",
+        "en": "Startup Wildsense strengthens robotic development applied to salmon",
+        "no": "Startup Wildsense styrker robotutvikling brukt på laks"
       },
-      "url": "https://www.salmonexpert.cl/50-aos-de-la-salmonicultura-consejo-del-salmon-salmonchile/en-masivo-evento-industria-salmonicultora-llama-a-impulsar-ciencia-y-tecnologia-para-nuevos-desafios/2130336",
-      "date": "2026-05-29T09:40:00.000Z",
+      "url": "https://www.salmonexpert.cl/biomasa-inteligencia-artificial-robotica-submarina/startup-wildsense-fortalece-desarrollo-robotico-aplicado-al-salmon/2129450",
+      "date": "",
       "summary": {
-        "es": "En un masivo evento en Puerto Montt que reunió a cerca de 400 líderes de la industria, científicos y autoridades de gobierno para conmemorar los 50 años de la salmonicultura chilena, los expertos hicieron un llamado a sostener una inversión en ciencia y tecnología como condición para mantener la competitividad. El especialista Carlos Wurmann propuso invertir entre 0,5% y 0,75% del valor de las exportaciones en I+D durante al menos una década. Ministros del gobierno se comprometieron a reducir barreras regulatorias, mientras líderes de la industria subrayaron que la adopción tecnológica y marcos institucionales claros definirán la competitividad de la salmonicultura en las próximas décadas.",
-        "en": "At a major event in Puerto Montt marking 50 years of Chilean salmon farming, some 400 industry leaders, scientists, and government officials called for a sustained commitment to science and technology to secure the sector's future competitiveness. Expert Carlos Wurmann proposed that Chile invest 0.5–0.75% of salmon export revenue annually in R&D for at least a decade. Government ministers pledged to reduce regulatory barriers, while SalmonChile president Patricio Melero and other leaders emphasized that technology adoption and clear institutional frameworks will define Chile's position in global salmon markets over the coming decades.",
-        "no": "Under en stor markering i Puerto Montt av 50 år med chilensk lakseoppdrett samlet rundt 400 bransjeledere, forskere og myndighetspersoner, og oppfordret til langsiktig satsing på forskning og teknologi for å sikre sektorens fremtidige konkurranseevne. Ekspert Carlos Wurmann foreslo at Chile investerer 0,5–0,75 % av lakseksportinntektene i FoU over minst et tiår. Regjeringsministre lovet å redusere regulatoriske barrierer, mens SalmonChile-president Patricio Melero og andre ledere understreket at teknologiadopsjon og klare institusjonelle rammer vil definere Chiles posisjon i globale laksmarkeder i kommende tiår."
+        "es": "Laspin offde la U. Técnica Federico Santa María, trabaja en biomasa, reparación de redes y monitoreo ambiental mediante IA, visión por computador y sensores submarinos aplicados a centros de cultivo.",
+        "en": "Laspin from the Federico Santa María Technical University, works in biomass, network repair and environmental monitoring through AI, computer vision and underwater sensors applied to cultivation centers.",
+        "no": "Laspin fra Federico Santa María tekniske universitet, jobber med biomasse, nettverksreparasjon og miljøovervåking gjennom AI, datasyn og undervannssensorer brukt på dyrkingssentre."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
-      "category": "industry",
+      "category": "technology",
       "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
       },
-      "score": 17,
+      "score": 12,
       "cross_source": false
     },
     {
@@ -51,115 +51,67 @@
     },
     {
       "title": {
-        "es": "Tecnología, biotecnología y energía marcarán nueva edición de Salmonexpert Seminars",
-        "en": "Technology, biotechnology and energy will mark the new edition of Salmonexpert Seminars",
-        "no": "Teknologi, bioteknologi og energi vil prege den nye utgaven av Salmonexpert Seminars"
+        "es": "Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena",
+        "en": "Mundo Acuícola organized in Puerto Montt the commemoration of the 50 years of Chilean salmon farming",
+        "no": "Mundo Acuícola arrangerte i Puerto Montt markeringen av de 50 årene med chilensk lakseoppdrett"
       },
-      "url": "https://www.salmonexpert.cl/eficiencia-energetica-inteligencia-artificial-salmonexpert-seminars/tecnologia-biotecnologia-y-energia-marcaran-nueva-edicion-de-salmonexpert-seminars/2123245",
+      "url": "https://www.mundoacuicola.cl/new/industria-salmonera-conmemoro-en-puerto-montt-cinco-decadas-de-desarrollo-innovacion-y-transformacion-del-sur-de-chile/",
+      "date": "Fri, 29 May 2026 20:15:07 +0000",
+      "summary": {
+        "es": "El evento reunió en Puerto Montt a más de 400 personas, entre autoridades, gremios, trabajadores, ejecutivos y actores históricos de la industria en una jornada marcada por reflexiones sobre trayectoria, innovación y desafíos futuros. La entrada Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena se publicó primero en Mundoacuicola .",
+        "en": "The event brought together more than 400 people in Puerto Montt, including authorities, unions, workers, executives and historical actors in the industry in a day marked by reflections on history, innovation and future challenges. The entry Mundo Acuícola organized the commemoration of 50 years of Chilean salmon farming in Puerto Montt was first published in Mundoacuicola.",
+        "no": "Arrangementet samlet mer enn 400 mennesker i Puerto Montt, inkludert myndigheter, fagforeninger, arbeidere, ledere og historiske aktører i bransjen i en dag preget av refleksjoner rundt historie, innovasjon og fremtidige utfordringer. Oppføringen Mundo Acuícola organiserte markeringen av 50 år med chilensk lakseoppdrett i Puerto Montt ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 22,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos",
+        "en": "In massive salmon industry event calls to promote science and technology for new challenges",
+        "no": "I massive oppfordringer fra lakseindustrien om å fremme vitenskap og teknologi for nye utfordringer"
+      },
+      "url": "https://www.salmonexpert.cl/50-aos-de-la-salmonicultura-consejo-del-salmon-salmonchile/en-masivo-evento-industria-salmonicultora-llama-a-impulsar-ciencia-y-tecnologia-para-nuevos-desafios/2130336",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "Durante la conmemoración de los 50 años del sector, expertos advirtieron sobre la necesidad de fortalecer innovación, gobernanza y competitividad en la acuicultura chilena.",
+        "en": "During the commemoration of the 50 years of the sector, experts warned about the need to strengthen innovation, governance and competitiveness in Chilean aquaculture.",
+        "no": "Under markeringen av sektorens 50 år advarte eksperter om behovet for å styrke innovasjon, styring og konkurranseevne i chilensk akvakultur."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
-      "category": "technology",
+      "category": "industry",
       "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 4,
+      "score": 15,
       "cross_source": false
     },
     {
       "title": {
-        "es": "PTI Industria Sostenible del Salmón proyecta nueva etapa estratégica",
-        "en": "PTI Sustainable Salmon Industry projects new strategic stage",
-        "no": "PTI Sustainable Salmon Industry prosjekterer ny strategisk fase"
+        "es": "Grupo Salmovac se integra a SalmonChile para potenciar la cadena de valor y logística acuícola en el sur austral",
+        "en": "Salmovac Group joins SalmonChile to enhance the aquaculture value chain and logistics in the southern austral",
+        "no": "Salmovac Group slutter seg til SalmonChile for å forbedre akvakulturverdikjeden og logistikken i det sørlige australske området"
       },
-      "url": "https://www.mundoacuicola.cl/new/pti-industria-sostenible-del-salmon-proyecta-nueva-etapa-estrategica/",
-      "date": "Wed, 27 May 2026 17:15:49 +0000",
+      "url": "https://infosalmon.cl/grupo-salmovac-nuevo-socio-salmonchile/",
+      "date": "Mon, 01 Jun 2026 17:50:33 +0000",
       "summary": {
-        "es": "El PTI Industria Sostenible del Salmón reunió en Puerto Montt a actores públicos, privados y académicos para proyectar nuevas líneas de trabajo orientadas a fortalecer la sostenibilidad, competitividad e impacto territorial de la salmonicultura en la Región de Los Lagos. La entrada PTI Industria Sostenible del Salmón proyecta nueva etapa estratégica se publicó primero en Mundoacuicola .",
-        "en": "The PTI Sustainable Salmon Industry brought together public, private and academic actors in Puerto Montt to project new lines of work aimed at strengthening the sustainability, competitiveness and territorial impact of salmon farming in the Los Lagos Region. The entry PTI Sustainable Salmon Industry projects new strategic stage was first published in Mundoacuicola.",
-        "no": "PTI Sustainable Salmon Industry samlet offentlige, private og akademiske aktører i Puerto Montt for å projisere nye arbeidslinjer med sikte på å styrke bærekraften, konkurranseevnen og territorielle virkningen av lakseoppdrett i Los Lagos-regionen. Oppføringen PTI Sustainable Salmon Industry projects new strategisk stadium ble først publisert i Mundoacuicola."
+        "es": "El liderazgo de SalmonChile en el sector acuícola sumó un nuevo respaldo con la llegada oficial de Grupo Salmovac al gremio. Con este ingreso, la asociación gremial refuerza su posicionamiento como el punto de encuentro clave para productores y proveedores de la industria. La incorporación de la firma fue celebrada por SalmonChile en el marco de sus 40 años de historia. El gremio hizo hincapié en la trayectoria de la organización en el ámbito de la inoculación acuícola, destacando que ha sido un actor clave durante la mitad de la historia de la asociación. Asimismo, se subrayó su fuerte impacto en el desarrollo del sur de Chile a través de su variada oferta de servicios industriales. Trayect",
+        "en": "SalmonChile's leadership in the aquaculture sector added new support with the official arrival of Grupo Salmovac to the union. With this entry, the trade association reinforces its positioning as the key meeting point for producers and suppliers of the industry. The incorporation of the firm was celebrated by SalmonChile within the framework of its 40 years of history. The union emphasized the organization's history in the field of aquaculture inoculation, highlighting that it has been a key player for half of the association's history. Likewise, its strong impact on the development of southern Chile was highlighted through its varied offer of industrial services. Trajectory",
+        "no": "SalmonChiles ledelse i akvakultursektoren ga ny støtte med den offisielle ankomsten til Grupo Salmovac til fagforeningen. Med denne oppføringen forsterker bransjeforeningen sin posisjonering som det viktigste møtepunktet for produsenter og leverandører av industrien. Innlemmelsen av firmaet ble feiret av SalmonChile innenfor rammen av dets 40 års historie. Forbundet la vekt på organisasjonens historie innen akvakulturinokulering, og fremhevet at den har vært en sentral aktør i halvparten av foreningens historie. På samme måte ble dens sterke innvirkning på utviklingen av det sørlige Chile fremhevet gjennom det varierte tilbudet av industrielle tjenester. Bane"
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Hoy se conmemoran los 50 años de la salmonicultura chilena con foco en historia, reconocimientos y futuro",
-        "en": "Today we commemorate 50 years of Chilean salmon farming with a focus on history, recognition and future",
-        "no": "I dag minnes vi 50 år med chilensk lakseoppdrett med fokus på historie, anerkjennelse og fremtid"
-      },
-      "url": "https://www.mundoacuicola.cl/new/todo-listo-para-la-conmemoracion-de-los-50-anos-de-la-salmonicultura-puerto-montt-reunira-historia-reconocimientos/",
-      "date": "Wed, 27 May 2026 01:35:03 +0000",
-      "summary": {
-        "es": "Más de 400 representantes del ecosistema salmonicultor ya han confirmado su participación en el encuentro que se realizará este jueves 28 de mayo en Puerto Montt. La jornada reunirá autoridades nacionales y regionales, líderes gremiales, principales ejecutivos de empresas productoras y proveedoras, investigadores, academia y protagonistas históricos del sector, en una programación orientada a relevar el pasado, presente y futuro de la salmonicultura chilena. La entrada Hoy se conmemoran los 50 años de la salmonicultura chilena con foco en historia, reconocimientos y futuro se publicó primero en Mundoacuicola .",
-        "en": "More than 400 representatives of the salmon farming ecosystem have already confirmed their participation in the meeting that will take place this Thursday, May 28 in Puerto Montt. The day will bring together national and regional authorities, union leaders, main executives of production and supplier companies, researchers, academia and historical protagonists of the sector, in a program aimed at highlighting the past, present and future of Chilean salmon farming. The entry Today commemorates 50 years of Chilean salmon farming with a focus on history, recognition and future was first published in Mundoacuicola.",
-        "no": "Mer enn 400 representanter for lakseoppdrettsøkosystemet har allerede bekreftet sin deltakelse på møtet som finner sted torsdag 28. mai i Puerto Montt. Dagen vil samle nasjonale og regionale myndigheter, fagforeningsledere, hovedledere i produksjons- og leverandørbedrifter, forskere, akademia og historiske hovedpersoner i sektoren, i et program som tar sikte på å synliggjøre fortiden, nåtiden og fremtiden for chilensk lakseoppdrett. Oppslaget Today commemorates 50 år med chilensk lakseoppdrett med fokus på historie, anerkjennelse og fremtid ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Conferencia Internacional SRS 2026 abrirá inscripciones para evento en Puerto Varas",
-        "en": "SRS 2026 International Conference will open registration for the event in Puerto Varas",
-        "no": "SRS 2026 International Conference vil åpne registrering for arrangementet i Puerto Varas"
-      },
-      "url": "https://www.aqua.cl/conferencia-internacional-srs-2026-abrira-inscripciones-para-evento-en-puerto-varas/",
-      "date": "Thu, 28 May 2026 10:43:00 +0000",
-      "summary": {
-        "es": "El próximo 30 de mayo de 2026 se abrirán oficialmente las inscripciones para la Conferencia Internacional SRS 2026, encuentro que se desarrollará entre el 9 y el 11 de noviembre en la ciudad de Puerto Varas. El evento, organizado por el Centro Interdisciplinario para la Investigación Acuícola – Investigación Aplicada (CIA-INCAR²), se llevará a cabo en el Hotel Wyndham Petra y busca consolidarse como un espacio de discusión científica y técnica en torno a la piscirickettsiosis (SRS), una de las enfermedades más relevantes que afecta a la salmonicultura. El académico de la Universidad Andrés Bello y director alterno del CIA-INCAR², Rubén Avendaño Herrera, explicó que la conferencia busca trans",
-        "en": "On May 30, 2026, registration will officially open for the SRS 2026 International Conference, a meeting that will take place between November 9 and 11 in the city of Puerto Varas. The event, organized by the Interdisciplinary Center for Aquaculture Research – Applied Research (CIA-INCAR²), will take place at the Wyndham Petra Hotel and seeks to consolidate itself as a space for scientific and technical discussion around piscirickettsiosis (SRS), one of the most relevant diseases that affects salmon farming. The academic of the Andrés Bello University and alternate director of the CIA-INCAR², Rubén Avendaño Herrera, explained that the conference seeks to trans",
-        "no": "30. mai 2026 åpner registreringen offisielt for SRS 2026 International Conference, et møte som vil finne sted mellom 9. og 11. november i byen Puerto Varas. Arrangementet, organisert av Interdisciplinary Center for Aquaculture Research – Applied Research (CIA-INCAR²), vil finne sted på Wyndham Petra Hotel og søker å konsolidere seg selv som et rom for vitenskapelig og teknisk diskusjon rundt piscirickettsiosis (SRS), en av de mest relevante sykdommene som påvirker lakseoppdrett. Akademikeren ved Andrés Bello-universitetet og alternativ direktør for CIA-INCAR², Rubén Avendaño Herrera, forklarte at konferansen søker å overføre"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 13,
-      "cross_source": false
-    },
-    {
-      "title": {
-        "es": "Investigador chileno expone en principal simposio mundial de nutrición de peces",
-        "en": "Chilean researcher presents at the main world symposium on fish nutrition",
-        "no": "Chilensk forsker presenterer på verdens største symposium om fiskeernæring"
-      },
-      "url": "https://www.aqua.cl/investigador-chileno-expone-en-principal-simposio-mundial-de-nutricion-de-peces/",
-      "date": "Thu, 28 May 2026 10:42:00 +0000",
-      "summary": {
-        "es": "El Dr. Jurij Wacyk, investigador del Center for Antimicrobial Stewardship in Aquaculture (CASA) y del Center for Research and Innovation in Aquaculture (CRIA), participó en el 22nd International Symposium on Fish Nutrition and Feeding (ISFNF 2026), realizado entre el 18 y el 21 de mayo en el Darwin Convention Centre, en Darwin, Australia. Considerado uno de los encuentros científicos más relevantes a nivel internacional en nutrición y alimentación de peces, el simposio reunió a investigadores, especialistas y representantes de la industria acuícola de distintos países para compartir avances científicos y fortalecer la colaboración internacional en torno a los desafíos de la acuicultura. En e",
-        "en": "Dr. Jurij Wacyk, researcher at the Center for Antimicrobial Stewardship in Aquaculture (CASA) and the Center for Research and Innovation in Aquaculture (CRIA), participated in the 22nd International Symposium on Fish Nutrition and Feeding (ISFNF 2026), held between May 18 and 21 at the Darwin Convention Centre, in Darwin, Australia. Considered one of the most relevant international scientific meetings on fish nutrition and feeding, the symposium brought together researchers, specialists and representatives of the aquaculture industry from different countries to share scientific advances and strengthen international collaboration around the challenges of aquaculture. Jan",
-        "no": "Dr. Jurij Wacyk, forsker ved Center for Antimicrobial Stewardship in Aquaculture (CASA) og Center for Research and Innovation in Aquaculture (CRIA), deltok på det 22. internasjonale symposiumet om fiskernæring og fôring (ISFNF 2026), som ble holdt mellom 18. og 21. mai på Darwin Convention Centre, i Darwin, Australia. Ansett som et av de mest relevante internasjonale vitenskapelige møtene om fiskeernæring og fôring, samlet symposiet forskere, spesialister og representanter for havbruksnæringen fra ulike land for å dele vitenskapelige fremskritt og styrke internasjonalt samarbeid rundt utfordringene ved havbruk. Jan"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -167,20 +119,20 @@
         "no": "Bransjenyheter"
       },
       "score": 12,
-      "cross_source": false
+      "cross_source": true
     },
     {
       "title": {
-        "es": "Watermind proyecta expansión de soluciones predictivas para fortalecer eficiencia y gestión de riesgos en salmonicultura",
-        "en": "Watermind plans expansion of predictive solutions to strengthen efficiency and risk management in salmon farming",
-        "no": "Watermind planlegger utvidelse av prediktive løsninger for å styrke effektivitet og risikostyring i lakseoppdrett"
+        "es": "José Ramón Gutiérrez recibe reconocimiento por su aporte histórico a la salmonicultura",
+        "en": "José Ramón Gutiérrez receives recognition for his historical contribution to salmon farming",
+        "no": "José Ramón Gutiérrez mottar anerkjennelse for sitt historiske bidrag til lakseoppdrett"
       },
-      "url": "https://www.mundoacuicola.cl/new/watermind-proyecta-expansion-de-soluciones-predictivas-para-fortalecer-eficiencia-y-gestion-de-riesgos-en-salmonicultura/",
-      "date": "Wed, 27 May 2026 16:00:48 +0000",
+      "url": "https://www.mundoacuicola.cl/new/jose-ramon-gutierrez-arrivillaga-recibe-reconocimiento-especial-por-su-liderazgo-y-aporte-historico-al-desarrollo-de-la-industria-del-salmon/",
+      "date": "Fri, 29 May 2026 18:56:08 +0000",
       "summary": {
-        "es": "La startup chilena, recientemente reconocida en el Salmon MAS Pitch 2026, presentó parte de sus avances durante el Blue Pitch de Blue Week realizado en Puerto Montt, destacando nuevas aplicaciones para anticipar floraciones algales nocivas, eventos de bajo oxígeno y optimizar operaciones en centros de cultivo. La entrada Watermind proyecta expansión de soluciones predictivas para fortalecer eficiencia y gestión de riesgos en salmonicultura se publicó primero en Mundoacuicola .",
-        "en": "The Chilean startup, recently recognized at the Salmon MAS Pitch 2026, presented part of its advances during the Blue Week Blue Pitch held in Puerto Montt, highlighting new applications to anticipate harmful algal blooms, low oxygen events and optimize operations in farming centers. The entry Watermind projects expansion of predictive solutions to strengthen efficiency and risk management in salmon farming was first published in Mundoacuicola.",
-        "no": "Den chilenske oppstarten, som nylig ble anerkjent på Salmon MAS Pitch 2026, presenterte deler av sine fremskritt under Blue Week Blue Pitch som ble holdt i Puerto Montt, og fremhevet nye applikasjoner for å forutse skadelig algeoppblomstring, lave oksygenhendelser og optimalisere driften i oppdrettssentre. Oppføringen Watermind prosjekter utvidelse av prediktive løsninger for å styrke effektivitet og risikostyring i lakseoppdrett ble først publisert i Mundoacuicola."
+        "es": "El presidente ejecutivo de Multi X fue homenajeado durante la conmemoración de los 50 años de la salmonicultura realizada en Puerto Montt, en una jornada marcada por memoria sectorial, reflexión y reconocimiento a quienes han contribuido al desarrollo de una de las principales actividades productivas del sur austral. La entrada José Ramón Gutiérrez recibe reconocimiento por su aporte histórico a la salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "The executive president of Multi The entry José Ramón Gutiérrez receives recognition for his historical contribution to salmon farming was first published in Mundoacuicola.",
+        "no": "Den administrerende presidenten i Multi. Innslaget José Ramón Gutiérrez mottar anerkjennelse for sitt historiske bidrag til lakseoppdrett ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -190,24 +142,96 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 11,
+      "score": 10,
       "cross_source": false
     },
     {
       "title": {
-        "es": "Invermar se incorpora como nuevo asociado a SalmonChile",
-        "en": "Invermar joins SalmonChile as a new associate",
-        "no": "Invermar slutter seg til SalmonChile som en ny medarbeider"
+        "es": "Con pasta y pizza: La estrategia de Noruega para consolidar el salmón en el mercado italiano al 2030",
+        "en": "With pasta and pizza: Norway's strategy to consolidate salmon in the Italian market by 2030",
+        "no": "Med pasta og pizza: Norges strategi for å konsolidere laks i det italienske markedet innen 2030"
       },
-      "url": "https://www.mundoacuicola.cl/new/invermar-se-incorpora-como-nuevo-asociado-a-salmonchile/",
-      "date": "Wed, 27 May 2026 16:12:14 +0000",
+      "url": "https://infosalmon.cl/noruega-plan-maestro-consumo-salmon-italia-2030/",
+      "date": "Sun, 31 May 2026 23:32:11 +0000",
       "summary": {
-        "es": "SalmonChile valoró la incorporación de la histórica empresa productora y exportadora, destacando que su ingreso fortalece la unidad del sector y aporta un sólido liderazgo en sostenibilidad e innovación tecnológica. La entrada Invermar se incorpora como nuevo asociado a SalmonChile se publicó primero en Mundoacuicola .",
-        "en": "SalmonChile valued the incorporation of the historic producing and exporting company, highlighting that its entry strengthens the unity of the sector and provides solid leadership in sustainability and technological innovation. The entry Invermar joins SalmonChile as a new associate was first published in Mundoacuicola.",
-        "no": "SalmonChile verdsatte inkorporeringen av det historiske produserende og eksporterende selskapet, og fremhevet at dets inntreden styrker enheten i sektoren og gir solid lederskap innen bærekraft og teknologisk innovasjon. Oppføringen Invermar slutter seg til SalmonChile som en ny medarbeider ble først publisert i Mundoacuicola."
+        "es": "A través de alianzas con chef locales e influencers, el plan de noruega busca fusionar el salmón del atlántico con los dos pilares de la cocina italiana: la pasta y la pizza. El objetivo es competir directamente con proteínas líderes como el pollo y el atún, capturando el segmento de adultos jóvenes y hogares de altos ingresos. El desafío logístico no es menor. Aunque Italia es el tercer mercado para Noruega con una facturación que ya supera los $1,400 millones de USD, el análisis revela que más de 50.000 toneladas de pescado ingresan de forma indirecta tras ser procesadas en Polonia y Países Bajos, consolidando una red de distribución clave que ya sostiene el 8% de la producción acuícola nó",
+        "en": "Through alliances with local chefs and influencers, Norway's plan seeks to merge Atlantic salmon with the two pillars of Italian cuisine: pasta and pizza. The goal is to compete directly with leading proteins such as chicken and tuna, capturing the segment of young adults and high-income households. The logistical challenge is not minor. Although Italy is the third market for Norway with a turnover that already exceeds $1.4 billion USD, the analysis reveals that more than 50,000 tons of fish enter indirectly after being processed in Poland and the Netherlands, consolidating a key distribution network that already supports 8% of global aquaculture production.",
+        "no": "Gjennom allianser med lokale kokker og influencere søker Norges plan å slå atlantisk laks sammen med de to pilarene i det italienske kjøkkenet: pasta og pizza. Målet er å konkurrere direkte med ledende proteiner som kylling og tunfisk, og fange segmentet av unge voksne og høyinntektshusholdninger. Den logistiske utfordringen er ikke liten. Selv om Italia er det tredje markedet for Norge med en omsetning som allerede overstiger 1,4 milliarder USD, avslører analysen at mer enn 50 000 tonn fisk kommer inn indirekte etter å ha blitt behandlet i Polen og Nederland, og konsoliderer et sentralt distribusjonsnettverk som allerede støtter 8 % av den globale akvakulturproduksjonen."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 18,
+      "cross_source": true
+    },
+    {
+      "title": {
+        "es": "El análisis de los resultados salmonicultores de Blumar",
+        "en": "The analysis of Blumar's salmon farming results",
+        "no": "Analysen av Blumars lakseoppdrettsresultater"
+      },
+      "url": "https://www.salmonexpert.cl/blumar-resultados/el-analisis-de-los-resultados-salmonicultores-de-blumar/2130383",
+      "date": "",
+      "summary": {
+        "es": "A diferencia de su división pesca, la operación acuícola de la empresa registró pérdidas en el primer trimestre, por los menores precios de venta.",
+        "en": "Unlike its fishing division, the company's aquaculture operation recorded losses in the first quarter, due to lower sales prices.",
+        "no": "I motsetning til fiskeridivisjonen hadde selskapets akvakulturvirksomhet tap i første kvartal på grunn av lavere salgspriser."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 16,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Blumar reporta utilidades por US$15,6 millones al cierre del primer trimestre de 2026",
+        "en": "Blumar reports profits of US$15.6 million at the end of the first quarter of 2026",
+        "no": "Blumar rapporterer et overskudd på 15,6 millioner dollar ved utgangen av første kvartal 2026"
+      },
+      "url": "https://www.aqua.cl/blumar-reporta-utilidades-por-us156-millones-al-cierre-del-primer-trimestre-de-2026/",
+      "date": "Mon, 01 Jun 2026 10:48:00 +0000",
+      "summary": {
+        "es": "Blumar reportó ingresos consolidados por US$192,5 millones al cierre del primer trimestre de 2026, lo que representa una disminución de -8% respecto del mismo período del año anterior. Por su parte, el Ebitda pre-ajuste fair value alcanzó los US$34,4 millones, reflejando una baja de -3%, mientras que la utilidad neta totalizó US$15,6 millones, cifra 44% inferior a la registrada en el primer trimestre de 2025. En este último, US$18.8 corresponden al negocio de Pesca y US$ -3,1 millones de salmones. El desempeño del trimestre estuvo marcado por diferencias importantes entre segmentos. Mientras el negocio Salmones enfrentó presión por los precios internacionales, menores volúmenes de cosecha y ",
+        "en": "Blumar reported consolidated revenues of US$192.5 million at the end of the first quarter of 2026, which represents a decrease of -8% compared to the same period of the previous year. For its part, Ebitda pre-fair value adjustment reached US$34.4 million, reflecting a decrease of -3%, while net profit totaled US$15.6 million, a figure 44% lower than that registered in the first quarter of 2025. In the latter, US$18.8 correspond to the Fishing business and US$ -3.1 million to salmon. The quarter's performance was marked by important differences between segments. While the Salmon business faced pressure from international prices, lower harvest volumes and",
+        "no": "Blumar rapporterte konsoliderte inntekter på USD 192,5 millioner ved utgangen av første kvartal 2026, som representerer en nedgang på -8 % sammenlignet med samme periode året før. På sin side nådde Ebitda-justeringen før virkelig verdi USD 34,4 millioner, noe som reflekterer en nedgang på -3 %, mens nettoresultatet var USD 15,6 millioner, et tall 44 % lavere enn det som ble registrert i første kvartal 2025. I sistnevnte tilsvarer USD 18,8 til Fiskevirksomheten og USD -3,1 millioner til laks. Kvartalets resultat var preget av viktige forskjeller mellom segmentene. Mens laksevirksomheten møtte press fra internasjonale priser, lavere slaktevolum og"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 12,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "El salmón chileno brilla en la primera\nedición del Coller FAIRR Seafood Index",
+        "en": "Chilean salmon shines in the first\nedition of the Coller FAIRR Seafood Index",
+        "no": "Chilensk laks skinner i den første\nutgaven av Coller FAIRR Seafood Index"
+      },
+      "url": "https://www.salmonexpert.cl/cermaq-coller-fairr-index-mitsubishi/el-salmon-chileno-brilla-en-la-primera-edicion-del-coller-fairr-seafood-index/2130322",
+      "date": "",
+      "summary": {
+        "es": "Empresas como Mowi, Salmones Camanchaca, Multi X, Nissui y Mitsubishi Corporation, que controlan a Salmones Antártica y a Cermaq, destacaron en el ranking.",
+        "en": "Companies such as Mowi, Salmones Camanchaca, Multi X, Nissui and Mitsubishi Corporation, which control Salmones Antártica and Cermaq, stood out in the ranking.",
+        "no": "Selskaper som Mowi, Salmones Camanchaca, Multi X, Nissui og Mitsubishi Corporation, som kontrollerer Salmones Antártica og Cermaq, skilte seg ut på rangeringen."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "market",
       "category_label": {
         "es": "Mercado",
@@ -219,19 +243,19 @@
     },
     {
       "title": {
-        "es": "Camanchaca aumenta 10% sus ingresos en T1 pese a crisis por disponibilidad de jurel",
-        "en": "Camanchaca increases its income in T1 by 10% despite the crisis due to the availability of horse mackerel",
-        "no": "Camanchaca øker inntekten i T1 med 10 % til tross for krisen på grunn av tilgjengeligheten av hestmakrell"
+        "es": "Las nuevas oportunidades de crecimiento en Asia proyectadas por AquaChile",
+        "en": "The new growth opportunities in Asia projected by AquaChile",
+        "no": "De nye vekstmulighetene i Asia anslått av AquaChile"
       },
-      "url": "https://www.mundoacuicola.cl/new/camanchaca-aumenta-10-sus-ingresos-en-t1-pese-a-crisis-por-disponibilidad-de-jurel/",
-      "date": "Wed, 27 May 2026 13:28:13 +0000",
+      "url": "https://www.salmonexpert.cl/aquachile-asia-crecimiento/las-nuevas-oportunidades-de-crecimiento-en-asia-proyectadas-por-aquachile/2130891",
+      "date": "",
       "summary": {
-        "es": "Camanchaca reportó ingresos consolidados por US$240 millones durante el primer trimestre de 2026, impulsados por mayores ventas en pesca, salmones y mejillones, en un escenario marcado por menor disponibilidad de jurel y desafíos sanitarios asociados al SRS. La entrada Camanchaca aumenta 10% sus ingresos en T1 pese a crisis por disponibilidad de jurel se publicó primero en Mundoacuicola .",
-        "en": "Camanchaca reported consolidated revenues of US$240 million during the first quarter of 2026, driven by higher sales in fishing, salmon and mussels, in a scenario marked by lower availability of horse mackerel and health challenges associated with SRS. The entry Camanchaca increases its income by 10% in T1 despite the crisis due to the availability of horse mackerel was published first in Mundoacuicola.",
-        "no": "Camanchaca rapporterte konsoliderte inntekter på USD 240 millioner i første kvartal 2026, drevet av høyere salg innen fiske, laks og blåskjell, i et scenario preget av lavere tilgjengelighet av hestmakrell og helseutfordringer knyttet til SRS. Oppføringen Camanchaca øker inntekten med 10 % i T1 til tross for krisen på grunn av tilgjengeligheten av hestmakrell ble først publisert i Mundoacuicola."
+        "es": "La empresa cuenta con presencia en mercados como Tailandia, Vietnam, Filipinas e Indonesia, donde observa oportunidades relevantes para seguir desarrollando la categoría y ampliar su participación.",
+        "en": "The company has a presence in markets such as Thailand, Vietnam, the Philippines and Indonesia, where it sees relevant opportunities to continue developing the category and expand its participation.",
+        "no": "Selskapet har tilstedeværelse i markeder som Thailand, Vietnam, Filippinene og Indonesia, hvor det ser relevante muligheter for å fortsette å utvikle kategorien og utvide sin deltakelse."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "market",
       "category_label": {
         "es": "Mercado",
@@ -243,75 +267,27 @@
     },
     {
       "title": {
-        "es": "Ventisqueros entrega fondos a escuelas de Quemchi para educación ambiental y sostenibilidad",
-        "en": "Ventisqueros delivers funds to Quemchi schools for environmental education and sustainability",
-        "no": "Ventisqueros leverer midler til Quemchi-skoler for miljøundervisning og bærekraft"
+        "es": "El despertar del gigante japonés: Gobierno y empresas japonesas buscan la autonomía del salmón ante la subida de precios y la presión de China",
+        "en": "The awakening of the Japanese giant: Japanese government and companies seek the autonomy of salmon in the face of rising prices and pressure from China",
+        "no": "Den japanske gigantens oppvåkning: Japanske myndigheter og selskaper søker laksens autonomi i møte med stigende priser og press fra Kina"
       },
-      "url": "https://www.salmonexpert.cl/escuelas-quemchi-ventisqueros/ventisqueros-entrega-fondos-a-escuelas-de-quemchi-para-educacion-ambiental-y-sostenibilidad/2129347",
-      "date": "",
+      "url": "https://infosalmon.cl/japon-cultivo-local-salmon-crisis-logistica-sistema-ras/",
+      "date": "Mon, 01 Jun 2026 00:16:07 +0000",
       "summary": {
-        "es": "A través de su programa Escuelas Sustentables, la compañía apoyará iniciativas de reciclaje, manejo de residuos, educación ambiental y recuperación de espacios desarrolladas por establecimientos educacionales.",
-        "en": "Through its Sustainable Schools program, the company will support recycling, waste management, environmental education and space recovery initiatives developed by educational establishments.",
-        "no": "Gjennom sitt Sustainable Schools-program vil selskapet støtte resirkulering, avfallshåndtering, miljøopplæring og romgjenvinningsinitiativer utviklet av utdanningsinstitusjoner."
+        "es": "Las tensiones geopolíticas en Medio Oriente han obligado a las aerolíneas de carga a desviar las rutas tradicionales desde Europa, implementando trayectos más extensos que bordean el Ártico. Este cambio, sumado a la depreciación del Yen, provocó que el salmón alcanzara los 3.980 JYP por kilo (20 USD Aprox), registrando un alza del 60% en comparación con los últimos cinco años. Esta escalada de precios generó un fenómeno de paridad de precios en los puntos de venta minorista de Japón. Actualmente, en las pescaderías de prefecturas como Chiba, el salmón importado se comercializa al mismo nivel que el producto fresco local, situándose en torno a los 450 yenes por cada 100 gramos (unos 2,83 USD ",
+        "en": "Geopolitical tensions in the Middle East have forced cargo airlines to divert traditional routes from Europe, implementing longer routes that skirt the Arctic. This change, added to the depreciation of the Yen, caused salmon to reach 3,980 JYP per kilo (approximately 20 USD), registering an increase of 60% compared to the last five years. This price escalation generated a phenomenon of price parity in retail outlets in Japan. Currently, in fishmongers in prefectures such as Chiba, imported salmon is sold at the same level as fresh local produce, at around 450 yen per 100 grams (about US$2.83).",
+        "no": "Geopolitiske spenninger i Midtøsten har tvunget fraktflyselskaper til å avlede tradisjonelle ruter fra Europa, og implementere lengre ruter som går rundt Arktis. Denne endringen, lagt til svekkelsen av yenen, førte til at laksen nådde 3 980 JYP per kilo (omtrent 20 USD), og registrerte en økning på 60 % sammenlignet med de siste fem årene. Denne priseskaleringen genererte et fenomen med prisparitet i utsalgssteder i Japan. For øyeblikket, i fiskehandlere i prefekturer som Chiba, selges importert laks på samme nivå som ferske lokale råvarer, til rundt 450 yen per 100 gram (omtrent 2,83 USD)."
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "environment",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
       "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 13,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Skretting publica Reporte de Impacto 2025 con avances en abastecimiento responsable e innovación",
-        "en": "Skretting publishes 2025 Impact Report with advances in responsible sourcing and innovation",
-        "no": "Skretting publiserer 2025 Impact Report med fremskritt innen ansvarlig innkjøp og innovasjon"
-      },
-      "url": "https://www.aqua.cl/skretting-publica-reporte-de-impacto-2025-con-avances-en-abastecimiento-responsable-e-innovacion/",
-      "date": "Thu, 28 May 2026 10:45:00 +0000",
-      "summary": {
-        "es": "Skretting anunció el lanzamiento de su Reporte de Impacto 2025, documento que detalla los principales avances alcanzados por la compañía en materias de sostenibilidad, abastecimiento responsable, acción climática, innovación y desarrollo de la acuicultura. El propósito de Skretting es “Alimentar el Futuro” y, frente a una población mundial proyectada en 10 mil millones de personas para 2050, la compañía busca fortalecer su aporte a la seguridad alimentaria global de manera sostenible y responsable. El reporte profundiza en el desempeño de la empresa en áreas estratégicas como ingredientes, clima y medioambiente, buena ciudadanía, medios de vida y bienestar animal. Además, complementa el info",
-        "en": "Skretting announced the launch of its 2025 Impact Report, a document that details the main advances made by the company in sustainability, responsible sourcing, climate action, innovation and aquaculture development. Skretting's purpose is to “Feed the Future” and, facing a world population projected at 10 billion people by 2050, the company seeks to strengthen its contribution to global food security in a sustainable and responsible manner. The report delves into the company's performance in strategic areas such as ingredients, climate and environment, good citizenship, livelihoods and animal welfare. In addition, it complements the information",
-        "no": "Skretting annonserte lanseringen av sin 2025 Impact Report, et dokument som beskriver de viktigste fremskrittene selskapet har gjort innen bærekraft, ansvarlig innkjøp, klimatiltak, innovasjon og havbruksutvikling. Skrettings formål er å «føde fremtiden», og overfor en verdensbefolkning anslått til 10 milliarder mennesker innen 2050, søker selskapet å styrke sitt bidrag til global matsikkerhet på en bærekraftig og ansvarlig måte. Rapporten fordyper selskapets prestasjoner på strategiske områder som ingredienser, klima og miljø, godt medborgerskap, levebrød og dyrevelferd. I tillegg utfyller den informasjonen"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 12,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Ley Lafkenche: sectores productivos y autoridades abordaron reformas en Puerto Montt",
-        "en": "Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt",
-        "no": "Lafkenche Law: produktive sektorer og myndigheter tok for seg reformer i Puerto Montt"
-      },
-      "url": "https://www.mundoacuicola.cl/new/ley-lafkenche-sectores-productivos-y-autoridades-abordaron-reformas-en-puerto-montt/",
-      "date": "Wed, 27 May 2026 17:08:13 +0000",
-      "summary": {
-        "es": "La Subsecretaría de Pesca y Acuicultura reunió en Puerto Montt a autoridades, dirigentes de la pesca artesanal, representantes indígenas, académicos y actores productivos para debatir propuestas de modificación a la Ley Lafkenche y los desafíos de gobernanza del borde costero. La entrada Ley Lafkenche: sectores productivos y autoridades abordaron reformas en Puerto Montt se publicó primero en Mundoacuicola .",
-        "en": "The Undersecretariat of Fisheries and Aquaculture brought together authorities, artisanal fishing leaders, indigenous representatives, academics and productive actors in Puerto Montt to debate proposals for modifications to the Lafkenche Law and the governance challenges of the coastline. The entry Lafkenche Law: productive sectors and authorities addressed reforms in Puerto Montt was first published in Mundoacuicola.",
-        "no": "Undersekretariatet for fiskeri og akvakultur samlet myndigheter, håndverksfiskeledere, urfolksrepresentanter, akademikere og produktive aktører i Puerto Montt for å diskutere forslag til endringer i Lafkenche-loven og styringsutfordringene ved kystlinjen. Oppføringen Lafkenche Law: Productive sectors and Authorities addressed reforms in Puerto Montt ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "regulatory",
-      "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
-      },
-      "score": 12,
-      "cross_source": true
+      "score": 10,
+      "cross_source": false
     }
   ]
 }
