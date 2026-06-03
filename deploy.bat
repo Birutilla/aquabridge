@@ -6,7 +6,7 @@ echo.
 git add .
 git commit -m "Update website %date% %time%"
 git pull --rebase origin main
-git push
+git push origin HEAD:main
 echo.
 echo Done! Changes will be live at www.aquabridge.cl in about a minute.
 echo.
