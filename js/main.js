@@ -41,7 +41,7 @@ const T = {
     tech_cta_btn:"Start the conversation",
     home_pre:"Soft Landing Partner · Chile Market Entry",
     home_h1:"The fastest path from global product to Chilean market.",
-    home_sub:"AquaBridge is a soft landing company: we give international aquaculture technology companies a senior local team, C-suite relationships, and commercial execution in Chile from day one. Not an agency. Not a distributor. A committed partner who makes Chile work.",
+    home_sub:"AquaBridge is a <strong>soft landing company</strong>: we give international aquaculture technology companies a senior local team, C-suite relationships, and commercial execution in Chile from day one. Not an agency. Not a distributor. A committed partner who makes Chile work.",
     home_cta1:"Start the conversation", home_cta2:"How we work",
     stat1_n:"70+", stat1_l:"Years combined experience",
     stat2_n:"USD 6.4B", stat2_l:"Chilean salmon export market",
@@ -210,7 +210,7 @@ const T = {
     tech_cta_btn:"Start samtalen",
     home_pre:"Soft Landing Partner · Markedsinngang i Chile",
     home_h1:"Den raskeste veien fra globalt produkt til det chilenske markedet.",
-    home_sub:"AquaBridge er et soft landing-selskap: vi gir internasjonale havbruksteknologiselskaper et seniort lokalt team, relasjoner på toppledernivå og kommersiell gjennomføring i Chile fra dag én. Ikke et byrå. Ikke en distributør. En dedikert partner som får Chile til å fungere.",
+    home_sub:"AquaBridge er et <strong>soft landing-selskap</strong>: vi gir internasjonale havbruksteknologiselskaper et seniort lokalt team, relasjoner på toppledernivå og kommersiell gjennomføring i Chile fra dag én. Ikke et byrå. Ikke en distributør. En dedikert partner som får Chile til å fungere.",
     home_cta1:"Ta kontakt", home_cta2:"Slik jobber vi",
     stat1_n:"70+", stat1_l:"Års samlet erfaring",
     stat2_n:"USD 6,4 mrd", stat2_l:"Chilensk lakseksportmarked",
@@ -341,7 +341,7 @@ const T = {
 function applyLang(lang) {
   document.querySelectorAll('[data-i18n]').forEach(el => {
     const k = el.dataset.i18n;
-    if (T[lang] && T[lang][k] !== undefined) el.textContent = T[lang][k];
+    if (T[lang] && T[lang][k] !== undefined) el.innerHTML = T[lang][k];
   });
   document.querySelectorAll('[data-i18n-ph]').forEach(el => {
     const k = el.dataset.i18nPh;

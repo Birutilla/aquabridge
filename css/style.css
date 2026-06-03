@@ -65,7 +65,7 @@ p { font-size: 16px; line-height: 1.75; max-width: 700px; }
 
 /* ── Hero dark ─────────────────────────────────────────────────────────── */
 .hero-dark { background: var(--navy); padding: 88px 0 76px; }
-.hero-pre { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--teal); font-weight: 600; margin-bottom: 18px; }
+.hero-pre { font-size: 13px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--teal); font-weight: 600; margin-bottom: 18px; }
 .hero-dark h1 { color: var(--white); max-width: 825px; margin-bottom: 22px; }
 .hero-dark .hero-sub { color: rgba(255,255,255,0.62); font-size: 17px; max-width: 675px; margin-bottom: 36px; line-height: 1.75; }
 .hero-btns { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 56px; }
@@ -75,7 +75,7 @@ p { font-size: 16px; line-height: 1.75; max-width: 700px; }
 
 /* ── Hero light ────────────────────────────────────────────────────────── */
 .hero-light { background: var(--lgray); padding: 68px 0 60px; border-bottom: 1px solid var(--mgray); }
-.hero-light .hero-pre { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--teal); font-weight: 600; margin-bottom: 14px; }
+.hero-light .hero-pre { font-size: 13px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--teal); font-weight: 600; margin-bottom: 14px; }
 .hero-light h1 { margin-bottom: 16px; max-width: 700px; }
 .hero-light .hero-sub { color: var(--dgray); font-size: 17px; max-width: 700px; line-height: 1.75; }
 

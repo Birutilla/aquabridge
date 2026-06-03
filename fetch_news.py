@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT   = SCRIPT_DIR.parent
+REPO_ROOT   = SCRIPT_DIR
 OUTPUT_JSON = SCRIPT_DIR / "news-data.json"
 MAX_ARTICLES = 12
 
@@ -500,7 +500,7 @@ def main():
         if "nothing to commit" in res.stdout:
             print("  No changes.")
         else:
-            subprocess.run(["git", "-C", str(REPO_ROOT), "push"],
+            subprocess.run(["git", "-C", str(REPO_ROOT), "push", "origin", "HEAD"],
                            check=True, capture_output=True)
             print("  Pushed successfully.")
     except subprocess.CalledProcessError as e:
