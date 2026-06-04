@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-01T19:03:36Z",
+  "updated": "2026-06-04T15:09:15Z",
   "articles": [
     {
       "title": {
-        "es": "Startup\tWildsense fortalece desarrollo robótico aplicado al salmón",
-        "en": "Startup Wildsense strengthens robotic development applied to salmon",
-        "no": "Startup Wildsense styrker robotutvikling brukt på laks"
+        "es": "Fiscalización ambiental en la salmonicultura: expertos redefinen el cumplimiento en Chile",
+        "en": "Fiscalización ambiental en la salmonicultura: expertos redefinen el cumplimiento en Chile",
+        "no": "Fiscalización ambiental en la salmonicultura: expertos redefinen el cumplimiento en Chile"
       },
-      "url": "https://www.salmonexpert.cl/biomasa-inteligencia-artificial-robotica-submarina/startup-wildsense-fortalece-desarrollo-robotico-aplicado-al-salmon/2129450",
+      "url": "https://www.salmonexpert.cl/fiscalizacion-normativa-normativa-medioambiental/fiscalizacion-ambiental-en-la-salmonicultura-expertos-redefinen-el-cumplimiento-en-chile/2129231",
       "date": "",
       "summary": {
-        "es": "Laspin offde la U. Técnica Federico Santa María, trabaja en biomasa, reparación de redes y monitoreo ambiental mediante IA, visión por computador y sensores submarinos aplicados a centros de cultivo.",
-        "en": "Laspin from the Federico Santa María Technical University, works in biomass, network repair and environmental monitoring through AI, computer vision and underwater sensors applied to cultivation centers.",
-        "no": "Laspin fra Federico Santa María tekniske universitet, jobber med biomasse, nettverksreparasjon og miljøovervåking gjennom AI, datasyn og undervannssensorer brukt på dyrkingssentre."
+        "es": "La fiscalización ya no comienza cuando el inspector llega al centro de cultivo: hoy empieza mucho antes, mediante inteligencia artificial, análisis de datos y monitoreo remoto permanente en la industria.",
+        "en": "La fiscalización ya no comienza cuando el inspector llega al centro de cultivo: hoy empieza mucho antes, mediante inteligencia artificial, análisis de datos y monitoreo remoto permanente en la industria.",
+        "no": "La fiscalización ya no comienza cuando el inspector llega al centro de cultivo: hoy empieza mucho antes, mediante inteligencia artificial, análisis de datos y monitoreo remoto permanente en la industria."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -22,21 +22,21 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 12,
+      "score": 5,
       "cross_source": false
     },
     {
       "title": {
-        "es": "Control inteligente del oxígeno: cómo anticiparse a eventos críticos en salmonicultura",
-        "en": "Intelligent oxygen control: how to anticipate critical events in salmon farming",
-        "no": "Intelligent oksygenkontroll: hvordan forutse kritiske hendelser i lakseoppdrett"
+        "es": "Científicos avanzan hacia una nueva estrategia contra Piscirickettsia sin antibióticos",
+        "en": "Científicos avanzan hacia una nueva estrategia contra Piscirickettsia sin antibióticos",
+        "no": "Científicos avanzan hacia una nueva estrategia contra Piscirickettsia sin antibióticos"
       },
-      "url": "https://www.salmonexpert.cl/cpi-cpi-equipment-oxigenacion/control-inteligente-del-oxigeno-como-anticiparse-a-eventos-criticos-en-salmonicultura/2123167",
+      "url": "https://www.salmonexpert.cl/antibacterianos-antibioticos-piscirickettsia/cientificos-avanzan-hacia-una-nueva-estrategia-contra-piscirickettsia-sin-antibioticos/2130306",
       "date": "",
       "summary": {
-        "es": "El sistema de CPI Equipment permite programar rutinas automatizadas de oxigenación vinculadas a los horarios de alimentación. Esto significa que la inyección de oxígeno puede iniciarse de forma anticipada.",
-        "en": "The CPI Equipment system allows you to program automated oxygenation routines linked to feeding schedules. This means that oxygen injection can be started early.",
-        "no": "CPI Equipment-systemet lar deg programmere automatiserte oksygeneringsrutiner knyttet til fôringsplaner. Dette betyr at oksygeninjeksjon kan startes tidlig."
+        "es": "Expertos demostraron que el quitosano sulfatado puede causar distintos tipos de daño al patógeno, y combatir su capacidad de formarbiofilms, posicionándose como un biomaterial antimicrobiano.",
+        "en": "Expertos demostraron que el quitosano sulfatado puede causar distintos tipos de daño al patógeno, y combatir su capacidad de formarbiofilms, posicionándose como un biomaterial antimicrobiano.",
+        "no": "Expertos demostraron que el quitosano sulfatado puede causar distintos tipos de daño al patógeno, y combatir su capacidad de formarbiofilms, posicionándose como un biomaterial antimicrobiano."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -45,46 +45,94 @@
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
+      },
+      "score": 4,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "En cifras: pese a su estancamiento la salmonicultura chilena impulsa el empleo regional",
+        "en": "En cifras: pese a su estancamiento la salmonicultura chilena impulsa el empleo regional",
+        "no": "En cifras: pese a su estancamiento la salmonicultura chilena impulsa el empleo regional"
+      },
+      "url": "https://www.salmonexpert.cl/desempleo-empleo-ine/en-cifras-pese-a-su-estancamiento-la-salmonicultura-chilena-impulsa-el-empleo-regional/2131777",
+      "date": "",
+      "summary": {
+        "es": "Tanto Aysén, Magallanes y Los Lagos, presentan las más bajas tasas de desocupación en el país, en gran medida por la industria que mantiene firmes sus operaciones.",
+        "en": "Tanto Aysén, Magallanes y Los Lagos, presentan las más bajas tasas de desocupación en el país, en gran medida por la industria que mantiene firmes sus operaciones.",
+        "no": "Tanto Aysén, Magallanes y Los Lagos, presentan las más bajas tasas de desocupación en el país, en gran medida por la industria que mantiene firmes sus operaciones."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos",
+        "en": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos",
+        "no": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos"
+      },
+      "url": "https://www.salmonexpert.cl/50-aos-de-la-salmonicultura-consejo-del-salmon-salmonchile/en-masivo-evento-industria-salmonicultora-llama-a-impulsar-ciencia-y-tecnologia-para-nuevos-desafios/2130336",
+      "date": "",
+      "summary": {
+        "es": "",
+        "en": "",
+        "no": ""
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Abren inscripciones para la Conferencia Internacional SRS 2026 en Puerto Varas",
+        "en": "Abren inscripciones para la Conferencia Internacional SRS 2026 en Puerto Varas",
+        "no": "Abren inscripciones para la Conferencia Internacional SRS 2026 en Puerto Varas"
+      },
+      "url": "https://www.salmonexpert.cl/centro-incar-incar-piscirickettsia/abren-inscripciones-para-la-conferencia-internacional-srs-2026-en-puerto-varas/2130344",
+      "date": "",
+      "summary": {
+        "es": "El evento organizado por INCAR² se llevará a cabo en el Hotel Wyndham Petra y busca consolidarse como un espacio único de discusión científica y técnica en torno a la piscirickettsiosis.",
+        "en": "El evento organizado por INCAR² se llevará a cabo en el Hotel Wyndham Petra y busca consolidarse como un espacio único de discusión científica y técnica en torno a la piscirickettsiosis.",
+        "no": "El evento organizado por INCAR² se llevará a cabo en el Hotel Wyndham Petra y busca consolidarse como un espacio único de discusión científica y técnica en torno a la piscirickettsiosis."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
       "score": 7,
       "cross_source": false
     },
     {
       "title": {
-        "es": "Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena",
-        "en": "Mundo Acuícola organized in Puerto Montt the commemoration of the 50 years of Chilean salmon farming",
-        "no": "Mundo Acuícola arrangerte i Puerto Montt markeringen av de 50 årene med chilensk lakseoppdrett"
+        "es": "Regenera Patagonia: dos de los mayores desafíos en salmonicultura están en el alimento",
+        "en": "Regenera Patagonia: dos de los mayores desafíos en salmonicultura están en el alimento",
+        "no": "Regenera Patagonia: dos de los mayores desafíos en salmonicultura están en el alimento"
       },
-      "url": "https://www.mundoacuicola.cl/new/industria-salmonera-conmemoro-en-puerto-montt-cinco-decadas-de-desarrollo-innovacion-y-transformacion-del-sur-de-chile/",
-      "date": "Fri, 29 May 2026 20:15:07 +0000",
-      "summary": {
-        "es": "El evento reunió en Puerto Montt a más de 400 personas, entre autoridades, gremios, trabajadores, ejecutivos y actores históricos de la industria en una jornada marcada por reflexiones sobre trayectoria, innovación y desafíos futuros. La entrada Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena se publicó primero en Mundoacuicola .",
-        "en": "The event brought together more than 400 people in Puerto Montt, including authorities, unions, workers, executives and historical actors in the industry in a day marked by reflections on history, innovation and future challenges. The entry Mundo Acuícola organized the commemoration of 50 years of Chilean salmon farming in Puerto Montt was first published in Mundoacuicola.",
-        "no": "Arrangementet samlet mer enn 400 mennesker i Puerto Montt, inkludert myndigheter, fagforeninger, arbeidere, ledere og historiske aktører i bransjen i en dag preget av refleksjoner rundt historie, innovasjon og fremtidige utfordringer. Oppføringen Mundo Acuícola organiserte markeringen av 50 år med chilensk lakseoppdrett i Puerto Montt ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 22,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "En masivo evento industria salmonicultora llama a impulsar ciencia y tecnología para nuevos desafíos",
-        "en": "In massive salmon industry event calls to promote science and technology for new challenges",
-        "no": "I massive oppfordringer fra lakseindustrien om å fremme vitenskap og teknologi for nye utfordringer"
-      },
-      "url": "https://www.salmonexpert.cl/50-aos-de-la-salmonicultura-consejo-del-salmon-salmonchile/en-masivo-evento-industria-salmonicultora-llama-a-impulsar-ciencia-y-tecnologia-para-nuevos-desafios/2130336",
+      "url": "https://www.salmonexpert.cl/fairr-financiamiento-sostenible-regenera-patagonia/regenera-patagonia-dos-de-los-mayores-desafios-en-salmonicultura-estan-en-el-alimento/2132876",
       "date": "",
       "summary": {
-        "es": "Durante la conmemoración de los 50 años del sector, expertos advirtieron sobre la necesidad de fortalecer innovación, gobernanza y competitividad en la acuicultura chilena.",
-        "en": "During the commemoration of the 50 years of the sector, experts warned about the need to strengthen innovation, governance and competitiveness in Chilean aquaculture.",
-        "no": "Under markeringen av sektorens 50 år advarte eksperter om behovet for å styrke innovasjon, styring og konkurranseevne i chilensk akvakultur."
+        "es": "Especialistas dieron a conocer, entre otros interesantes datos, que la falta de trazabilidad del alimento de los salmones es un riesgo importante desde la industria.",
+        "en": "Especialistas dieron a conocer, entre otros interesantes datos, que la falta de trazabilidad del alimento de los salmones es un riesgo importante desde la industria.",
+        "no": "Especialistas dieron a conocer, entre otros interesantes datos, que la falta de trazabilidad del alimento de los salmones es un riesgo importante desde la industria."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -94,93 +142,69 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 15,
+      "score": 6,
       "cross_source": false
     },
     {
       "title": {
-        "es": "Grupo Salmovac se integra a SalmonChile para potenciar la cadena de valor y logística acuícola en el sur austral",
-        "en": "Salmovac Group joins SalmonChile to enhance the aquaculture value chain and logistics in the southern austral",
-        "no": "Salmovac Group slutter seg til SalmonChile for å forbedre akvakulturverdikjeden og logistikken i det sørlige australske området"
+        "es": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos",
+        "en": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos",
+        "no": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos"
       },
-      "url": "https://infosalmon.cl/grupo-salmovac-nuevo-socio-salmonchile/",
-      "date": "Mon, 01 Jun 2026 17:50:33 +0000",
-      "summary": {
-        "es": "El liderazgo de SalmonChile en el sector acuícola sumó un nuevo respaldo con la llegada oficial de Grupo Salmovac al gremio. Con este ingreso, la asociación gremial refuerza su posicionamiento como el punto de encuentro clave para productores y proveedores de la industria. La incorporación de la firma fue celebrada por SalmonChile en el marco de sus 40 años de historia. El gremio hizo hincapié en la trayectoria de la organización en el ámbito de la inoculación acuícola, destacando que ha sido un actor clave durante la mitad de la historia de la asociación. Asimismo, se subrayó su fuerte impacto en el desarrollo del sur de Chile a través de su variada oferta de servicios industriales. Trayect",
-        "en": "SalmonChile's leadership in the aquaculture sector added new support with the official arrival of Grupo Salmovac to the union. With this entry, the trade association reinforces its positioning as the key meeting point for producers and suppliers of the industry. The incorporation of the firm was celebrated by SalmonChile within the framework of its 40 years of history. The union emphasized the organization's history in the field of aquaculture inoculation, highlighting that it has been a key player for half of the association's history. Likewise, its strong impact on the development of southern Chile was highlighted through its varied offer of industrial services. Trajectory",
-        "no": "SalmonChiles ledelse i akvakultursektoren ga ny støtte med den offisielle ankomsten til Grupo Salmovac til fagforeningen. Med denne oppføringen forsterker bransjeforeningen sin posisjonering som det viktigste møtepunktet for produsenter og leverandører av industrien. Innlemmelsen av firmaet ble feiret av SalmonChile innenfor rammen av dets 40 års historie. Forbundet la vekt på organisasjonens historie innen akvakulturinokulering, og fremhevet at den har vært en sentral aktør i halvparten av foreningens historie. På samme måte ble dens sterke innvirkning på utviklingen av det sørlige Chile fremhevet gjennom det varierte tilbudet av industrielle tjenester. Bane"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "José Ramón Gutiérrez recibe reconocimiento por su aporte histórico a la salmonicultura",
-        "en": "José Ramón Gutiérrez receives recognition for his historical contribution to salmon farming",
-        "no": "José Ramón Gutiérrez mottar anerkjennelse for sitt historiske bidrag til lakseoppdrett"
-      },
-      "url": "https://www.mundoacuicola.cl/new/jose-ramon-gutierrez-arrivillaga-recibe-reconocimiento-especial-por-su-liderazgo-y-aporte-historico-al-desarrollo-de-la-industria-del-salmon/",
-      "date": "Fri, 29 May 2026 18:56:08 +0000",
-      "summary": {
-        "es": "El presidente ejecutivo de Multi X fue homenajeado durante la conmemoración de los 50 años de la salmonicultura realizada en Puerto Montt, en una jornada marcada por memoria sectorial, reflexión y reconocimiento a quienes han contribuido al desarrollo de una de las principales actividades productivas del sur austral. La entrada José Ramón Gutiérrez recibe reconocimiento por su aporte histórico a la salmonicultura se publicó primero en Mundoacuicola .",
-        "en": "The executive president of Multi The entry José Ramón Gutiérrez receives recognition for his historical contribution to salmon farming was first published in Mundoacuicola.",
-        "no": "Den administrerende presidenten i Multi. Innslaget José Ramón Gutiérrez mottar anerkjennelse for sitt historiske bidrag til lakseoppdrett ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": false
-    },
-    {
-      "title": {
-        "es": "Con pasta y pizza: La estrategia de Noruega para consolidar el salmón en el mercado italiano al 2030",
-        "en": "With pasta and pizza: Norway's strategy to consolidate salmon in the Italian market by 2030",
-        "no": "Med pasta og pizza: Norges strategi for å konsolidere laks i det italienske markedet innen 2030"
-      },
-      "url": "https://infosalmon.cl/noruega-plan-maestro-consumo-salmon-italia-2030/",
-      "date": "Sun, 31 May 2026 23:32:11 +0000",
-      "summary": {
-        "es": "A través de alianzas con chef locales e influencers, el plan de noruega busca fusionar el salmón del atlántico con los dos pilares de la cocina italiana: la pasta y la pizza. El objetivo es competir directamente con proteínas líderes como el pollo y el atún, capturando el segmento de adultos jóvenes y hogares de altos ingresos. El desafío logístico no es menor. Aunque Italia es el tercer mercado para Noruega con una facturación que ya supera los $1,400 millones de USD, el análisis revela que más de 50.000 toneladas de pescado ingresan de forma indirecta tras ser procesadas en Polonia y Países Bajos, consolidando una red de distribución clave que ya sostiene el 8% de la producción acuícola nó",
-        "en": "Through alliances with local chefs and influencers, Norway's plan seeks to merge Atlantic salmon with the two pillars of Italian cuisine: pasta and pizza. The goal is to compete directly with leading proteins such as chicken and tuna, capturing the segment of young adults and high-income households. The logistical challenge is not minor. Although Italy is the third market for Norway with a turnover that already exceeds $1.4 billion USD, the analysis reveals that more than 50,000 tons of fish enter indirectly after being processed in Poland and the Netherlands, consolidating a key distribution network that already supports 8% of global aquaculture production.",
-        "no": "Gjennom allianser med lokale kokker og influencere søker Norges plan å slå atlantisk laks sammen med de to pilarene i det italienske kjøkkenet: pasta og pizza. Målet er å konkurrere direkte med ledende proteiner som kylling og tunfisk, og fange segmentet av unge voksne og høyinntektshusholdninger. Den logistiske utfordringen er ikke liten. Selv om Italia er det tredje markedet for Norge med en omsetning som allerede overstiger 1,4 milliarder USD, avslører analysen at mer enn 50 000 tonn fisk kommer inn indirekte etter å ha blitt behandlet i Polen og Nederland, og konsoliderer et sentralt distribusjonsnettverk som allerede støtter 8 % av den globale akvakulturproduksjonen."
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 18,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "El análisis de los resultados salmonicultores de Blumar",
-        "en": "The analysis of Blumar's salmon farming results",
-        "no": "Analysen av Blumars lakseoppdrettsresultater"
-      },
-      "url": "https://www.salmonexpert.cl/blumar-resultados/el-analisis-de-los-resultados-salmonicultores-de-blumar/2130383",
+      "url": "https://www.salmonexpert.cl/acuicultura-congreso-nacional-de-acuicultura-puerto-montt/congreso-nacional-de-acuicultura-abre-convocatoria-para-recibir-trabajos-cientificos/2133072",
       "date": "",
       "summary": {
-        "es": "A diferencia de su división pesca, la operación acuícola de la empresa registró pérdidas en el primer trimestre, por los menores precios de venta.",
-        "en": "Unlike its fishing division, the company's aquaculture operation recorded losses in the first quarter, due to lower sales prices.",
-        "no": "I motsetning til fiskeridivisjonen hadde selskapets akvakulturvirksomhet tap i første kvartal på grunn av lavere salgspriser."
+        "es": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales.",
+        "en": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales.",
+        "no": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 6,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "“Como proveedores tenemos mayor confianza para seguir invirtiendo en la salmonicultura”",
+        "en": "“Como proveedores tenemos mayor confianza para seguir invirtiendo en la salmonicultura”",
+        "no": "“Como proveedores tenemos mayor confianza para seguir invirtiendo en la salmonicultura”"
+      },
+      "url": "https://www.salmonexpert.cl/aquabench-datos-informacion/como-proveedores-tenemos-mayor-confianza-para-seguir-invirtiendo-en-la-salmonicultura/2131011",
+      "date": "",
+      "summary": {
+        "es": "La empresa Aquabench está realizando un lanzamiento clave para la industria chilena, en muestra de la confianza en el sector: la revolucionaria plataforma Salmobench Digital.",
+        "en": "La empresa Aquabench está realizando un lanzamiento clave para la industria chilena, en muestra de la confianza en el sector: la revolucionaria plataforma Salmobench Digital.",
+        "no": "La empresa Aquabench está realizando un lanzamiento clave para la industria chilena, en muestra de la confianza en el sector: la revolucionaria plataforma Salmobench Digital."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 6,
+      "cross_source": false
+    },
+    {
+      "title": {
+        "es": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón",
+        "en": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón",
+        "no": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón"
+      },
+      "url": "https://www.salmonexpert.cl/blumar-magallanes-resultados/plan-magallanes-blumar-preve-fuerte-crecimiento-a-35000-toneladas-de-salmon/2132284",
+      "date": "",
+      "summary": {
+        "es": "Tras la subdivisión de barrios aprobada en la región, la empresa puede producir un 50% más en los mismos sitios, reduciendo ciclos a solamente 2 años.",
+        "en": "Tras la subdivisión de barrios aprobada en la región, la empresa puede producir un 50% más en los mismos sitios, reduciendo ciclos a solamente 2 años.",
+        "no": "Tras la subdivisión de barrios aprobada en la región, la empresa puede producir un 50% más en los mismos sitios, reduciendo ciclos a solamente 2 años."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -190,45 +214,21 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 16,
+      "score": 8,
       "cross_source": false
     },
     {
       "title": {
-        "es": "Blumar reporta utilidades por US$15,6 millones al cierre del primer trimestre de 2026",
-        "en": "Blumar reports profits of US$15.6 million at the end of the first quarter of 2026",
-        "no": "Blumar rapporterer et overskudd på 15,6 millioner dollar ved utgangen av første kvartal 2026"
+        "es": "Banco de inversión afirma que las adquisiciones y fusiones continuarán en la salmonicultura",
+        "en": "Banco de inversión afirma que las adquisiciones y fusiones continuarán en la salmonicultura",
+        "no": "Banco de inversión afirma que las adquisiciones y fusiones continuarán en la salmonicultura"
       },
-      "url": "https://www.aqua.cl/blumar-reporta-utilidades-por-us156-millones-al-cierre-del-primer-trimestre-de-2026/",
-      "date": "Mon, 01 Jun 2026 10:48:00 +0000",
-      "summary": {
-        "es": "Blumar reportó ingresos consolidados por US$192,5 millones al cierre del primer trimestre de 2026, lo que representa una disminución de -8% respecto del mismo período del año anterior. Por su parte, el Ebitda pre-ajuste fair value alcanzó los US$34,4 millones, reflejando una baja de -3%, mientras que la utilidad neta totalizó US$15,6 millones, cifra 44% inferior a la registrada en el primer trimestre de 2025. En este último, US$18.8 corresponden al negocio de Pesca y US$ -3,1 millones de salmones. El desempeño del trimestre estuvo marcado por diferencias importantes entre segmentos. Mientras el negocio Salmones enfrentó presión por los precios internacionales, menores volúmenes de cosecha y ",
-        "en": "Blumar reported consolidated revenues of US$192.5 million at the end of the first quarter of 2026, which represents a decrease of -8% compared to the same period of the previous year. For its part, Ebitda pre-fair value adjustment reached US$34.4 million, reflecting a decrease of -3%, while net profit totaled US$15.6 million, a figure 44% lower than that registered in the first quarter of 2025. In the latter, US$18.8 correspond to the Fishing business and US$ -3.1 million to salmon. The quarter's performance was marked by important differences between segments. While the Salmon business faced pressure from international prices, lower harvest volumes and",
-        "no": "Blumar rapporterte konsoliderte inntekter på USD 192,5 millioner ved utgangen av første kvartal 2026, som representerer en nedgang på -8 % sammenlignet med samme periode året før. På sin side nådde Ebitda-justeringen før virkelig verdi USD 34,4 millioner, noe som reflekterer en nedgang på -3 %, mens nettoresultatet var USD 15,6 millioner, et tall 44 % lavere enn det som ble registrert i første kvartal 2025. I sistnevnte tilsvarer USD 18,8 til Fiskevirksomheten og USD -3,1 millioner til laks. Kvartalets resultat var preget av viktige forskjeller mellom segmentene. Mens laksevirksomheten møtte press fra internasjonale priser, lavere slaktevolum og"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 12,
-      "cross_source": false
-    },
-    {
-      "title": {
-        "es": "El salmón chileno brilla en la primera\nedición del Coller FAIRR Seafood Index",
-        "en": "Chilean salmon shines in the first\nedition of the Coller FAIRR Seafood Index",
-        "no": "Chilensk laks skinner i den første\nutgaven av Coller FAIRR Seafood Index"
-      },
-      "url": "https://www.salmonexpert.cl/cermaq-coller-fairr-index-mitsubishi/el-salmon-chileno-brilla-en-la-primera-edicion-del-coller-fairr-seafood-index/2130322",
+      "url": "https://www.salmonexpert.cl/adquisicion-bancos-compra/banco-de-inversion-afirma-que-las-adquisiciones-y-fusiones-continuaran-en-la-salmonicultura/2131749",
       "date": "",
       "summary": {
-        "es": "Empresas como Mowi, Salmones Camanchaca, Multi X, Nissui y Mitsubishi Corporation, que controlan a Salmones Antártica y a Cermaq, destacaron en el ranking.",
-        "en": "Companies such as Mowi, Salmones Camanchaca, Multi X, Nissui and Mitsubishi Corporation, which control Salmones Antártica and Cermaq, stood out in the ranking.",
-        "no": "Selskaper som Mowi, Salmones Camanchaca, Multi X, Nissui og Mitsubishi Corporation, som kontrollerer Salmones Antártica og Cermaq, skilte seg ut på rangeringen."
+        "es": "\"Existen muchas pequeñas y medianas empresas familiares en la cadena de valor que se enfrentan a un cambio generacional\", dan a conocer desde el SpareBank 1.",
+        "en": "\"Existen muchas pequeñas y medianas empresas familiares en la cadena de valor que se enfrentan a un cambio generacional\", dan a conocer desde el SpareBank 1.",
+        "no": "\"Existen muchas pequeñas y medianas empresas familiares en la cadena de valor que se enfrentan a un cambio generacional\", dan a conocer desde el SpareBank 1."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -238,21 +238,21 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 12,
-      "cross_source": true
+      "score": 8,
+      "cross_source": false
     },
     {
       "title": {
         "es": "Las nuevas oportunidades de crecimiento en Asia proyectadas por AquaChile",
-        "en": "The new growth opportunities in Asia projected by AquaChile",
-        "no": "De nye vekstmulighetene i Asia anslått av AquaChile"
+        "en": "Las nuevas oportunidades de crecimiento en Asia proyectadas por AquaChile",
+        "no": "Las nuevas oportunidades de crecimiento en Asia proyectadas por AquaChile"
       },
       "url": "https://www.salmonexpert.cl/aquachile-asia-crecimiento/las-nuevas-oportunidades-de-crecimiento-en-asia-proyectadas-por-aquachile/2130891",
       "date": "",
       "summary": {
-        "es": "La empresa cuenta con presencia en mercados como Tailandia, Vietnam, Filipinas e Indonesia, donde observa oportunidades relevantes para seguir desarrollando la categoría y ampliar su participación.",
-        "en": "The company has a presence in markets such as Thailand, Vietnam, the Philippines and Indonesia, where it sees relevant opportunities to continue developing the category and expand its participation.",
-        "no": "Selskapet har tilstedeværelse i markeder som Thailand, Vietnam, Filippinene og Indonesia, hvor det ser relevante muligheter for å fortsette å utvikle kategorien og utvide sin deltakelse."
+        "es": "",
+        "en": "",
+        "no": ""
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -262,31 +262,31 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 10,
+      "score": 6,
       "cross_source": false
     },
     {
       "title": {
-        "es": "El despertar del gigante japonés: Gobierno y empresas japonesas buscan la autonomía del salmón ante la subida de precios y la presión de China",
-        "en": "The awakening of the Japanese giant: Japanese government and companies seek the autonomy of salmon in the face of rising prices and pressure from China",
-        "no": "Den japanske gigantens oppvåkning: Japanske myndigheter og selskaper søker laksens autonomi i møte med stigende priser og press fra Kina"
+        "es": "Ventisqueros entrega fondos a escuelas de Quemchi para educación ambiental y sostenibilidad",
+        "en": "Ventisqueros entrega fondos a escuelas de Quemchi para educación ambiental y sostenibilidad",
+        "no": "Ventisqueros entrega fondos a escuelas de Quemchi para educación ambiental y sostenibilidad"
       },
-      "url": "https://infosalmon.cl/japon-cultivo-local-salmon-crisis-logistica-sistema-ras/",
-      "date": "Mon, 01 Jun 2026 00:16:07 +0000",
+      "url": "https://www.salmonexpert.cl/escuelas-quemchi-ventisqueros/ventisqueros-entrega-fondos-a-escuelas-de-quemchi-para-educacion-ambiental-y-sostenibilidad/2129347",
+      "date": "",
       "summary": {
-        "es": "Las tensiones geopolíticas en Medio Oriente han obligado a las aerolíneas de carga a desviar las rutas tradicionales desde Europa, implementando trayectos más extensos que bordean el Ártico. Este cambio, sumado a la depreciación del Yen, provocó que el salmón alcanzara los 3.980 JYP por kilo (20 USD Aprox), registrando un alza del 60% en comparación con los últimos cinco años. Esta escalada de precios generó un fenómeno de paridad de precios en los puntos de venta minorista de Japón. Actualmente, en las pescaderías de prefecturas como Chiba, el salmón importado se comercializa al mismo nivel que el producto fresco local, situándose en torno a los 450 yenes por cada 100 gramos (unos 2,83 USD ",
-        "en": "Geopolitical tensions in the Middle East have forced cargo airlines to divert traditional routes from Europe, implementing longer routes that skirt the Arctic. This change, added to the depreciation of the Yen, caused salmon to reach 3,980 JYP per kilo (approximately 20 USD), registering an increase of 60% compared to the last five years. This price escalation generated a phenomenon of price parity in retail outlets in Japan. Currently, in fishmongers in prefectures such as Chiba, imported salmon is sold at the same level as fresh local produce, at around 450 yen per 100 grams (about US$2.83).",
-        "no": "Geopolitiske spenninger i Midtøsten har tvunget fraktflyselskaper til å avlede tradisjonelle ruter fra Europa, og implementere lengre ruter som går rundt Arktis. Denne endringen, lagt til svekkelsen av yenen, førte til at laksen nådde 3 980 JYP per kilo (omtrent 20 USD), og registrerte en økning på 60 % sammenlignet med de siste fem årene. Denne priseskaleringen genererte et fenomen med prisparitet i utsalgssteder i Japan. For øyeblikket, i fiskehandlere i prefekturer som Chiba, selges importert laks på samme nivå som ferske lokale råvarer, til rundt 450 yen per 100 gram (omtrent 2,83 USD)."
+        "es": "A través de su programa Escuelas Sustentables, la compañía apoyará iniciativas de reciclaje, manejo de residuos, educación ambiental y recuperación de espacios desarrolladas por establecimientos educacionales.",
+        "en": "A través de su programa Escuelas Sustentables, la compañía apoyará iniciativas de reciclaje, manejo de residuos, educación ambiental y recuperación de espacios desarrolladas por establecimientos educacionales.",
+        "no": "A través de su programa Escuelas Sustentables, la compañía apoyará iniciativas de reciclaje, manejo de residuos, educación ambiental y recuperación de espacios desarrolladas por establecimientos educacionales."
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "environment",
       "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljo og baerekraft"
       },
-      "score": 10,
+      "score": 9,
       "cross_source": false
     }
   ]
