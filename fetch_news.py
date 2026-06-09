@@ -491,6 +491,14 @@ def main():
     print(f"\nWrote {OUTPUT_JSON}")
 
     print("\nPushing to GitHub...")
+    # Clear any stale git lock files before touching the repo
+    import glob as _glob
+    for lock in _glob.glob(str(REPO_ROOT / ".git" / "**" / "*.lock"), recursive=True):
+        try:
+            Path(lock).unlink()
+            print(f"  Removed stale lock: {lock}")
+        except Exception:
+            pass
     try:
         subprocess.run(["git", "-C", str(REPO_ROOT), "add", str(OUTPUT_JSON)],
                        check=True, capture_output=True)
@@ -500,7 +508,18 @@ def main():
         if "nothing to commit" in res.stdout:
             print("  No changes.")
         else:
-            subprocess.run(["git", "-C", str(REPO_ROOT), "push", "origin", "HEAD"],
+            subprocess.run(["git", "-C", str(REPO_ROOT), "push", "origin", "HEAD:main"],
+                           check=True, capture_output=True)
+            print("  Pushed successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"  Git error: {e.stderr.decode() if e.stderr else e}", file=sys.stderr)
+
+    print("\nDone.\n")
+
+
+if __name__ == "__main__":
+    main()
+, "HEAD:main"],
                            check=True, capture_output=True)
             print("  Pushed successfully.")
     except subprocess.CalledProcessError as e:

@@ -167,7 +167,7 @@ const T = {
     sit_3:"We have an existing Chile presence that is underperforming",
     sit_4:"We are looking for a local partner or network",
     form_msg:"Message", form_send:"Send message",
-    ci_name:"Jaime Uribe", ci_role:"Primary contact",
+    ci_name:"Javier Infante", ci_role:"Primary contact",
     ci_email_lbl:"Email", ci_base_lbl:"Base", ci_base:"Puerto Varas, Chile",
   },
   no: {
@@ -333,7 +333,7 @@ const T = {
     sit_3:"Vi har en eksisterende Chile-tilstedeværelse som underpresterer",
     sit_4:"Vi ser etter en lokal partner eller nettverk",
     form_msg:"Melding", form_send:"Send melding",
-    ci_name:"Jaime Uribe", ci_role:"Primær kontakt",
+    ci_name:"Javier Infante", ci_role:"Primær kontakt",
     ci_email_lbl:"E-post", ci_base_lbl:"Beliggenhet", ci_base:"Puerto Varas, Chile",
   }
 };
