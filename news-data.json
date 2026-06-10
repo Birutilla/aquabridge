@@ -1,141 +1,46 @@
 {
-  "updated": "2026-06-08T13:37:35Z",
+  "updated": "2026-06-10T23:23:28Z",
   "articles": [
     {
       "title": {
-        "es": "Innovex Next Generation: Tecnología inteligente para una acuicultura más eficiente y conectada.",
-        "en": "Innovex Next Generation: Smart technology for more efficient and connected aquaculture.",
-        "no": "Innovex Next Generation: Smart teknologi for mer effektiv og tilkoblet akvakultur."
+        "es": "ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación",
+        "en": "ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación",
+        "no": "ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación"
       },
-      "url": "https://www.aqua.cl/innovex-next-generation-tecnologia-inteligente-para-una-acuicultura-mas-eficiente-y-conectada/",
-      "date": "Mon, 08 Jun 2026 10:49:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/adl-proyecta-una-nueva-etapa-para-la-salud-acuicola-basada-en-prevencion-e-innovacion/",
+      "date": "Wed, 10 Jun 2026 21:46:27 +0000",
       "summary": {
-        "es": "Hoy la industria acuícola enfrenta escenarios cada vez más exigentes, marcados por mayores regulaciones ambientales, variaciones climáticas y la necesidad de optimizar recursos y mantener operaciones continuas. En este contexto, la digitalización y automatización se han convertido en herramientas clave para lograr operaciones más eficientes, seguras y sostenibles. Frente a estos desafíos, Innovex ha desarrollado soluciones tecnológicas enfocadas en integrar datos operacionales y ambientales en plataformas centralizadas y de acceso remoto. Sus tecnologías consideran monitoreo ambiental en los centros de cultivo y pisciculturas, automatización en el control de parámetros fisicoquímicos del agu",
-        "en": "Today the aquaculture industry faces increasingly demanding scenarios, marked by greater environmental regulations, climatic variations and the need to optimize resources and maintain continuous operations. In this context, digitalization and automation have become key tools to achieve more efficient, safe and sustainable operations. Faced with these challenges, Innovex has developed technological solutions focused on integrating operational and environmental data into centralized and remote access platforms. Its technologies consider environmental monitoring in farming and fish farming centers, automation in the control of physicochemical parameters of the water.",
-        "no": "I dag står havbruksnæringen overfor stadig mer krevende scenarier, preget av større miljøreguleringer, klimatiske variasjoner og behovet for å optimalisere ressursene og opprettholde kontinuerlig drift. Digitalisering og automatisering har i denne sammenheng blitt sentrale verktøy for å oppnå mer effektiv, sikker og bærekraftig drift. Overfor disse utfordringene har Innovex utviklet teknologiske løsninger fokusert på å integrere drifts- og miljødata i sentraliserte og fjerntilgangsplattformer. Teknologien vurderer miljøovervåking i oppdretts- og fiskeoppdrettssentre, automatisering i kontrollen av fysisk-kjemiske parametere i vannet."
+        "es": "En el marco de la conmemoración organizada por Mundo Acuícola, la compañía repasó sus 26 años de aporte a la salud acuícola y reflexionó sobre los desafíos que marcarán la próxima etapa de la salmonicultura, desde la medicina preventiva hasta la inteligencia artificial y la colaboración científica. La entrada ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación se publicó primero en Mundoacuicola .",
+        "en": "En el marco de la conmemoración organizada por Mundo Acuícola, la compañía repasó sus 26 años de aporte a la salud acuícola y reflexionó sobre los desafíos que marcarán la próxima etapa de la salmonicultura, desde la medicina preventiva hasta la inteligencia artificial y la colaboración científica. La entrada ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación se publicó primero en Mundoacuicola .",
+        "no": "En el marco de la conmemoración organizada por Mundo Acuícola, la compañía repasó sus 26 años de aporte a la salud acuícola y reflexionó sobre los desafíos que marcarán la próxima etapa de la salmonicultura, desde la medicina preventiva hasta la inteligencia artificial y la colaboración científica. La entrada ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación se publicó primero en Mundoacuicola ."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 12,
-      "cross_source": false
+      "score": 9,
+      "cross_source": true,
+      "image": ""
     },
     {
       "title": {
-        "es": "¿Puede la sangre predecir el futuro de un centro de salmón? La propuesta de WellFish para Chile",
-        "en": "Can blood predict the future of a salmon farm? The WellFish proposal for Chile",
-        "no": "Kan blod forutsi fremtiden til en laksefarm? WellFish-forslaget for Chile"
+        "es": "SalmonChile refuerza puente entre liceos técnicos e industria con nueva versión de Academia Salmón",
+        "en": "SalmonChile refuerza puente entre liceos técnicos e industria con nueva versión de Academia Salmón",
+        "no": "SalmonChile refuerza puente entre liceos técnicos e industria con nueva versión de Academia Salmón"
       },
-      "url": "https://www.salmonexpert.cl/bienestar-animal-innovacion-muestreo/puede-la-sangre-predecir-el-futuro-de-un-centro-de-salmon-la-propuesta-de-wellfish-para-chile/2133089",
-      "date": "",
+      "url": "https://infosalmon.cl/academia-salmon-formacion-tecnico-profesional-los-lagos/",
+      "date": "Wed, 10 Jun 2026 16:39:52 +0000",
       "summary": {
-        "es": "WellFish busca introducir en Chile una tecnología que transforma biomarcadores sanguíneos en modelos predictivos de salud y mortalidad en la industria salmonicultora.",
-        "en": "WellFish seeks to introduce in Chile a technology that transforms blood biomarkers into predictive models of health and mortality in the salmon farming industry.",
-        "no": "WellFish søker å introdusere en teknologi i Chile som transformerer blodbiomarkører til prediktive modeller for helse og dødelighet i lakseoppdrettsindustrien."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 6,
-      "cross_source": false
-    },
-    {
-      "title": {
-        "es": "Empleos en salmonicultura: 15 vacantes activas para técnicos, profesionales y operarios en el sur de Chile",
-        "en": "Jobs in salmon farming: 15 active vacancies for technicians, professionals and operators in the south of Chile",
-        "no": "Jobber i lakseoppdrett: 15 aktive ledige stillinger for teknikere, fagfolk og operatører sør i Chile"
-      },
-      "url": "https://www.aqua.cl/empleos-en-salmonicultura-15-vacantes-activas-para-tecnicos-profesionales-y-operarios-en-el-sur-de-chile/",
-      "date": "Mon, 08 Jun 2026 10:48:00 +0000",
-      "summary": {
-        "es": "La salmonicultura chilena continúa consolidándose como uno de los principales motores de empleo en el sur austral del país. La constante expansión de las empresas productoras y proveedoras de servicios asociados a la acuicultura mantiene una alta demanda por técnicos, profesionales y operarios especializados para fortalecer distintas áreas estratégicas del sector. De acuerdo con la más reciente actualización de Empleos Aqua, actualmente existen 15 vacantes activas en las regiones de Los Lagos y Chiloé, orientadas a perfiles vinculados con calidad, mantenimiento industrial, producción, prevención de riesgos, servicios marítimos, logística y salud animal. Vacantes disponibles en salmonicultura",
-        "en": "Chilean salmon farming continues to consolidate itself as one of the main drivers of employment in the southern south of the country. The constant expansion of companies producing and providing services associated with aquaculture maintains a high demand for technicians, professionals and specialized operators to strengthen different strategic areas of the sector. According to the most recent update of Aqua Jobs, there are currently 15 active vacancies in the regions of Los Lagos and Chiloé, aimed at profiles linked to quality, industrial maintenance, production, risk prevention, maritime services, logistics and animal health. Vacancies available in salmon farming",
-        "no": "Chilensk lakseoppdrett fortsetter å konsolidere seg som en av hoveddriverne for sysselsetting i den sørlige sør av landet. Den stadige utvidelsen av selskaper som produserer og leverer tjenester knyttet til akvakultur opprettholder en høy etterspørsel etter teknikere, fagfolk og spesialiserte operatører for å styrke ulike strategiske områder i sektoren. I følge den siste oppdateringen av Aqua Jobs er det for tiden 15 aktive ledige stillinger i regionene Los Lagos og Chiloé, rettet mot profiler knyttet til kvalitet, industrielt vedlikehold, produksjon, risikoforebygging, maritime tjenester, logistikk og dyrehelse. Ledige stillinger innen lakseoppdrett"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 16,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "SalmonChile resalta el potencial de la economía azul para generar desarrollo y empleo",
-        "en": "SalmonChile highlights the potential of the blue economy to generate development and employment",
-        "no": "SalmonChile fremhever potensialet til den blå økonomien for å generere utvikling og sysselsetting"
-      },
-      "url": "https://www.aqua.cl/salmonchile-resalta-el-potencial-de-la-economia-azul-para-generar-desarrollo-y-empleo/",
-      "date": "Mon, 08 Jun 2026 10:47:00 +0000",
-      "summary": {
-        "es": "Con el propósito de estrechar vínculos con las nuevas generaciones y visibilizar los desafíos y oportunidades de los sectores productivos estratégicos del país, SalmonChile participó activamente en una nueva edición de “Conexión Empresarial FEN UDD 2026”. La iniciativa, organizada por la Facultad de Economía y Negocios de la Universidad del Desarrollo en su sede Concepción, se consolidó como un espacio de diálogo clave entre la academia y la industria. En la instancia, el director de Comunicaciones de SalmonChile, Francisco Renner, integró el panel “Desafíos de la Industria” junto a Macarena Cepeda, presidenta de Pescadores Industriales del Biobío. El conversatorio, moderado por Joaquín Laví",
-        "en": "With the purpose of strengthening ties with new generations and making visible the challenges and opportunities of the country's strategic productive sectors, SalmonChile actively participated in a new edition of “FEN UDD Business Connection 2026”. The initiative, organized by the Faculty of Economics and Business of the Universidad del Desarrollo at its Concepción headquarters, was consolidated as a key space for dialogue between academia and industry. In the instance, the Communications Director of SalmonChile, Francisco Renner, was a member of the “Industry Challenges” panel along with Macarena Cepeda, president of Pescadores Industriales del Biobío. The conversation, moderated by Joaquín Laví",
-        "no": "Med det formål å styrke båndene til nye generasjoner og synliggjøre utfordringene og mulighetene i landets strategiske produktive sektorer, deltok SalmonChile aktivt i en ny utgave av «FEN UDD Business Connection 2026». Initiativet, organisert av Fakultet for økonomi og næringsliv ved Universidad del Desarrollo ved Concepción-hovedkvarteret, ble konsolidert som et nøkkelrom for dialog mellom akademia og industri. For eksempel var kommunikasjonsdirektøren for SalmonChile, Francisco Renner, medlem av panelet \"Industry Challenges\" sammen med Macarena Cepeda, president for Pescadores Industriales del Biobío. Samtalen, moderert av Joaquín Laví"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "INCAR² y Hendrix Genetics unen ciencia y genética para fortalecer la resistencia sanitaria en salmonicultura",
-        "en": "INCAR² and Hendrix Genetics unite science and genetics to strengthen health resistance in salmon farming",
-        "no": "INCAR² og Hendrix Genetics forener vitenskap og genetikk for å styrke helseresistens i lakseoppdrett"
-      },
-      "url": "https://infosalmon.cl/incar2-hendrix-genetics-genomica-acuicola/",
-      "date": "Sun, 07 Jun 2026 20:12:17 +0000",
-      "summary": {
-        "es": "En el marco del fortalecimiento de alianzas estratégicas entre ciencia e industria, el Centro Interdisciplinario para la Investigación Acuícola-Investigación Aplicada, CIA-INCAR², recibió la visita de representantes de la empresa internacional Hendrix-Genetics, en una jornada de trabajo orientada a potenciar la investigación en genómica y sanidad de especies acuícolas. El encuentro se desarrolló en las dependencias del centro ubicadas en la Universidad de Concepción, instancia en la que ambas instituciones sostuvieron reuniones técnicas para abordar desafíos y oportunidades en áreas como genómica molecular, bioinformática y resistencia a enfermedades, con énfasis en patologías relevantes par",
-        "en": "Within the framework of strengthening strategic alliances between science and industry, the Interdisciplinary Center for Aquaculture Research-Applied Research, CIA-INCAR², received the visit of representatives of the international company Hendrix-Genetics, in a work day aimed at promoting research in genomics and health of aquaculture species. The meeting took place in the center's offices located at the University of Concepción, where both institutions held technical meetings to address challenges and opportunities in areas such as molecular genomics, bioinformatics and disease resistance, with emphasis on pathologies relevant to",
-        "no": "Innenfor rammen av å styrke strategiske allianser mellom vitenskap og industri, fikk Tverrfaglig senter for akvakulturforskning-anvendt forskning, CIA-INCAR², besøk av representanter for det internasjonale selskapet Hendrix-Genetics, i en arbeidsdag med sikte på å fremme forskning innen genomikk og helse til akvakulturarter. Møtet fant sted i senterets kontorer lokalisert ved University of Concepción, hvor begge institusjonene holdt tekniske møter for å ta opp utfordringer og muligheter innen områder som molekylær genomikk, bioinformatikk og sykdomsresistens, med vekt på patologier som er relevante for"
+        "es": "En una ceremonia que destaca el desarrollo del talento local, se realizó el lanzamiento oficial de la séptima versión de la Academia Salmón. Este programa, una de las iniciativas de vinculación educativa más relevantes de la salmonicultura, busca este año potenciar las competencias de 335 estudiantes de cuarto medio pertenecientes a 11 liceos técnico-profesionales de la Región de Los Lagos. La Academia Salmón es gestionada por el gremio SalmonChile junto a la Red Futuro Técnico —a través de ONG Canales— y ejecutada por OTEC Capital Humano Capacitación. En esta edición, cuenta con la participación activa de nueve empresas del sector, incluyendo tanto compañías productoras como proveedoras, re",
+        "en": "En una ceremonia que destaca el desarrollo del talento local, se realizó el lanzamiento oficial de la séptima versión de la Academia Salmón. Este programa, una de las iniciativas de vinculación educativa más relevantes de la salmonicultura, busca este año potenciar las competencias de 335 estudiantes de cuarto medio pertenecientes a 11 liceos técnico-profesionales de la Región de Los Lagos. La Academia Salmón es gestionada por el gremio SalmonChile junto a la Red Futuro Técnico —a través de ONG Canales— y ejecutada por OTEC Capital Humano Capacitación. En esta edición, cuenta con la participación activa de nueve empresas del sector, incluyendo tanto compañías productoras como proveedoras, re",
+        "no": "En una ceremonia que destaca el desarrollo del talento local, se realizó el lanzamiento oficial de la séptima versión de la Academia Salmón. Este programa, una de las iniciativas de vinculación educativa más relevantes de la salmonicultura, busca este año potenciar las competencias de 335 estudiantes de cuarto medio pertenecientes a 11 liceos técnico-profesionales de la Región de Los Lagos. La Academia Salmón es gestionada por el gremio SalmonChile junto a la Red Futuro Técnico —a través de ONG Canales— y ejecutada por OTEC Capital Humano Capacitación. En esta edición, cuenta con la participación activa de nueve empresas del sector, incluyendo tanto compañías productoras como proveedoras, re"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Puerto Varas fue escenario del Premio Avonni y del debate sobre el potencial innovador del sur",
-        "en": "Puerto Varas was the scene of the Avonni Prize and the debate on the innovative potential of the south",
-        "no": "Puerto Varas var åstedet for Avonni-prisen og debatten om det innovative potensialet i sør"
-      },
-      "url": "https://www.aqua.cl/puerto-varas-fue-escenario-del-premio-avonni-y-del-debate-sobre-el-potencial-innovador-del-sur/",
-      "date": "Mon, 08 Jun 2026 10:43:00 +0000",
-      "summary": {
-        "es": "Puerto Varas fue sede de un nuevo encuentro organizado por Startup Patagonia, Sofofa Hub y Avonni, instancia que reunió a líderes del sector público, privado y del ecosistema emprendedor para analizar las oportunidades de innovación que ofrece la macrozona sur de Chile. La jornada tuvo como expositora principal la fundadora y CEO de Sudvet, Marcela Delgado, empresa socia de SalmonChile, quien compartió la experiencia de construir desde la Patagonia una compañía biotecnológica con proyección internacional. En la ocasión también se realizó el lanzamiento regional de una nueva edición del Premio Avonni, considerado el principal reconocimiento a la innovación en Chile. Durante el encuentro se de",
-        "en": "Puerto Varas hosted a new meeting organized by Startup Patagonia, Sofofa Hub and Avonni, an event that brought together leaders from the public and private sectors and the entrepreneurial ecosystem to analyze the innovation opportunities offered by the southern macrozone of Chile. The main speaker of the day was the founder and CEO of Sudvet, Marcela Delgado, a partner company of SalmonChile, who shared the experience of building a biotechnology company with international projection from Patagonia. On the occasion, the regional launch of a new edition of the Avonni Award was also held, considered the main recognition of innovation in Chile. During the meeting",
-        "no": "Puerto Varas var vertskap for et nytt møte organisert av Startup Patagonia, Sofofa Hub og Avonni, et arrangement som samlet ledere fra offentlig og privat sektor og gründerøkosystemet for å analysere innovasjonsmulighetene som tilbys av den sørlige makrosonen i Chile. Dagens hovedtaler var grunnleggeren og administrerende direktør i Sudvet, Marcela Delgado, et partnerselskap til SalmonChile, som delte erfaringen med å bygge et bioteknologiselskap med internasjonal projeksjon fra Patagonia. I anledningen ble også den regionale lanseringen av en ny utgave av Avonni-prisen holdt, ansett som den viktigste anerkjennelsen for innovasjon i Chile. Under møtet"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -143,44 +48,21 @@
         "no": "Bransjenyheter"
       },
       "score": 13,
-      "cross_source": true
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/AcademiaSalmon-2-scaled.jpg"
     },
     {
       "title": {
-        "es": "Proyectos acuícolas avanzan en mayo dentro de récord histórico de inversión ambiental",
-        "en": "Aquaculture projects advance in May within a historical record of environmental investment",
-        "no": "Akvakulturprosjekter går videre i mai innenfor en historisk oversikt over miljøinvesteringer"
+        "es": "Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación",
+        "en": "Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación",
+        "no": "Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación"
       },
-      "url": "https://www.aqua.cl/proyectos-acuicolas-avanzan-en-mayo-dentro-de-record-historico-de-inversion-ambiental/",
-      "date": "Mon, 08 Jun 2026 10:50:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/patagonic-ras-2026-reunira-a-expertos-para-abordar-innovacion-y-sostenibilidad-en-acuicultura-de-recirculacion/",
+      "date": "Wed, 10 Jun 2026 19:41:44 +0000",
       "summary": {
-        "es": "El Servicio de Evaluación Ambiental (SEA) informó que durante mayo de 2026 se aprobaron proyectos por una inversión total de US$13.962 millones, cifra que constituye el monto más alto registrado en un mes calendario desde la creación del Sistema de Evaluación de Impacto Ambiental (SEIA) en 1992. En total, fueron calificadas favorablemente 32 iniciativas distribuidas en 14 regiones del país, además de un proyecto de carácter interregional. Entre ellas destacaron también diversas iniciativas vinculadas a la acuicultura y mitilicultura en las regiones de Los Lagos y Aysén. En la región de Los Lagos fueron aprobados tres proyectos. Uno de ellos corresponde a la modificación del proyecto Centro d",
-        "en": "The Environmental Evaluation Service (SEA) reported that during May 2026, projects were approved for a total investment of US$13,962 million, a figure that constitutes the highest amount recorded in a calendar month since the creation of the Environmental Impact Assessment System (SEIA) in 1992. In total, 32 initiatives distributed in 14 regions of the country, in addition to one interregional project, were favorably rated. Among them, various initiatives linked to aquaculture and mussel farming in the regions of Los Lagos and Aysén also stood out. In the Los Lagos region, three projects were approved. One of them corresponds to the modification of the Centro d project.",
-        "no": "Environmental Evaluation Service (SEA) rapporterte at i løpet av mai 2026 ble prosjekter godkjent for en total investering på USD 13 962 millioner, et tall som utgjør det høyeste beløpet som er registrert i en kalendermåned siden opprettelsen av Environmental Impact Assessment System (SEIA) i 1992. Totalt ble 32 initiativer fordelt på 14 prosjekter fordelt på 14 regioner, i tillegg fordelt på én region. Blant dem skilte også ulike initiativ knyttet til akvakultur og blåskjelloppdrett i regionene Los Lagos og Aysén seg ut. I Los Lagos-regionen ble tre prosjekter godkjent. En av dem tilsvarer modifikasjonen av Centro d-prosjektet."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 11,
-      "cross_source": true
-    },
-    {
-      "title": {
-        "es": "Reviva la conmemoración de los 50 años de la salmonicultura: Mundo Acuícola comparte video resumen del encuentro realizado en Puerto Montt",
-        "en": "Relive the commemoration of the 50 years of salmon farming: Mundo Acuícola shares video summary of the meeting held in Puerto Montt",
-        "no": "Gjenopplev markeringen av 50 år med lakseoppdrett: Mundo Acuícola deler videooppsummering av møtet som ble holdt i Puerto Montt"
-      },
-      "url": "https://www.mundoacuicola.cl/new/reviva-la-conmemoracion-de-los-50-anos-de-la-salmonicultura-mundo-acuicola-comparte-video-resumen-del-encuentro-realizado-en-puerto-montt/",
-      "date": "Fri, 05 Jun 2026 20:24:23 +0000",
-      "summary": {
-        "es": "A más de una semana de la histórica jornada que reunió a autoridades, trabajadores, pioneros, ejecutivos, proveedores y representantes del mundo acuícola, Mundo Acuícola invita a revivir los principales momentos de la conmemoración de los 50 años de la salmonicultura chilena a través de un video resumen disponible para toda la comunidad. La entrada Reviva la conmemoración de los 50 años de la salmonicultura: Mundo Acuícola comparte video resumen del encuentro realizado en Puerto Montt se publicó primero en Mundoacuicola .",
-        "en": "More than a week after the historic day that brought together authorities, workers, pioneers, executives, suppliers and representatives of the aquaculture world, Mundo Acuícola invites you to relive the main moments of the commemoration of the 50 years of Chilean salmon farming through a summary video available to the entire community. The entry Relive the commemoration of the 50 years of salmon farming: Mundo Acuícola shares video summary of the meeting held in Puerto Montt was first published in Mundoacuicola.",
-        "no": "Mer enn en uke etter den historiske dagen som samlet myndigheter, arbeidere, pionerer, ledere, leverandører og representanter fra akvakulturverdenen, inviterer Mundo Acuícola deg til å gjenoppleve hovedøyeblikkene av markeringen av de 50 årene med chilensk lakseoppdrett gjennom en sammendragsvideo som er tilgjengelig for hele samfunnet. Oppføringen Gjenopplev markeringen av 50 år med lakseoppdrett: Mundo Acuícola deler videosammendrag av møtet som ble holdt i Puerto Montt ble først publisert i Mundoacuicola."
+        "es": "BioMar Chile anunció la realización de Patagonic RAS 2026, la sexta edición de la conferencia internacional especializada en acuicultura de recirculación. El evento reunirá a expertos, investigadores y representantes de la industria para analizar experiencias operacionales, sostenibilidad, bioseguridad y bienestar de los peces en sistemas RAS. La entrada Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación se publicó primero en Mundoacuicola .",
+        "en": "BioMar Chile anunció la realización de Patagonic RAS 2026, la sexta edición de la conferencia internacional especializada en acuicultura de recirculación. El evento reunirá a expertos, investigadores y representantes de la industria para analizar experiencias operacionales, sostenibilidad, bioseguridad y bienestar de los peces en sistemas RAS. La entrada Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación se publicó primero en Mundoacuicola .",
+        "no": "BioMar Chile anunció la realización de Patagonic RAS 2026, la sexta edición de la conferencia internacional especializada en acuicultura de recirculación. El evento reunirá a expertos, investigadores y representantes de la industria para analizar experiencias operacionales, sostenibilidad, bioseguridad y bienestar de los peces en sistemas RAS. La entrada Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación se publicó primero en Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -190,21 +72,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 10,
-      "cross_source": false
+      "score": 12,
+      "cross_source": true,
+      "image": ""
     },
     {
       "title": {
-        "es": "Con el respaldo tecnológico de Evolux y la excelencia operativa de Biomasa, llevamos la eficiencia del fotoperíodo al 100% de tus ciclos",
-        "en": "With the technological support of Evolux and the operational excellence of Biomasa, we bring photoperiod efficiency to 100% of your cycles",
-        "no": "Med den teknologiske støtten fra Evolux og den operative fortreffeligheten til Biomasa, bringer vi fotoperiodeeffektiviteten til 100 % av syklusene dine"
+        "es": "Destacan la inocuidad alimentaria como pilar de la competitividad en la industria",
+        "en": "Destacan la inocuidad alimentaria como pilar de la competitividad en la industria",
+        "no": "Destacan la inocuidad alimentaria como pilar de la competitividad en la industria"
       },
-      "url": "https://www.aqua.cl/con-fotoperiodo-tempest-evolux-logra-positivos-resultados-en-100-de-ciclos-en-salmoneras/",
-      "date": "Mon, 08 Jun 2026 10:46:00 +0000",
+      "url": "https://www.aqua.cl/consejo-del-salmon-destaca-la-inocuidad-alimentaria-como-pilar-de-la-competitividad/",
+      "date": "Wed, 10 Jun 2026 10:51:00 +0000",
       "summary": {
-        "es": "Una serie de innovaciones, que tienen como eje conseguir un mayor resultado biológico con menos consumo de energía, ofrece EVOLUX Lighting Company, a través de su partner estratégico Biomasa (Una empresa Maqsur), a la acuicultura. El producto principal de esta empresa, con base en Puerto Varas, región de Los Lagos, es el fotoperíodo TEMPEST, sistema que se utiliza para controlar la maduración del salmón. “En los 10 años que llevamos desarrollando productos para acuicultura, hemos logrado el 100% de ciclos con resultados productivos favorables”, destaca Giovanni Chiappe, CEO de EVOLUX. Apuesta exitosa El ejecutivo señala que la firma nace en 2009, al inicio del cambio hacia la iluminación LED",
-        "en": "A series of innovations, whose axis is to achieve a greater biological result with less energy consumption, offers EVOLUX Lighting Company, through its strategic partner Biomass (A Maqsur company), to aquaculture. The main product of this company, based in Puerto Varas, Los Lagos region, is the TEMPEST photoperiod, a system used to control the maturation of salmon. “In the 10 years that we have been developing products for aquaculture, we have achieved 100% cycles with favorable productive results,” highlights Giovanni Chiappe, CEO of EVOLUX. Successful bet The executive points out that the firm was founded in 2009, at the beginning of the change towards LED lighting",
-        "no": "En rekke innovasjoner, hvis akse er å oppnå et større biologisk resultat med mindre energiforbruk, tilbyr EVOLUX Lighting Company, gjennom sin strategiske partner Biomass (A Maqsur-selskap), til akvakultur. Hovedproduktet til dette selskapet, basert i Puerto Varas, Los Lagos-regionen, er TEMPEST-fotoperioden, et system som brukes til å kontrollere modningen av laks. \"I løpet av de 10 årene vi har utviklet produkter for akvakultur, har vi oppnådd 100 % sykluser med gunstige produktive resultater,\" fremhever Giovanni Chiappe, administrerende direktør i EVOLUX. Vellykket veddemål Lederen påpeker at firmaet ble grunnlagt i 2009, i begynnelsen av endringen mot LED-belysning"
+        "es": "La inocuidad alimentaria constituye una responsabilidad compartida entre el Estado, el sector productivo, la ciencia y la academia. Esa fue una de las principales conclusiones del seminario “Política Nacional de Inocuidad y Calidad de los Alimentos”, organizado por la Agencia Chilena para la Inocuidad y Calidad Alimentaria (Achipia) en la Universidad Santo Tomás, en el marco de la conmemoración del Día Mundial de la Inocuidad de los Alimentos. Durante la actividad, la presidenta ejecutiva del Consejo del Salmón, Loreto Seguel, participó en el panel de gremios del sector productivo, instancia en la que abordó el rol estratégico que cumplen la inocuidad, la sanidad y la calidad alimentaria par",
+        "en": "La inocuidad alimentaria constituye una responsabilidad compartida entre el Estado, el sector productivo, la ciencia y la academia. Esa fue una de las principales conclusiones del seminario “Política Nacional de Inocuidad y Calidad de los Alimentos”, organizado por la Agencia Chilena para la Inocuidad y Calidad Alimentaria (Achipia) en la Universidad Santo Tomás, en el marco de la conmemoración del Día Mundial de la Inocuidad de los Alimentos. Durante la actividad, la presidenta ejecutiva del Consejo del Salmón, Loreto Seguel, participó en el panel de gremios del sector productivo, instancia en la que abordó el rol estratégico que cumplen la inocuidad, la sanidad y la calidad alimentaria par",
+        "no": "La inocuidad alimentaria constituye una responsabilidad compartida entre el Estado, el sector productivo, la ciencia y la academia. Esa fue una de las principales conclusiones del seminario “Política Nacional de Inocuidad y Calidad de los Alimentos”, organizado por la Agencia Chilena para la Inocuidad y Calidad Alimentaria (Achipia) en la Universidad Santo Tomás, en el marco de la conmemoración del Día Mundial de la Inocuidad de los Alimentos. Durante la actividad, la presidenta ejecutiva del Consejo del Salmón, Loreto Seguel, participó en el panel de gremios del sector productivo, instancia en la que abordó el rol estratégico que cumplen la inocuidad, la sanidad y la calidad alimentaria par"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -214,24 +97,125 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 10,
-      "cross_source": false
+      "score": 12,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/Panel-gremios-productivos-1024x769.jpg"
     },
     {
       "title": {
-        "es": "Subpesca plantea agregar valor a la jibia para enfrentar crisis de mercado",
-        "en": "Subpesca proposes adding value to cuttlefish to face market crisis",
-        "no": "Subpesca foreslår å tilføre verdi til blekksprut for å møte markedskrisen"
+        "es": "Nuevos empleos en salmonicultura: 15 vacantes activas para técnicos, profesionales y operarios",
+        "en": "Nuevos empleos en salmonicultura: 15 vacantes activas para técnicos, profesionales y operarios",
+        "no": "Nuevos empleos en salmonicultura: 15 vacantes activas para técnicos, profesionales y operarios"
       },
-      "url": "https://www.mundoacuicola.cl/new/subpesca-plantea-agregar-valor-a-la-jibia-para-enfrentar-crisis-de-mercado/",
-      "date": "Fri, 05 Jun 2026 15:54:17 +0000",
+      "url": "https://www.aqua.cl/nuevos-empleos-en-salmonicultura-15-vacantes-activas-para-tecnicos-profesionales-y-operarios/",
+      "date": "Wed, 10 Jun 2026 10:50:00 +0000",
       "summary": {
-        "es": "La autoridad advirtió que la caída de precios internacionales y de las exportaciones obliga a avanzar hacia nuevos productos, diversificación comercial e innovación para fortalecer la pesquería de jibia. La entrada Subpesca plantea agregar valor a la jibia para enfrentar crisis de mercado se publicó primero en Mundoacuicola .",
-        "en": "The authority warned that the fall in international prices and exports forces us to move towards new products, commercial diversification and innovation to strengthen the cuttlefish fishery. The entry Subpesca proposes adding value to cuttlefish to face market crisis was first published in Mundoacuicola.",
-        "no": "Myndigheten advarte om at fallet i internasjonale priser og eksport tvinger oss til å gå mot nye produkter, kommersiell diversifisering og innovasjon for å styrke blekksprutfisket. Oppføringen Subpesca foreslår å tilføre verdi til blekksprut for å møte markedskrisen ble først publisert i Mundoacuicola."
+        "es": "La industria acuícola continúa consolidándose como uno de los principales motores de empleo del sur de Chile. Las nuevas ofertas laborales publicadas por Empleos Aqua evidencian la constante necesidad de capital humano especializado para fortalecer áreas estratégicas de la salmonicultura y los servicios asociados. Las vacantes disponibles consideran perfiles técnicos, profesionales y operativos, con oportunidades en producción de salmón, mantenimiento industrial, logística, calidad, abastecimiento, administración y operaciones acuícolas en distintas localidades de la Región de Los Lagos y la macrozona sur. De acuerdo con la última actualización del portal Empleos Aqua, actualmente se encuent",
+        "en": "La industria acuícola continúa consolidándose como uno de los principales motores de empleo del sur de Chile. Las nuevas ofertas laborales publicadas por Empleos Aqua evidencian la constante necesidad de capital humano especializado para fortalecer áreas estratégicas de la salmonicultura y los servicios asociados. Las vacantes disponibles consideran perfiles técnicos, profesionales y operativos, con oportunidades en producción de salmón, mantenimiento industrial, logística, calidad, abastecimiento, administración y operaciones acuícolas en distintas localidades de la Región de Los Lagos y la macrozona sur. De acuerdo con la última actualización del portal Empleos Aqua, actualmente se encuent",
+        "no": "La industria acuícola continúa consolidándose como uno de los principales motores de empleo del sur de Chile. Las nuevas ofertas laborales publicadas por Empleos Aqua evidencian la constante necesidad de capital humano especializado para fortalecer áreas estratégicas de la salmonicultura y los servicios asociados. Las vacantes disponibles consideran perfiles técnicos, profesionales y operativos, con oportunidades en producción de salmón, mantenimiento industrial, logística, calidad, abastecimiento, administración y operaciones acuícolas en distintas localidades de la Región de Los Lagos y la macrozona sur. De acuerdo con la última actualización del portal Empleos Aqua, actualmente se encuent"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 9,
+      "cross_source": false,
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/267f.png"
+    },
+    {
+      "title": {
+        "es": "PTI Industria Sostenible del Salmón impulsa plataforma B2B para conectar a proveedores con salmoneras",
+        "en": "PTI Industria Sostenible del Salmón impulsa plataforma B2B para conectar a proveedores con salmoneras",
+        "no": "PTI Industria Sostenible del Salmón impulsa plataforma B2B para conectar a proveedores con salmoneras"
+      },
+      "url": "https://infosalmon.cl/plataforma-digital-proveedores-salmonicultura-pti-singulares/",
+      "date": "Wed, 10 Jun 2026 21:08:43 +0000",
+      "summary": {
+        "es": "La instancia, realizada el 19 de mayo en Puerto Montt, convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector. En el marco de su hoja de ruta orientada a fortalecer la sostenibilidad y competitividad del sector salmonicultor, el Programa Territorial Integrado (PTI) Industria Sostenible del Salmón, iniciativa impulsada por Corfo Los Lagos, adjudicó a la consultora Singulares, la licitación Sistema integral de caracterización de proveedores de la industria del salmón y desarrollo de plataforma digital de vinculación B2B. La iniciativa contempla la creación d",
+        "en": "La instancia, realizada el 19 de mayo en Puerto Montt, convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector. En el marco de su hoja de ruta orientada a fortalecer la sostenibilidad y competitividad del sector salmonicultor, el Programa Territorial Integrado (PTI) Industria Sostenible del Salmón, iniciativa impulsada por Corfo Los Lagos, adjudicó a la consultora Singulares, la licitación Sistema integral de caracterización de proveedores de la industria del salmón y desarrollo de plataforma digital de vinculación B2B. La iniciativa contempla la creación d",
+        "no": "La instancia, realizada el 19 de mayo en Puerto Montt, convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector. En el marco de su hoja de ruta orientada a fortalecer la sostenibilidad y competitividad del sector salmonicultor, el Programa Territorial Integrado (PTI) Industria Sostenible del Salmón, iniciativa impulsada por Corfo Los Lagos, adjudicó a la consultora Singulares, la licitación Sistema integral de caracterización de proveedores de la industria del salmón y desarrollo de plataforma digital de vinculación B2B. La iniciativa contempla la creación d"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 9,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/V1-.png"
+    },
+    {
+      "title": {
+        "es": "INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad",
+        "en": "INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad",
+        "no": "INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad"
+      },
+      "url": "https://www.mundoacuicola.cl/new/incar%c2%b2-estrena-una-nueva-iniciativa-la-serie-podcast-dialogos-acuicolas-para-acercar-la-ciencia-al-sector-productivo-academico-y-a-la-sociedad/",
+      "date": "Wed, 10 Jun 2026 17:36:12 +0000",
+      "summary": {
+        "es": "El Centro de Investigación Aplicada, CIA-INCAR², presenta una nueva iniciativa que consiste en una serie de podcast orientada a acercar la investigación científica a públicos diversos mediante un lenguaje accesible. El ciclo inaugural está centrado en la piscirickettsiosis o Síndrome Rickettsial del Salmón (SRS), uno de los principales desafíos de la acuicultura chilena. La entrada INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad se publicó primero en Mundoacuicola .",
+        "en": "El Centro de Investigación Aplicada, CIA-INCAR², presenta una nueva iniciativa que consiste en una serie de podcast orientada a acercar la investigación científica a públicos diversos mediante un lenguaje accesible. El ciclo inaugural está centrado en la piscirickettsiosis o Síndrome Rickettsial del Salmón (SRS), uno de los principales desafíos de la acuicultura chilena. La entrada INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad se publicó primero en Mundoacuicola .",
+        "no": "El Centro de Investigación Aplicada, CIA-INCAR², presenta una nueva iniciativa que consiste en una serie de podcast orientada a acercar la investigación científica a públicos diversos mediante un lenguaje accesible. El ciclo inaugural está centrado en la piscirickettsiosis o Síndrome Rickettsial del Salmón (SRS), uno de los principales desafíos de la acuicultura chilena. La entrada INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad se publicó primero en Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": ""
+    },
+    {
+      "title": {
+        "es": "Sernapesca se suma a conferencia internacional sobre SRS en la salmonicultura",
+        "en": "Sernapesca se suma a conferencia internacional sobre SRS en la salmonicultura",
+        "no": "Sernapesca se suma a conferencia internacional sobre SRS en la salmonicultura"
+      },
+      "url": "https://www.aqua.cl/sernapesca-se-suma-a-conferencia-internacional-sobre-srs-en-la-salmonicultura/",
+      "date": "Wed, 10 Jun 2026 10:47:00 +0000",
+      "summary": {
+        "es": "A pocos meses de su realización, desde el Centro de Investigación Aplicada, CIA-INCAR², &nbsp;confirmaron el patrocinio del Servicio Nacional de Pesca y Acuicultura (Sernapesca) para la International Conference SRS2026, que será el primer encuentro internacional dedicado exclusivamente a la piscirickettsiosis, enfermedad causada por la bacteria&nbsp; Piscirickettsia salmonis &nbsp;y que provoca importantes pérdidas económicas para la salmonicultura chilena y despertando en la actualidad un creciente interés en otros países del Hemisferio Norte. En respuesta a este desafío, el Centro INCAR², apostó por organizar la conferencia SRS2026, iniciativa que busca generar un espacio de colaboración i",
+        "en": "A pocos meses de su realización, desde el Centro de Investigación Aplicada, CIA-INCAR², &nbsp;confirmaron el patrocinio del Servicio Nacional de Pesca y Acuicultura (Sernapesca) para la International Conference SRS2026, que será el primer encuentro internacional dedicado exclusivamente a la piscirickettsiosis, enfermedad causada por la bacteria&nbsp; Piscirickettsia salmonis &nbsp;y que provoca importantes pérdidas económicas para la salmonicultura chilena y despertando en la actualidad un creciente interés en otros países del Hemisferio Norte. En respuesta a este desafío, el Centro INCAR², apostó por organizar la conferencia SRS2026, iniciativa que busca generar un espacio de colaboración i",
+        "no": "A pocos meses de su realización, desde el Centro de Investigación Aplicada, CIA-INCAR², &nbsp;confirmaron el patrocinio del Servicio Nacional de Pesca y Acuicultura (Sernapesca) para la International Conference SRS2026, que será el primer encuentro internacional dedicado exclusivamente a la piscirickettsiosis, enfermedad causada por la bacteria&nbsp; Piscirickettsia salmonis &nbsp;y que provoca importantes pérdidas económicas para la salmonicultura chilena y despertando en la actualidad un creciente interés en otros países del Hemisferio Norte. En respuesta a este desafío, el Centro INCAR², apostó por organizar la conferencia SRS2026, iniciativa que busca generar un espacio de colaboración i"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": ""
+    },
+    {
+      "title": {
+        "es": "Ventas de salmón en Reino Unido superan los US$2.160 millones tras mayor demanda",
+        "en": "Ventas de salmón en Reino Unido superan los US$2.160 millones tras mayor demanda",
+        "no": "Ventas de salmón en Reino Unido superan los US$2.160 millones tras mayor demanda"
+      },
+      "url": "https://www.aqua.cl/ventas-de-salmon-en-reino-unido-superan-los-us2-160-millones-tras-mayor-demanda/",
+      "date": "Wed, 10 Jun 2026 10:46:00 +0000",
+      "summary": {
+        "es": "Las ventas de salmón en el Reino Unido alcanzaron casi 1.600 millones de libras esterlinas (US$2.160 millones) durante los últimos 12 meses hasta abril, reflejando una creciente preferencia de los consumidores por este producto y consolidando su posición como el pescado más popular del país. Las nuevas cifras muestran que se comercializaron más de 81.000 toneladas de salmón, con un incremento de 8,5% en volumen y de 7,3% en valor de ventas respecto al período anterior. En contraste, las ventas generales de pescado se mantuvieron prácticamente sin variaciones, confirmando el sólido desempeño de la categoría. Los resultados coinciden con una temporada en que los consumidores británicos buscan ",
+        "en": "Las ventas de salmón en el Reino Unido alcanzaron casi 1.600 millones de libras esterlinas (US$2.160 millones) durante los últimos 12 meses hasta abril, reflejando una creciente preferencia de los consumidores por este producto y consolidando su posición como el pescado más popular del país. Las nuevas cifras muestran que se comercializaron más de 81.000 toneladas de salmón, con un incremento de 8,5% en volumen y de 7,3% en valor de ventas respecto al período anterior. En contraste, las ventas generales de pescado se mantuvieron prácticamente sin variaciones, confirmando el sólido desempeño de la categoría. Los resultados coinciden con una temporada en que los consumidores británicos buscan ",
+        "no": "Las ventas de salmón en el Reino Unido alcanzaron casi 1.600 millones de libras esterlinas (US$2.160 millones) durante los últimos 12 meses hasta abril, reflejando una creciente preferencia de los consumidores por este producto y consolidando su posición como el pescado más popular del país. Las nuevas cifras muestran que se comercializaron más de 81.000 toneladas de salmón, con un incremento de 8,5% en volumen y de 7,3% en valor de ventas respecto al período anterior. En contraste, las ventas generales de pescado se mantuvieron prácticamente sin variaciones, confirmando el sólido desempeño de la categoría. Los resultados coinciden con una temporada en que los consumidores británicos buscan "
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "market",
       "category_label": {
         "es": "Mercado",
@@ -239,20 +223,21 @@
         "no": "Marked og naringsliv"
       },
       "score": 12,
-      "cross_source": false
+      "cross_source": false,
+      "image": ""
     },
     {
       "title": {
-        "es": "Noruega: Parlamento liquida el Consejo de Precios del salmón",
-        "en": "Norway: Parliament liquidates Salmon Price Council",
-        "no": "Norge: Stortinget avvikler lakseprisrådet"
+        "es": "Fernando Villarroel y proyección de la industria: “Concesiones más grandes, más distantes y con mejores condiciones ambientales”",
+        "en": "Fernando Villarroel y proyección de la industria: “Concesiones más grandes, más distantes y con mejores condiciones ambientales”",
+        "no": "Fernando Villarroel y proyección de la industria: “Concesiones más grandes, más distantes y con mejores condiciones ambientales”"
       },
-      "url": "https://infosalmon.cl/noruega-stortinget-abolicion-precio-norma-impuesto-salmon-2027/",
-      "date": "Fri, 05 Jun 2026 17:56:19 +0000",
+      "url": "https://infosalmon.cl/fernando-villarroel-y-proyeccion-de-la-industria/",
+      "date": "Tue, 09 Jun 2026 23:30:04 +0000",
       "summary": {
-        "es": "El parlamento de Noruega selló este viernes mediante una estrecha mayoría de 54 votos a favor y 47 en contra la moción que instruye al Poder Ejecutivo a extinguir de manera definitiva el régimen de «Precios Norma» (Normpris) y a disolver el Consejo de Precios de la Acuicultura (Prisrådet for havbruk) a contar del año tributario 2027. La resolución representa una dura derrota política para la coalición de Gobierno liderada por el Partido Laborista (Arbeiderpartiet), y fue posible gracias a un vuelco estratégico del Partido de Centro (Senterpartiet), de acuerdo con los fundamentos del bloque mayoritario, la decisión busca frenar la asfixia burocrática y devolver la legitimidad perdida al polém",
-        "en": "The Norwegian Parliament sealed this Friday with a narrow majority of 54 votes in favor and 47 against the motion that instructs the Executive Branch to definitively extinguish the \"Norm Prices\" regime (Normpris) and to dissolve the Aquaculture Price Council (Prisrådet for havbruk) starting from the tax year 2027. The resolution represents a harsh political defeat for the Government coalition led by the Labor Party (Arbeiderpartiet), and was possible thanks to a strategic turnaround of the Center Party (Senterpartiet), in accordance with the foundations of the majority bloc, the decision seeks to stop bureaucratic asphyxiation and return the lost legitimacy to the polem",
-        "no": "Stortinget beseglet denne fredagen med et knapt flertall på 54 stemmer for og 47 mot forslaget som pålegger administrasjonen å definitivt avskaffe Normpris-regimet og å oppløse Havbruksprisrådet (Prisrådet for havbruk) fra og med skatteåret 2027. Resolusjonen representerer et hardt nederlag for Labor. (Arbeiderpartiet), og var mulig takket være en strategisk snuoperasjon av Senterpartiet, i samsvar med grunnlaget for flertallsblokken, søker vedtaket å stoppe byråkratisk kvelning og returnere den tapte legitimiteten til polemikken."
+        "es": "Con casi tres décadas de trayectoria en la industria salmonera global —vínculo que incluye roles ejecutivos y gerenciales en Escocia, Canadá y Noruega—, Fernando Villarroel, gerente general de Mowi Chile , posee una perspectiva de largo alcance sobre el posicionamiento de la actividad acuícola nacional, consolidada hoy como el segundo producto de exportación del país detrás del cobre. En un análisis detallado sobre el momento actual que atraviesa el sector, el ejecutivo abordó en una entrevista en El Mercurio, el debate sobre el ritmo productivo, las condiciones de certeza jurídica indispensables para la inversión y las transformaciones de escala que requiere la salmonicultura chilena para r",
+        "en": "Con casi tres décadas de trayectoria en la industria salmonera global —vínculo que incluye roles ejecutivos y gerenciales en Escocia, Canadá y Noruega—, Fernando Villarroel, gerente general de Mowi Chile , posee una perspectiva de largo alcance sobre el posicionamiento de la actividad acuícola nacional, consolidada hoy como el segundo producto de exportación del país detrás del cobre. En un análisis detallado sobre el momento actual que atraviesa el sector, el ejecutivo abordó en una entrevista en El Mercurio, el debate sobre el ritmo productivo, las condiciones de certeza jurídica indispensables para la inversión y las transformaciones de escala que requiere la salmonicultura chilena para r",
+        "no": "Con casi tres décadas de trayectoria en la industria salmonera global —vínculo que incluye roles ejecutivos y gerenciales en Escocia, Canadá y Noruega—, Fernando Villarroel, gerente general de Mowi Chile , posee una perspectiva de largo alcance sobre el posicionamiento de la actividad acuícola nacional, consolidada hoy como el segundo producto de exportación del país detrás del cobre. En un análisis detallado sobre el momento actual que atraviesa el sector, el ejecutivo abordó en una entrevista en El Mercurio, el debate sobre el ritmo productivo, las condiciones de certeza jurídica indispensables para la inversión y las transformaciones de escala que requiere la salmonicultura chilena para r"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -262,32 +247,59 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 8,
-      "cross_source": false
+      "score": 10,
+      "cross_source": false,
+      "image": ""
     },
     {
       "title": {
-        "es": "Ventisqueros entrega fondos a escuelas de Quemchi para educación ambiental y sostenibilidad",
-        "en": "Ventisqueros delivers funds to Quemchi schools for environmental education and sustainability",
-        "no": "Ventisqueros leverer midler til Quemchi-skoler for miljøundervisning og bærekraft"
+        "es": "Subpesca destaca histórico operativo contra red de pesca ilegal en el sur",
+        "en": "Subpesca destaca histórico operativo contra red de pesca ilegal en el sur",
+        "no": "Subpesca destaca histórico operativo contra red de pesca ilegal en el sur"
       },
-      "url": "https://www.salmonexpert.cl/escuelas-quemchi-ventisqueros/ventisqueros-entrega-fondos-a-escuelas-de-quemchi-para-educacion-ambiental-y-sostenibilidad/2129347",
-      "date": "",
+      "url": "https://www.aqua.cl/subpesca-destaca-historico-operativo-contra-red-de-pesca-ilegal-en-el-sur/",
+      "date": "Wed, 10 Jun 2026 10:45:00 +0000",
       "summary": {
-        "es": "A través de su programa Escuelas Sustentables, la compañía apoyará iniciativas de reciclaje, manejo de residuos, educación ambiental y recuperación de espacios desarrolladas por establecimientos educacionales.",
-        "en": "Through its Sustainable Schools program, the company will support recycling, waste management, environmental education and space recovery initiatives developed by educational establishments.",
-        "no": "Gjennom sitt Sustainable Schools-program vil selskapet støtte resirkulering, avfallshåndtering, miljøopplæring og romgjenvinningsinitiativer utviklet av utdanningsinstitusjoner."
+        "es": "La Subsecretaría de Pesca y Acuicultura (Subpesca) destacó el operativo interregional desarrollado por la Policía de Investigaciones (PDI), el Ministerio Público, la Armada de Chile y el Servicio Nacional de Pesca y Acuicultura (Sernapesca), que permitió desarticular una organización criminal dedicada a la extracción, transporte y comercialización ilegal de recursos pesqueros en las regiones de Los Ríos y Los Lagos. La investigación, desarrollada durante más de dos años, culminó con allanamientos simultáneos, la detención de 54 personas y la incautación de más de 12 toneladas de salmón, más de $100 millones en efectivo y diversos bienes vinculados a actividades ilícitas. De acuerdo con los a",
+        "en": "La Subsecretaría de Pesca y Acuicultura (Subpesca) destacó el operativo interregional desarrollado por la Policía de Investigaciones (PDI), el Ministerio Público, la Armada de Chile y el Servicio Nacional de Pesca y Acuicultura (Sernapesca), que permitió desarticular una organización criminal dedicada a la extracción, transporte y comercialización ilegal de recursos pesqueros en las regiones de Los Ríos y Los Lagos. La investigación, desarrollada durante más de dos años, culminó con allanamientos simultáneos, la detención de 54 personas y la incautación de más de 12 toneladas de salmón, más de $100 millones en efectivo y diversos bienes vinculados a actividades ilícitas. De acuerdo con los a",
+        "no": "La Subsecretaría de Pesca y Acuicultura (Subpesca) destacó el operativo interregional desarrollado por la Policía de Investigaciones (PDI), el Ministerio Público, la Armada de Chile y el Servicio Nacional de Pesca y Acuicultura (Sernapesca), que permitió desarticular una organización criminal dedicada a la extracción, transporte y comercialización ilegal de recursos pesqueros en las regiones de Los Ríos y Los Lagos. La investigación, desarrollada durante más de dos años, culminó con allanamientos simultáneos, la detención de 54 personas y la incautación de más de 12 toneladas de salmón, más de $100 millones en efectivo y diversos bienes vinculados a actividades ilícitas. De acuerdo con los a"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "environment",
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "regulatory",
       "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
       },
-      "score": 9,
-      "cross_source": false
+      "score": 14,
+      "cross_source": true,
+      "image": ""
+    },
+    {
+      "title": {
+        "es": "Trabajadores pesqueros piden reabrir debate sobre la Ley de la Jibia",
+        "en": "Trabajadores pesqueros piden reabrir debate sobre la Ley de la Jibia",
+        "no": "Trabajadores pesqueros piden reabrir debate sobre la Ley de la Jibia"
+      },
+      "url": "https://www.aqua.cl/trabajadores-pesqueros-piden-reabrir-debate-sobre-la-ley-de-la-jibia/",
+      "date": "Wed, 10 Jun 2026 10:44:00 +0000",
+      "summary": {
+        "es": "Representantes del Personal Embarcado Industrial del Biobío solicitaron este martes ante la Comisión de Pesca, Acuicultura e Intereses Marítimos de la Cámara de Diputadas y Diputados reabrir la discusión sobre la pesquería de la jibia, planteando la necesidad de revisar la normativa vigente a la luz de los resultados observados desde la entrada en vigor de la Ley N.° 21.134. La exposición fue realizada por el presidente del Sindicato Interempresas de Oficiales de Máquinas y Marina Mercante Nacional, Eric Riffo; el director del Sindicato de Tripulantes Industriales del Biobío, Hugo Roa; y el presidente del Sindicato de Capitanes de Pesca Industrial, Juan Carlos González; quienes presentaron u",
+        "en": "Representantes del Personal Embarcado Industrial del Biobío solicitaron este martes ante la Comisión de Pesca, Acuicultura e Intereses Marítimos de la Cámara de Diputadas y Diputados reabrir la discusión sobre la pesquería de la jibia, planteando la necesidad de revisar la normativa vigente a la luz de los resultados observados desde la entrada en vigor de la Ley N.° 21.134. La exposición fue realizada por el presidente del Sindicato Interempresas de Oficiales de Máquinas y Marina Mercante Nacional, Eric Riffo; el director del Sindicato de Tripulantes Industriales del Biobío, Hugo Roa; y el presidente del Sindicato de Capitanes de Pesca Industrial, Juan Carlos González; quienes presentaron u",
+        "no": "Representantes del Personal Embarcado Industrial del Biobío solicitaron este martes ante la Comisión de Pesca, Acuicultura e Intereses Marítimos de la Cámara de Diputadas y Diputados reabrir la discusión sobre la pesquería de la jibia, planteando la necesidad de revisar la normativa vigente a la luz de los resultados observados desde la entrada en vigor de la Ley N.° 21.134. La exposición fue realizada por el presidente del Sindicato Interempresas de Oficiales de Máquinas y Marina Mercante Nacional, Eric Riffo; el director del Sindicato de Tripulantes Industriales del Biobío, Hugo Roa; y el presidente del Sindicato de Capitanes de Pesca Industrial, Juan Carlos González; quienes presentaron u"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": ""
     }
   ]
 }
