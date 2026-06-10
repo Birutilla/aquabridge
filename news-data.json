@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T23:27:53Z",
+  "updated": "2026-06-10T23:36:17Z",
   "articles": [
     {
       "title": {
@@ -24,7 +24,7 @@
       },
       "score": 9,
       "cross_source": true,
-      "image": ""
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/ADLConmemoracion.jpg"
     },
     {
       "title": {
@@ -112,7 +112,7 @@
       "summary": {
         "es": "BioMar Chile anunció la realización de Patagonic RAS 2026, la sexta edición de la conferencia internacional especializada en acuicultura de recirculación. El evento reunirá a expertos, investigadores y representantes de la industria para analizar experiencias operacionales, sostenibilidad, bioseguridad y bienestar de los peces en sistemas RAS. La entrada Patagonic RAS 2026 reunirá a expertos para abordar innovación y sostenibilidad en acuicultura de recirculación se publicó primero en Mundoacuicola .",
         "en": "BioMar Chile announced the holding of Patagonic RAS 2026, the sixth edition of the international conference specialized in recirculating aquaculture. The event will bring together experts, researchers and industry representatives to discuss operational experiences, sustainability, biosecurity and fish welfare in RAS systems. The entry Patagonic RAS 2026 will bring together experts to address innovation and sustainability in recirculating aquaculture was first published in Mundoacuicola.",
-        "no": "BioMar Chile kunngjorde avholdelsen av Patagonic RAS 2026, den sjette utgaven av den internasjonale konferansen spesialisert på resirkulering av akvakultur. Arrangementet vil samle eksperter, forskere og industrirepresentanter for å diskutere driftserfaringer, bærekraft, biosikkerhet og fiskevelferd i RAS-systemer. Oppføringen Patagonic RAS 2026 vil bringe sammen eksperter for å ta opp innovasjon og bærekraft i resirkulerende akvakultur ble først publisert i Mundoacuicola."
+        "no": "BioMar Chile kunngjorde avholdelsen av Patagonic RAS 2026, den sjette utgaven av den internasjonale konferansen spesialisert på resirkulering av akvakultur. Arrangementet vil samle eksperter, forskere og industrirepresentanter for å diskutere driftserfaringer, bærekraft, biosikkerhet og fiskevelferd i RAS-systemer. Oppføringen Patagonic RAS 2026 vil bringe sammen eksperter for å ta for seg innovasjon og bærekraft i resirkulerende akvakultur ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -124,20 +124,20 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": ""
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/PatagonicRAS2026.jpg"
     },
     {
       "title": {
         "es": "Destacan la inocuidad alimentaria como pilar de la competitividad en la industria",
         "en": "They highlight food safety as a pillar of competitiveness in the industry",
-        "no": "De fremhever mattrygghet som en pilar for konkurranseevnen i bransjen"
+        "no": "De fremhever mattrygghet som en bærebjelke for konkurranseevnen i næringen"
       },
       "url": "https://www.aqua.cl/consejo-del-salmon-destaca-la-inocuidad-alimentaria-como-pilar-de-la-competitividad/",
       "date": "Wed, 10 Jun 2026 10:51:00 +0000",
       "summary": {
         "es": "La inocuidad alimentaria constituye una responsabilidad compartida entre el Estado, el sector productivo, la ciencia y la academia. Esa fue una de las principales conclusiones del seminario “Política Nacional de Inocuidad y Calidad de los Alimentos”, organizado por la Agencia Chilena para la Inocuidad y Calidad Alimentaria (Achipia) en la Universidad Santo Tomás, en el marco de la conmemoración del Día Mundial de la Inocuidad de los Alimentos. Durante la actividad, la presidenta ejecutiva del Consejo del Salmón, Loreto Seguel, participó en el panel de gremios del sector productivo, instancia en la que abordó el rol estratégico que cumplen la inocuidad, la sanidad y la calidad alimentaria par",
         "en": "Food safety constitutes a shared responsibility between the State, the productive sector, science and academia. That was one of the main conclusions of the seminar “National Food Safety and Quality Policy”, organized by the Chilean Agency for Food Safety and Quality (Achipia) at the Santo Tomás University, within the framework of the commemoration of World Food Safety Day. During the activity, the executive president of the Salmon Council, Loreto Seguel, participated in the panel of unions of the productive sector, an instance in which she addressed the strategic role that food safety, health and quality play for",
-        "no": "Mattrygghet er et felles ansvar mellom staten, produksjonssektoren, vitenskap og akademia. Det var en av hovedkonklusjonene på seminaret «National Food Safety and Quality Policy», arrangert av det chilenske byrået for mattrygghet og kvalitet (Achipia) ved Santo Tomás-universitetet, innenfor rammen av markeringen av World Food Safety Day. Under aktiviteten deltok administrerende direktør for lakserådet, Loreto Seguel, i panelet av fagforeninger i den produktive sektoren, en instans der hun tok opp den strategiske rollen som mattrygghet, helse og kvalitet spiller for."
+        "no": "Mattrygghet er et felles ansvar mellom staten, produksjonssektoren, vitenskap og akademia. Det var en av hovedkonklusjonene på seminaret «Nasjonal mattrygghet og kvalitetspolitikk», arrangert av det chilenske byrået for mattrygghet og kvalitet (Achipia) ved Santo Tomás-universitetet, innenfor rammen av markeringen av Verdens mattrygghetsdag. Under aktiviteten deltok administrerende direktør for lakserådet, Loreto Seguel, i panelet av fagforeninger i den produktive sektoren, en instans der hun tok opp den strategiske rollen som mattrygghet, helse og kvalitet spiller for."
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -174,7 +174,7 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": ""
+      "image": "https://www.aqua.cl/wp-content/uploads/2024/07/incar.png"
     },
     {
       "title": {
@@ -199,13 +199,13 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": ""
+      "image": "https://image.salmonexpert.cl/2130355.jpg?imageId=2130355&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
         "es": "Ventas de salmón en Reino Unido superan los US$2.160 millones tras mayor demanda",
         "en": "Salmon sales in the United Kingdom exceed US$2.16 billion after increased demand",
-        "no": "Ventas de salmón en Reino Unido superan los US$2.160 millones tras mayor demanda"
+        "no": "Salget av laks i Storbritannia overstiger 2,16 milliarder dollar etter økt etterspørsel"
       },
       "url": "https://www.aqua.cl/ventas-de-salmon-en-reino-unido-superan-los-us2-160-millones-tras-mayor-demanda/",
       "date": "Wed, 10 Jun 2026 10:46:00 +0000",
@@ -224,7 +224,7 @@
       },
       "score": 16,
       "cross_source": true,
-      "image": ""
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/fish_farm_orkney3.1920x800-e1781033371227.jpg"
     },
     {
       "title": {
@@ -274,7 +274,7 @@
       },
       "score": 14,
       "cross_source": true,
-      "image": ""
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/Operativo-organizacion-criminal-Sernapesca.jpg"
     },
     {
       "title": {
@@ -299,7 +299,7 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": ""
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/jibia-FESIP-scaled.jpg"
     }
   ]
 }
