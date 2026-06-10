@@ -70,27 +70,46 @@
       background: #fff;
       border: 1px solid #D8E4EF;
       border-radius: 6px;
-      padding: 28px 32px;
       margin-bottom: 18px;
       transition: box-shadow 0.2s, transform 0.2s;
+      display: flex;
+      overflow: hidden;
+      align-items: stretch;
     }
     .news-card:hover {
       box-shadow: 0 4px 20px rgba(27,58,92,0.10);
       transform: translateY(-2px);
     }
+    .news-card-img {
+      flex-shrink: 0;
+      width: 210px;
+      height: 160px;
+      object-fit: cover;
+      display: block;
+      align-self: center;
+      background: #EEF2F7;
+    }
+    .news-card-body {
+      flex: 1;
+      min-width: 0;
+      padding: 22px 28px;
+    }
     .news-card h3 {
-      font-size: 18px;
+      font-size: 17px;
       font-weight: 600;
       color: var(--navy, #1B3A5C);
       margin: 0 0 10px;
       line-height: 1.4;
-      max-width: 700px;
     }
     .news-card p {
       font-size: 14px;
       color: #555;
       line-height: 1.7;
-      margin: 0 0 16px;
+      margin: 0 0 14px;
+    }
+    @media (max-width: 620px) {
+      .news-card { flex-direction: column; }
+      .news-card-img { width: 100%; height: 180px; align-self: auto; }
     }
     .news-read-more {
       font-size: 13px;
@@ -253,17 +272,24 @@
             ? '<span class="news-cross-source">&#9679; ' + (lang === 'no' ? 'Flere kilder' : 'Multiple sources') + '</span>'
             : '';
 
+          const imgTag = art.image
+            ? '<img class="news-card-img" src="' + escHtml(art.image) + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
+            : '';
+
           return [
             '<article class="news-card">',
-            '  <div class="news-meta">',
-            catLabel ? '    <span class="' + catClass + '">' + escHtml(catLabel) + '</span>' : '',
-            '    <span class="news-source">' + escHtml(art.source) + '</span>',
-            date     ? '    <span class="news-date">' + escHtml(date) + '</span>' : '',
+            imgTag,
+            '  <div class="news-card-body">',
+            '    <div class="news-meta">',
+            catLabel ? '      <span class="' + catClass + '">' + escHtml(catLabel) + '</span>' : '',
+            '      <span class="news-source">' + escHtml(art.source) + '</span>',
+            date     ? '      <span class="news-date">' + escHtml(date) + '</span>' : '',
             crossTag,
+            '    </div>',
+            '    <h3>' + escHtml(title) + '</h3>',
+            summary ? '    <p>' + escHtml(summary) + '</p>' : '',
+            '    <a href="' + escHtml(art.url) + '" class="news-read-more" target="_blank" rel="noopener noreferrer">' + readMore + '</a>',
             '  </div>',
-            '  <h3>' + escHtml(title) + '</h3>',
-            summary ? '  <p>' + escHtml(summary) + '</p>' : '',
-            '  <a href="' + escHtml(art.url) + '" class="news-read-more" target="_blank" rel="noopener noreferrer">' + readMore + '</a>',
             '</article>',
           ].join('\n');
         }).join('\n');

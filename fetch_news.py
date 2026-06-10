@@ -26,6 +26,30 @@ def normalize(text):
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 
+def extract_image_from_entry(entry, content_html=""):
+    """Extract a thumbnail URL from an RSS entry (media, enclosure, or img tag)."""
+    for thumb in entry.get("media_thumbnail", []):
+        url = thumb.get("url", "")
+        if url and url.startswith("http"):
+            return url
+    for mc in entry.get("media_content", []):
+        if ("image" in mc.get("medium", "") or "image" in mc.get("type", "") or
+                mc.get("url", "").lower().endswith((".jpg", ".jpeg", ".png", ".webp"))):
+            url = mc.get("url", "")
+            if url and url.startswith("http"):
+                return url
+    for enc in getattr(entry, "enclosures", []):
+        if enc.get("type", "").startswith("image/"):
+            url = enc.get("href", enc.get("url", ""))
+            if url and url.startswith("http"):
+                return url
+    if content_html:
+        import re as _re
+        m = _re.search(r'<img[^>]+src=["\']((http)[^"\']{8,})["\']', content_html, _re.IGNORECASE)
+        if m:
+            return m.group(1)
+    return ""
+
 SOURCES = [
     {"name": "mundoacuicola", "label": "Mundo Acuicola", "type": "rss",
      "url": "https://www.mundoacuicola.cl/new/feed/"},
@@ -175,10 +199,11 @@ def fetch_rss(source):
             content = entry.get("summary", "")
         desc = re.sub(r"<[^>]+>", " ", content)
         desc = re.sub(r"\s+", " ", desc).strip()[:700]
+        image_url = extract_image_from_entry(entry, content)
         if title and link:
             articles.append({"title": title, "url": link, "date": date,
                               "description_es": desc, "source": source["label"],
-                              "source_id": source["name"]})
+                              "source_id": source["name"], "image": image_url})
     return articles
 
 
@@ -216,7 +241,7 @@ def fetch_html_salmonexpert(source):
                 continue
             articles.append({"title": title, "url": url, "date": "",
                               "description_es": "", "source": source["label"],
-                              "source_id": source["name"]})
+                              "source_id": source["name"], "image": ""})
 
     # Pre-filter candidates by title salmon relevance
     candidates = [a for a in articles
@@ -226,7 +251,8 @@ def fetch_html_salmonexpert(source):
     candidates = candidates[:25]
 
     def fetch_desc(art):
-        """Priority: .articleHeader subtitle -> .bodytext p -> og:description."""
+        """Priority: .articleHeader subtitle -> .bodytext p -> og:description.
+        Also captures og:image. Returns (url, desc, img_url)."""
         try:
             import requests
             from bs4 import BeautifulSoup
@@ -234,6 +260,9 @@ def fetch_html_salmonexpert(source):
                              headers={"User-Agent": "Mozilla/5.0 (AquaBridgeNewsBot/2.0)"})
             r.raise_for_status()
             s = BeautifulSoup(r.text, "html.parser")
+
+            og_img = s.find("meta", attrs={"property": "og:image"})
+            img_url = og_img["content"].strip() if og_img and og_img.get("content") else ""
 
             def clean(t):
                 return SPONSORED_RE.sub("", t).strip()
@@ -243,7 +272,7 @@ def fetch_html_salmonexpert(source):
             if subtitle:
                 text = clean(subtitle.get_text(strip=True))
                 if len(text) > 60:
-                    return art["url"], text[:700]
+                    return art["url"], text[:700], img_url
 
             # 2. First paragraph(s) in .bodytext
             bodytext = s.find("div", class_="bodytext")
@@ -254,7 +283,7 @@ def fetch_html_salmonexpert(source):
                 if paras:
                     combined = " ".join(paras[:2])[:700]
                     if len(combined) > 60:
-                        return art["url"], combined
+                        return art["url"], combined, img_url
 
             # 3. og:description fallback
             meta = (s.find("meta", attrs={"property": "og:description"}) or
@@ -262,24 +291,29 @@ def fetch_html_salmonexpert(source):
             if meta and meta.get("content", "").strip():
                 desc = clean(meta["content"].strip())
                 if len(desc) > 30:
-                    return art["url"], desc[:700]
+                    return art["url"], desc[:700], img_url
 
         except Exception:
             pass
-        return art["url"], ""
+        return art["url"], "", ""
 
     print(f"  Fetching descriptions for {len(candidates)} articles (parallel)...")
     desc_map = {}
+    img_map = {}
     with ThreadPoolExecutor(max_workers=8) as pool:
         futures = {pool.submit(fetch_desc, art): art for art in candidates}
         for future in as_completed(futures):
-            url, desc = future.result()
+            url, desc, img_url = future.result()
             if desc:
                 desc_map[url] = desc
+            if img_url:
+                img_map[url] = img_url
 
     for art in articles:
         if art["url"] in desc_map:
             art["description_es"] = desc_map[art["url"]]
+        if art["url"] in img_map:
+            art["image"] = img_map[art["url"]]
 
     fetched = sum(1 for a in articles if a["description_es"])
     print(f"  -> {len(articles)} articles found, {fetched} with descriptions")
@@ -479,6 +513,7 @@ def main():
             "category_label": CATEGORY_LABELS[art["category"]],
             "score":          art["score"],
             "cross_source":   art["cross_source"],
+            "image":          art.get("image", ""),
         })
 
     payload = {
@@ -509,17 +544,6 @@ def main():
             print("  No changes.")
         else:
             subprocess.run(["git", "-C", str(REPO_ROOT), "push", "origin", "HEAD:main"],
-                           check=True, capture_output=True)
-            print("  Pushed successfully.")
-    except subprocess.CalledProcessError as e:
-        print(f"  Git error: {e.stderr.decode() if e.stderr else e}", file=sys.stderr)
-
-    print("\nDone.\n")
-
-
-if __name__ == "__main__":
-    main()
-, "HEAD:main"],
                            check=True, capture_output=True)
             print("  Pushed successfully.")
     except subprocess.CalledProcessError as e:
