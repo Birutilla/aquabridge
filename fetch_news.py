@@ -26,28 +26,41 @@ def normalize(text):
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 
+IMAGE_EXTS = (".jpg", ".jpeg", ".png", ".webp", ".gif")
+
 def extract_image_from_entry(entry, content_html=""):
     """Extract a thumbnail URL from an RSS entry (media, enclosure, or img tag)."""
+    # 1. media:thumbnail — most explicit
     for thumb in entry.get("media_thumbnail", []):
         url = thumb.get("url", "")
         if url and url.startswith("http"):
             return url
+    # 2. media:content with image type or image file extension
     for mc in entry.get("media_content", []):
         if ("image" in mc.get("medium", "") or "image" in mc.get("type", "") or
-                mc.get("url", "").lower().endswith((".jpg", ".jpeg", ".png", ".webp"))):
+                mc.get("url", "").lower().split("?")[0].endswith(IMAGE_EXTS)):
             url = mc.get("url", "")
             if url and url.startswith("http"):
                 return url
+    # 3. Enclosures
     for enc in getattr(entry, "enclosures", []):
         if enc.get("type", "").startswith("image/"):
             url = enc.get("href", enc.get("url", ""))
             if url and url.startswith("http"):
                 return url
-    if content_html:
-        import re as _re
-        m = _re.search(r'<img[^>]+src=["\']((http)[^"\']{8,})["\']', content_html, _re.IGNORECASE)
-        if m:
-            return m.group(1)
+    # 4. Links with image MIME type
+    for link in entry.get("links", []):
+        if link.get("type", "").startswith("image/"):
+            url = link.get("href", "")
+            if url and url.startswith("http"):
+                return url
+    # 5. img tags in content or summary HTML
+    for html in [content_html, entry.get("summary", "")]:
+        if html:
+            m = re.search(r'<img[^>]+src=["\']((https?://)[^"\']{10,})["\']',
+                          html, re.IGNORECASE)
+            if m:
+                return m.group(1)
     return ""
 
 SOURCES = [
@@ -377,34 +390,119 @@ def apply_cross_source_boost(articles):
     return unique
 
 
+_BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-CL,es;q=0.9,en;q=0.8",
+}
+_SKIP_IMG_WORDS = {"logo", "icon", "pixel", "1x1", "spacer", "avatar",
+                   "gravatar", "spinner", "blank", "placeholder"}
+
+
 def fetch_missing_images(articles):
-    """For articles that have no image yet, fetch the article page to get og:image.
-    Called on the final selection only (max 12 requests)."""
+    """Fetch images for articles that have none. Called on final 12 articles.
+    Checks og:image, og:image:secure_url, og:image:url, twitter:image,
+    link[rel=image_src], itemprop=image, and first large <img> in article body.
+    Handles relative URLs. Uses real browser User-Agent to avoid blocks."""
     try:
         import requests
         from bs4 import BeautifulSoup
+        from urllib.parse import urljoin
     except ImportError:
         return
     missing = [a for a in articles if not a.get("image")]
     if not missing:
+        print(f"  All {len(articles)} articles already have images.")
         return
-    print(f"\nFetching og:image for {len(missing)} articles without thumbnails...")
+    print(f"\nFetching images for {len(missing)} articles without thumbnails...")
 
-    def get_og_image(art):
+    def get_best_image(art):
         try:
-            r = requests.get(art["url"], timeout=10,
-                             headers={"User-Agent": "Mozilla/5.0 (AquaBridgeNewsBot/2.0)"})
+            r = requests.get(art["url"], timeout=14, headers=_BROWSER_HEADERS,
+                             allow_redirects=True)
             r.raise_for_status()
             s = BeautifulSoup(r.text, "html.parser")
-            og = s.find("meta", attrs={"property": "og:image"})
-            if og and og.get("content", "").strip():
-                return art["url"], og["content"].strip()
+            base = r.url  # use final URL after redirects as base
+
+            def abs_url(u):
+                if not u:
+                    return ""
+                u = u.strip()
+                if u.startswith("http"):
+                    return u
+                return urljoin(base, u) if u.startswith("/") else ""
+
+            # 1. og:image variants (most reliable)
+            for prop in ("og:image", "og:image:secure_url", "og:image:url"):
+                tag = s.find("meta", attrs={"property": prop})
+                if tag:
+                    img = abs_url(tag.get("content", ""))
+                    if img:
+                        return art["url"], img
+
+            # 2. twitter:image
+            for name in ("twitter:image", "twitter:image:src"):
+                tag = s.find("meta", attrs={"name": name})
+                if tag:
+                    img = abs_url(tag.get("content", ""))
+                    if img:
+                        return art["url"], img
+
+            # 3. link rel="image_src"
+            tag = s.find("link", attrs={"rel": "image_src"})
+            if tag:
+                img = abs_url(tag.get("href", ""))
+                if img:
+                    return art["url"], img
+
+            # 4. itemprop="image"
+            tag = s.find("meta", attrs={"itemprop": "image"})
+            if tag:
+                img = abs_url(tag.get("content", ""))
+                if img:
+                    return art["url"], img
+
+            # 5. First large <img> inside the article body area
+            body = None
+            for sel in ["article", "main", ".article-body", ".content",
+                        ".post-content", ".entry-content", ".bodytext",
+                        ".article__body", ".news-body"]:
+                body = s.select_one(sel)
+                if body:
+                    break
+            if not body:
+                body = s.body
+
+            if body:
+                for img_tag in body.find_all("img", src=True):
+                    src = abs_url(img_tag.get("src", ""))
+                    if not src:
+                        continue
+                    lower = src.lower().split("?")[0]
+                    if any(skip in lower for skip in _SKIP_IMG_WORDS):
+                        continue
+                    # Prefer known image extensions
+                    if not lower.endswith(IMAGE_EXTS):
+                        continue
+                    # Skip tiny images
+                    try:
+                        if int(img_tag.get("width", 999)) < 100:
+                            continue
+                        if int(img_tag.get("height", 999)) < 80:
+                            continue
+                    except (ValueError, TypeError):
+                        pass
+                    return art["url"], src
+
         except Exception:
             pass
         return art["url"], ""
 
     with ThreadPoolExecutor(max_workers=6) as pool:
-        futures = {pool.submit(get_og_image, art): art for art in missing}
+        futures = {pool.submit(get_best_image, art): art for art in missing}
         for future in as_completed(futures):
             url, img = future.result()
             if img:
@@ -413,8 +511,13 @@ def fetch_missing_images(articles):
                         a["image"] = img
                         break
 
-    found = sum(1 for a in articles if a.get("image"))
-    print(f"  Images resolved: {found}/{len(articles)}")
+    still_missing = [a for a in articles if not a.get("image")]
+    found = len(articles) - len(still_missing)
+    print(f"  Images resolved: {found}/{len(articles)} have images")
+    if still_missing:
+        print(f"  Still missing ({len(still_missing)}):")
+        for a in still_missing:
+            print(f"    - [{a['source']}] {a['title'][:65]}")
 
 
 def select_with_quotas(articles):
