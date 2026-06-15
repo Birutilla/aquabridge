@@ -694,28 +694,48 @@ def main():
     print(f"\nWrote {OUTPUT_JSON}")
 
     print("\nPushing to GitHub...")
-    # Clear any stale git lock files before touching the repo
-    import glob as _glob
-    for lock in _glob.glob(str(REPO_ROOT / ".git" / "**" / "*.lock"), recursive=True):
-        try:
-            Path(lock).unlink()
-            print(f"  Removed stale lock: {lock}")
-        except Exception:
-            pass
+    # NOTE: this script often runs on a Windows-backed mount whose filesystem
+    # does not support git's lock-file semantics (it cannot unlink .git/*.lock,
+    # and O_EXCL lock creation is unreliable). Committing in-place there fails
+    # silently. So we always publish from a fresh shallow clone on the local
+    # (native) filesystem, which handles git normally. The authenticated remote
+    # URL (with token) is read from the in-place repo.
+    import tempfile, shutil, os
+    pushed = False
     try:
-        subprocess.run(["git", "-C", str(REPO_ROOT), "add", str(OUTPUT_JSON)],
-                       check=True, capture_output=True)
-        res = subprocess.run(["git", "-C", str(REPO_ROOT), "commit", "-m",
-                              f"news: auto-update {datetime.now().strftime('%Y-%m-%d')}"],
-                             capture_output=True, text=True)
-        if "nothing to commit" in res.stdout:
-            print("  No changes.")
-        else:
-            subprocess.run(["git", "-C", str(REPO_ROOT), "push", "origin", "HEAD:main"],
+        remote_url = subprocess.run(
+            ["git", "-C", str(REPO_ROOT), "remote", "get-url", "origin"],
+            capture_output=True, text=True, check=True).stdout.strip()
+        workdir = tempfile.mkdtemp(prefix="aqbpush_")
+        clone_dir = os.path.join(workdir, "repo")
+        subprocess.run(["git", "clone", "--quiet", "--depth", "1",
+                        remote_url, clone_dir], check=True, capture_output=True)
+        shutil.copy(str(OUTPUT_JSON), os.path.join(clone_dir, OUTPUT_JSON.name))
+        for k, v in (("user.email", "infantejavier@gmail.com"),
+                     ("user.name", "AquaBridge News Bot")):
+            subprocess.run(["git", "-C", clone_dir, "config", k, v],
                            check=True, capture_output=True)
-            print("  Pushed successfully.")
+        subprocess.run(["git", "-C", clone_dir, "add", OUTPUT_JSON.name],
+                       check=True, capture_output=True)
+        res = subprocess.run(
+            ["git", "-C", clone_dir, "commit", "-m",
+             f"news: auto-update {datetime.now().strftime('%Y-%m-%d')}"],
+            capture_output=True, text=True)
+        if "nothing to commit" in res.stdout:
+            print("  No changes to push.")
+            pushed = True
+        else:
+            subprocess.run(["git", "-C", clone_dir, "push", "origin", "HEAD:main"],
+                           check=True, capture_output=True)
+            print("  Pushed successfully (via clone).")
+            pushed = True
+        shutil.rmtree(workdir, ignore_errors=True)
     except subprocess.CalledProcessError as e:
-        print(f"  Git error: {e.stderr.decode() if e.stderr else e}", file=sys.stderr)
+        err = e.stderr.decode() if hasattr(e.stderr, "decode") else e.stderr
+        print(f"  Git error: {err}", file=sys.stderr)
+    if not pushed:
+        print("  WARNING: push did NOT succeed. news-data.json is written "
+              "locally but the live site was NOT updated.", file=sys.stderr)
 
     print("\nDone.\n")
 
