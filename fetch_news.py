@@ -28,39 +28,54 @@ def normalize(text):
 
 IMAGE_EXTS = (".jpg", ".jpeg", ".png", ".webp", ".gif")
 
+# Substrings that mark an image as junk (logos, sprites, tracking pixels,
+# WordPress emoji sprites from s.w.org, etc.). Used everywhere we pick an image.
+_SKIP_IMG_WORDS = {"logo", "icon", "pixel", "1x1", "spacer", "avatar",
+                   "gravatar", "spinner", "blank", "placeholder",
+                   "s.w.org", "emoji", "/wp-includes/", "feed-icon"}
+
+def _is_junk_img(url):
+    """True if the URL looks like a logo, sprite, emoji, or tracking pixel."""
+    if not url:
+        return True
+    lower = url.lower()
+    return any(skip in lower for skip in _SKIP_IMG_WORDS)
+
 def extract_image_from_entry(entry, content_html=""):
     """Extract a thumbnail URL from an RSS entry (media, enclosure, or img tag)."""
     # 1. media:thumbnail — most explicit
     for thumb in entry.get("media_thumbnail", []):
         url = thumb.get("url", "")
-        if url and url.startswith("http"):
+        if url and url.startswith("http") and not _is_junk_img(url):
             return url
     # 2. media:content with image type or image file extension
     for mc in entry.get("media_content", []):
         if ("image" in mc.get("medium", "") or "image" in mc.get("type", "") or
                 mc.get("url", "").lower().split("?")[0].endswith(IMAGE_EXTS)):
             url = mc.get("url", "")
-            if url and url.startswith("http"):
+            if url and url.startswith("http") and not _is_junk_img(url):
                 return url
     # 3. Enclosures
     for enc in getattr(entry, "enclosures", []):
         if enc.get("type", "").startswith("image/"):
             url = enc.get("href", enc.get("url", ""))
-            if url and url.startswith("http"):
+            if url and url.startswith("http") and not _is_junk_img(url):
                 return url
     # 4. Links with image MIME type
     for link in entry.get("links", []):
         if link.get("type", "").startswith("image/"):
             url = link.get("href", "")
-            if url and url.startswith("http"):
+            if url and url.startswith("http") and not _is_junk_img(url):
                 return url
-    # 5. img tags in content or summary HTML
+    # 5. img tags in content or summary HTML — scan ALL imgs, skip junk
     for html in [content_html, entry.get("summary", "")]:
         if html:
-            m = re.search(r'<img[^>]+src=["\']((https?://)[^"\']{10,})["\']',
-                          html, re.IGNORECASE)
-            if m:
-                return m.group(1)
+            for m in re.finditer(
+                    r'<img[^>]+src=["\']((https?://)[^"\']{10,})["\']',
+                    html, re.IGNORECASE):
+                candidate = m.group(1)
+                if not _is_junk_img(candidate):
+                    return candidate
     return ""
 
 SOURCES = [
@@ -398,8 +413,6 @@ _BROWSER_HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "es-CL,es;q=0.9,en;q=0.8",
 }
-_SKIP_IMG_WORDS = {"logo", "icon", "pixel", "1x1", "spacer", "avatar",
-                   "gravatar", "spinner", "blank", "placeholder"}
 
 
 def fetch_missing_images(articles):
@@ -421,8 +434,19 @@ def fetch_missing_images(articles):
 
     def get_best_image(art):
         try:
-            r = requests.get(art["url"], timeout=14, headers=_BROWSER_HEADERS,
-                             allow_redirects=True)
+            # aqua.cl in particular is slow on a cold connection, so use a
+            # generous timeout and retry once on timeout before giving up.
+            r = None
+            for attempt in range(2):
+                try:
+                    r = requests.get(art["url"], timeout=30,
+                                     headers=_BROWSER_HEADERS,
+                                     allow_redirects=True)
+                    break
+                except requests.exceptions.Timeout:
+                    if attempt == 0:
+                        continue
+                    raise
             r.raise_for_status()
             s = BeautifulSoup(r.text, "html.parser")
             base = r.url  # use final URL after redirects as base
