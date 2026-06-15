@@ -1,43 +1,43 @@
 {
-  "updated": "2026-06-11T13:32:18Z",
+  "updated": "2026-06-11T13:39:17Z",
   "articles": [
     {
       "title": {
-        "es": "Científicos avanzan hacia una nueva estrategia contra Piscirickettsia sin antibióticos",
-        "en": "Científicos avanzan hacia una nueva estrategia contra Piscirickettsia sin antibióticos",
-        "no": "Científicos avanzan hacia una nueva estrategia contra Piscirickettsia sin antibióticos"
+        "es": "ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación",
+        "en": "ADL projects a new stage for aquaculture health based on prevention and innovation",
+        "no": "ADL prosjekterer et nytt stadium for akvakulturhelse basert på forebygging og innovasjon"
       },
-      "url": "https://www.salmonexpert.cl/antibacterianos-antibioticos-piscirickettsia/cientificos-avanzan-hacia-una-nueva-estrategia-contra-piscirickettsia-sin-antibioticos/2130306",
-      "date": "",
+      "url": "https://www.mundoacuicola.cl/new/adl-proyecta-una-nueva-etapa-para-la-salud-acuicola-basada-en-prevencion-e-innovacion/",
+      "date": "Wed, 10 Jun 2026 21:46:27 +0000",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "En el marco de la conmemoración organizada por Mundo Acuícola, la compañía repasó sus 26 años de aporte a la salud acuícola y reflexionó sobre los desafíos que marcarán la próxima etapa de la salmonicultura, desde la medicina preventiva hasta la inteligencia artificial y la colaboración científica. La entrada ADL proyecta una nueva etapa para la salud acuícola basada en prevención e innovación se publicó primero en Mundoacuicola .",
+        "en": "Within the framework of the commemoration organized by Mundo Acuícola, the company reviewed its 26 years of contribution to aquaculture health and reflected on the challenges that will mark the next stage of salmon farming, from preventive medicine to artificial intelligence and scientific collaboration. The entry ADL projects a new stage for aquaculture health based on prevention and innovation was first published in Mundoacuicola.",
+        "no": "Innenfor rammen av markeringen i regi av Mundo Acuícola, gjennomgikk selskapet sitt 26 år lange bidrag til akvakulturhelse og reflekterte over utfordringene som vil markere neste fase av lakseoppdrett, fra forebyggende medisin til kunstig intelligens og vitenskapelig samarbeid. Oppslaget ADL prosjekterer et nytt stadium for akvakulturhelse basert på forebygging og innovasjon ble først publisert i Mundoacuicola."
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2130318.jpg?imageId=2130318&x=0&y=10.19&cropw=100&croph=79.63&panox=0&panoy=10.19&panow=100&panoh=79.63&width=1200&height=683"
+      "score": 9,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/ADLConmemoracion.jpg"
     },
     {
       "title": {
-        "es": "Startup\tWildsense fortalece desarrollo robótico aplicado al salmón",
-        "en": "Startup\tWildsense fortalece desarrollo robótico aplicado al salmón",
-        "no": "Startup\tWildsense fortalece desarrollo robótico aplicado al salmón"
+        "es": "Blue Health Vision surge como empresa innovadora independiente en acuicultura",
+        "en": "Blue Health Vision emerges as an independent innovative company in aquaculture",
+        "no": "Blue Health Vision fremstår som et uavhengig innovativt selskap innen havbruk"
       },
-      "url": "https://www.salmonexpert.cl/biomasa-inteligencia-artificial-robotica-submarina/startup-wildsense-fortalece-desarrollo-robotico-aplicado-al-salmon/2129450",
+      "url": "https://www.salmonexpert.cl/ahv-blue-health-vision-proveedores/blue-health-vision-surge-como-empresa-innovadora-independiente-en-acuicultura/2135946",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "Blue Health Vision comienza un nuevo capítulo como empresa independiente de AHV International, acelerando la innovación para respaldar el futuro sostenible en acuicultura.",
+        "en": "Blue Health Vision begins a new chapter as an independent company of AHV International, accelerating innovation to support the sustainable future in aquaculture.",
+        "no": "Blue Health Vision starter et nytt kapittel som et uavhengig selskap av AHV International, og akselererer innovasjon for å støtte en bærekraftig fremtid innen akvakultur."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -47,22 +47,197 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
+      "score": 6,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2135954.jpg?imageId=2135954&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "SalmonChile refuerza puente entre liceos técnicos e industria con nueva versión de Academia Salmón",
+        "en": "SalmonChile strengthens the bridge between technical schools and industry with a new version of the Salmon Academy",
+        "no": "SalmonChile styrker broen mellom tekniske skoler og industri med en ny versjon av Salmon Academy"
+      },
+      "url": "https://infosalmon.cl/academia-salmon-formacion-tecnico-profesional-los-lagos/",
+      "date": "Wed, 10 Jun 2026 16:39:52 +0000",
+      "summary": {
+        "es": "En una ceremonia que destaca el desarrollo del talento local, se realizó el lanzamiento oficial de la séptima versión de la Academia Salmón. Este programa, una de las iniciativas de vinculación educativa más relevantes de la salmonicultura, busca este año potenciar las competencias de 335 estudiantes de cuarto medio pertenecientes a 11 liceos técnico-profesionales de la Región de Los Lagos. La Academia Salmón es gestionada por el gremio SalmonChile junto a la Red Futuro Técnico —a través de ONG Canales— y ejecutada por OTEC Capital Humano Capacitación. En esta edición, cuenta con la participación activa de nueve empresas del sector, incluyendo tanto compañías productoras como proveedoras, re",
+        "en": "In a ceremony that highlights the development of local talent, the official launch of the seventh version of Academia Salmón was held. This program, one of the most relevant educational linkage initiatives in salmon farming, seeks this year to enhance the skills of 335 fourth-grade students belonging to 11 technical-professional high schools in the Los Lagos Region. The Salmon Academy is managed by the SalmonChile union together with the Technical Future Network – through NGO Canales – and executed by OTEC Capital Humano Capacitación. In this edition, it has the active participation of nine companies in the sector, including both production companies and suppliers, re",
+        "no": "I en seremoni som fremhever utviklingen av lokale talenter, ble den offisielle lanseringen av den syvende versjonen av Academia Salmón holdt. Dette programmet, et av de mest relevante pedagogiske koblingsinitiativene innen lakseoppdrett, søker i år å forbedre ferdighetene til 335 elever i fjerde klasse som tilhører 11 teknisk-profesjonelle videregående skoler i Los Lagos-regionen. Lakseakademiet ledes av fagforeningen SalmonChile sammen med Technical Future Network – gjennom NGO Canales – og utføres av OTEC Capital Humano Capacitación. I denne utgaven har den aktiv deltakelse fra ni selskaper i sektoren, inkludert både produksjonsselskaper og leverandører,"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 17,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/AcademiaSalmon-2-scaled.jpg"
+    },
+    {
+      "title": {
+        "es": "BioMar Chile confirma Patagonic RAS 2026 y reúne a líderes de acuicultura",
+        "en": "BioMar Chile confirms Patagonic RAS 2026 and brings together aquaculture leaders",
+        "no": "BioMar Chile bekrefter Patagonic RAS 2026 og samler akvakulturledere"
+      },
+      "url": "https://www.aqua.cl/biomar-chile-confirma-patagonic-ras-2026-y-reune-a-lideres-de-acuicultura/",
+      "date": "Thu, 11 Jun 2026 10:45:00 +0000",
+      "summary": {
+        "es": "BioMar Chile anunció la realización de una nueva edición de Patagonic RAS, considerada una de las principales conferencias de Latinoamérica dedicadas a la acuicultura en sistemas de recirculación (RAS, por sus siglas en inglés). El encuentro se llevará a cabo el próximo 19 de noviembre de 2026 y marcará la sexta versión de este evento técnico, que se ha consolidado como un espacio de referencia para la industria acuícola. Ubicado en la antesala de la Patagonia chilena, uno de los polos acuícolas más relevantes del mundo, Patagonic RAS 2026 reunirá a expertos internacionales, líderes de la industria, investigadores y organizaciones vinculadas al sector, promoviendo el intercambio de conocimie",
+        "en": "BioMar Chile announced the holding of a new edition of Patagonic RAS, considered one of the main conferences in Latin America dedicated to aquaculture in recirculating systems (RAS). The meeting will take place on November 19, 2026 and will mark the sixth version of this technical event, which has established itself as a reference space for the aquaculture industry. Located in the anteroom of Chilean Patagonia, one of the most relevant aquaculture centers in the world, Patagonic RAS 2026 will bring together international experts, industry leaders, researchers and organizations linked to the sector, promoting the exchange of knowledge.",
+        "no": "BioMar Chile annonserte avholdelsen av en ny utgave av Patagonic RAS, ansett som en av hovedkonferansene i Latin-Amerika dedikert til akvakultur i resirkulerende systemer (RAS). Møtet finner sted 19. november 2026 og vil markere den sjette versjonen av dette tekniske arrangementet, som har etablert seg som et referanserom for havbruksnæringen. Plassert i forrommet til chilenske Patagonia, et av de mest relevante akvakultursentrene i verden, vil Patagonic RAS 2026 samle internasjonale eksperter, industriledere, forskere og organisasjoner knyttet til sektoren, og fremme utveksling av kunnskap."
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 16,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/Patagonic-RAS-BioMar-Chile.jpg"
+    },
+    {
+      "title": {
+        "es": "Academia Salmón inicia séptima versión de formación técnico-profesional",
+        "en": "Salmón Academy begins seventh version of technical-professional training",
+        "no": "Salmón Academy starter syvende versjon av teknisk-profesjonell opplæring"
+      },
+      "url": "https://www.aqua.cl/academia-salmon-inicia-septima-version-de-formacion-tecnico-profesional/",
+      "date": "Thu, 11 Jun 2026 10:46:00 +0000",
+      "summary": {
+        "es": "En una ceremonia que destaca el desarrollo del talento local, se realizó el lanzamiento oficial de la séptima versión de la Academia Salmón. Este programa, una de las iniciativas de vinculación educativa más relevantes de la salmonicultura, busca este año potenciar las competencias de 335 estudiantes de cuarto medio pertenecientes a 11 liceos técnico-profesionales de la región de Los Lagos. La Academia Salmón es gestionada por el gremio SalmonChile junto a la Red Futuro Técnico —a través de ONG Canales— y ejecutada por OTEC Capital Humano Capacitación. En esta edición, cuenta con la participación activa de nueve empresas del sector, incluyendo tanto compañías productoras como proveedoras, re",
+        "en": "In a ceremony that highlights the development of local talent, the official launch of the seventh version of Academia Salmón was held. This program, one of the most relevant educational linkage initiatives in salmon farming, seeks this year to enhance the skills of 335 fourth-grade students belonging to 11 technical-professional high schools in the Los Lagos region. The Salmon Academy is managed by the SalmonChile union together with the Technical Future Network – through NGO Canales – and executed by OTEC Capital Humano Capacitación. In this edition, it has the active participation of nine companies in the sector, including both production companies and suppliers, re",
+        "no": "I en seremoni som fremhever utviklingen av lokale talenter, ble den offisielle lanseringen av den syvende versjonen av Academia Salmón holdt. Dette programmet, et av de mest relevante pedagogiske koblingsinitiativene innen lakseoppdrett, søker i år å forbedre ferdighetene til 335 elever i fjerde klasse som tilhører 11 teknisk-profesjonelle videregående skoler i Los Lagos-regionen. Lakseakademiet ledes av fagforeningen SalmonChile sammen med Technical Future Network – gjennom NGO Canales – og utføres av OTEC Capital Humano Capacitación. I denne utgaven har den aktiv deltakelse fra ni selskaper i sektoren, inkludert både produksjonsselskaper og leverandører,"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 15,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/salmonchile-scaled.jpg"
+    },
+    {
+      "title": {
+        "es": "PTI Industria Sostenible del Salmón impulsa plataforma B2B para conectar a proveedores con salmoneras",
+        "en": "PTI Sustainable Salmon Industry promotes B2B platform to connect suppliers with salmon farms",
+        "no": "PTI Sustainable Salmon Industry promoterer B2B-plattform for å koble leverandører med lakseoppdrettsanlegg"
+      },
+      "url": "https://infosalmon.cl/plataforma-digital-proveedores-salmonicultura-pti-singulares/",
+      "date": "Wed, 10 Jun 2026 21:08:43 +0000",
+      "summary": {
+        "es": "La instancia, realizada el 19 de mayo en Puerto Montt, convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector. En el marco de su hoja de ruta orientada a fortalecer la sostenibilidad y competitividad del sector salmonicultor, el Programa Territorial Integrado (PTI) Industria Sostenible del Salmón, iniciativa impulsada por Corfo Los Lagos, adjudicó a la consultora Singulares, la licitación Sistema integral de caracterización de proveedores de la industria del salmón y desarrollo de plataforma digital de vinculación B2B. La iniciativa contempla la creación d",
+        "en": "The event, held on May 19 in Puerto Montt, brought together suppliers, salmon farms, unions and academia to validate the functionalities of the platform that will integrate information from nearly 400 strategic suppliers in the sector. Within the framework of its roadmap aimed at strengthening the sustainability and competitiveness of the salmon farming sector, the Integrated Territorial Program (PTI) Sustainable Salmon Industry, an initiative promoted by Corfo Los Lagos, awarded the consulting firm Singulares, the tender Comprehensive system for characterization of suppliers of the salmon industry and development of a digital platform for B2B linkage. The initiative contemplates the creation of",
+        "no": "Arrangementet, som ble holdt 19. mai i Puerto Montt, samlet leverandører, lakseoppdrettsanlegg, fagforeninger og akademia for å validere funksjonaliteten til plattformen som vil integrere informasjon fra nesten 400 strategiske leverandører i sektoren. Innenfor rammen av sitt veikart med sikte på å styrke bærekraften og konkurranseevnen til lakseoppdrettssektoren, tildelte Integrated Territorial Program (PTI) Sustainable Salmon Industry, et initiativ fremmet av Corfo Los Lagos, konsulentfirmaet Singulares, anbudet Omfattende system for karakterisering av leverandører av lakseindustrien og utvikling av en kobling digital plattform for B2B. Initiativet vurderer opprettelsen av"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/V1-.png"
+    },
+    {
+      "title": {
+        "es": "Cuky Pérez y el debate sobre el salmón chileno: “Chile ni siquiera tiene meta; es la diferencia entre un productor y un líder”",
+        "en": "Cuky Pérez and the debate over Chilean salmon: “Chile doesn't even have a goal; it is the difference between a producer and a leader”",
+        "no": "Cuky Pérez og debatten om chilensk laks: \"Chile har ikke engang et mål; det er forskjellen mellom en produsent og en leder\""
+      },
+      "url": "https://infosalmon.cl/cuky-perez-salmonicultura-chilena-orgullo-liderazgo/",
+      "date": "Thu, 11 Jun 2026 02:34:29 +0000",
+      "summary": {
+        "es": "La salmonicultura chilena volvió a entrar en el debate público desde una mirada poco habitual: no solo como industria exportadora, ni únicamente desde sus controversias ambientales o sanitarias, sino como una actividad estratégica que el país todavía no incorpora con suficiente orgullo a su relato productivo. Así lo plantea la economista experta en ciencia de datos Cuky Pérez en “La industria que Chile no nombra con orgullo”, texto publicado en El Mercurio el domingo 31 de mayo, donde aborda las tensiones históricas, los avances pendientes y el potencial de una industria que, a su juicio, incomoda a parte de la opinión pública nacional, especialmente desde una mirada centralista. La autora p",
+        "en": "Chilean salmon farming re-entered the public debate from an unusual perspective: not only as an export industry, nor only from its environmental or health controversies, but as a strategic activity that the country has not yet incorporated with sufficient pride into its productive story. This is what the data science expert economist Cuky Pérez states in “The industry that Chile does not name with pride”, a text published in El Mercurio on Sunday, May 31, where she addresses the historical tensions, the pending advances and the potential of an industry that, in her opinion, makes part of the national public opinion uncomfortable, especially from a centralist perspective. The author p",
+        "no": "Chilensk lakseoppdrett kom igjen inn i den offentlige debatten fra et uvanlig perspektiv: ikke bare som en eksportindustri, heller ikke bare fra dens miljø- eller helsekontroverser, men som en strategisk aktivitet som landet ennå ikke med tilstrekkelig stolthet har innlemmet i sin produktive historie. Dette er hva datavitenskapsekspert-økonomen Cuky Pérez uttaler i «The industry that Chile not name with pride», en tekst publisert i El Mercurio søndag 31. mai, der hun tar for seg de historiske spenningene, de ventende fremskritt og potensialet til en industri som etter hennes mening gjør en del av den nasjonale opinionen ubehagelig, spesielt fra et sentralistisk perspektiv. Forfatteren s"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/05/CUKY.jpeg"
+    },
+    {
+      "title": {
+        "es": "Fernando Berroeta y la formación de una generación salmonicultora en los inicios de la industria chilena",
+        "en": "Fernando Berroeta and the formation of a salmon farming generation at the beginning of the Chilean industry",
+        "no": "Fernando Berroeta og dannelsen av en lakseoppdrettsgenerasjon i begynnelsen av den chilenske industrien"
+      },
+      "url": "https://www.mundoacuicola.cl/new/el-academico-participo-en-proyectos-pioneros-de-piscicultura-estudios-territoriales-y-formacion-de-profesionales-en-los-primeros-anos-del-desarrollo-acuicola-en-el-sur-austral/",
+      "date": "Wed, 10 Jun 2026 22:25:30 +0000",
+      "summary": {
+        "es": "El académico participó en proyectos pioneros de piscicultura, estudios territoriales y formación de profesionales en los primeros años del desarrollo acuícola en el sur austral. La entrada Fernando Berroeta y la formación de una generación salmonicultora en los inicios de la industria chilena se publicó primero en Mundoacuicola .",
+        "en": "The academic participated in pioneering fish farming projects, territorial studies and training of professionals in the first years of aquaculture development in the southern south. The entry Fernando Berroeta and the formation of a salmon farming generation at the beginning of the Chilean industry was first published in Mundoacuicola.",
+        "no": "Akademikeren deltok i banebrytende oppdrettsprosjekter, territorielle studier og opplæring av fagfolk i de første årene med havbruksutvikling i sør sør. Innslaget Fernando Berroeta og dannelsen av en lakseoppdrettsgenerasjon i begynnelsen av den chilenske industrien ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/FernandoBerroeta22.jpg"
+    },
+    {
+      "title": {
+        "es": "INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad",
+        "en": "INCAR² launches a new initiative: the podcast series “Aquaculture Dialogues” to bring science closer to the productive sector, academia and society",
+        "no": "INCAR² lanserer et nytt initiativ: podkastserien \"Aquaculture Dialogues\" for å bringe vitenskapen nærmere den produktive sektoren, akademia og samfunnet"
+      },
+      "url": "https://www.mundoacuicola.cl/new/incar%c2%b2-estrena-una-nueva-iniciativa-la-serie-podcast-dialogos-acuicolas-para-acercar-la-ciencia-al-sector-productivo-academico-y-a-la-sociedad/",
+      "date": "Wed, 10 Jun 2026 17:36:12 +0000",
+      "summary": {
+        "es": "El Centro de Investigación Aplicada, CIA-INCAR², presenta una nueva iniciativa que consiste en una serie de podcast orientada a acercar la investigación científica a públicos diversos mediante un lenguaje accesible. El ciclo inaugural está centrado en la piscirickettsiosis o Síndrome Rickettsial del Salmón (SRS), uno de los principales desafíos de la acuicultura chilena. La entrada INCAR² estrena una nueva iniciativa: la serie podcast “Diálogos Acuícolas” para acercar la ciencia al sector productivo, académico y a la sociedad se publicó primero en Mundoacuicola .",
+        "en": "The Applied Research Center, CIA-INCAR², presents a new initiative that consists of a podcast series aimed at bringing scientific research closer to diverse audiences through accessible language. The inaugural cycle is focused on piscirickettsiosis or Salmon Rickettsial Syndrome (SRS), one of the main challenges of Chilean aquaculture. The INCAR² entry launches a new initiative: the podcast series “Aquaculture Dialogues” to bring science closer to the productive sector, academia and society was first published in Mundoacuicola.",
+        "no": "Applied Research Center, CIA-INCAR², presenterer et nytt initiativ som består av en podcast-serie som tar sikte på å bringe vitenskapelig forskning nærmere ulike publikum gjennom tilgjengelig språk. Den første syklusen er fokusert på piscirickettsiose eller lakserickettsialsyndrom (SRS), en av hovedutfordringene til chilensk akvakultur. INCAR²-oppføringen lanserer et nytt initiativ: podcastserien \"Aquaculture Dialogues\" for å bringe vitenskapen nærmere den produktive sektoren, akademia og samfunnet ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2129461.jpg?imageId=2129461&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/logopodcast-blanco.jpeg"
     },
     {
       "title": {
         "es": "Columna de OpiniónTrazabilidad que transforma: el verdadero valor de los datos en la salmonicultura",
-        "en": "Columna de OpiniónTrazabilidad que transforma: el verdadero valor de los datos en la salmonicultura",
-        "no": "Columna de OpiniónTrazabilidad que transforma: el verdadero valor de los datos en la salmonicultura"
+        "en": "Opinion ColumnTraceability that transforms: the true value of data in salmon farming",
+        "no": "OpinionskolonneSporbarhet som transformerer: den sanne verdien av data i lakseoppdrett"
       },
       "url": "https://www.salmonexpert.cl/big-data-datos-informacion/trazabilidad-que-transforma-el-verdadero-valor-de-los-datos-en-la-salmonicultura/2136542",
       "date": "",
       "summary": {
         "es": "*Columna de opinión para Salmonexpert de Nicolás Contreras, CEO de Skills. En la industria salmonicultora hablamos constantemente de eficiencia, sostenibilidad, productividad y competitividad. Sin embargo, pocas veces hablamos de algo que hoy podría ser uno de los mayores aceleradores de transformación para el sector: la apertura y transparencia de los datos.",
-        "en": "*Columna de opinión para Salmonexpert de Nicolás Contreras, CEO de Skills. En la industria salmonicultora hablamos constantemente de eficiencia, sostenibilidad, productividad y competitividad. Sin embargo, pocas veces hablamos de algo que hoy podría ser uno de los mayores aceleradores de transformación para el sector: la apertura y transparencia de los datos.",
-        "no": "*Columna de opinión para Salmonexpert de Nicolás Contreras, CEO de Skills. En la industria salmonicultora hablamos constantemente de eficiencia, sostenibilidad, productividad y competitividad. Sin embargo, pocas veces hablamos de algo que hoy podría ser uno de los mayores aceleradores de transformación para el sector: la apertura y transparencia de los datos."
+        "en": "*Opinion column for Salmonexpert by Nicolás Contreras, CEO of Skills. In the salmon farming industry we constantly talk about efficiency, sustainability, productivity and competitiveness. However, we rarely talk about something that today could be one of the greatest accelerators of transformation for the sector: the openness and transparency of data.",
+        "no": "*Meningsspalte for Salmonexpert av Nicolás Contreras, administrerende direktør i Skills. I lakseoppdrettsnæringen snakker vi hele tiden om effektivitet, bærekraft, produktivitet og konkurranseevne. Imidlertid snakker vi sjelden om noe som i dag kan være en av de største transformasjonsakseleratorene for sektoren: åpenheten og transparensen til data."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -78,141 +253,16 @@
     },
     {
       "title": {
-        "es": "PTI Industria Sostenible del Salmón y Singulares avanzan en plataforma digital para proveedores",
-        "en": "PTI Industria Sostenible del Salmón y Singulares avanzan en plataforma digital para proveedores",
-        "no": "PTI Industria Sostenible del Salmón y Singulares avanzan en plataforma digital para proveedores"
-      },
-      "url": "https://www.salmonexpert.cl/plataforma-proveedores-pti/pti-industria-sostenible-del-salmon-y-singulares-avanzan-en-plataforma-digital-para-proveedores/2133747",
-      "date": "",
-      "summary": {
-        "es": "La instancia convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector.",
-        "en": "La instancia convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector.",
-        "no": "La instancia convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2133752.jpg?imageId=2133752&x=0&y=11.51&cropw=100&croph=84.87&panox=0&panoy=11.51&panow=100&panoh=84.87&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos",
-        "en": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos",
-        "no": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos"
-      },
-      "url": "https://www.salmonexpert.cl/acuicultura-congreso-nacional-de-acuicultura-puerto-montt/congreso-nacional-de-acuicultura-abre-convocatoria-para-recibir-trabajos-cientificos/2133072",
-      "date": "",
-      "summary": {
-        "es": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales.",
-        "en": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales.",
-        "no": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2133077.jpg?imageId=2133077&x=0&y=0&cropw=100&croph=85.43&panox=0&panoy=0&panow=100&panoh=85.43&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Gobernador Santana: \"¿Cuántos gerentes de salmonicultoras viven en la Región de Aysén?\"",
-        "en": "Gobernador Santana: \"¿Cuántos gerentes de salmonicultoras viven en la Región de Aysén?\"",
-        "no": "Gobernador Santana: \"¿Cuántos gerentes de salmonicultoras viven en la Región de Aysén?\""
-      },
-      "url": "https://www.salmonexpert.cl/aysen-produccion-regional/gobernador-santana-cuantos-gerentes-de-salmonicultoras-viven-en-la-region-de-aysen/2135233",
-      "date": "",
-      "summary": {
-        "es": "\"En Aysén, la salmonicultura se ha relegado, salvo Mowi, que es una empresa que procesa y que genera su valor agregado en nuestra región, el resto de la industria sólo engorda sus pescados”, dijo la autoridad.",
-        "en": "\"En Aysén, la salmonicultura se ha relegado, salvo Mowi, que es una empresa que procesa y que genera su valor agregado en nuestra región, el resto de la industria sólo engorda sus pescados”, dijo la autoridad.",
-        "no": "\"En Aysén, la salmonicultura se ha relegado, salvo Mowi, que es una empresa que procesa y que genera su valor agregado en nuestra región, el resto de la industria sólo engorda sus pescados”, dijo la autoridad."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1996294.jpg?imageId=1996294&x=0&y=8.61&cropw=100&croph=71.67&panox=0&panoy=8.61&panow=100&panoh=71.67&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Salmonicultores buscarán nuevas oportunidades comerciales en Europa, África y Medio Oriente",
-        "en": "Salmonicultores buscarán nuevas oportunidades comerciales en Europa, África y Medio Oriente",
-        "no": "Salmonicultores buscarán nuevas oportunidades comerciales en Europa, África y Medio Oriente"
-      },
-      "url": "https://www.salmonexpert.cl/aquachile-europa-marruecos/salmonicultores-buscaran-nuevas-oportunidades-comerciales-en-europa-africa-y-medio-oriente/2136152",
-      "date": "",
-      "summary": {
-        "es": "Cinco empresas de los sectores salmonicultor y mitilicultor de la Región de Los Lagos participarán los días 10 y 11 de junio en la Rueda de Negocios Europa, África y Medio Oriente organizada por ProChile.",
-        "en": "Cinco empresas de los sectores salmonicultor y mitilicultor de la Región de Los Lagos participarán los días 10 y 11 de junio en la Rueda de Negocios Europa, África y Medio Oriente organizada por ProChile.",
-        "no": "Cinco empresas de los sectores salmonicultor y mitilicultor de la Región de Los Lagos participarán los días 10 y 11 de junio en la Rueda de Negocios Europa, África y Medio Oriente organizada por ProChile."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 5,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2136157.jpg?imageId=2136157&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Investigan muerte de buzo de Puerto Montt tras accidente en centro de salmón de Melinka",
-        "en": "Investigan muerte de buzo de Puerto Montt tras accidente en centro de salmón de Melinka",
-        "no": "Investigan muerte de buzo de Puerto Montt tras accidente en centro de salmón de Melinka"
-      },
-      "url": "https://www.salmonexpert.cl/aysen-buceo-buzo/investigan-muerte-de-buzo-de-puerto-montt-tras-accidente-en-centro-de-salmon-de-melinka/2135251",
-      "date": "",
-      "summary": {
-        "es": "La situación fue informada a la Armada de Chile y al Ministerio Público, organismos que se encuentran desarrollando la investigación, para esclarecer las circunstancias de este lamentable hecho.",
-        "en": "La situación fue informada a la Armada de Chile y al Ministerio Público, organismos que se encuentran desarrollando la investigación, para esclarecer las circunstancias de este lamentable hecho.",
-        "no": "La situación fue informada a la Armada de Chile y al Ministerio Público, organismos que se encuentran desarrollando la investigación, para esclarecer las circunstancias de este lamentable hecho."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 5,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2135257.jpg?imageId=2135257&x=0&y=0&cropw=100&croph=89.58&panox=0&panoy=0&panow=100&panoh=89.58&width=1200&height=683"
-    },
-    {
-      "title": {
         "es": "China y Brasil destacan entre los mercados más dinámicos para el salmón chileno",
-        "en": "China y Brasil destacan entre los mercados más dinámicos para el salmón chileno",
-        "no": "China y Brasil destacan entre los mercados más dinámicos para el salmón chileno"
+        "en": "China and Brazil stand out among the most dynamic markets for Chilean salmon",
+        "no": "Kina og Brasil skiller seg ut blant de mest dynamiske markedene for chilensk laks"
       },
       "url": "https://www.salmonexpert.cl/brasil-china-envios/china-y-brasil-destacan-entre-los-mercados-mas-dinamicos-para-el-salmon-chileno/2136107",
       "date": "",
       "summary": {
         "es": "Las exportaciones de salmón y trucha crecieron 15,4% en volumen y superaron los US$3.020 millones entre enero y mayo, impulsadas por la expansión de los gigantes asiático y latinoamericano.",
-        "en": "Las exportaciones de salmón y trucha crecieron 15,4% en volumen y superaron los US$3.020 millones entre enero y mayo, impulsadas por la expansión de los gigantes asiático y latinoamericano.",
-        "no": "Las exportaciones de salmón y trucha crecieron 15,4% en volumen y superaron los US$3.020 millones entre enero y mayo, impulsadas por la expansión de los gigantes asiático y latinoamericano."
+        "en": "Salmon and trout exports grew 15.4% in volume and exceeded US$3,020 million between January and May, driven by the expansion of the Asian and Latin American giants.",
+        "no": "Eksporten av laks og ørret vokste med 15,4 % i volum og oversteg 3020 millioner dollar mellom januar og mai, drevet av utvidelsen av de asiatiske og latinamerikanske gigantene."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -228,78 +278,28 @@
     },
     {
       "title": {
-        "es": "“El desafío de corto plazo de la salmonicultura chilena no es crecer aceleradamente”",
-        "en": "“El desafío de corto plazo de la salmonicultura chilena no es crecer aceleradamente”",
-        "no": "“El desafío de corto plazo de la salmonicultura chilena no es crecer aceleradamente”"
+        "es": "Fernando Villarroel y proyección de la industria: “Concesiones más grandes, más distantes y con mejores condiciones ambientales”",
+        "en": "Fernando Villarroel and industry projection: “Larger, more distant concessions and with better environmental conditions”",
+        "no": "Fernando Villarroel og industriprojeksjon: \"Større, fjernere konsesjoner og med bedre miljøforhold\""
       },
-      "url": "https://www.salmonexpert.cl/gobierno-jose-antonio-kast-kast/el-desafio-de-corto-plazo-de-la-salmonicultura-chilena-no-es-crecer-aceleradamente/2136166",
-      "date": "",
+      "url": "https://infosalmon.cl/fernando-villarroel-y-proyeccion-de-la-industria/",
+      "date": "Tue, 09 Jun 2026 23:30:04 +0000",
       "summary": {
-        "es": "Para el gerente general de Mowi Chile, no es el crecimiento acelerado ni duplicar mañana la producción los pasos principales a seguir, sino que mejorar la competitividad de la salmonicultura nacional.",
-        "en": "Para el gerente general de Mowi Chile, no es el crecimiento acelerado ni duplicar mañana la producción los pasos principales a seguir, sino que mejorar la competitividad de la salmonicultura nacional.",
-        "no": "Para el gerente general de Mowi Chile, no es el crecimiento acelerado ni duplicar mañana la producción los pasos principales a seguir, sino que mejorar la competitividad de la salmonicultura nacional."
+        "es": "Con casi tres décadas de trayectoria en la industria salmonera global —vínculo que incluye roles ejecutivos y gerenciales en Escocia, Canadá y Noruega—, Fernando Villarroel, gerente general de Mowi Chile , posee una perspectiva de largo alcance sobre el posicionamiento de la actividad acuícola nacional, consolidada hoy como el segundo producto de exportación del país detrás del cobre. En un análisis detallado sobre el momento actual que atraviesa el sector, el ejecutivo abordó en una entrevista en El Mercurio, el debate sobre el ritmo productivo, las condiciones de certeza jurídica indispensables para la inversión y las transformaciones de escala que requiere la salmonicultura chilena para r",
+        "en": "With almost three decades of experience in the global salmon industry – a relationship that includes executive and management roles in Scotland, Canada and Norway – Fernando Villarroel, general manager of Mowi Chile, has a long-range perspective on the positioning of the national aquaculture activity, consolidated today as the country's second export product behind copper. In a detailed analysis of the current moment that the sector is going through, the executive addressed in an interview in El Mercurio, the debate on the production rate, the conditions of legal certainty essential for investment and the scale transformations that Chilean salmon farming requires to r",
+        "no": "Med nesten tre tiår med erfaring i den globale lakseindustrien – et forhold som inkluderer leder- og lederroller i Skottland, Canada og Norge – har Fernando Villarroel, daglig leder i Mowi Chile, et langsiktig perspektiv på posisjoneringen av den nasjonale akvakulturaktiviteten, konsolidert i dag som landets andre eksportprodukt bak kobber. I en detaljert analyse av det nåværende øyeblikket som sektoren går gjennom, behandlet lederen i et intervju i El Mercurio, debatten om produksjonshastigheten, vilkårene for rettssikkerhet som er avgjørende for investeringer og skalatransformasjonene som chilensk lakseoppdrett krever for å r"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 6,
+      "score": 10,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1596518.jpg?imageId=1596518&x=0&y=32.02&cropw=100&croph=63.55&panox=0&panoy=32.02&panow=100&panoh=63.55&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón",
-        "en": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón",
-        "no": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón"
-      },
-      "url": "https://www.salmonexpert.cl/blumar-magallanes-resultados/plan-magallanes-blumar-preve-fuerte-crecimiento-a-35000-toneladas-de-salmon/2132284",
-      "date": "",
-      "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2023236.jpg?imageId=2023236&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Banco de inversión afirma que las adquisiciones y fusiones continuarán en la salmonicultura",
-        "en": "Banco de inversión afirma que las adquisiciones y fusiones continuarán en la salmonicultura",
-        "no": "Banco de inversión afirma que las adquisiciones y fusiones continuarán en la salmonicultura"
-      },
-      "url": "https://www.salmonexpert.cl/adquisicion-bancos-compra/banco-de-inversion-afirma-que-las-adquisiciones-y-fusiones-continuaran-en-la-salmonicultura/2131749",
-      "date": "",
-      "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2128579.jpg?imageId=2128579&x=0&y=34.03&cropw=100&croph=35.83&panox=0&panoy=34.03&panow=100&panoh=35.83&width=1200&height=683"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/villarroel-mowi-scaled.jpg"
     }
   ]
 }

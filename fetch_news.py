@@ -377,6 +377,46 @@ def apply_cross_source_boost(articles):
     return unique
 
 
+def fetch_missing_images(articles):
+    """For articles that have no image yet, fetch the article page to get og:image.
+    Called on the final selection only (max 12 requests)."""
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+    except ImportError:
+        return
+    missing = [a for a in articles if not a.get("image")]
+    if not missing:
+        return
+    print(f"\nFetching og:image for {len(missing)} articles without thumbnails...")
+
+    def get_og_image(art):
+        try:
+            r = requests.get(art["url"], timeout=10,
+                             headers={"User-Agent": "Mozilla/5.0 (AquaBridgeNewsBot/2.0)"})
+            r.raise_for_status()
+            s = BeautifulSoup(r.text, "html.parser")
+            og = s.find("meta", attrs={"property": "og:image"})
+            if og and og.get("content", "").strip():
+                return art["url"], og["content"].strip()
+        except Exception:
+            pass
+        return art["url"], ""
+
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = {pool.submit(get_og_image, art): art for art in missing}
+        for future in as_completed(futures):
+            url, img = future.result()
+            if img:
+                for a in articles:
+                    if a["url"] == url:
+                        a["image"] = img
+                        break
+
+    found = sum(1 for a in articles if a.get("image"))
+    print(f"  Images resolved: {found}/{len(articles)}")
+
+
 def select_with_quotas(articles):
     by_cat = defaultdict(list)
     for art in articles:
@@ -487,6 +527,7 @@ def main():
             print(f"      [{a['score']:+d}]{cross} {a['title'][:65]}")
 
     selected = select_with_quotas(all_articles)
+    fetch_missing_images(selected)
     print(f"\nFinal selection ({len(selected)}):")
     for i, art in enumerate(selected, 1):
         cross = " [cross-source]" if art["cross_source"] else ""
