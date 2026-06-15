@@ -1,43 +1,18 @@
 {
-  "updated": "2026-06-15T12:06:23Z",
+  "updated": "2026-06-15T13:31:58Z",
   "articles": [
     {
       "title": {
-        "es": "CORAL-AI: La plataforma de ISR-BIO que acelera soluciones naturales para salud de peces",
-        "en": "CORAL-AI: The ISR-BIO platform that accelerates natural solutions for fish health",
-        "no": "CORAL-AI: ISR-BIO-plattformen som akselererer naturlige løsninger for fiskehelse"
-      },
-      "url": "https://www.aqua.cl/coral-ai-la-plataforma-de-isr-bio-que-acelera-soluciones-naturales-para-salud-de-peces/",
-      "date": "Mon, 15 Jun 2026 10:49:00 +0000",
-      "summary": {
-        "es": "La transformación tecnológica de la acuicultura está abriendo nuevas oportunidades para enfrentar desafíos sanitarios y productivos cada vez más exigentes. En este escenario, ISR-BIO , startup chilena de base biotecnológica, ha desarrollado CORAL-AI , una plataforma que combina inteligencia artificial, modelos digitales celulares, bioprospección y análisis de compuestos naturales para acelerar el descubrimiento y diseño de soluciones aplicadas a salud animal. El foco inicial de la compañía está en salmonicultura, especialmente frente a enfermedades bacterianas como la piscirickettsiosis o SRS, causada por Piscirickettsia salmonis . No obstante, su tecnología tiene una proyección más amplia, ",
-        "en": "The technological transformation of aquaculture is opening new opportunities to face increasingly demanding health and production challenges. In this scenario, ISR-BIO, a Chilean biotechnology-based startup, has developed CORAL-AI, a platform that combines artificial intelligence, digital cellular models, bioprospecting and analysis of natural compounds to accelerate the discovery and design of solutions applied to animal health. The company's initial focus is on salmon farming, especially against bacterial diseases such as piscirickettsiosis or SRS, caused by Piscirickettsia salmonis. However, its technology has a broader projection,",
-        "no": "Den teknologiske transformasjonen av akvakultur åpner nye muligheter for å møte stadig mer krevende helse- og produksjonsutfordringer. I dette scenariet har ISR-BIO, en chilensk bioteknologibasert oppstart, utviklet CORAL-AI, en plattform som kombinerer kunstig intelligens, digitale cellulære modeller, bioprospektering og analyse av naturlige forbindelser for å akselerere oppdagelsen og utformingen av løsninger brukt på dyrehelse. Selskapets første fokus er på lakseoppdrett, spesielt mot bakterielle sykdommer som piscirickettsiosis eller SRS, forårsaket av Piscirickettsia salmonis. Imidlertid har teknologien en bredere projeksjon,"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 15,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/equipo-ISR_BIO-1024x576.jpg"
-    },
-    {
-      "title": {
         "es": "De la inteligencia artificial a la biotecnología: las claves de Salmonexpert Seminars 2026",
-        "en": "From artificial intelligence to biotechnology: the keys to Salmonexpert Seminars 2026",
-        "no": "Fra kunstig intelligens til bioteknologi: nøklene til Salmonexpert Seminars 2026"
+        "en": "De la inteligencia artificial a la biotecnología: las claves de Salmonexpert Seminars 2026",
+        "no": "De la inteligencia artificial a la biotecnología: las claves de Salmonexpert Seminars 2026"
       },
       "url": "https://www.salmonexpert.cl/biotecnologia-inteligencia-artificial-salmonexpert/de-la-inteligencia-artificial-a-la-biotecnologia-las-claves-de-salmonexpert-seminars-2026/2137333",
       "date": "",
       "summary": {
         "es": "La actividad presentará experiencias y soluciones tecnológicas orientadas a una salmonicultura más eficiente, trazable y preparada para los desafíos futuros.",
-        "en": "The activity will present experiences and technological solutions aimed at more efficient, traceable salmon farming prepared for future challenges.",
-        "no": "Aktiviteten vil presentere erfaringer og teknologiske løsninger rettet mot mer effektivt, sporbart lakseoppdrett forberedt for fremtidige utfordringer."
+        "en": "La actividad presentará experiencias y soluciones tecnológicas orientadas a una salmonicultura más eficiente, trazable y preparada para los desafíos futuros.",
+        "no": "La actividad presentará experiencias y soluciones tecnológicas orientadas a una salmonicultura más eficiente, trazable y preparada para los desafíos futuros."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -53,191 +28,141 @@
     },
     {
       "title": {
-        "es": "Universidad de Chile inicia diplomado sobre uso responsable de antimicrobianos",
-        "en": "University of Chile begins diploma course on responsible use of antimicrobials",
-        "no": "Universitetet i Chile begynner på diplomkurs om ansvarlig bruk av antimikrobielle midler"
+        "es": "Sernapesca se suma al primer encuentro internacional para abordar el control de SRS",
+        "en": "Sernapesca se suma al primer encuentro internacional para abordar el control de SRS",
+        "no": "Sernapesca se suma al primer encuentro internacional para abordar el control de SRS"
       },
-      "url": "https://www.aqua.cl/universidad-de-chile-inicia-diplomado-sobre-uso-responsable-de-antimicrobianos/",
-      "date": "Mon, 15 Jun 2026 10:46:00 +0000",
-      "summary": {
-        "es": "Con una amplia convocatoria de profesionales del sector acuícola y la participación de representantes de organismos públicos, la industria salmonera y referentes internacionales en sanidad animal, la Facultad de Ciencias Veterinarias y Pecuarias (FAVET) de la Universidad de Chile dio inicio al Diplomado en Buenas Prácticas en el Uso de Antimicrobianos en la Salmonicultura. El programa tiene como objetivo fortalecer las competencias técnicas y científicas de los profesionales vinculados a la acuicultura, promoviendo el uso responsable y prudente de antimicrobianos bajo un enfoque de Una Salud (One Health). Para ello, integra aspectos farmacológicos, regulatorios, epidemiológicos, microbiológi",
-        "en": "With a broad call for professionals from the aquaculture sector and the participation of representatives of public organizations, the salmon industry and international leaders in animal health, the Faculty of Veterinary and Livestock Sciences (FAVET) of the University of Chile began the Diploma in Good Practices in the Use of Antimicrobials in Salmon Farming. The program aims to strengthen the technical and scientific skills of professionals linked to aquaculture, promoting the responsible and prudent use of antimicrobials under a One Health approach. To do this, it integrates pharmacological, regulatory, epidemiological, microbiological aspects.",
-        "no": "Med en bred oppfordring til fagfolk fra akvakultursektoren og deltakelse av representanter for offentlige organisasjoner, laksenæringen og internasjonale ledere innen dyrehelse, startet Fakultet for veterinær- og husdyrvitenskap (FAVET) ved University of Chile Diploma in Good Practices in the Use of Antimicrobials in Salmon Farming. Programmet tar sikte på å styrke de tekniske og vitenskapelige ferdighetene til fagfolk knyttet til akvakultur, fremme ansvarlig og forsvarlig bruk av antimikrobielle midler under en One Health-tilnærming. For å gjøre dette, integrerer den farmakologiske, regulatoriske, epidemiologiske, mikrobiologiske aspekter."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/Foto-diploma-Centro-Colaborador-CASA-1024x528.png"
-    },
-    {
-      "title": {
-        "es": "Más de 75 mujeres fortalecen su liderazgo a través de programa impulsado por SalmonChile y Mujeres Empresarias",
-        "en": "More than 75 women strengthen their leadership through a program promoted by SalmonChile and Mujeres Empresarias",
-        "no": "Mer enn 75 kvinner styrker sitt lederskap gjennom et program promotert av SalmonChile og Mujeres Empresarias"
-      },
-      "url": "https://www.mundoacuicola.cl/new/mas-de-75-mujeres-fortalecen-su-liderazgo-a-traves-de-programa-impulsado-por-salmonchile-y-mujeres-empresarias/",
-      "date": "Fri, 12 Jun 2026 20:09:41 +0000",
-      "summary": {
-        "es": "La ceremonia realizada en Puerto Montt marcó el cierre del programa Mujeres en la Industria del Salmón, iniciativa desarrollada por SalmonChile y Mujeres Empresarias. Más de 75 participantes de 16 empresas completaron este proceso formativo orientado a fortalecer habilidades de liderazgo, desarrollo profesional y participación femenina en espacios de toma de decisiones dentro de la salmonicultura. La entrada Más de 75 mujeres fortalecen su liderazgo a través de programa impulsado por SalmonChile y Mujeres Empresarias se publicó primero en Mundoacuicola .",
-        "en": "The ceremony held in Puerto Montt marked the closing of the Women in the Salmon Industry program, an initiative developed by SalmonChile and Women Entrepreneurs. More than 75 participants from 16 companies completed this training process aimed at strengthening leadership skills, professional development and female participation in decision-making spaces within salmon farming. The entry More than 75 women strengthen their leadership through a program promoted by SalmonChile and Mujeres Empresarias was first published in Mundoacuicola.",
-        "no": "Seremonien som ble holdt i Puerto Montt markerte avslutningen av Women in the Salmon Industry-programmet, et initiativ utviklet av SalmonChile og Women Entrepreneurs. Mer enn 75 deltakere fra 16 selskaper fullførte denne opplæringsprosessen rettet mot å styrke lederegenskaper, faglig utvikling og kvinnelig deltakelse i beslutningsrom innen lakseoppdrett. Oppslaget Mer enn 75 kvinner styrker sitt lederskap gjennom et program promotert av SalmonChile og Mujeres Empresarias ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 13,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/75MujeresEmpresarias.jpg"
-    },
-    {
-      "title": {
-        "es": "Estudio identifica factores que influyen en la productividad del cultivo de pelillo",
-        "en": "Study identifies factors that influence the productivity of pelillo cultivation",
-        "no": "Studien identifiserer faktorer som påvirker produktiviteten til pelillo-dyrking"
-      },
-      "url": "https://www.aqua.cl/estudio-identifica-factores-que-influyen-en-la-productividad-del-cultivo-de-pelillo/",
-      "date": "Mon, 15 Jun 2026 10:42:00 +0000",
-      "summary": {
-        "es": "Un estudio desarrollado por investigadores vinculados a la Universidad Austral de Chile (Uach), sede Puerto Montt, entregó nuevos antecedentes sobre cómo las plagas afectan el cultivo de Gracilaria chilensis (pelillo), una de las macroalgas de mayor importancia económica para la acuicultura nacional. La investigación fue liderada por el Dr. Pedro Murúa, director del Magíster en Medio Ambiente y Bioseguridad en Acuicultura de la Uach Sede Puerto Montt, docente del Doctorado en Ciencias de la Acuicultura y de la carrera de Ingeniería Ambiental Uach e investigador del Laboratorio de Macroalgas y Ficopatología (FICOPAT), y contó con el trabajo de colaboradores David J. Patiño (Uach), Liliana Muñ",
-        "en": "A study developed by researchers linked to the Universidad Austral de Chile (Uach), Puerto Montt headquarters, provided new information on how pests affect the cultivation of Gracilaria chilensis (pelillo), one of the macroalgae of greatest economic importance for national aquaculture. The research was led by Dr. Pedro Murúa, director of the Master's Degree in Environment and Biosafety in Aquaculture at the Uach Puerto Montt Campus, professor of the Doctorate in Aquaculture Sciences and the Uach Environmental Engineering program and researcher at the Macroalgae and Phycopathology Laboratory (FICOPAT), and included the work of collaborators David J. Patiño (Uach), Liliana Muñ",
-        "no": "En studie utviklet av forskere knyttet til Universidad Austral de Chile (Uach), hovedkvarteret i Puerto Montt, ga ny informasjon om hvordan skadedyr påvirker dyrkingen av Gracilaria chilensis (pelillo), en av makroalgene av størst økonomisk betydning for nasjonal akvakultur. Forskningen ble ledet av Dr. Pedro Murúa, direktør for mastergraden i miljø og biosikkerhet i akvakultur ved Uach Puerto Montt Campus, professor i doktorgraden i akvakulturvitenskap og Uach Environmental Engineering-programmet og forsker ved Macroalgae and Phycopathology Laboratory (FICOPAT), og inkluderte arbeidet til samarbeidspartnere Liliño David Pat Muño (Muño)"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 13,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/uach-.png"
-    },
-    {
-      "title": {
-        "es": "Mundo Acuícola publica versión digital de su edición especial 181 «50 años de la salmonicultura en Chile»",
-        "en": "Mundo Acuícola publishes digital version of its special edition 181 \"50 years of salmon farming in Chile\"",
-        "no": "Mundo Acuícola publiserer digital versjon av spesialutgaven 181 \"50 år med lakseoppdrett i Chile\""
-      },
-      "url": "https://www.mundoacuicola.cl/new/mundo-acuicola-publica-version-digital-de-su-edicion-especial-181-50-anos-de-la-salmonicultura-chilena/",
-      "date": "Mon, 15 Jun 2026 02:59:37 +0000",
-      "summary": {
-        "es": "La edición N°181 de Revista Mundo Acuícola ya se encuentra disponible en formato digital. El número conmemorativo reúne testimonios de pioneros, líderes de la industria, investigadores y empresas que han sido parte del desarrollo de una actividad que transformó el sur austral de Chile y posicionó al país entre los principales productores de salmón del mundo. La entrada Mundo Acuícola publica versión digital de su edición especial 181 «50 años de la salmonicultura en Chile» se publicó primero en Mundoacuicola .",
-        "en": "Issue N°181 of Mundo Acuícola Magazine is now available in digital format. The commemorative issue brings together testimonies from pioneers, industry leaders, researchers and companies that have been part of the development of an activity that transformed the southern south of Chile and positioned the country among the main salmon producers in the world. The entry Mundo Acuícola publishes digital version of its special edition 181 \"50 years of salmon farming in Chile\" was first published in Mundoacuicola.",
-        "no": "Utgave nr. 181 av Mundo Acuícola Magazine er nå tilgjengelig i digitalt format. Jubileumsnummeret samler vitnesbyrd fra pionerer, industriledere, forskere og selskaper som har vært en del av utviklingen av en aktivitet som forvandlet den sørlige delen av Chile og posisjonerte landet blant de viktigste lakseprodusentene i verden. Oppføringen Mundo Acuícola publiserer digital versjon av spesialutgaven 181 \"50 år med lakseoppdrett i Chile\" ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 11,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/50anosSalmoniculturaMundoAcuicola181.jpeg"
-    },
-    {
-      "title": {
-        "es": "Jefaturas y veterinarios lideran nuevas oportunidades laborales en salmonicultura",
-        "en": "Heads and veterinarians lead new job opportunities in salmon farming",
-        "no": "Leder og veterinærer leder nye jobbmuligheter innen lakseoppdrett"
-      },
-      "url": "https://www.aqua.cl/jefaturas-y-veterinarios-lideran-nuevas-oportunidades-laborales-en-salmonicultura/",
-      "date": "Mon, 15 Jun 2026 10:48:00 +0000",
-      "summary": {
-        "es": "La industria salmonicultora continúa generando oportunidades de empleo en el sur de Chile. Esta semana, EmpleosAqua reúne una nueva oferta de vacantes para profesionales, técnicos y personal de apoyo, destacando posiciones de liderazgo en áreas de mantención, calidad, refrigeración y salud de peces. Entre los cargos más atractivos figuran puestos para jefes de mantención, gestión de calidad, refrigeración y línea de planta, además de oportunidades para médicos veterinarios especializados en agua mar, contadores auditores y analistas de recursos humanos. Las vacantes actualmente disponibles son las siguientes: JEFE DE MANTENCIÓN TERRENO &#8211; XI REGIÓN https://www.empleosaqua.cl/offer/show/",
-        "en": "The salmon farming industry continues to generate employment opportunities in southern Chile. This week, EmpleosAqua brings together a new offer of vacancies for professionals, technicians and support personnel, highlighting leadership positions in areas of fish maintenance, quality, refrigeration and health. Among the most attractive positions are positions for maintenance, quality management, refrigeration and plant line managers, as well as opportunities for veterinary doctors specializing in seawater, auditor accountants and human resources analysts. The currently available vacancies are as follows: GROUND MAINTENANCE CHIEF &#8211; XI REGION https://www.empleosaqua.cl/offer/show/",
-        "no": "Lakseoppdrettsnæringen fortsetter å skape sysselsettingsmuligheter i det sørlige Chile. Denne uken samler EmpleosAqua et nytt tilbud av ledige stillinger for fagfolk, teknikere og støttepersonell, som fremhever lederposisjoner innen vedlikehold av fisk, kvalitet, kjøling og helse. Blant de mest attraktive stillingene er stillinger for vedlikehold, kvalitetsledelse, kulde- og anleggslinjeledere, samt muligheter for veterinærleger med spesialisering i sjøvann, revisorer og personalanalytikere. De for øyeblikket ledige stillingene er som følger: SJEF FOR GRUNNVEDLIKEHOLD &#8211; XI REGION https://www.empleosaqua.cl/offer/show/"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f539.png"
-    },
-    {
-      "title": {
-        "es": "Avanza propuesta de sistema de “semáforo” para una salmonicultura sostenible",
-        "en": "Proposal for a “traffic light” system for sustainable salmon farming advances",
-        "no": "Forslag til et «trafikklys»-system for bærekraftig lakseoppdrett"
-      },
-      "url": "https://www.aqua.cl/avanza-sistema-de-semaforo-para-la-salmonicultura-con-enfoque-ecosistemico/",
-      "date": "Mon, 15 Jun 2026 10:47:00 +0000",
-      "summary": {
-        "es": "Un equipo de investigadores chilenos, liderado por la Investigadora Principal del Centro de Investigación Aplicada, CIA-Incar², Dra. Doris Soto, planteó un innovador modelo para regular la producción de salmón en Chile, integrando variables ambientales, sanitarias y productivas para avanzar hacia una acuicultura más sostenible. Este desarrollo es el resultado de un trabajo de investigación iniciado hace más de cinco años, financiado principalmente durante la etapa del Centro Fondap Incar, y que continúa profundizándose en su actual fase como CIA-Incar², consolidando una línea de investigación orientada a la gestión sustentable de la acuicultura basada en evidencia científica El artículo cien",
-        "en": "A team of Chilean researchers, led by the Principal Investigator of the Applied Research Center, CIA-Incar², Dr. Doris Soto, proposed an innovative model to regulate salmon production in Chile, integrating environmental, health and productive variables to advance towards more sustainable aquaculture. This development is the result of research work started more than five years ago, financed mainly during the Fondap Incar Center stage, and which continues to deepen in its current phase as CIA-Incar², consolidating a line of research aimed at the sustainable management of aquaculture based on scientific evidence The hundredth article",
-        "no": "Et team av chilenske forskere, ledet av hovedetterforskeren ved Applied Research Center, CIA-Incar², Dr. Doris Soto, foreslo en innovativ modell for å regulere lakseproduksjonen i Chile, som integrerer miljø-, helse- og produktive variabler for å komme videre mot mer bærekraftig akvakultur. Denne utviklingen er et resultat av forskningsarbeid startet for mer enn fem år siden, hovedsakelig finansiert under Fondap Incar Center-stadiet, og som fortsetter å utdypes i sin nåværende fase som CIA-Incar², og konsoliderer en forskningslinje rettet mot bærekraftig forvaltning av akvakultur basert på vitenskapelig bevis."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/Incar.jpeg"
-    },
-    {
-      "title": {
-        "es": "El nuevo ranking de exportadores de salmón chileno: primer trimestre del año trae sorpresas",
-        "en": "The new ranking of Chilean salmon exporters: first quarter of the year brings surprises",
-        "no": "Den nye rangeringen av chilenske lakseeksportører: Årets første kvartal bringer overraskelser"
-      },
-      "url": "https://www.salmonexpert.cl/exportaciones-ranking-skills/el-nuevo-ranking-de-exportadores-de-salmon-chileno-primer-trimestre-del-ano-trae-sorpresas/2136211",
+      "url": "https://www.salmonexpert.cl/centro-incar-incar-piscirickettsia/sernapesca-se-suma-al-primer-encuentro-internacional-para-abordar-el-control-de-srs/2136139",
       "date": "",
       "summary": {
-        "es": "AquaChile, Multi X y Cermaq encabezaron el listado de las empresas representantes de la industria nacional en los distintos mercados que buscan esta proteína.",
-        "en": "AquaChile, Multi X and Cermaq headed the list of companies representing the national industry in the different markets that seek this protein.",
-        "no": "AquaChile, Multi X og Cermaq ledet listen over selskaper som representerer den nasjonale industrien i de forskjellige markedene som søker etter dette proteinet."
+        "es": "La primera Conferencia Internacional dedicada exclusivamente a la piscirickettsiosis ya cuenta con el patrocinio de Sernapesca.",
+        "en": "La primera Conferencia Internacional dedicada exclusivamente a la piscirickettsiosis ya cuenta con el patrocinio de Sernapesca.",
+        "no": "La primera Conferencia Internacional dedicada exclusivamente a la piscirickettsiosis ya cuenta con el patrocinio de Sernapesca."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
-      "category": "market",
+      "category": "technology",
       "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
       },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2137414.jpg?imageId=2137414&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
+      "score": 2,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2136148.jpg?imageId=2136148&x=0&y=17.22&cropw=100&croph=47.78&panox=0&panoy=17.22&panow=100&panoh=47.78&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Columna de OpiniónTrazabilidad que transforma: el verdadero valor de los datos en la salmonicultura",
+        "en": "Columna de OpiniónTrazabilidad que transforma: el verdadero valor de los datos en la salmonicultura",
+        "no": "Columna de OpiniónTrazabilidad que transforma: el verdadero valor de los datos en la salmonicultura"
+      },
+      "url": "https://www.salmonexpert.cl/big-data-datos-informacion/trazabilidad-que-transforma-el-verdadero-valor-de-los-datos-en-la-salmonicultura/2136542",
+      "date": "",
+      "summary": {
+        "es": "*Columna de opinión para Salmonexpert de Nicolás Contreras, CEO de Skills. En la industria salmonicultora hablamos constantemente de eficiencia, sostenibilidad, productividad y competitividad. Sin embargo, pocas veces hablamos de algo que hoy podría ser uno de los mayores aceleradores de transformación para el sector: la apertura y transparencia de los datos.",
+        "en": "*Columna de opinión para Salmonexpert de Nicolás Contreras, CEO de Skills. En la industria salmonicultora hablamos constantemente de eficiencia, sostenibilidad, productividad y competitividad. Sin embargo, pocas veces hablamos de algo que hoy podría ser uno de los mayores aceleradores de transformación para el sector: la apertura y transparencia de los datos.",
+        "no": "*Columna de opinión para Salmonexpert de Nicolás Contreras, CEO de Skills. En la industria salmonicultora hablamos constantemente de eficiencia, sostenibilidad, productividad y competitividad. Sin embargo, pocas veces hablamos de algo que hoy podría ser uno de los mayores aceleradores de transformación para el sector: la apertura y transparencia de los datos."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1132060.jpg?imageId=1132060&x=0&y=16.58&cropw=100&croph=66.84&panox=0&panoy=16.58&panow=100&panoh=66.84&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "PTI Industria Sostenible del Salmón y Singulares avanzan en plataforma digital para proveedores",
+        "en": "PTI Industria Sostenible del Salmón y Singulares avanzan en plataforma digital para proveedores",
+        "no": "PTI Industria Sostenible del Salmón y Singulares avanzan en plataforma digital para proveedores"
+      },
+      "url": "https://www.salmonexpert.cl/plataforma-proveedores-pti/pti-industria-sostenible-del-salmon-y-singulares-avanzan-en-plataforma-digital-para-proveedores/2133747",
+      "date": "",
+      "summary": {
+        "es": "La instancia convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector.",
+        "en": "La instancia convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector.",
+        "no": "La instancia convocó a proveedores, salmoneras, gremios y academia para validar las funcionalidades de la plataforma que integrará información de cerca de 400 proveedores estratégicos del sector."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 6,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2133752.jpg?imageId=2133752&x=0&y=11.51&cropw=100&croph=84.87&panox=0&panoy=11.51&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos",
+        "en": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos",
+        "no": "Congreso Nacional de Acuicultura abre convocatoria para recibir trabajos científicos"
+      },
+      "url": "https://www.salmonexpert.cl/acuicultura-congreso-nacional-de-acuicultura-puerto-montt/congreso-nacional-de-acuicultura-abre-convocatoria-para-recibir-trabajos-cientificos/2133072",
+      "date": "",
+      "summary": {
+        "es": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales.",
+        "en": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales.",
+        "no": "La iniciativa busca reunir avances en sanidad, nutrición, bienestar animal, genética, sostenibilidad e innovación, promoviendo el intercambio entre especialistas nacionales e internacionales."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 6,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2133077.jpg?imageId=2133077&x=0&y=0&cropw=100&croph=85.43&panox=0&panoy=0&panow=100&panoh=85.43&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Salmonicultores buscarán nuevas oportunidades comerciales en Europa, África y Medio Oriente",
+        "en": "Salmonicultores buscarán nuevas oportunidades comerciales en Europa, África y Medio Oriente",
+        "no": "Salmonicultores buscarán nuevas oportunidades comerciales en Europa, África y Medio Oriente"
+      },
+      "url": "https://www.salmonexpert.cl/aquachile-europa-marruecos/salmonicultores-buscaran-nuevas-oportunidades-comerciales-en-europa-africa-y-medio-oriente/2136152",
+      "date": "",
+      "summary": {
+        "es": "Cinco empresas de los sectores salmonicultor y mitilicultor de la Región de Los Lagos participarán los días 10 y 11 de junio en la Rueda de Negocios Europa, África y Medio Oriente organizada por ProChile.",
+        "en": "Cinco empresas de los sectores salmonicultor y mitilicultor de la Región de Los Lagos participarán los días 10 y 11 de junio en la Rueda de Negocios Europa, África y Medio Oriente organizada por ProChile.",
+        "no": "Cinco empresas de los sectores salmonicultor y mitilicultor de la Región de Los Lagos participarán los días 10 y 11 de junio en la Rueda de Negocios Europa, África y Medio Oriente organizada por ProChile."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 5,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2136157.jpg?imageId=2136157&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
         "es": "China y Brasil destacan entre los mercados más dinámicos para el salmón chileno",
-        "en": "China and Brazil stand out among the most dynamic markets for Chilean salmon",
-        "no": "Kina og Brasil skiller seg ut blant de mest dynamiske markedene for chilensk laks"
+        "en": "China y Brasil destacan entre los mercados más dinámicos para el salmón chileno",
+        "no": "China y Brasil destacan entre los mercados más dinámicos para el salmón chileno"
       },
       "url": "https://www.salmonexpert.cl/brasil-china-envios/china-y-brasil-destacan-entre-los-mercados-mas-dinamicos-para-el-salmon-chileno/2136107",
       "date": "",
       "summary": {
         "es": "Las exportaciones de salmón y trucha crecieron 15,4% en volumen y superaron los US$3.020 millones entre enero y mayo, impulsadas por la expansión de los gigantes asiático y latinoamericano.",
-        "en": "Salmon and trout exports grew 15.4% in volume and exceeded US$3,020 million between January and May, driven by the expansion of the Asian and Latin American giants.",
-        "no": "Eksporten av laks og ørret økte med 15,4 % i volum og oversteg 3020 millioner dollar mellom januar og mai, drevet av utvidelsen av de asiatiske og latinamerikanske gigantene."
+        "en": "Las exportaciones de salmón y trucha crecieron 15,4% en volumen y superaron los US$3.020 millones entre enero y mayo, impulsadas por la expansión de los gigantes asiático y latinoamericano.",
+        "no": "Las exportaciones de salmón y trucha crecieron 15,4% en volumen y superaron los US$3.020 millones entre enero y mayo, impulsadas por la expansión de los gigantes asiático y latinoamericano."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -253,19 +178,19 @@
     },
     {
       "title": {
-        "es": "Programa «Mujeres en la Industria del Salmón» certifica a 75 trabajadoras en Puerto Montt",
-        "en": "“Women in the Salmon Industry” Program certifies 75 workers in Puerto Montt",
-        "no": "\"Kvinner i lakseindustrien\"-programmet sertifiserer 75 arbeidere i Puerto Montt"
+        "es": "El nuevo ranking de exportadores de salmón chileno: primer trimestre del año trae sorpresas",
+        "en": "El nuevo ranking de exportadores de salmón chileno: primer trimestre del año trae sorpresas",
+        "no": "El nuevo ranking de exportadores de salmón chileno: primer trimestre del año trae sorpresas"
       },
-      "url": "https://infosalmon.cl/certificacion-mujeres-liderazgo-salmon-puerto-montt/",
-      "date": "Fri, 12 Jun 2026 18:35:43 +0000",
+      "url": "https://www.salmonexpert.cl/exportaciones-ranking-skills/el-nuevo-ranking-de-exportadores-de-salmon-chileno-primer-trimestre-del-ano-trae-sorpresas/2136211",
+      "date": "",
       "summary": {
-        "es": "Con la entrega de diplomas en el auditorio de INACAP, concluyó el programa formativo «Mujeres en la Industria del Salmón», una iniciativa que desde 2022 capacita a trabajadoras de empresas productoras y proveedoras en negociación, comunicación técnica y resolución de conflictos en faena. Sostenibilidad y metas para el 2030 El gerente general de SalmonChile, Tomás Monge, detalló que la incorporación de miradas diversas en los equipos de trabajo impacta directamente en los índices de productividad, empatía y sostenibilidad de la actividad austral. «Queremos más mujeres en puestos de liderazgo. Los resultados del programa exigen repetir y amplificar estas herramientas a más capas de trabajadora",
-        "en": "With the delivery of diplomas in the INACAP auditorium, the \"Women in the Salmon Industry\" training program concluded, an initiative that since 2022 has trained workers from production and supplier companies in negotiation, technical communication and conflict resolution at slaughter. Sustainability and goals for 2030 The general manager of SalmonChile, Tomás Monge, explained that the incorporation of diverse perspectives in work teams directly impacts the productivity, empathy and sustainability indices of southern activity. «We want more women in leadership positions. The results of the program require repeating and amplifying these tools to more layers of workers",
-        "no": "Med utlevering av vitnemål i INACAP auditorium avsluttet opplæringsprogrammet «Kvinner i lakseindustrien», et initiativ som siden 2022 har trent arbeidere fra produksjons- og leverandørbedrifter i forhandlinger, teknisk kommunikasjon og konfliktløsning ved slakt. Bærekraft og mål for 2030 Daglig leder for SalmonChile, Tomás Monge, forklarte at inkorporering av ulike perspektiver i arbeidsteam direkte påvirker produktivitets-, empati- og bærekraftsindeksene for aktivitet i sør. «Vi ønsker flere kvinner i lederstillinger. Resultatene av programmet krever at disse verktøyene gjentas og forsterkes til flere lag med arbeidere"
+        "es": "AquaChile, Multi X y Cermaq encabezaron el listado de las empresas representantes de la industria nacional en los distintos mercados que buscan esta proteína.",
+        "en": "AquaChile, Multi X y Cermaq encabezaron el listado de las empresas representantes de la industria nacional en los distintos mercados que buscan esta proteína.",
+        "no": "AquaChile, Multi X y Cermaq encabezaron el listado de las empresas representantes de la industria nacional en los distintos mercados que buscan esta proteína."
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "market",
       "category_label": {
         "es": "Mercado",
@@ -273,33 +198,108 @@
         "no": "Marked og naringsliv"
       },
       "score": 12,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/DSC00750-scaled.jpg"
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2137414.jpg?imageId=2137414&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Seremi de Hacienda de Magallanes aterriza expectativas salmoneras: “No es que aprobemos la ley y al día siguiente tengamos una planta operando”",
-        "en": "Seremi from Hacienda de Magallanes lands salmon expectations: “It is not that we approve the law and the next day we have a plant operating”",
-        "no": "Seremi fra Hacienda de Magallanes lander lakseforventninger: \"Det er ikke det at vi godkjenner loven og dagen etter har vi et anlegg i drift\""
+        "es": "Puerto Coronel refuerza capacidad y tecnología para la exportación de salmones: los planes",
+        "en": "Puerto Coronel refuerza capacidad y tecnología para la exportación de salmones: los planes",
+        "no": "Puerto Coronel refuerza capacidad y tecnología para la exportación de salmones: los planes"
       },
-      "url": "https://infosalmon.cl/seremi-hacienda-magallanes-salmonicultura-inversion-permisologia/",
-      "date": "Thu, 11 Jun 2026 23:25:38 +0000",
+      "url": "https://www.salmonexpert.cl/acuicultura-cadena-de-frio-exportaciones/puerto-coronel-refuerza-capacidad-y-tecnologia-para-la-exportacion-de-salmones-los-planes/2137909",
+      "date": "",
       "summary": {
-        "es": "En esta conversación con InfoSALMON , la autoridad detalla el complejo escenario fiscal del país y las acciones del gobierno para reactivar la economía a largo plazo. El diálogo profundiza en el impacto de la burocracia estatal sobre las inversiones en Magallanes y aborda frontalmente los retrasos de la CONADI frente a normativas como la Ley Lafkenche y las solicitudes de ECMPO. Asimismo, el economista de profesión destaca el potencial de la industria salmonera como motor clave para la creación de empleo en la región. Para enfrentar los cuellos de botella ambientales y operativos, revela la creación de un sistema de monitoreo interno que exige a los diferentes servicios públicos cumplir estr",
-        "en": "In this conversation with InfoSALMON, the authority details the country's complex fiscal scenario and the government's actions to reactivate the economy in the long term. The dialogue delves into the impact of state bureaucracy on investments in Magallanes and directly addresses CONADI's delays in the face of regulations such as the Lafkenche Law and ECMPO requests. Likewise, the professional economist highlights the potential of the salmon industry as a key driver for job creation in the region. To address environmental and operational bottlenecks, it reveals the creation of an internal monitoring system that requires different public services to comply with strict requirements.",
-        "no": "I denne samtalen med InfoSALMON beskriver myndigheten landets komplekse finanspolitiske scenario og regjeringens handlinger for å reaktivere økonomien på lang sikt. Dialogen fordyper innvirkningen av statlig byråkrati på investeringer i Magallanes og tar direkte opp CONADIs forsinkelser i møte med forskrifter som Lafkenche-loven og ECMPO-forespørsler. Likeledes trekker fagøkonomen frem potensialet i laksenæringen som en sentral driver for jobbskaping i regionen. For å adressere miljømessige og operasjonelle flaskehalser, avslører den etableringen av et internt overvåkingssystem som krever at ulike offentlige tjenester overholder strenge krav."
+        "es": "El gerente general de Puerto Coronel, Patricio Román, detalló las inversiones en seguridad, cadena de frío, digitalización e infraestructura para responder al crecimiento de las exportaciones de salmón.",
+        "en": "El gerente general de Puerto Coronel, Patricio Román, detalló las inversiones en seguridad, cadena de frío, digitalización e infraestructura para responder al crecimiento de las exportaciones de salmón.",
+        "no": "El gerente general de Puerto Coronel, Patricio Román, detalló las inversiones en seguridad, cadena de frío, digitalización e infraestructura para responder al crecimiento de las exportaciones de salmón."
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "regulatory",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
       "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 12,
+      "score": 10,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/InShot_20260611_191423724.jpg"
+      "image": "https://image.salmonexpert.cl/2137840.jpg?imageId=2137840&x=0&y=27.01&cropw=100&croph=61.14&panox=0&panoy=27.01&panow=100&panoh=61.14&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "“El desafío de corto plazo de la salmonicultura chilena no es crecer aceleradamente”",
+        "en": "“El desafío de corto plazo de la salmonicultura chilena no es crecer aceleradamente”",
+        "no": "“El desafío de corto plazo de la salmonicultura chilena no es crecer aceleradamente”"
+      },
+      "url": "https://www.salmonexpert.cl/gobierno-jose-antonio-kast-kast/el-desafio-de-corto-plazo-de-la-salmonicultura-chilena-no-es-crecer-aceleradamente/2136166",
+      "date": "",
+      "summary": {
+        "es": "Para el gerente general de Mowi Chile, no es el crecimiento acelerado ni duplicar mañana la producción los pasos principales a seguir, sino que mejorar la competitividad de la salmonicultura nacional.",
+        "en": "Para el gerente general de Mowi Chile, no es el crecimiento acelerado ni duplicar mañana la producción los pasos principales a seguir, sino que mejorar la competitividad de la salmonicultura nacional.",
+        "no": "Para el gerente general de Mowi Chile, no es el crecimiento acelerado ni duplicar mañana la producción los pasos principales a seguir, sino que mejorar la competitividad de la salmonicultura nacional."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 6,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1596518.jpg?imageId=1596518&x=0&y=32.02&cropw=100&croph=63.55&panox=0&panoy=32.02&panow=100&panoh=63.55&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón",
+        "en": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón",
+        "no": "Plan Magallanes: Blumar prevé fuerte crecimiento a 35.000 toneladas de salmón"
+      },
+      "url": "https://www.salmonexpert.cl/blumar-magallanes-resultados/plan-magallanes-blumar-preve-fuerte-crecimiento-a-35000-toneladas-de-salmon/2132284",
+      "date": "",
+      "summary": {
+        "es": "",
+        "en": "",
+        "no": ""
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 6,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2023236.jpg?imageId=2023236&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Productores de salmón pagarán indemnización cuando ocurran escapes",
+        "en": "Productores de salmón pagarán indemnización cuando ocurran escapes",
+        "no": "Productores de salmón pagarán indemnización cuando ocurran escapes"
+      },
+      "url": "https://www.salmonexpert.cl/escape-escapes-escocia/productores-de-salmon-pagaran-indemnizacion-cuando-ocurran-escapes/2137815",
+      "date": "",
+      "summary": {
+        "es": "Los pagos se efectuarán de forma proporcional al tamaño de la fuga, comenzando en 500 libras esterlinas si escapan entre uno y 50 peces, y aumentando hasta 5 libras esterlinas por pez.",
+        "en": "Los pagos se efectuarán de forma proporcional al tamaño de la fuga, comenzando en 500 libras esterlinas si escapan entre uno y 50 peces, y aumentando hasta 5 libras esterlinas por pez.",
+        "no": "Los pagos se efectuarán de forma proporcional al tamaño de la fuga, comenzando en 500 libras esterlinas si escapan entre uno y 50 peces, y aumentando hasta 5 libras esterlinas por pez."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljo og baerekraft"
+      },
+      "score": 4,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2137657.jpg?imageId=2137657&x=0&y=19.86&cropw=100&croph=60.28&panox=0&panoy=19.86&panow=100&panoh=60.28&width=1200&height=683"
     }
   ]
 }
