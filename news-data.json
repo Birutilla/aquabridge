@@ -1,43 +1,43 @@
 {
-  "updated": "2026-06-22T13:38:42Z",
+  "updated": "2026-06-25T13:43:28Z",
   "articles": [
     {
       "title": {
-        "es": "De la inteligencia artificial a la biotecnología: las claves de Salmonexpert Seminars 2026",
-        "en": "From artificial intelligence to biotechnology: the keys to Salmonexpert Seminars 2026",
-        "no": "Fra kunstig intelligens til bioteknologi: nøklene til Salmonexpert Seminars 2026"
+        "es": "La salmonicultura entra en modo predictivo: IA, gemelos digitales y Smart Farming marcan nueva etapa desde Puerto Montt",
+        "en": "Salmon farming enters predictive mode: AI, digital twins and Smart Farming mark a new stage from Puerto Montt",
+        "no": "Lakseoppdrett går inn i prediktiv modus: AI, digitale tvillinger og Smart Farming markerer en ny scene fra Puerto Montt"
       },
-      "url": "https://www.salmonexpert.cl/biotecnologia-inteligencia-artificial-salmonexpert/de-la-inteligencia-artificial-a-la-biotecnologia-las-claves-de-salmonexpert-seminars-2026/2137333",
-      "date": "",
+      "url": "https://infosalmon.cl/la-salmonicultura-entra-en-modo-predictivo-ia-gemelos-digitales-y-smart-farming-marcan-nueva-etapa-desde-puerto-montt/",
+      "date": "Wed, 24 Jun 2026 23:13:24 +0000",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "La inteligencia artificial dejó de ser una promesa lejana para la salmonicultura. En el sur de Chile, donde la industria convive con desafíos productivos, ambientales, logísticos y sanitarios cada vez más complejos, la conversación tecnológica comienza a moverse desde la automatización básica hacia una nueva etapa: observar mejor, simular escenarios, anticipar riesgos y formar equipos capaces de tomar decisiones con datos. Esa fue una de las principales conclusiones que dejó el encuentro SummIT: Inteligencia artificial aplicada, organizado por Duoc UC sede Puerto Montt , instancia que reunió miradas complementarias desde la tecnología y la industria salmonicultora. Por un lado, Nicolás Beghe",
+        "en": "Artificial intelligence is no longer a distant promise for salmon farming. In the south of Chile, where the industry coexists with increasingly complex productive, environmental, logistical and health challenges, the technological conversation begins to move from basic automation to a new stage: better observing, simulating scenarios, anticipating risks and forming teams capable of making decisions with data. That was one of the main conclusions left by the SummIT meeting: Applied artificial intelligence, organized by Duoc UC headquarters in Puerto Montt, an event that brought together complementary views from technology and the salmon farming industry. On the one hand, Nicolás Beghe",
+        "no": "Kunstig intelligens er ikke lenger et fjernt løfte for lakseoppdrett. I det sørlige Chile, hvor industrien sameksisterer med stadig mer komplekse produksjons-, miljømessige, logistiske og helsemessige utfordringer, begynner den teknologiske samtalen å bevege seg fra grunnleggende automatisering til et nytt stadium: bedre observasjon, simulering av scenarier, forutse risikoer og danne team som er i stand til å ta beslutninger med data. Det var en av hovedkonklusjonene etter SummIT-møtet: Anvendt kunstig intelligens, organisert av Duoc UC-hovedkvarteret i Puerto Montt, et arrangement som samlet komplementære synspunkter fra teknologi og lakseoppdrettsindustrien. På den ene siden Nicolás Beghe"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 7,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2137400.jpg?imageId=2137400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+      "score": 15,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/DSC01286-scaled.jpg"
     },
     {
       "title": {
-        "es": "Bautizan un moderno wellboat que trabajará con Mowi",
-        "en": "They name a modern wellboat that will work with Mowi",
-        "no": "De navngir en moderne brønnbåt som skal fungere med Mowi"
+        "es": "Del dato a la decisión: IA aplicada gana espacio en la salmonicultura",
+        "en": "From data to decision: Applied AI gains space in salmon farming",
+        "no": "Fra data til beslutning: Anvendt AI får plass i lakseoppdrett"
       },
-      "url": "https://www.salmonexpert.cl/mowi-noruega-wellboat/bautizan-un-moderno-wellboat-que-trabajara-con-mowi/2140059",
+      "url": "https://www.salmonexpert.cl/duoc-uc-inteligencia-artificial-mowi-chile/del-dato-a-la-decision-ia-aplicada-gana-espacio-en-la-salmonicultura/2144294",
       "date": "",
       "summary": {
-        "es": "El buque \"Frøy Saga\" está equipado con un sistema de presión negativa suave para la carga y clasificación del salmón y equipos avanzados para el tratamiento de piojos de mar.",
-        "en": "The vessel \"Frøy Saga\" is equipped with a gentle negative pressure system for loading and sorting salmon and advanced equipment for the treatment of sea lice.",
-        "no": "Fartøyet «Frøy Saga» er utstyrt med et skånsomt undertrykkssystem for lasting og sortering av laks og avansert utstyr for behandling av lakselus."
+        "es": "La quinta versión del Summit organizado por DuocUC mostró cómo las herramientas predictivas están transformando la gestión de las operaciones acuícolas.",
+        "en": "The fifth version of the Summit organized by DuocUC showed how predictive tools are transforming the management of aquaculture operations.",
+        "no": "Den femte versjonen av toppmøtet organisert av DuocUC viste hvordan prediktive verktøy transformerer forvaltningen av akvakulturdrift."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -49,20 +49,20 @@
       },
       "score": 4,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2138952.jpg?imageId=2138952&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2144306.jpg?imageId=2144306&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Project Manager y Coordinador de Operaciones destacan entre nuevas vacantes acuícolas",
-        "en": "Project Manager and Operations Coordinator stand out among new aquaculture vacancies",
-        "no": "Prosjektleder og driftskoordinator skiller seg ut blant nye ledige akvakulturstillinger"
+        "es": "Empleos en salmonicultura: Revisa las 15 oportunidades laborales actualizadas",
+        "en": "Salmon farming jobs: Check out the 15 updated job opportunities",
+        "no": "Lakseoppdrettsjobber: Sjekk ut de 15 oppdaterte jobbmulighetene"
       },
-      "url": "https://www.aqua.cl/project-manager-y-coordinador-de-operaciones-destacan-entre-nuevas-vacantes-acuicolas/",
-      "date": "Mon, 22 Jun 2026 10:49:00 +0000",
+      "url": "https://www.aqua.cl/empleos-en-salmonicultura-revisa-las-15-oportunidades-laborales-actualizadas/",
+      "date": "Wed, 24 Jun 2026 10:49:00 +0000",
       "summary": {
-        "es": "Las oportunidades laborales en la salmonicultura continúan ampliándose en el sur de Chile. Esta semana, EmpleosAqua dio a conocer una nueva serie de vacantes dirigidas a profesionales, técnicos y personal de apoyo, con puestos de alta responsabilidad en gestión de proyectos, operaciones, comercio exterior y producción. Entre las ofertas más destacadas se encuentran las vacantes para Project Manager en Puerto Varas, Coordinador de Operaciones en Puerto Montt, Analista de Comercio Exterior, Analista de Trazabilidad para plantas de procesos y Auditor SST, además de diversos cargos técnicos y operacionales vinculados a la actividad acuícola. Las vacantes disponibles son las siguientes: PROJECT M",
-        "en": "Job opportunities in salmon farming continue to expand in southern Chile. This week, EmpleosAqua announced a new series of vacancies aimed at professionals, technicians and support staff, with highly responsible positions in project management, operations, foreign trade and production. Among the most notable offers are vacancies for Project Manager in Puerto Varas, Operations Coordinator in Puerto Montt, Foreign Trade Analyst, Traceability Analyst for process plants and SST Auditor, in addition to various technical and operational positions linked to aquaculture activity. The available vacancies are as follows: PROJECT M",
-        "no": "Jobbmuligheter innen lakseoppdrett fortsetter å utvide seg i det sørlige Chile. Denne uken annonserte EmpleosAqua en ny serie med ledige stillinger rettet mot fagfolk, teknikere og støttepersonell, med svært ansvarlige stillinger innen prosjektledelse, drift, utenrikshandel og produksjon. Blant de mest bemerkelsesverdige tilbudene er ledige stillinger for prosjektleder i Puerto Varas, driftskoordinator i Puerto Montt, utenrikshandelsanalytiker, sporbarhetsanalytiker for prosessanlegg og SST-revisor, i tillegg til ulike tekniske og operasjonelle stillinger knyttet til akvakulturaktivitet. De ledige stillingene er som følger: PROSJEKT M"
+        "es": "Descubre las nuevas ofertas de empleo en salmonicultura disponibles entre Valdivia , Puerto Montt, Puerto Varas , reflejo de la creciente demanda de talento en la industria acuícola chilena . La acuicultura en Chile se consolida como uno de los principales motores de empleo en el sur del país. Las vacantes publicadas por Empleos Aqua evidencian la necesidad constante de capital humano especializado para fortalecer áreas estratégicas de la salmonicultura y servicios asociados. Las vacantes consideran perfiles técnicos, profesionales y operativos , con oportunidades en: Producción acuícola; Mantenimiento industrial; Logística y abastecimiento; Control de calidad; Genética y operaciones acuícol",
+        "en": "Discover the new job offers in salmon farming available between Valdivia, Puerto Montt, Puerto Varas, reflecting the growing demand for talent in the Chilean aquaculture industry. Aquaculture in Chile is consolidating itself as one of the main drivers of employment in the south of the country. The vacancies published by Jobs Aqua show the constant need for specialized human capital to strengthen strategic areas of salmon farming and associated services. The vacancies consider technical, professional and operational profiles, with opportunities in: Aquaculture production; Industrial maintenance; Logistics and supply; Quality control; Genetics and aquaculture operations",
+        "no": "Oppdag de nye jobbtilbudene innen lakseoppdrett som er tilgjengelige mellom Valdivia, Puerto Montt, Puerto Varas, som gjenspeiler den økende etterspørselen etter talent i den chilenske akvakulturindustrien. Akvakultur i Chile konsoliderer seg som en av hoveddriverne for sysselsetting sør i landet. De ledige stillingene publisert av Jobs Aqua viser det konstante behovet for spesialisert menneskelig kapital for å styrke strategiske områder innen lakseoppdrett og tilhørende tjenester. De ledige stillingene vurderer tekniske, faglige og operasjonelle profiler, med muligheter innen: Akvakulturproduksjon; Industrielt vedlikehold; Logistikk og forsyning; Kvalitetskontroll; Genetikk og akvakulturdrift"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -73,71 +73,21 @@
         "no": "Bransjenyheter"
       },
       "score": 14,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2025/08/Prevencion-de-riesgos-freepik-scaled.jpg"
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/05/Empleos-Acuicolas-1024x683.png"
     },
     {
       "title": {
-        "es": "MNL Group compartió aprendizajes de la salmonicultura chilena y presentó soluciones para tilapia en «Aquishow Brasil» 2026",
-        "en": "MNL Group shared learnings from Chilean salmon farming and presented solutions for tilapia at “Aquishow Brasil” 2026",
-        "no": "MNL Group delte erfaringer fra chilensk lakseoppdrett og presenterte løsninger for tilapia på \"Aquishow Brasil\" 2026"
+        "es": "Formación para la nueva acuicultura: especialización en sistemas RAS con alcance internacional",
+        "en": "Training for the new aquaculture: specialization in RAS systems with international reach",
+        "no": "Opplæring for den nye akvakulturen: spesialisering i RAS-systemer med internasjonal rekkevidde"
       },
-      "url": "https://www.mundoacuicola.cl/new/mnl-group-aprendizajes-de-la-salmonicultura-chilena-y-presento-soluciones-para-tilapia-en-aquishow-brasil-2026/",
-      "date": "Fri, 19 Jun 2026 19:12:48 +0000",
+      "url": "https://infosalmon.cl/formacion-para-la-nueva-acuicultura-especializacion-en-sistemas-ras-con-alcance-internacional/",
+      "date": "Wed, 24 Jun 2026 21:56:07 +0000",
       "summary": {
-        "es": "La compañía gestionó la realización de un seminario internacional sobre crisis sanitarias en acuicultura, donde presentó experiencias aplicadas al cultivo de tilapia y reforzó su posicionamiento en salud y bienestar animal durante uno de los principales encuentros del sector acuícola brasileño. La entrada MNL Group compartió aprendizajes de la salmonicultura chilena y presentó soluciones para tilapia en «Aquishow Brasil» 2026 se publicó primero en Mundoacuicola .",
-        "en": "The company managed the holding of an international seminar on health crises in aquaculture, where it presented experiences applied to tilapia farming and reinforced its positioning in animal health and well-being during one of the main meetings of the Brazilian aquaculture sector. The entry MNL Group shared learnings from Chilean salmon farming and presented solutions for tilapia at “Aquishow Brasil” 2026 was first published in Mundoacuicola.",
-        "no": "Selskapet ledet avholdelsen av et internasjonalt seminar om helsekriser i akvakultur, hvor det presenterte erfaringer brukt på tilapiaoppdrett og styrket sin posisjonering innen dyrehelse og -velvære under et av hovedmøtene i den brasilianske akvakultursektoren. Innlegget MNL Group delte erfaringer fra chilensk lakseoppdrett og presenterte løsninger for tilapia på \"Aquishow Brasil\" 2026 ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/Foto2Copia3.jpg"
-    },
-    {
-      "title": {
-        "es": "SalmonChile participa en Consejo Regional Exportador de Los Lagos",
-        "en": "SalmonChile participates in the Los Lagos Regional Export Council",
-        "no": "SalmonChile deltar i Los Lagos regionale eksportråd"
-      },
-      "url": "https://www.mundoacuicola.cl/new/salmonchile-participa-en-consejo-regional-exportador-de-los-lagos/",
-      "date": "Thu, 18 Jun 2026 21:03:10 +0000",
-      "summary": {
-        "es": "En el encuentro, se destacó la prolongada trayectoria de colaboración de esta Dirección con los diversos sectores productivos de la región, mediante ferias internacionales, estudios y apertura de mercados, programas de fortalecimiento exportador y apoyo de oficinas comerciales. La entrada SalmonChile participa en Consejo Regional Exportador de Los Lagos se publicó primero en Mundoacuicola .",
-        "en": "At the meeting, the long history of collaboration of this Directorate with the various productive sectors of the region was highlighted, through international fairs, studies and market opening, export strengthening programs and support of commercial offices. The entry SalmonChile participates in the Los Lagos Regional Export Council was first published in Mundoacuicola.",
-        "no": "På møtet ble den lange historien med samarbeid til dette direktoratet med de ulike produktive sektorene i regionen fremhevet, gjennom internasjonale messer, studier og markedsåpning, eksportstyrkende programmer og støtte til kommersielle kontorer. Oppføringen SalmonChile deltar i Los Lagos Regional Export Council ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/06/SalmonChileConsejoExportadorLosLagos2.jpeg"
-    },
-    {
-      "title": {
-        "es": "Del smolt al mar: por qué el fotoperiodo puede definir el éxito productivo de un ciclo de engorda",
-        "en": "From smolt to sea: why photoperiod can define the productive success of a fattening cycle",
-        "no": "Fra smolt til hav: hvorfor fotoperioder kan definere den produktive suksessen til en oppfeingssyklus"
-      },
-      "url": "https://infosalmon.cl/del-smolt-al-mar-por-que-el-fotoperiodo-puede-definir-el-exito-productivo/",
-      "date": "Mon, 22 Jun 2026 00:32:31 +0000",
-      "summary": {
-        "es": "La industria salmonera lleva años perfeccionando la fase de agua dulce. Hatcheries mejor equipadas, protocolos de smoltificación más ajustados, smolts más grandes y robustos. Y tiene sentido: la calidad del smolt que entra al mar condiciona gran parte de lo que viene después. Un seminario técnico realizado recientemente en Puerto Varas lo confirmó con datos: lo que ocurre en agua dulce puede determinar gran parte del desempeño sanitario, productivo y económico de un ciclo de cultivo completo. Pero hay una pregunta que ese debate deja pendiente, y que le cae directo al gerente de farming: ¿qué pasa con la luz cuando ese smolt llega a la jaula? Porque el salmón no deja de necesitar señales lum",
-        "en": "The salmon industry has been perfecting the freshwater phase for years. Better equipped hatcheries, tighter smoltification protocols, larger and more robust smolts. And it makes sense: the quality of the smolt that enters the sea determines much of what comes after. A technical seminar held recently in Puerto Varas confirmed this with data: what happens in fresh water can determine a large part of the health, productive and economic performance of a complete crop cycle. But there is a question that this debate leaves pending, and that falls directly to the farming manager: what happens to the light when that smolt reaches the cage? Because salmon do not stop needing light signals",
-        "no": "Laksenæringen har perfeksjonert ferskvannsfasen i årevis. Bedre utstyrt settefiskanlegg, strammere smoltifiseringsprotokoller, større og mer robust smolt. Og det er fornuftig: Kvaliteten på smolten som kommer i havet bestemmer mye av det som kommer etter. Et teknisk seminar som ble holdt nylig i Puerto Varas bekreftet dette med data: hva som skjer i ferskvann kan bestemme en stor del av den helsemessige, produktive og økonomiske ytelsen til en komplett avlingssyklus. Men det er et spørsmål som denne debatten lar vente på seg, og som faller direkte til oppdrettslederen: hva skjer med lyset når den smolten når merden? For laks slutter ikke å trenge lyssignaler"
+        "es": "La creciente necesidad de avanzar hacia sistemas productivos más eficientes, sustentables y tecnológicamente avanzados ha convertido a los Sistemas de Recirculación Acuícola (RAS) en una de las principales herramientas para el desarrollo de la acuicultura moderna. En este contexto, la Universidad Austral de Chile, Sede Puerto Montt, mantiene abiertas las postulaciones a una nueva versión del Diplomado en Recirculación para la Acuicultura (DipRAS), programa que se ha consolidado como un referente de formación especializada para profesionales del sector en Chile y el extranjero. Dirigido a profesionales, licenciados y técnicos vinculados a la acuicultura, el diplomado entrega competencias para",
+        "en": "The growing need to move towards more efficient, sustainable and technologically advanced production systems has made Recirculating Aquaculture Systems (RAS) one of the main tools for the development of modern aquaculture. In this context, the Universidad Austral de Chile, Puerto Montt Campus, keeps applications open for a new version of the Diploma in Recirculation for Aquaculture (DipRAS), a program that has established itself as a reference for specialized training for professionals in the sector in Chile and abroad. Aimed at professionals, graduates and technicians linked to aquaculture, the diploma provides skills to",
+        "no": "Det økende behovet for å bevege seg mot mer effektive, bærekraftige og teknologisk avanserte produksjonssystemer har gjort Recirculating Aquaculture Systems (RAS) til et av hovedverktøyene for utvikling av moderne akvakultur. I denne sammenheng holder Universidad Austral de Chile, Puerto Montt Campus, søknader åpne for en ny versjon av Diploma in Recirculation for Aquaculture (DipRAS), et program som har etablert seg som en referanse for spesialisert opplæring for fagfolk i sektoren i Chile og i utlandet. Rettet mot fagfolk, nyutdannede og teknikere knyttet til akvakultur, gir vitnemålet ferdigheter til å"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -147,22 +97,47 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 11,
+      "score": 13,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/ChatGPTImage18jun202604_04_00p.m.webp"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/1-6-1.jpg"
     },
     {
       "title": {
-        "es": "[LA + LEÍDA EL VIERNES] Desafíos e innovación energética para la acuicultura en el sur de Chile",
-        "en": "[LA + READ ON FRIDAY] Challenges and energy innovation for aquaculture in southern Chile",
-        "no": "[LA + LES PÅ FREDAG] Utfordringer og energiinnovasjon for akvakultur i det sørlige Chile"
+        "es": "¿Qué come el salmón? Estudio revela que la falta de información sobre alimentos amenaza confianza de los consumidores",
+        "en": "What does salmon eat? Study reveals that lack of information about food threatens consumer confidence",
+        "no": "Hva spiser laksen? Studien viser at mangel på informasjon om mat truer forbrukernes tillit"
       },
-      "url": "https://www.aqua.cl/desafios-e-innovacion-energetica-para-la-acuicultura-en-el-sur-de-chile/",
-      "date": "Fri, 19 Jun 2026 10:50:00 +0000",
+      "url": "https://infosalmon.cl/que-come-el-salmon-estudio-revela-que-la-falta-de-informacion/",
+      "date": "Wed, 24 Jun 2026 18:48:52 +0000",
       "summary": {
-        "es": "Las empresas productoras han incorporado diversas tecnologías para asegurar el suministro energético en centros de cultivo alejados de los principales centros urbanos. Entre ellas destacan los sistemas híbridos de generación, que combinan diésel con energías renovables no convencionales, soluciones de almacenamiento mediante baterías y proyectos piloto de electrificación en centros de cultivo. Estas iniciativas buscan reducir la huella de carbono, optimizar el consumo energético y mejorar la eficiencia operativa. En paralelo, los gobiernos regionales de Los Lagos, Aysén y Magallanes, junto con gremios como SalmonChile, han promovido programas de transición energética, conectividad y acceso a",
-        "en": "Production companies have incorporated various technologies to ensure energy supply in cultivation centers far from the main urban centers. Among them, hybrid generation systems stand out, which combine diesel with non-conventional renewable energies, battery storage solutions and pilot electrification projects in cultivation centers. These initiatives seek to reduce the carbon footprint, optimize energy consumption and improve operational efficiency. In parallel, the regional governments of Los Lagos, Aysén and Magallanes, together with associations such as SalmonChile, have promoted energy transition programs, connectivity and access to",
-        "no": "Produksjonsselskaper har tatt i bruk ulike teknologier for å sikre energiforsyning i dyrkingssentre langt fra de viktigste bysentrene. Blant dem skiller hybridgenerasjonssystemer seg ut, som kombinerer diesel med ikke-konvensjonelle fornybare energier, batterilagringsløsninger og pilotelektrifiseringsprosjekter i dyrkingssentre. Disse initiativene søker å redusere karbonavtrykket, optimalisere energiforbruket og forbedre driftseffektiviteten. Parallelt har de regionale myndighetene i Los Lagos, Aysén og Magallanes, sammen med foreninger som SalmonChile, fremmet programmer for energiomstilling, tilkobling og tilgang til"
+        "es": "La composición del alimento para salmón se está transformando en un factor estratégico para la sostenibilidad y la competitividad de la salmonicultura global. Sin embargo, una nueva investigación presentada en Noruega advierte que los consumidores aún conocen poco sobre las materias primas utilizadas en la dieta del salmón y que esta falta de información podría afectar la confianza en el producto. Durante un encuentro organizado por NCE Seafood en Bergen, investigadores, productores de alimento y representantes de la industria analizaron los resultados del estudio «Percepciones de los consumidores sobre los ingredientes del alimento para salmón», desarrollado por Nofima entre más de 1.000 co",
+        "en": "The composition of salmon feed is becoming a strategic factor for the sustainability and competitiveness of global salmon farming. However, new research presented in Norway warns that consumers still know little about the raw materials used in the salmon diet and that this lack of information could affect confidence in the product. During a meeting organized by NCE Seafood in Bergen, researchers, feed producers and industry representatives analyzed the results of the study \"Consumer perceptions of salmon feed ingredients\", developed by Nofima among more than 1,000 co",
+        "no": "Sammensetningen av laksefôr er i ferd med å bli en strategisk faktor for bærekraften og konkurranseevnen til global lakseoppdrett. Ny forskning presentert i Norge advarer imidlertid om at forbrukerne fortsatt vet lite om råvarene som brukes i laksedietten og at denne mangelen på informasjon kan påvirke tilliten til produktet. Under et møte i regi av NCE Seafood i Bergen analyserte forskere, fôrprodusenter og industrirepresentanter resultatene av studien «Consumer perceptions of lakse feed ingredients», utviklet av Nofima blant mer enn 1000 co."
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/NCE-Seafood_.jpg"
+    },
+    {
+      "title": {
+        "es": "Innovador aditivo alimenticio surge como alternativa para reducir el uso de antibióticos en salmones",
+        "en": "Innovative food additive emerges as an alternative to reduce the use of antibiotics in salmon",
+        "no": "Innovativt mattilsetningsstoff dukker opp som et alternativ for å redusere bruken av antibiotika i laks"
+      },
+      "url": "https://www.aqua.cl/innovador-aditivo-alimenticio-surge-como-alternativa-para-reducir-el-uso-de-antibioticos-en-salmones/",
+      "date": "Thu, 25 Jun 2026 10:47:00 +0000",
+      "summary": {
+        "es": "Tras dos años de trabajo, se realizó el evento de cierre del proyecto Fondef “CuBacti, un aditivo alimenticio para combatir infecciones causadas por patógenos marinos que afectan la industria salmonera”. La iniciativa fue liderada por la Dra. Brenda Modak y el investigador Dr. Mick Parra, junto a un equipo de investigación de la Facultad de Química y Biología . Durante la actividad, efectuada en modalidad remota, se presentaron los principales avances y resultados alcanzados en la investigación. La Dra. Brenda Modak explicó que las enfermedades infecciosas son una de las principales amenazas para la salmonicultura chilena. Entre las más peligrosas, mencionó la Flavobacteriosis en cultivos de",
+        "en": "After two years of work, the closing event of the Fondef project “CuBacti, a food additive to combat infections caused by marine pathogens that affect the salmon industry” was held. The initiative was led by Dr. Brenda Modak and researcher Dr. Mick Parra, along with a research team from the Faculty of Chemistry and Biology. During the activity, carried out remotely, the main advances and results achieved in the research were presented. Dr. Brenda Modak explained that infectious diseases are one of the main threats to Chilean salmon farming. Among the most dangerous, he mentioned Flavobacteriosis in crops of",
+        "no": "Etter to års arbeid ble avslutningsarrangementet til Fondef-prosjektet «CuBacti, et mattilsetningsstoff for å bekjempe infeksjoner forårsaket av marine patogener som påvirker laksenæringen» avholdt. Initiativet ble ledet av Dr. Brenda Modak og forsker Dr. Mick Parra, sammen med et forskerteam fra Fakultet for kjemi og biologi. Under aktiviteten, utført eksternt, ble de viktigste fremskrittene og resultatene oppnådd i forskningen presentert. Dr. Brenda Modak forklarte at smittsomme sykdommer er en av hovedtruslene mot chilensk lakseoppdrett. Blant de farligste nevnte han Flavobacteriosis i avlinger av"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -174,120 +149,145 @@
       },
       "score": 10,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/FOTO-4-Generador-Acuicultura-ZonaExtrema-1024x683.png"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/Usach.webp"
     },
     {
       "title": {
-        "es": "USACh valida vacuna contra el virus PRV-1 con alto potencial de transferencia para la salmonicultura",
-        "en": "USACh validates vaccine against PRV-1 virus with high transfer potential for salmon farming",
-        "no": "USACh validerer vaksine mot PRV-1-virus med høyt overføringspotensial for lakseoppdrett"
+        "es": "MNL Group refuerza rol clave de etapa de agua dulce en éxito productivo del salmón",
+        "en": "MNL Group reinforces key role of freshwater stage in salmon production success",
+        "no": "MNL Group forsterker ferskvannsfasens nøkkelrolle i lakseproduksjonens suksess"
       },
-      "url": "https://infosalmon.cl/vacuna-recombinante-prv1-salmonicultura-chile/",
-      "date": "Mon, 22 Jun 2026 00:17:09 +0000",
-      "summary": {
-        "es": "La iniciativa, ejecutada a través de un proyecto Fondef IT de dos años de desarrollo, fue liderada por el Dr. Marcelo Cortez junto a la Dra. Yesseny Vásquez. El cierre oficial de la investigación se realizó a inicios de junio, consolidando una propuesta que contó con el financiamiento de la Agencia Nacional de Investigación y Desarrollo (ANID), el soporte estratégico de la Dirección de Gestión Tecnológica (DGT) de la casa de estudios, y la alianza técnica de las empresas Veterquímica y Salmones Antártica. El patógeno enfrentado deteriora la salud y los índices de sobrevivencia de los peces en sus etapas juveniles, representando una de las principales fuentes de pérdidas económicas y desafíos",
-        "en": "The initiative, executed through a two-year Fondef IT project, was led by Dr. Marcelo Cortez together with Dr. Yesseny Vásquez. The official closure of the research was carried out at the beginning of June, consolidating a proposal that was financed by the National Research and Development Agency (ANID), the strategic support of the Technological Management Directorate (DGT) of the study house, and the technical alliance of the companies Veterchemical and Salmones Antártica. The pathogen faced deteriorates the health and survival rates of fish in their juvenile stages, representing one of the main sources of economic losses and challenges",
-        "no": "Initiativet, utført gjennom et toårig Fondef IT-prosjekt, ble ledet av Dr. Marcelo Cortez sammen med Dr. Yesseny Vásquez. Den offisielle nedleggelsen av forskningen ble utført i begynnelsen av juni, og konsoliderte et forslag som ble finansiert av National Research and Development Agency (ANID), den strategiske støtten fra Direktoratet for teknologisk forvaltning (DGT) i studiehuset, og den tekniske alliansen til selskapene Veterchemical og Salmones Antártica. Patogenet forverrer helse- og overlevelsesraten for fisk i ungstadiene, og representerer en av hovedkildene til økonomiske tap og utfordringer"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/Captura-de-pantalla-2026-06-19-132613.png"
-    },
-    {
-      "title": {
-        "es": "Envíos de salmón chileno a Rusia se contraen un 25% ante el repunte de la producción local",
-        "en": "Shipments of Chilean salmon to Russia contract by 25% due to the rebound in local production",
-        "no": "Forsendelser av chilensk laks til Russland trekker seg ned med 25 % på grunn av oppsvinget i lokal produksjon"
-      },
-      "url": "https://infosalmon.cl/exportaciones-salmon-chileno-rusia-caen-2026/",
-      "date": "Fri, 19 Jun 2026 17:29:15 +0000",
-      "summary": {
-        "es": "Las exportaciones de productos del mar provenientes de Chile hacia Rusia sufrieron una reducción del 25% en volumen y un descenso del 35% durante el primer semestre del 2026. De acuerdo con los datos de la aduana chilena analizados por el centro de estudios del Consejo del Pescado de Rusia, el total de las exportaciones consolidó 21.000 toneladas por un valor de USD 106 millones, todo esto según lo publicado en el sitio FishNet.Ru. Este escenario responde directamente al avance operativo de la producción interna rusa, liderada por la empresa rusa Inarctica, que ha comenzado a ocupar los espacios comerciales que históricamente dominaba el salmón congelado chileno. Caída generalizada en los en",
-        "en": "Exports of seafood from Chile to Russia suffered a 25% reduction in volume and a 35% decrease during the first half of 2026. According to Chilean customs data analyzed by the Russian Fish Council study center, total exports amounted to 21,000 tons worth USD 106 million, all of this as published on the FishNet.Ru site. This scenario responds directly to the operational advance of Russian domestic production, led by the Russian company Inarctica, which has begun to occupy the commercial spaces historically dominated by Chilean frozen salmon. Generalized drop in",
-        "no": "Eksporten av sjømat fra Chile til Russland fikk en reduksjon på 25 % i volum og en nedgang på 35 % i løpet av første halvår 2026. I følge chilenske tolldata analysert av Russian Fish Council studiesenter, utgjorde den totale eksporten 21 000 tonn verdt 106 millioner USD, alt dette som publisert på FishNet.Ru-siden. Dette scenariet reagerer direkte på den operasjonelle fremgangen til russisk innenlandsk produksjon, ledet av det russiske selskapet Inarctica, som har begynt å okkupere de kommersielle områdene historisk dominert av chilensk frossen laks. Generalisert drop-in"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/michikilla.jpg"
-    },
-    {
-      "title": {
-        "es": "Mowi revela el nuevo tablero del salmón: oferta limitada, demanda sólida y una industria que deberá producir mejor",
-        "en": "Mowi reveals the new salmon board: limited supply, solid demand and an industry that will have to produce better",
-        "no": "Mowi avslører det nye laksebrettet: begrenset tilbud, solid etterspørsel og en industri som må produsere bedre"
-      },
-      "url": "https://infosalmon.cl/mowi-nuevo-tablero-salmon-industria-salmonicultora/",
-      "date": "Mon, 22 Jun 2026 00:34:07 +0000",
-      "summary": {
-        "es": "El salmón de cultivo sigue ocupando una posición estratégica dentro de la proteína global, pero la industria entra en una etapa más compleja: menos crecimiento fácil, mayores restricciones biológicas, presión sobre costos y una creciente demanda por eficiencia, sostenibilidad y valor agregado. Esa es una de las principales lecturas que deja el Salmon Farming Industry Handbook 2026 , documento elaborado por Mowi y Kontali para entregar a inversionistas y analistas financieros una visión general de la industria salmonicultora y de los principales factores que determinan su valor. El reporte funciona como una puerta de entrada para entender una actividad que combina atributos poco comunes: dema",
-        "en": "Farmed salmon continues to occupy a strategic position within the global protein, but the industry is entering a more complex stage: less easy growth, greater biological restrictions, pressure on costs and a growing demand for efficiency, sustainability and added value. That is one of the main readings left by the Salmon Farming Industry Handbook 2026, a document prepared by Mowi and Kontali to provide investors and financial analysts with an overview of the salmon farming industry and the main factors that determine its value. The report works as a gateway to understanding an activity that combines unusual attributes: dema",
-        "no": "Oppdrettslaks fortsetter å innta en strategisk posisjon innenfor det globale proteinet, men næringen går inn i et mer komplekst stadium: mindre enkel vekst, større biologiske restriksjoner, press på kostnader og et økende krav til effektivitet, bærekraft og merverdi. Det er en av hovedlesningene etter Lakseoppdrettsindustriens håndbok 2026, et dokument utarbeidet av Mowi og Kontali for å gi investorer og finansanalytikere en oversikt over lakseoppdrettsnæringen og hovedfaktorene som bestemmer verdien. Rapporten fungerer som en inngangsport til å forstå en aktivitet som kombinerer uvanlige egenskaper: dema"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 12,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/mowi.png"
-    },
-    {
-      "title": {
-        "es": "AquaChile realizó jornada de fortalecimiento para proveedores locales en Puerto Aysén",
-        "en": "AquaChile held a strengthening day for local suppliers in Puerto Aysén",
-        "no": "AquaChile holdt en styrkingsdag for lokale leverandører i Puerto Aysén"
-      },
-      "url": "https://www.aqua.cl/aquachile-realizo-jornada-de-fortalecimiento-para-proveedores-locales-en-puerto-aysen/",
-      "date": "Mon, 22 Jun 2026 10:47:00 +0000",
-      "summary": {
-        "es": "Con el objetivo de fortalecer el trabajo conjunto con prestadores de servicios locales y entregar herramientas que faciliten su vinculación con la operación, AquaChile realizó en Puerto Aysén una nueva versión de su Encuentro de Fortalecimiento de Proveedores, instancia consolidada por la empresa que se desarrolló por quinto año consecutivo en la comuna. La jornada estuvo dirigida a trabajadores locales que prestan servicios vinculados a las actividades productivas de la empresa en la región de Aysén. Durante el encuentro, colaboradores de distintas áreas de la empresa expusieron sobre adquisiciones de agua mar, operaciones, control laboral, procesos administrativos, finanzas, gestión de con",
-        "en": "With the aim of strengthening joint work with local service providers and providing tools that facilitate their connection with the operation, AquaChile held a new version of its Supplier Strengthening Meeting in Puerto Aysén, an event consolidated by the company that took place for the fifth consecutive year in the commune. The day was aimed at local workers who provide services linked to the company's productive activities in the Aysén region. During the meeting, collaborators from different areas of the company presented on seawater acquisitions, operations, labor control, administrative processes, finances, contract management.",
-        "no": "Med sikte på å styrke samarbeidet med lokale tjenesteleverandører og tilby verktøy som letter deres tilknytning til operasjonen, holdt AquaChile en ny versjon av sitt Supplier Strengthening Meeting i Puerto Aysén, et arrangement konsolidert av selskapet som fant sted for femte år på rad i kommunen. Dagen var rettet mot lokale arbeidere som yter tjenester knyttet til bedriftens produktive aktiviteter i Aysén-regionen. Under møtet presenterte samarbeidspartnere fra ulike områder av selskapet om sjøvannsanskaffelser, drift, arbeidskontroll, administrative prosesser, økonomi, kontraktshåndtering."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/06/aquchile3.jpg"
-    },
-    {
-      "title": {
-        "es": "“La salmonicultura en Chile puede ser y es la mejor del mundo”",
-        "en": "“Salmon farming in Chile can be and is the best in the world”",
-        "no": "“Lakseoppdrett i Chile kan være og er det beste i verden”"
-      },
-      "url": "https://www.salmonexpert.cl/constanza-silva-ley-lafkenche-normativa-acuicola/la-salmonicultura-en-chile-puede-ser-y-es-la-mejor-del-mundo/2141016",
+      "url": "https://www.salmonexpert.cl/mnl-mnl-group/mnl-group-refuerza-rol-clave-de-etapa-de-agua-dulce-en-exito-productivo-del-salmon/2141324",
       "date": "",
       "summary": {
-        "es": "La exjefa de la División de Acuicultura de Subpesca analizó los desafíos regulatorios, la fiscalización, la Ley Lafkenche y las oportunidades para proyectar una acuicultura más competitiva e innovadora.",
-        "en": "The former head of the Aquaculture Division of Subpesca analyzed the regulatory challenges, oversight, the Lafkenche Law and the opportunities to project a more competitive and innovative aquaculture.",
-        "no": "Den tidligere sjefen for akvakulturavdelingen i Subpesca analyserte regulatoriske utfordringer, tilsynet, Lafkenche-loven og mulighetene for å projisere en mer konkurransedyktig og innovativ akvakultur."
+        "es": "En un concurrido encuentro en Puerto Varas, MNL Group Animal Health Division analizó, junto a expertos del sector, la relevancia de asegurar una buena etapa de agua dulce, con el fin de que esto se refleje en ciclos productivos exitosos, con preocupación por el bienestar animal, alta rentabilidad y un buen retorno sobre la inversión.",
+        "en": "In a busy meeting in Puerto Varas, MNL Group Animal Health Division analyzed, together with sector experts, the relevance of ensuring a good stage of fresh water, so that this is reflected in successful production cycles, with concern for animal welfare, high profitability and a good return on investment.",
+        "no": "I et travelt møte i Puerto Varas analyserte MNL Group Animal Health Division, sammen med sektoreksperter, relevansen av å sikre et godt stadium av ferskvann, slik at dette gjenspeiles i vellykkede produksjonssykluser, med hensyn til dyrevelferd, høy lønnsomhet og god avkastning på investeringen."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 9,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2141327.jpg?imageId=2141327&x=0&y=11.94&cropw=100&croph=71.67&panox=0&panoy=11.94&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "¿Cuál es la diferencia entre la rentabilidad del salmón chileno y noruego?",
+        "en": "What is the difference between the profitability of Chilean and Norwegian salmon?",
+        "no": "Hva er forskjellen mellom lønnsomheten til chilensk og norsk laks?"
+      },
+      "url": "https://www.salmonexpert.cl/chile-ebit-mowi/cual-es-la-diferencia-entre-la-rentabilidad-del-salmon-chileno-y-noruego/2144109",
+      "date": "",
+      "summary": {
+        "es": "En su Handbook 2026, Mowi afirmó que la oferta de la industria se mantendrá estable hacia el 2030, con un crecimiento productivo de 2%, en medio de una alta demanda.",
+        "en": "In its Handbook 2026, Mowi stated that the industry's supply will remain stable towards 2030, with a productive growth of 2%, amid high demand.",
+        "no": "I sin Handbook 2026 uttalte Mowi at bransjens tilbud vil holde seg stabilt frem mot 2030, med en produktiv vekst på 2 %, midt i høy etterspørsel."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 10,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1750984.jpg?imageId=1750984&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Ventisqueros presenta su Reporte ESG 2025 con importantes avances en sostenibilidad, seguridad e impacto social",
+        "en": "Ventisqueros presents its 2025 ESG Report with important advances in sustainability, safety and social impact",
+        "no": "Ventisqueros presenterer sin ESG-rapport for 2025 med viktige fremskritt innen bærekraft, sikkerhet og sosial påvirkning"
+      },
+      "url": "https://www.mundoacuicola.cl/new/ventisqueros-presenta-su-reporte-esg-2025-con-importantes-avances-en-sostenibilidad-seguridad-e-impacto-social/",
+      "date": "Wed, 24 Jun 2026 15:21:53 +0000",
+      "summary": {
+        "es": "El documento destaca hitos en certificaciones internacionales, reducción de emisiones, seguridad laboral, economía circular, desarrollo comunitario y formación de colaboradores, consolidando la estrategia de la compañía hacia una acuicultura cada vez más sostenible, innovadora y centrada en las personas. “Los resultados de este reporte reflejan una convicción que hemos construido durante años: la sostenibilidad no es una meta aislada, sino la forma en que entendemos y desarrollamos nuestro negocio. Cada avance que presentamos es fruto del compromiso de nuestros equipos y de una visión de largo plazo que busca generar valor para nuestros clientes, colaboradores, comunidades y el entorno”, señ",
+        "en": "The document highlights milestones in international certifications, emissions reduction, workplace safety, circular economy, community development and employee training, consolidating the company's strategy towards increasingly sustainable, innovative and people-centered aquaculture. \"The results of this report reflect a conviction that we have built for years: sustainability is not an isolated goal, but the way in which we understand and develop our business. Each advance we present is the result of the commitment of our teams and a long-term vision that seeks to generate value for our clients, collaborators, communities and the environment,\" he said.",
+        "no": "Dokumentet fremhever milepæler innen internasjonale sertifiseringer, utslippsreduksjon, sikkerhet på arbeidsplassen, sirkulær økonomi, samfunnsutvikling og opplæring av ansatte, og konsoliderer selskapets strategi mot stadig mer bærekraftig, innovativ og menneskesentrert akvakultur. \"Resultatene av denne rapporten reflekterer en overbevisning som vi har bygget i årevis: bærekraft er ikke et isolert mål, men måten vi forstår og utvikler virksomheten vår på. Hvert fremskritt vi presenterer er et resultat av engasjementet til teamene våre og en langsiktig visjon som søker å generere verdi for våre kunder, samarbeidspartnere, lokalsamfunn og miljøet,\" sa han."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 6,
+      "cross_source": false,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/02/Ventisqueros2223.jpg"
+    },
+    {
+      "title": {
+        "es": "Salmón sostenible en Los Lagos: PTI de Corfo acelera plataforma de proveedores y medición de huella de carbono",
+        "en": "Sustainable salmon in Los Lagos: Corfo's PTI accelerates supplier platform and carbon footprint measurement",
+        "no": "Bærekraftig laks i Los Lagos: Corfos PTI akselererer leverandørplattform og måling av karbonfotavtrykk"
+      },
+      "url": "https://infosalmon.cl/pti-industria-sostenible-salmon-proveedores-huella-carbono/",
+      "date": "Wed, 24 Jun 2026 21:41:03 +0000",
+      "summary": {
+        "es": "La industria del salmón en la Región de Los Lagos comienza a ordenar una nueva hoja de ruta para fortalecer su cadena de valor desde la sostenibilidad, la articulación público-privada y el desarrollo de proveedores. En su sexta sesión de gobernanza, el Programa Territorial Integrado (PTI) Industria Sostenible del Salmón, iniciativa articulada por Corfo Los Lagos, realizó un balance de su primer año de ejecución y proyectó los desafíos que marcarán la continuidad del programa, con foco en competitividad, medición de huella de carbono, plataforma de proveedores e impacto territorial. La actividad permitió realizar un balance de los principales hitos impulsados durante este primer ciclo de trab",
+        "en": "The salmon industry in the Los Lagos Region begins to organize a new roadmap to strengthen its value chain from sustainability, public-private coordination and supplier development. In its sixth governance session, the Integrated Territorial Program (PTI) Sustainable Salmon Industry, an initiative articulated by Corfo Los Lagos, took stock of its first year of execution and projected the challenges that will mark the continuity of the program, with a focus on competitiveness, carbon footprint measurement, supplier platform and territorial impact. The activity allowed us to take stock of the main milestones promoted during this first work cycle.",
+        "no": "Lakseindustrien i Los Lagos-regionen begynner å organisere et nytt veikart for å styrke sin verdikjede fra bærekraft, offentlig-privat koordinering og leverandørutvikling. I sin sjette styringssesjon tok Integrated Territorial Program (PTI) Sustainable Salmon Industry, et initiativ artikulert av Corfo Los Lagos, oversikt over det første året med gjennomføring og projiserte utfordringene som vil markere kontinuiteten til programmet, med fokus på konkurranseevne, måling av karbonfotavtrykk, leverandørplattform og territoriell innvirkning. Aktiviteten tillot oss å gjøre oversikt over de viktigste milepælene som ble fremmet i løpet av denne første arbeidssyklusen."
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljo og baerekraft"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/OFI.jpg"
+    },
+    {
+      "title": {
+        "es": "Corbion reduce hasta en 54% el uso de agua de su omega-3 de algas y refuerza la sostenibilidad en acuicultura",
+        "en": "Corbion reduces the water use of its algae omega-3 by up to 54% and reinforces sustainability in aquaculture",
+        "no": "Corbion reduserer vannforbruket av sine alger omega-3 med opptil 54 % og forsterker bærekraften i akvakultur"
+      },
+      "url": "https://infosalmon.cl/corbion-reduce-hasta-en-54-el-uso-de-agua-de-su-omega-3-de-algas-y-refuerza-la-sostenibilidad-en-acuicultura/",
+      "date": "Wed, 24 Jun 2026 18:15:02 +0000",
+      "summary": {
+        "es": "En un escenario donde la industria acuícola enfrenta crecientes exigencias en materia de sostenibilidad, trazabilidad y reducción de emisiones, Corbion anunció avances significativos en el desempeño ambiental de su portafolio de omega-3 DHA derivado de algas. La compañía, especializada en ingredientes sostenibles, publicó una actualización de su análisis de ciclo de vida (ACV) «de la cuna a la puerta» (cradle-to-gate), revelando mejoras sustanciales respecto de la evaluación realizada en 2021. De acuerdo con los resultados, por cada kilogramo de omega-3 DHA producido, las soluciones de origen algal de Corbion registraron una reducción de entre un 18% y un 23% en el impacto sobre el cambio cl",
+        "en": "In a scenario where the aquaculture industry faces increasing demands regarding sustainability, traceability and emissions reduction, Corbion announced significant advances in the environmental performance of its algae-derived omega-3 DHA portfolio. The company, specializing in sustainable ingredients, published an update to its cradle-to-gate life cycle analysis (LCA), revealing substantial improvements compared to the evaluation carried out in 2021. According to the results, for every kilogram of omega-3 DHA produced, Corbion's algal solutions recorded a reduction of between 18% and 23% in the impact on climate change.",
+        "no": "I et scenario der akvakulturindustrien står overfor økende krav angående bærekraft, sporbarhet og utslippsreduksjon, annonserte Corbion betydelige fremskritt i miljøytelsen til sin alge-avledede omega-3 DHA-portefølje. Selskapet, som spesialiserer seg på bærekraftige ingredienser, publiserte en oppdatering av sin vugge-til-port livssyklusanalyse (LCA), som avslører betydelige forbedringer sammenlignet med evalueringen som ble utført i 2021. Ifølge resultatene, for hvert kilo produsert omega-3 DHA, registrerte Corbions algeløsninger en reduksjon på mellom 18 % og 23 % i klimaendringene."
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljo og baerekraft"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/Creditos-Corbion.png"
+    },
+    {
+      "title": {
+        "es": "El plan del Gobierno para duplicar la producción de salmón en Magallanes",
+        "en": "The Government's plan to double salmon production in Magallanes",
+        "no": "Regjeringens plan om å doble lakseproduksjonen i Magallanes"
+      },
+      "url": "https://www.salmonexpert.cl/gobierno-magallanes-produccion/el-plan-del-gobierno-para-duplicar-la-produccion-de-salmon-en-magallanes/2141495",
+      "date": "",
+      "summary": {
+        "es": "Optimizar el uso de concesiones existentes y los períodos de descanso sanitario además de facilitar procesos de relocalización y microrelocalización, son los pasos a seguir.",
+        "en": "Optimizing the use of existing concessions and sanitary rest periods, in addition to facilitating relocation and micro-relocation processes, are the steps to follow.",
+        "no": "Optimalisering av bruken av eksisterende konsesjoner og sanitære hvileperioder, i tillegg til å lette flytte- og mikroflytteprosesser, er trinnene som må følges."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -297,9 +297,9 @@
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 12,
+      "score": 10,
       "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2141024.jpg?imageId=2141024&x=0&y=16.42&cropw=100&croph=26.99&panox=0&panoy=16.42&panow=100&panoh=26.99&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2141503.jpg?imageId=2141503&x=0&y=7&cropw=100&croph=86&panox=0&panoy=7&panow=100&panoh=86&width=1200&height=683"
     }
   ]
 }
