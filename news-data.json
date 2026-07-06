@@ -1,43 +1,18 @@
 {
-  "updated": "2026-07-02T13:56:42Z",
+  "updated": "2026-07-06T13:36:16Z",
   "articles": [
     {
       "title": {
-        "es": "Vigilancia confirma cambios en la susceptibilidad de Caligus a antiparasitarios",
-        "en": "Surveillance confirms changes in the susceptibility of Caligus to antiparasitics",
-        "no": "Overvåking bekrefter endringer i følsomheten til Caligus for antiparasitter"
+        "es": "Propuesta de semáforo para Chile: A menor riesgo mayor producción de salmones",
+        "en": "Traffic light proposal for Chile: The lower the risk, the greater the production of salmon",
+        "no": "Trafikklysforslag for Chile: Jo lavere risiko, jo større produksjon av laks"
       },
-      "url": "https://www.salmonexpert.cl/antiparasitarios-caligus-caligus-rogercresseyi/vigilancia-confirma-cambios-en-la-susceptibilidad-de-caligus-a-antiparasitarios/2145716",
+      "url": "https://www.salmonexpert.cl/centro-incar-concesiones-incar/propuesta-de-semaforo-para-chile-a-menor-riesgo-mayor-produccion-de-salmones/2147627",
       "date": "",
       "summary": {
-        "es": "Los resultados de la etapa 9 del programa liderado por Ifop, evidenciaron diferencias en la respuesta del parásito a distintos tratamientos, y reforzaron la necesidad de mantener un monitoreo permanente.",
-        "en": "The results of stage 9 of the program led by Ifop showed differences in the parasite's response to different treatments, and reinforced the need to maintain permanent monitoring.",
-        "no": "Resultatene fra fase 9 av programmet ledet av Ifop viste forskjeller i parasittens respons på ulike behandlinger, og forsterket behovet for å opprettholde permanent overvåking."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1748438.jpg?imageId=1748438&x=0&y=7.39&cropw=100&croph=63.55&panox=0&panoy=7.39&panow=100&panoh=63.55&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Monitoreo a la salmonicultura: 72% de los centros acuícolas mantienen condiciones favorables",
-        "en": "Salmon farming monitoring: 72% of aquaculture centers maintain favorable conditions",
-        "no": "Overvåking av lakseoppdrett: 72 % av akvakultursentrene opprettholder gunstige forhold"
-      },
-      "url": "https://www.salmonexpert.cl/ambi-ambiental-ifop/monitoreo-a-la-salmonicultura-72-de-los-centros-acuicolas-mantienen-condiciones-favorables/2146792",
-      "date": "",
-      "summary": {
-        "es": "Los investigadores destacan que el 71,9% de los centros acuícolas mantienen condiciones favorables, aunque existen también hotspots ambientales persistentes, esto es, problemas que se mantienen.",
-        "en": "The researchers highlight that 71.9% of aquaculture centers maintain favorable conditions, although there are also persistent environmental hotspots, that is, problems that remain.",
-        "no": "Forskerne fremhever at 71,9 % av akvakultursentrene opprettholder gunstige forhold, selv om det også er vedvarende miljøhotspots, det vil si problemer som gjenstår."
+        "es": "Científicas chilenas advierten que la gestión actual de la salmonicultura no captura efectos acumulativos de la producción y plantean avanzar hacia un modelo “semáforo” basado en riesgo, monitoreo y flexibilidad.",
+        "en": "Chilean scientists warn that the current management of salmon farming does not capture cumulative effects of production and propose moving towards a “traffic light” model based on risk, monitoring and flexibility.",
+        "no": "Chilenske forskere advarer om at dagens forvaltning av lakseoppdrett ikke fanger opp kumulative effekter av produksjonen og foreslår å gå mot en \"trafikklys\"-modell basert på risiko, overvåking og fleksibilitet."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -49,7 +24,132 @@
       },
       "score": 2,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1366818.jpg?imageId=1366818&x=0&y=18.58&cropw=100&croph=44.79&panox=0&panoy=18.58&panow=100&panoh=44.79&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2147639.jpg?imageId=2147639&x=0&y=7.5&cropw=100&croph=71.67&panox=0&panoy=7.5&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Red de Mentores del Salmón realizará una nueva versión en alianza estratégica",
+        "en": "Salmon Mentor Network will carry out a new version in a strategic alliance",
+        "no": "Salmon Mentor Network skal gjennomføre en ny versjon i en strategisk allianse"
+      },
+      "url": "https://www.salmonexpert.cl/innovacion-ketrawa-mentoria/red-de-mentores-del-salmon-realizara-una-nueva-version-en-alianza-estrategica/2142524",
+      "date": "",
+      "summary": {
+        "es": "La iniciativa, liderada hace 5 años por SalmonChile, abrirá su convocatoria este lunes 29 de junio, incorporando nuevos socios estratégicos: Këtrawa y el Centro de Innovación UC.",
+        "en": "The initiative, led 5 years ago by SalmonChile, will open its call this Monday, June 29, incorporating new strategic partners: Këtrawa and the UC Innovation Center.",
+        "no": "Initiativet, ledet for 5 år siden av SalmonChile, åpner sin utlysning mandag 29. juni, og inkluderer nye strategiske partnere: Këtrawa og UC Innovation Center."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 2,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2142529.jpg?imageId=2142529&x=0&y=16.39&cropw=100&croph=71.67&panox=0&panoy=16.39&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "El futuro laboral de la acuicultura se empieza a diseñar en Los Lagos: tecnología, IA y nuevas competencias al centro",
+        "en": "The future of aquaculture work is beginning to be designed in Los Lagos: technology, AI and new skills at the center",
+        "no": "Fremtiden for akvakulturarbeid begynner å bli utformet i Los Lagos: teknologi, kunstig intelligens og nye ferdigheter i sentrum"
+      },
+      "url": "https://infosalmon.cl/futuro-laboral-acuicultura-ia-tecnologia-competencias/",
+      "date": "Fri, 03 Jul 2026 16:09:46 +0000",
+      "summary": {
+        "es": "La acuicultura de Los Lagos comienza a mirar con mayor profundidad los cambios que podrían redefinir su mercado laboral en los próximos años. En Puerto Montt, el Observatorio Laboral de la Subsecretaría del Trabajo , ejecutado por la Universidad de Los Lagos, reunió a actores públicos, privados, trabajadores y representantes gremiales del sector para analizar posibles escenarios futuros vinculados al empleo, la formación de capital humano, el desarrollo de competencias y la incorporación de nuevas tecnologías en una actividad estratégica para la región. Profesionales y trabajadores se dieron cita en esta jornada en la cual el equipo del Observatorio ejecutado por la Universidad de Los Lagos ",
+        "en": "Los Lagos aquaculture is beginning to look more deeply at the changes that could redefine its labor market in the coming years. In Puerto Montt, the Labor Observatory of the Undersecretariat of Labor, executed by the University of Los Lagos, brought together public and private actors, workers and union representatives of the sector to analyze possible future scenarios linked to employment, the formation of human capital, the development of skills and the incorporation of new technologies in a strategic activity for the region. Professionals and workers gathered on this day in which the Observatory team executed by the University of Los Lagos",
+        "no": "Los Lagos akvakultur begynner å se dypere på endringene som kan redefinere arbeidsmarkedet i de kommende årene. I Puerto Montt samlet Labour Observatory of the Undersecretariat of Labor, utført av University of Los Lagos, offentlige og private aktører, arbeidere og fagforeningsrepresentanter for sektoren for å analysere mulige fremtidige scenarier knyttet til sysselsetting, dannelse av menneskelig kapital, utvikling av ferdigheter og inkorporering av nye teknologier i en strategisk aktivitet for regionen. Fagfolk og arbeidere samlet seg på denne dagen hvor Observatory-teamet ble henrettet av University of Los Lagos"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 17,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/4-1.jpg"
+    },
+    {
+      "title": {
+        "es": "A diez años de la crisis de 2016, salmonicultura analiza su preparación ante un posible evento El Niño fuerte",
+        "en": "Ten years after the 2016 crisis, salmon farming analyzes its preparation for a possible strong El Niño event",
+        "no": "Ti år etter 2016-krisen analyserer lakseoppdrett forberedelsene til en mulig sterk El Niño-hendelse"
+      },
+      "url": "https://www.mundoacuicola.cl/new/a-diez-anos-de-la-crisis-de-2016-salmonicultura-analiza-su-preparacion-ante-un-posible-evento-el-nino-fuerte/",
+      "date": "Thu, 02 Jul 2026 22:09:08 +0000",
+      "summary": {
+        "es": "Durante un seminario organizado por Innovex, representantes de la industria, la academia y el sector público coincidieron en que la salmonicultura cuenta hoy con mejores herramientas de monitoreo y prevención frente a las Floraciones de Algas Nocivas, aunque persisten desafíos en materia de coordinación, gestión de mortalidades masivas y adaptación al cambio ambiental. La entrada A diez años de la crisis de 2016, salmonicultura analiza su preparación ante un posible evento El Niño fuerte se publicó primero en Mundoacuicola .",
+        "en": "During a seminar organized by Innovex, representatives of industry, academia and the public sector agreed that salmon farming today has better monitoring and prevention tools against Harmful Algal Blooms, although challenges persist in terms of coordination, management of mass mortalities and adaptation to environmental change. The entry Ten years after the 2016 crisis, salmon farming analyzes its preparation for a possible El Niño strong event was first published in Mundoacuicola.",
+        "no": "Under et seminar arrangert av Innovex var representanter for industri, akademia og offentlig sektor enige om at lakseoppdrett i dag har bedre overvåkings- og forebyggingsverktøy mot skadelig algeoppblomstring, selv om det fortsatt er utfordringer når det gjelder koordinering, håndtering av massedødelighet og tilpasning til miljøendringer. Innlegget Ti år etter 2016-krisen analyserer lakseoppdrett forberedelsene til en mulig El Niño sterk begivenhet ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 16,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/InnovexSeminarioFANElNino.jpg"
+    },
+    {
+      "title": {
+        "es": "Salmofood destaca estrategias nutricionales para reducir estrés oxidativo y mejorar calidad del smolt",
+        "en": "Salmofood highlights nutritional strategies to reduce oxidative stress and improve smolt quality",
+        "no": "Salmofood fremhever ernæringsstrategier for å redusere oksidativt stress og forbedre smoltkvaliteten"
+      },
+      "url": "https://www.aqua.cl/salmofood-destaca-estrategias-nutricionales-para-reducir-estres-oxidativo-y-mejorar-calidad-del-smolt/",
+      "date": "Mon, 06 Jul 2026 10:45:00 +0000",
+      "summary": {
+        "es": "Una destacada participación tuvo la KAM de Agua Dulce de Salmofood, Verónica Morel, durante el seminario internacional “La Ruta del Smolt: Ciencia, Producción y Salud en el Camino al Mar”, organizado por VeHiCe y realizado el 25 de junio en el Hotel Park Lake de Pucón, región de La Araucanía. La actividad reunió a productores, investigadores, profesionales y expertos de la industria acuícola para analizar los principales desafíos sanitarios, fisiológicos y productivos de la etapa de agua dulce en la producción de salmónidos. En la oportunidad, la KAM de Agua Dulce de Salmofood, Verónica Morel, presentó la charla “Estrés Oxidativo: Una amenaza invisible para la calidad de smolt” , abordando l",
+        "en": "Salmofood's Freshwater KAM, Verónica Morel, had a notable participation during the international seminar “The Smolt Route: Science, Production and Health on the Road to the Sea”, organized by VeHiCe and held on June 25 at the Park Lake Hotel in Pucón, La Araucanía region. The activity brought together producers, researchers, professionals and experts from the aquaculture industry to analyze the main health, physiological and productive challenges of the freshwater stage in salmonid production. On the occasion, Salmofood's Freshwater KAM, Verónica Morel, presented the talk “Oxidative Stress: An invisible threat to smolt quality”, addressing the",
+        "no": "Salmofoods Freshwater KAM, Verónica Morel, hadde en bemerkelsesverdig deltakelse under det internasjonale seminaret «The Smolt Route: Science, Production and Health on the Road to the Sea», organisert av VeHiCe og holdt 25. juni på Park Lake Hotel i Pucón, La Araucanía-regionen. Aktiviteten samlet produsenter, forskere, fagfolk og eksperter fra havbruksnæringen for å analysere de viktigste helsemessige, fysiologiske og produktive utfordringene ved ferskvannsstadiet i laksefiskproduksjonen. I anledningen presenterte Salmofoods Freshwater KAM, Verónica Morel, foredraget \"Oxidative Stress: An invisible trussel mot smoltkvalitet\", som tok for seg"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/2-1-1024x765.jpeg"
+    },
+    {
+      "title": {
+        "es": "Puerto Montt presenta su Semana del Salmón 2026",
+        "en": "Puerto Montt presents its Salmon Week 2026",
+        "no": "Puerto Montt presenterer sin lakseuke 2026"
+      },
+      "url": "https://www.aqua.cl/puerto-montt-presenta-su-semana-del-salmon-2026/",
+      "date": "Mon, 06 Jul 2026 10:46:00 +0000",
+      "summary": {
+        "es": "La Municipalidad de Puerto Montt, a través de su Dirección de Turismo, invita a la comunidad a participar de la Semana del Salmón 2026, uno de los principales de promoción de la ciudad, que se realizará entre el 27 de julio y el 1 de agosto, y que se suma a una gran oferta que incluye los XXXVII Temporales Internacionales de Teatro. La tradición culinaria del sur de Chile y el principal producto de exportación no minero del país se unen en la Semana del Salmón 2026, iniciativa desarrollada por la Dirección de Turismo, en conjunto con el Proyecto Dalcas, liderado por Frederic Emery, SalmonChile, el Consejo del Salmón y la Universidad Santo Tomás. Bajo un enfoque de cuádruple hélice, que artic",
+        "en": "The Municipality of Puerto Montt, through its Tourism Directorate, invites the community to participate in Salmon Week 2026, one of the city's main promotional events, which will take place between July 27 and August 1, and which adds to a great offer that includes the XXXVII Temporary International Theater Festivals. The culinary tradition of southern Chile and the country's main non-mining export product come together in Salmon Week 2026, an initiative developed by the Tourism Directorate, in conjunction with the Dalcas Project, led by Frederic Emery, SalmonChile, the Salmon Council and the Santo Tomás University. Under a quadruple helix approach, which artic",
+        "no": "Puerto Montt kommune inviterer gjennom sitt turistdirektorat samfunnet til å delta i Salmon Week 2026, en av byens viktigste reklamebegivenheter, som vil finne sted mellom 27. juli og 1. august, og som legger til et flott tilbud som inkluderer de XXXVII midlertidige internasjonale teaterfestivalene. Den kulinariske tradisjonen i det sørlige Chile og landets viktigste eksportprodukt uten gruvedrift kommer sammen i Salmon Week 2026, et initiativ utviklet av turistdirektoratet, i forbindelse med Dalcas-prosjektet, ledet av Frederic Emery, SalmonChile, Salmon Council og Santo Tomás University. Under en firedobbel helix tilnærming, som artic"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 11,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-10.30.36-AM.jpeg"
     },
     {
       "title": {
@@ -72,125 +172,25 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 14,
-      "cross_source": true,
+      "score": 10,
+      "cross_source": false,
       "image": "https://image.salmonexpert.cl/2147362.jpg?imageId=2147362&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Proyecto DARKLAX Intenta Desmantelar la salmonicultura Chilena",
-        "en": "DARKLAX Project Tries to Dismantle Chilean Salmon Farming",
-        "no": "DARKLAX-prosjektet prøver å demontere chilensk lakseoppdrett"
+        "es": "Video revela uso de «maquillaje» para salmones descompuestos en plantas clandestinas",
+        "en": "Video reveals use of “makeup” for decomposed salmon in clandestine plants",
+        "no": "Video avslører bruk av \"sminke\" for nedbrutt laks i hemmelige planter"
       },
-      "url": "https://infosalmon.cl/proyecto-darklax-intenta-desmantelar-la-salmonicultura-chilena/",
-      "date": "Tue, 30 Jun 2026 23:56:19 +0000",
+      "url": "https://infosalmon.cl/video-revela-maquillaje-salmones-descompuestos-plantas-clandestinas/",
+      "date": "Fri, 03 Jul 2026 16:47:38 +0000",
       "summary": {
-        "es": "Durante las últimas décadas, el desarrollo de la salmonicultura ha consolidado a Chile como un pilar fundamental de la seguridad alimentaria global, alcanzando una producción de cerca de 1 millón de toneladas anuales frente a las 1,6 millones toneladas de Noruega. Esta «Revolución Azul» introdujo proteínas saludables al mundo y transformó la matriz económica de la macrozona sur, impulsando una cadena de valor de vanguardia e integrada a los mercados más exigentes. Sin embargo, desde las aulas de la Universidad de Bergen se está gestando una ofensiva narrativa diseñada para socavar la legitimidad operativa y comercial del sector: el proyecto de investigación DARKLAX. El Activismo Disfrazado d",
-        "en": "During the last decades, the development of salmon farming has consolidated Chile as a fundamental pillar of global food security, reaching a production of close to 1 million tons per year compared to 1.6 million tons in Norway. This \"Blue Revolution\" introduced healthy proteins to the world and transformed the economic matrix of the southern macrozone, promoting a cutting-edge value chain integrated into the most demanding markets. However, a narrative offensive designed to undermine the operational and commercial legitimacy of the sector is brewing in the classrooms of the University of Bergen: the DARKLAX research project. Disguised Activism",
-        "no": "I løpet av de siste tiårene har utviklingen av lakseoppdrett konsolidert Chile som en grunnleggende pilar for global matsikkerhet, og nådd en produksjon på nærmere 1 million tonn per år sammenlignet med 1,6 millioner tonn i Norge. Denne \"blå revolusjonen\" introduserte sunne proteiner til verden og forvandlet den økonomiske matrisen til den sørlige makrosonen, og fremmet en banebrytende verdikjede integrert i de mest krevende markedene. En narrativ offensiv designet for å undergrave den operasjonelle og kommersielle legitimiteten til sektoren brygger imidlertid i klasserommene til Universitetet i Bergen: forskningsprosjektet DARKLAX. Forkledd aktivisme"
+        "es": "Un profundo impacto y una ola de comentarios de indignación en redes sociales ha generado la filtración de un video de 17 segundos que deja al descubierto una presunta red clandestina dedicada al “maquillaje de pescado” en la Región de Los Lagos. En el registro, que se viralizó rápidamente en plataformas digitales, se observa a sujetos aplicando colorantes químicos con una brocha y secando con un secador de pelo convencional filetes de salmón en evidente estado de descomposición, presuntamente provenientes de mortalidades y robos industriales. En redes sociales, usuarios manifestaron su alarma ante la crudeza de la operación y realizaron un llamado masivo a no comprar salmón en el comercio i",
+        "en": "A profound impact and a wave of indignant comments on social networks has generated the leak of a 17-second video that exposes an alleged clandestine network dedicated to “fish makeup” in the Los Lagos Region. In the record, which quickly went viral on digital platforms, subjects are observed applying chemical dyes with a brush and drying salmon fillets in an obvious state of decomposition with a conventional hair dryer, presumably coming from mortalities and industrial thefts. On social networks, users expressed their alarm at the crudeness of the operation and made a massive call not to buy salmon in commercial stores.",
+        "no": "En dyp innvirkning og en bølge av indignerte kommentarer på sosiale nettverk har skapt lekkasjen av en 17-sekunders video som avslører et påstått hemmelig nettverk dedikert til \"fiskesminke\" i Los Lagos-regionen. I platen, som raskt gikk viralt på digitale plattformer, observeres forsøkspersoner bruke kjemiske fargestoffer med en pensel og tørke laksefileter i en åpenbar nedbrytningstilstand med en konvensjonell hårføner, antagelig fra dødelighet og industrielle tyverier. På sosiale nettverk uttrykte brukere sin bekymring over den grove operasjonen og gjorde en massiv oppfordring om ikke å kjøpe laks i kommersielle butikker."
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/Ernesto-Seman.png"
-    },
-    {
-      "title": {
-        "es": "Consejo del Salmón estima que cuatro medidas regulatorias podrían elevar hasta 8% el empleo regional",
-        "en": "Salmon Council estimates that four regulatory measures could increase regional employment by up to 8%",
-        "no": "Lakserådet anslår at fire reguleringstiltak kan øke den regionale sysselsettingen med opptil 8 %"
-      },
-      "url": "https://www.mundoacuicola.cl/new/consejo-del-salmon-estima-que-medidas-regulatorias-podrian-aumentar-hasta-8-el-empleo-en-el-sur-austral/",
-      "date": "Wed, 01 Jul 2026 17:52:37 +0000",
-      "summary": {
-        "es": "Un análisis del gremio plantea que la implementación de cuatro medidas regulatorias de fácil aplicación permitiría aumentar entre 4% y 8% la producción salmonicultora y generar entre 1.800 y 5.400 nuevos empleos en las regiones de Los Lagos, Aysén y Magallanes. La entrada Consejo del Salmón estima que cuatro medidas regulatorias podrían elevar hasta 8% el empleo regional se publicó primero en Mundoacuicola .",
-        "en": "An analysis by the union suggests that the implementation of four easy-to-apply regulatory measures would allow salmon farming production to increase between 4% and 8% and generate between 1,800 and 5,400 new jobs in the regions of Los Lagos, Aysén and Magallanes. The entry Salmon Council estimates that four regulatory measures could increase regional employment by up to 8% was first published in Mundoacuicola.",
-        "no": "En analyse fra fagforeningen antyder at implementering av fire regulatoriske tiltak som er enkle å bruke, vil tillate oppdrettsproduksjonen til å øke mellom 4 % og 8 % og generere mellom 1 800 og 5 400 nye arbeidsplasser i regionene Los Lagos, Aysén og Magallanes. Innlegget Salmon Council anslår at fire reguleringstiltak kan øke den regionale sysselsettingen med opptil 8 % ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/Consejo-del-Salmon-Medidas-Preventivas.jpg"
-    },
-    {
-      "title": {
-        "es": "Revisa las nuevas oportunidades laborales para técnicos, profesionales y operarios acuícolas",
-        "en": "Review new job opportunities for aquaculture technicians, professionals and operators",
-        "no": "Gjennomgå nye jobbmuligheter for akvakulturteknikere, fagfolk og operatører"
-      },
-      "url": "https://www.aqua.cl/revisa-las-nuevas-oportunidades-laborales-para-tecnicos-profesionales-y-operarios-acuicolas/",
-      "date": "Thu, 02 Jul 2026 10:49:00 +0000",
-      "summary": {
-        "es": "Es importante destacar que Empleos Aqua no actúa como agencia de reclutamiento ni participa en los procesos de selección de personal. La plataforma funciona como un espacio especializado donde empresas de la industria acuícola, salmonera y sectores relacionados publican sus ofertas laborales para que los interesados puedan postular. Una vez recibidas las postulaciones, son las propias empresas las responsables de evaluar a los candidatos, gestionar los procesos de selección y contactar posteriormente a las personas que cumplan con los perfiles requeridos para cada cargo. Actualmente se encuentran abiertas las siguientes oportunidades laborales para quienes buscan integrarse a una de las indu",
-        "en": "It is important to note that Empleos Aqua does not act as a recruitment agency nor does it participate in personnel selection processes. The platform works as a specialized space where companies in the aquaculture, salmon industry and related sectors publish their job offers so that interested parties can apply. Once the applications are received, the companies themselves are responsible for evaluating the candidates, managing the selection processes and subsequently contacting the people who meet the profiles required for each position. The following job opportunities are currently open for those seeking to join one of the industries.",
-        "no": "Det er viktig å merke seg at Empleos Aqua ikke fungerer som et rekrutteringsbyrå og heller ikke deltar i personellutvelgelsesprosesser. Plattformen fungerer som et spesialisert rom hvor bedrifter innen havbruk, laksenæringen og relaterte sektorer publiserer jobbtilbudene sine slik at interesserte kan søke. Når søknadene er mottatt, er bedriftene selv ansvarlige for å vurdere kandidatene, styre utvelgelsesprosessene og deretter kontakte personene som oppfyller profilene som kreves for hver stilling. Følgende jobbmuligheter er for tiden åpne for de som ønsker å bli med i en av bransjene."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/05/Empleos-Acuicolas-1024x683.png"
-    },
-    {
-      "title": {
-        "es": "¿Puede la salmonicultura crear empleos sin nuevas concesiones?",
-        "en": "Can salmon farming create jobs without new concessions?",
-        "no": "Kan lakseoppdrett skape arbeidsplasser uten nye innrømmelser?"
-      },
-      "url": "https://infosalmon.cl/consejo-salmon-propone-medidas-regulatorias-aumento-empleo-sur/",
-      "date": "Wed, 01 Jul 2026 16:31:36 +0000",
-      "summary": {
-        "es": "Un informe elaborado por el Consejo del Salmón identificó cuatro medidas regulatorias de alto impacto y fácil implementación que podrían habilitar un crecimiento productivo de entre 4% y 8% en la salmonicultura, sin requerir nuevas concesiones y manteniendo los estándares ambientales vigentes. De acuerdo con el análisis, la aplicación de este conjunto de medidas permitiría generar entre 1.800 y 5.400 nuevos puestos de trabajo en las regiones de Los Lagos, Aysén y Magallanes, territorios donde la salmonicultura constituye una de las principales actividades económicas, fuentes de empleo formal y motores de encadenamiento productivo. Entre las medidas analizadas se encuentran las microrelocaliz",
-        "en": "A report prepared by the Salmon Council identified four high-impact and easy-to-implement regulatory measures that could enable productive growth of between 4% and 8% in salmon farming, without requiring new concessions and maintaining current environmental standards. According to the analysis, the application of this set of measures would generate between 1,800 and 5,400 new jobs in the regions of Los Lagos, Aysén and Magallanes, territories where salmon farming constitutes one of the main economic activities, sources of formal employment and drivers of the productive chain. Among the measures analyzed are micro-relocation",
-        "no": "En rapport utarbeidet av Lakserådet identifiserte fire regulatoriske tiltak med høy effekt og lett å implementere som kan muliggjøre en produktiv vekst på mellom 4 % og 8 % i lakseoppdrett, uten å kreve nye konsesjoner og opprettholde gjeldende miljøstandarder. I følge analysen vil anvendelsen av dette settet med tiltak generere mellom 1 800 og 5 400 nye arbeidsplasser i regionene Los Lagos, Aysén og Magallanes, territorier der lakseoppdrett utgjør en av de viktigste økonomiske aktivitetene, kildene til formell sysselsetting og driverne for produktivkjeden. Blant tiltakene som er analysert er mikroflytting"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/Trabajadores-pasillo-centro-cultivo.jpg.jpeg"
-    },
-    {
-      "title": {
-        "es": "Alertan sobre eventual contratación de buzos extranjeros en faenas de buceo profesional",
-        "en": "They warn about the possible hiring of foreign divers in professional diving tasks",
-        "no": "De advarer om mulig innleie av utenlandske dykkere i profesjonelle dykkeroppgaver"
-      },
-      "url": "https://www.aqua.cl/alertan-sobre-eventual-contratacion-de-buzos-extranjeros-en-faenas-de-buceo-profesional/",
-      "date": "Thu, 02 Jul 2026 10:42:00 +0000",
-      "summary": {
-        "es": "El diputado por la región de Los Lagos, Héctor Ulloa, manifestó su preocupación ante una comunicación emitida por la Capitanía de Puerto de Quellón, en la que se informa sobre una actualización al Reglamento de Buceo para Buzos Profesionales, la cual podría habilitar la incorporación de buzos extranjeros con situación migratoria regular en faenas asociadas al buceo profesional. Según señaló el parlamentario, esta situación debe ser observada con especial atención debido al impacto que podría tener en comunas de Chiloé, Palena y Llanquihue, donde miles de familias dependen directa o indirectamente de esta actividad vinculada a la industria del salmón, la pesca artesanal y los servicios maríti",
-        "en": "The deputy for the Los Lagos region, Héctor Ulloa, expressed his concern about a communication issued by the Port Captaincy of Quellón, which reports on an update to the Diving Regulations for Professional Divers, which could enable the incorporation of foreign divers with regular immigration status in tasks associated with professional diving. According to the parliamentarian, this situation must be observed with special attention due to the impact it could have in the communes of Chiloé, Palena and Llanquihue, where thousands of families depend directly or indirectly on this activity linked to the salmon industry, artisanal fishing and maritime services.",
-        "no": "Stedfortrederen for Los Lagos-regionen, Héctor Ulloa, uttrykte sin bekymring for en kommunikasjon utstedt av Port Captaincy of Quellón, som rapporterer om en oppdatering av dykkerforskriften for profesjonelle dykkere, som kan muliggjøre inkorporering av utenlandske dykkere med regulær immigrasjonsstatus i oppgaver knyttet til profesjonell dykking. Ifølge parlamentarikeren må denne situasjonen observeres med spesiell oppmerksomhet på grunn av virkningen den kan ha i kommunene Chiloé, Palena og Llanquihue, hvor tusenvis av familier er direkte eller indirekte avhengige av denne aktiviteten knyttet til lakseindustrien, håndverksfiske og maritime tjenester."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -198,21 +198,21 @@
         "no": "Bransjenyheter"
       },
       "score": 9,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2025/05/shutterstock_1159617022-Buceo-Senado.cl_-scaled.webp"
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-03-112745.png"
     },
     {
       "title": {
-        "es": "Analizan proyecciones oceanográficas para la prevención de FAN en salmonicultura",
-        "en": "They analyze oceanographic projections for the prevention of HABs in salmon farming",
-        "no": "De analyserer oseanografiske anslag for forebygging av HAB i lakseoppdrett"
+        "es": "[LA MÁS LEÍDA EL VIERNES] Multisindical exige reforzar seguridad laboral tras nuevo accidente fatal de buzo en la salmonicultura",
+        "en": "[THE MOST READ ON FRIDAY] Multiunion demands reinforcement of workplace safety after new fatal diver accident in salmon farming",
+        "no": "[DET MEST LESTE PÅ FREDAG] Multiunion krever styrking av sikkerheten på arbeidsplassen etter ny fatal dykkerulykke i lakseoppdrett"
       },
-      "url": "https://www.aqua.cl/analizan-proyecciones-oceanograficas-para-la-prevencion-de-fan-en-salmonicultura/",
-      "date": "Thu, 02 Jul 2026 10:46:00 +0000",
+      "url": "https://www.aqua.cl/multisindical-exige-reforzar-seguridad-laboral-tras-nuevo-accidente-fatal-de-buzo-en-la-salmonicultura/",
+      "date": "Fri, 03 Jul 2026 13:30:00 +0000",
       "summary": {
-        "es": "Con el objetivo de fortalecer la gestión preventiva basada en evidencia científica, representantes de SalmonChile y del Instituto Tecnológico del Salmón (Intesal) sostuvieron una reunión estratégica con Plancton Andino para analizar las proyecciones oceanográficas y climáticas de la próxima temporada, consideradas fundamentales para la detección temprana y mitigación de Floraciones de Algas Nocivas (FAN) en las regiones del sur austral de Chile. En la reunión participaron el gerente general de SalmonChile, Tomás Monge; la gerente de Estudios y Proyectos, Marcela Bravo; el jefe de Salud e Inocuidad de Intesal, Alexander Jaramillo; el asesor en temas marítimos, René Marticorena; y el gerente g",
-        "en": "With the aim of strengthening preventive management based on scientific evidence, representatives of SalmonChile and the Salmon Technological Institute (Intesal) held a strategic meeting with Andean Plankton to analyze the oceanographic and climate projections for the next season, considered essential for the early detection and mitigation of Harmful Algal Blooms (HAB) in the southern southern regions of Chile. The general manager of SalmonChile, Tomás Monge, participated in the meeting; the Studies and Projects manager, Marcela Bravo; the head of Health and Safety at Intesal, Alexander Jaramillo; the advisor on maritime issues, René Marticorena; and the manager g",
-        "no": "Med sikte på å styrke forebyggende styring basert på vitenskapelig bevis, holdt representanter for SalmonChile og Salmon Technological Institute (Intesal) et strategisk møte med Andean Plankton for å analysere de oseanografiske og klimaprognosene for neste sesong, ansett som avgjørende for tidlig oppdagelse og demping av skadelig algeoppblomstring (HAB) i den sørlige delen av Chile. Daglig leder i SalmonChile, Tomás Monge, deltok på møtet; leder for studier og prosjekter, Marcela Bravo; leder for helse og sikkerhet i Intesal, Alexander Jaramillo; rådgiver for maritime spørsmål, René Marticorena; og leder g"
+        "es": "La Multisindical de Trabajadores Salmoneros, Pesquerías y Ramas Afines de la Industria Salmonera expresó su profundo pesar por el reciente fallecimiento de un trabajador buzo en operaciones vinculadas a la salmonicultura, reiterando la necesidad de fortalecer las medidas de seguridad laboral y avanzar en soluciones estructurales que permitan prevenir nuevas tragedias en el sector acuícola. A través de una declaración pública, la organización manifestó que este accidente fatal se suma a otros hechos similares ocurridos en los últimos años, poniendo nuevamente en evidencia la necesidad de reforzar los estándares de seguridad en actividades consideradas de alto riesgo dentro de la industria sal",
+        "en": "The Multi-Union of Salmon Workers, Fisheries and Related Branches of the Salmon Industry expressed its deep regret over the recent death of a diver worker in operations linked to salmon farming, reiterating the need to strengthen occupational safety measures and advance structural solutions that allow preventing new tragedies in the aquaculture sector. Through a public statement, the organization stated that this fatal accident joins other similar events that have occurred in recent years, once again highlighting the need to reinforce safety standards in activities considered high risk within the salt industry.",
+        "no": "Multi-Union of Salmon Workers, Fisheries and Related Brans of the Salmon Industry uttrykte sin dype beklagelse over det nylige dødsfallet til en dykkerarbeider i operasjoner knyttet til lakseoppdrett, og gjentok behovet for å styrke arbeidssikkerhetstiltak og fremme strukturelle løsninger som gjør det mulig å forhindre nye tragedier i akvakultursektoren. Gjennom en offentlig uttalelse uttalte organisasjonen at denne dødsulykken føyer seg sammen med andre lignende hendelser som har skjedd de siste årene, noe som igjen fremhever behovet for å styrke sikkerhetsstandardene i aktiviteter som anses som høyrisiko innenfor saltindustrien."
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -224,20 +224,45 @@
       },
       "score": 8,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/SCh-FAN.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/736188357_1003225275412440_2075302806733772825_n.jpg"
     },
     {
       "title": {
-        "es": "Camanchaca lanza en Chonchi una nueva edición de «Mujeres en Acción»",
-        "en": "Camanchaca launches a new edition of “Women in Action” in Chonchi",
-        "no": "Camanchaca lanserer en ny utgave av \"Women in Action\" i Chonchi"
+        "es": "Salmón chileno mueve sus fichas en Estados Unidos ante incertidumbre arancelaria",
+        "en": "Chilean salmon moves its chips in the United States due to tariff uncertainty",
+        "no": "Chilensk laks flytter sjetongene sine i USA på grunn av tollusikkerhet"
       },
-      "url": "https://www.aqua.cl/camanchaca-lanza-en-chonchi-una-nueva-edicion-de-mujeres-en-accion/",
-      "date": "Thu, 02 Jul 2026 10:44:00 +0000",
+      "url": "https://infosalmon.cl/consejo-salmon-estados-unidos-incertidumbre-arancelaria/",
+      "date": "Fri, 03 Jul 2026 15:09:17 +0000",
       "summary": {
-        "es": "Camanchaca dio inicio en Chonchi a una nueva edición de «Mujeres en Acción», programa que busca fortalecer el liderazgo, la autonomía y el desarrollo personal de mujeres de la comuna, contribuyendo al crecimiento de sus comunidades y al fortalecimiento del capital social en el territorio. La ceremonia de lanzamiento reunió a más de 50 personas, entre ellas el alcalde de Chonchi, Fernando Oyarzún; concejales; representantes de SalmonChile y AmiChile; dirigentes sociales, emprendedoras y colaboradores de Camanchaca, quienes destacaron la relevancia de generar espacios de formación y desarrollo para las mujeres de la zona. Al respecto, el alcalde de la comuna, Fernando Oyarzún, valoró la llegad",
-        "en": "Camanchaca began a new edition of \"Women in Action\" in Chonchi, a program that seeks to strengthen the leadership, autonomy and personal development of women in the commune, contributing to the growth of their communities and the strengthening of social capital in the territory. The launching ceremony brought together more than 50 people, including the mayor of Chonchi, Fernando Oyarzún; councilors; representatives of SalmonChile and AmiChile; social leaders, entrepreneurs and collaborators of Camanchaca, who highlighted the relevance of generating training and development spaces for women in the area. In this regard, the mayor of the commune, Fernando Oyarzún, valued the arrival",
-        "no": "Camanchaca startet en ny utgave av \"Women in Action\" i Chonchi, et program som søker å styrke lederskap, autonomi og personlig utvikling av kvinner i kommunen, og bidra til veksten av deres lokalsamfunn og styrking av sosial kapital i territoriet. Lanseringsseremonien samlet mer enn 50 mennesker, inkludert ordføreren i Chonchi, Fernando Oyarzún; rådmenn; representanter for SalmonChile og AmiChile; sosiale ledere, gründere og samarbeidspartnere i Camanchaca, som fremhevet relevansen av å generere opplærings- og utviklingsrom for kvinner i området. I denne forbindelse verdsatte borgermesteren i kommunen, Fernando Oyarzún, ankomsten"
+        "es": "En medio de un escenario global marcado por mayores tensiones comerciales y señales de incertidumbre arancelaria, el Consejo del Salmón reforzará su agenda internacional en Estados Unidos para contribuir al posicionamiento del salmón chileno como alimento saludable, confiable y de alto estándar. El gremio participará durante los próximos días en actividades de coordinación público-privada, reuniones institucionales y acciones de promoción país en Nueva York y Washington D.C., buscando fortalecer la presencia del sector en uno de los principales destinos para las exportaciones salmoneras chilenas. La agenda se desarrollará en un contexto global marcado por mayor incertidumbre comercial y aran",
+        "en": "In the midst of a global scenario marked by increased trade tensions and signs of tariff uncertainty, the Salmon Council will reinforce its international agenda in the United States to contribute to the positioning of Chilean salmon as a healthy, reliable and high-standard food. Over the next few days, the union will participate in public-private coordination activities, institutional meetings and country promotion actions in New York and Washington D.C., seeking to strengthen the presence of the sector in one of the main destinations for Chilean salmon exports. The agenda will be developed in a global context marked by greater commercial uncertainty and aran",
+        "no": "Midt i et globalt scenario preget av økte handelsspenninger og tegn på tollusikkerhet, vil Lakserådet forsterke sin internasjonale agenda i USA for å bidra til posisjoneringen av chilensk laks som en sunn, pålitelig mat av høy standard. I løpet av de neste dagene vil fagforeningen delta i offentlig-private koordineringsaktiviteter, institusjonelle møter og landfremmende tiltak i New York og Washington D.C., for å forsøke å styrke tilstedeværelsen av sektoren i en av hoveddestinasjonene for chilensk lakseeksport. Agendaen skal utvikles i en global kontekst preget av større kommersiell usikkerhet og aran"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 15,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/FOTO-1-CDS-CANNCILLERIA.jpg"
+    },
+    {
+      "title": {
+        "es": "Mayo 2026: Cosecha de salmón Atlántico crece 13,2% y lidera producción acuícola chilena",
+        "en": "May 2026: Atlantic salmon harvest grows 13.2% and leads Chilean aquaculture production",
+        "no": "Mai 2026: Atlantisk laksefangst vokser 13,2 % og leder chilensk akvakulturproduksjon"
+      },
+      "url": "https://www.aqua.cl/mayo-2026-cosecha-de-salmon-atlantico-crece-132-y-lidera-produccion-acuicola-chilena/",
+      "date": "Mon, 06 Jul 2026 10:44:00 +0000",
+      "summary": {
+        "es": "La acuicultura chilena continúa mostrando cifras positivas durante 2026. De acuerdo con el más reciente Informe Sectorial de Pesca y Acuicultura elaborado por la Subsecretaría de Pesca y Acuicultura (Subpesca), la cosecha acumulada de peces alcanzó las 421,1 mil toneladas a mayo, registrando un aumento de 12,9% respecto del mismo período de 2025. Esta producción representó el 62,9% del total de las cosechas de la acuicultura nacional, consolidando a la salmonicultura como uno de los principales motores productivos del sector. Salmón del Atlántico lidera el crecimiento productivo El principal aporte provino del salmón del Atlántico, cuya cosecha acumulada llegó a 319,4 mil toneladas, cifra qu",
+        "en": "Chilean aquaculture continues to show positive figures during 2026. According to the most recent Fisheries and Aquaculture Sector Report prepared by the Undersecretary of Fisheries and Aquaculture (Subpesca), the accumulated fish harvest reached 421.1 thousand tons as of May, registering an increase of 12.9% compared to the same period in 2025. This production represented 62.9% of the total national aquaculture harvests, consolidating salmon farming as one of the main productive engines of the sector. Atlantic salmon leads productive growth The main contribution came from Atlantic salmon, whose accumulated harvest reached 319.4 thousand tons, a figure that",
+        "no": "Chilensk akvakultur fortsetter å vise positive tall i løpet av 2026. I følge den siste fiskeri- og akvakultursektorrapporten utarbeidet av undersekretæren for fiskeri og akvakultur (Subpesca), nådde den akkumulerte fiskeavlingen 421,1 tusen tonn per mai, og registrerte en økning på 12,9 % sammenlignet med samme periode på 25 prosent i 29 % av den totale nasjonale produksjonen. akvakulturhøster, konsolidering av lakseoppdrett som en av de viktigste produktive motorene i sektoren. Atlantisk laks leder produktiv vekst Hovedbidraget kom fra atlantisk laks, hvis akkumulerte høsting nådde 319,4 tusen tonn, et tall som"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -248,21 +273,21 @@
         "no": "Marked og naringsliv"
       },
       "score": 8,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Camanchaca_MAC_5-1024x684.jpg"
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2016/01/Cosecha-de-salmón-Editec.jpg"
     },
     {
       "title": {
-        "es": "Exportaciones de salmón chileno a India logran quintuplicarse en volumen",
-        "en": "Chilean salmon exports to India manage to quintuple in volume",
-        "no": "Chilensk lakseeksport til India klarer å femdobles i volum"
+        "es": "Nueva empresa de wellboats se abre a la Bolsa y mira la salmonicultura chilena para crecer",
+        "en": "New wellboats company goes public and looks to Chilean salmon farming to grow",
+        "no": "Nytt brønnbåtselskap går på børs og ser på at chilensk lakseoppdrett skal vokse"
       },
-      "url": "https://www.salmonexpert.cl/aduanas-de-chile-comercio-bilateral-exportaciones/exportaciones-de-salmon-chileno-a-india-logran-quintuplicarse-en-volumen/2142470",
+      "url": "https://www.salmonexpert.cl/pelican-aqua-holding-wellboat-wellboats/nueva-empresa-de-wellboats-se-abre-a-la-bolsa-y-mira-la-salmonicultura-chilena-para-crecer/2148231",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "La compañía Pelican Aqua Holding firmó contratos para construir cuatro de estos buques, con una capacidad de 5.000 m3 cada uno, previendo una alta demanda por sus servicios.",
+        "en": "The Pelican Aqua Holding company signed contracts to build four of these vessels, with a capacity of 5,000 m3 each, anticipating a high demand for its services.",
+        "no": "Pelican Aqua Holding-selskapet signerte kontrakter om å bygge fire av disse fartøyene, med en kapasitet på 5.000 m3 hver, i påvente av en høy etterspørsel etter deres tjenester."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -272,34 +297,9 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1902650.jpg?imageId=1902650&x=0&y=8.12&cropw=100&croph=83.77&panox=0&panoy=8.12&panow=100&panoh=83.77&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Gobierno trabaja en definir el concepto de microrelocalizaciones para concesiones de salmón",
-        "en": "Government works to define the concept of micro-relocations for salmon concessions",
-        "no": "Regjeringen arbeider for å definere konseptet mikroflytting for laksekonsesjoner"
-      },
-      "url": "https://www.salmonexpert.cl/concesiones-fusion-gobierno/gobierno-trabaja-en-definir-el-concepto-de-microrelocalizaciones-para-concesiones-de-salmon/2145698",
-      "date": "",
-      "summary": {
-        "es": "Subpesca trabaja a toda máquina para que se aprueben las esperadas relocalizaciones de concesiones de salmón y que de este modo se destrabe el desarrollo de la industria.",
-        "en": "Subpesca is working at full speed to approve the expected relocations of salmon concessions and thus unlock the development of the industry.",
-        "no": "Subpesca jobber på full fart med å godkjenne forventede flyttinger av laksekonsesjoner og dermed låse opp utviklingen av næringen."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "regulatory",
-      "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
-      },
       "score": 8,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2145710.jpg?imageId=2145710&x=0&y=12.81&cropw=100&croph=63.55&panox=0&panoy=12.81&panow=100&panoh=63.55&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2147830.jpg?imageId=2147830&x=0&y=8.28&cropw=100&croph=88.97&panox=0&panoy=8.28&panow=100&panoh=88.97&width=1200&height=683"
     }
   ]
 }
