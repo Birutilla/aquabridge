@@ -587,22 +587,28 @@ def select_with_quotas(articles):
 
 
 def translate_batch(texts, target_lang):
+    # Translate in parallel. The prior sequential version made one HTTP call
+    # per text (48 calls per run), which pushed total runtime past the sandbox
+    # process-lifetime limit and got the scheduled run killed mid-translation.
+    # A fresh GoogleTranslator is created per item so instances are not shared
+    # across threads. Order is preserved via ThreadPoolExecutor.map.
     try:
         from deep_translator import GoogleTranslator
     except ImportError:
         return texts
-    t = GoogleTranslator(source="es", target=target_lang)
-    results = []
-    for text in texts:
-        if not text.strip():
-            results.append("")
-            continue
+
+    def translate_one(text):
+        if not text or not text.strip():
+            return ""
         try:
-            results.append(t.translate(text[:4900]) or text)
+            t = GoogleTranslator(source="es", target=target_lang)
+            return t.translate(text[:4900]) or text
         except Exception as e:
             print(f"  Translate error ({target_lang}): {e}", file=sys.stderr)
-            results.append(text)
-    return results
+            return text
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        return list(pool.map(translate_one, texts))
 
 
 def main():
