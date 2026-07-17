@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-13T13:34:34Z",
+  "updated": "2026-07-17T19:55:07Z",
   "articles": [
     {
       "title": {
-        "es": "Estudio demuestra que vacuna contra Caligus mejora la protección del salmón frente al SRS",
-        "en": "Study shows that Caligus vaccine improves the protection of salmon against SRS",
-        "no": "Studie viser at Caligus-vaksine forbedrer beskyttelsen av laks mot SRS"
+        "es": "Ya se acerca al mercado: vacuna muestra impacto reduciendo 73% el Caligus en los salmones",
+        "en": "It is already approaching the market: vaccine shows impact by reducing Caligus in salmon by 73%",
+        "no": "Den nærmer seg allerede markedet: vaksine viser effekt ved å redusere Caligus i laks med 73 %"
       },
-      "url": "https://www.mundoacuicola.cl/new/estudio-demuestra-que-vacuna-contra-caligus-mejora-la-proteccion-del-salmon-frente-al-srs/",
-      "date": "Fri, 10 Jul 2026 18:17:51 +0000",
+      "url": "https://www.salmonexpert.cl/caligus-piscirickettsia-srs/ya-se-acerca-al-mercado-vacuna-muestra-impacto-reduciendo-73-el-caligus-en-los-salmones/2152500",
+      "date": "",
       "summary": {
-        "es": "La investigación evaluó IPath®, una vacuna desarrollada por investigadores de INCAR², y determinó que reduce la carga de piojo de mar y potencia el efecto de vacunas comerciales frente a Piscirickettsia salmonis. La entrada Estudio demuestra que vacuna contra Caligus mejora la protección del salmón frente al SRS se publicó primero en Mundoacuicola .",
-        "en": "The research evaluated IPath®, a vaccine developed by INCAR² researchers, and determined that it reduces the burden of sea lice and enhances the effect of commercial vaccines against Piscirickettsia salmonis. The entry Study shows that the Caligus vaccine improves the protection of salmon against SRS was first published in Mundoacuicola.",
-        "no": "Forskningen evaluerte IPath®, en vaksine utviklet av INCAR²-forskere, og fastslo at den reduserer byrden av lakselus og forsterker effekten av kommersielle vaksiner mot Piscirickettsia salmonis. Oppføringen Studien viser at Caligus-vaksinen forbedrer beskyttelsen av laks mot SRS ble først publisert i Mundoacuicola."
+        "es": "Nuevos antecedentes sobre el potencial de la vacuna para Caligus refuerzan su valor como herramienta inmunológica. Desarrolladores trabajan en su escalado productivo para lanzarla.",
+        "en": "New information on the potential of the Caligus vaccine reinforces its value as an immunological tool. Developers are working on its productive scaling to launch it.",
+        "no": "Ny informasjon om potensialet til Caligus-vaksinen forsterker dens verdi som et immunologisk verktøy. Utviklere jobber med den produktive skaleringen for å lansere den."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/Vacuna-SRS-INCAR.jpg"
+      "score": 4,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1222300.jpg?imageId=1222300&x=0&y=11.83&cropw=100&croph=76.33&panox=0&panoy=11.83&panow=100&panoh=76.33&width=1200&height=683"
     },
     {
       "title": {
@@ -47,9 +47,34 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 8,
-      "cross_source": true,
+      "score": 4,
+      "cross_source": false,
       "image": "https://image.salmonexpert.cl/2065355.jpg?imageId=2065355&x=0&y=5.45&cropw=100&croph=78.18&panox=0&panoy=5.45&panow=100&panoh=78.18&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "SalmonChile destaca avances en descarbonización y economía regenerativa",
+        "en": "SalmonChile highlights advances in decarbonization and regenerative economy",
+        "no": "SalmonChile fremhever fremskritt innen avkarbonisering og regenerativ økonomi"
+      },
+      "url": "https://www.aqua.cl/salmonchile-destaca-avances-en-descarbonizacion-y-economia-regenerativa/",
+      "date": "Fri, 17 Jul 2026 19:05:56 +0000",
+      "summary": {
+        "es": "Con el objetivo de fortalecer una salmonicultura cada vez más sostenible y alineada con los desafíos del cambio climático, SalmonChile participó en el evento internacional “Regenera Patagonia” , instancia que reunió a actores públicos, privados, académicos y emprendedores para abordar los desafíos y oportunidades de la economía regenerativa en el sur de Chile. La actividad, desarrollada en Puerto Varas, forma parte del proyecto Viraliza Eventos de Corfo y es ejecutada por la consultora Greenticket con el apoyo de la Multigremial Los Lagos. El encuentro congregó a cientos de representantes del ecosistema productivo regional e internacional, promoviendo el intercambio de experiencias en sosten",
+        "en": "With the aim of strengthening salmon farming that is increasingly sustainable and aligned with the challenges of climate change, SalmonChile participated in the international event “Regenera Patagonia”, an event that brought together public, private, academic and entrepreneurial actors to address the challenges and opportunities of the regenerative economy in southern Chile. The activity, carried out in Puerto Varas, is part of Corfo's Viraliza Eventos project and is carried out by the consulting firm Greenticket with the support of the Multigremial Los Lagos. The meeting brought together hundreds of representatives of the regional and international productive ecosystem, promoting the exchange of experiences in sustainability",
+        "no": "Med sikte på å styrke lakseoppdrett som er stadig mer bærekraftig og tilpasset utfordringene med klimaendringer, deltok SalmonChile i det internasjonale arrangementet «Regenera Patagonia», et arrangement som samlet offentlige, private, akademiske og entreprenørielle aktører for å møte utfordringene og mulighetene til den regenerative økonomien i det sørlige Chile. Aktiviteten, utført i Puerto Varas, er en del av Corfos Viraliza Eventos-prosjekt og utføres av konsulentfirmaet Greenticket med støtte fra Multigremial Los Lagos. Møtet samlet hundrevis av representanter for det regionale og internasjonale produktive økosystemet, og fremmet utveksling av erfaringer innen bærekraft"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Regenera-Patagonia-1-1024x556.png"
     },
     {
       "title": {
@@ -78,66 +103,16 @@
     },
     {
       "title": {
-        "es": "Innovadora vacuna chilena diseñada con inteligencia computacional abre nueva esperanza para controlar el BKD",
-        "en": "Innovative Chilean vaccine designed with computational intelligence opens new hope for controlling BKD",
-        "no": "Innovativ chilensk vaksine designet med beregningsmessig intelligens åpner nytt håp for å kontrollere BKD"
+        "es": "Constituyen Comité de Emergencia para monitorear efectos del sistema frontal en la pesca artesanal y las caletas",
+        "en": "They constitute an Emergency Committee to monitor the effects of the frontal system on artisanal fishing and the coves",
+        "no": "De utgjør en nødkomité for å overvåke effektene av frontalsystemet på håndverksfiske og vikene"
       },
-      "url": "https://infosalmon.cl/innovadora-vacuna-chilena-disenada-con-inteligencia-computacional-abre-nueva-esperanza-para-controlar-el-bkd/",
-      "date": "Sun, 12 Jul 2026 23:30:11 +0000",
+      "url": "https://www.mundoacuicola.cl/new/constituyen-comite-de-emergencia-para-monitorear-efectos-del-sistema-frontal-en-la-pesca-artesanal-y-las-caletas/",
+      "date": "Wed, 15 Jul 2026 22:25:06 +0000",
       "summary": {
-        "es": "Durante décadas, la Enfermedad Bacteriana del Riñón (BKD) ha sido uno de los mayores dolores de cabeza para la salmonicultura mundial. Pese a numerosos esfuerzos científicos, el sector continúa dependiendo en gran medida del uso de antibióticos para controlar una enfermedad causada por Renibacterium salmoninarum , una bacteria capaz de esconderse dentro de las células del pez, provocar infecciones crónicas y transmitirse incluso desde los reproductores hacia las ovas. Ahora, un equipo de investigadores chilenos de la Pontificia Universidad Católica de Valparaíso (PUCV), liderado por el Dr. Fernando Gómez, académico e investigador del Laboratorio de Genética e Inmunología Molecular del Instit",
-        "en": "For decades, Bacterial Kidney Disease (BKD) has been one of the biggest headaches for global salmon farming. Despite numerous scientific efforts, the sector continues to rely heavily on the use of antibiotics to control a disease caused by Renibacterium salmoninarum, a bacteria capable of hiding inside fish cells, causing chronic infections and even being transmitted from broodstock to eggs. Now, a team of Chilean researchers from the Pontifical Catholic University of Valparaíso (PUCV), led by Dr. Fernando Gómez, academic and researcher at the Laboratory of Genetics and Molecular Immunology of the Instit",
-        "no": "I flere tiår har bakteriell nyresykdom (BKD) vært en av de største hodepinene for global lakseoppdrett. Til tross for mange vitenskapelige anstrengelser, fortsetter sektoren å stole sterkt på bruk av antibiotika for å kontrollere en sykdom forårsaket av Renibacterium salmoninarum, en bakterie som kan gjemme seg inne i fiskeceller, forårsake kroniske infeksjoner og til og med overføres fra stamfisk til egg. Nå er et team av chilenske forskere fra det pavelige katolske universitetet i Valparaíso (PUCV), ledet av Dr. Fernando Gómez, akademiker og forsker ved Laboratory of Genetics and Molecular Immunology of the Instit"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/QUIMERA-BKD1-1.png"
-    },
-    {
-      "title": {
-        "es": "Analista de Plancton Andino: “No hay que estar tan asustados, sino más preparados frente a las Floraciones Algales Nocivas (FAN)”",
-        "en": "Andean Plankton Analyst: “We don't have to be so scared, but rather more prepared against Harmful Algal Blooms (HAB)”",
-        "no": "Andes planktonanalytiker: \"Vi trenger ikke å være så redde, men heller mer forberedt mot skadelig algeoppblomstring (HAB)\""
-      },
-      "url": "https://infosalmon.cl/plancton-andino-preparacion-floraciones-algales-nocivas/",
-      "date": "Sun, 12 Jul 2026 23:19:54 +0000",
-      "summary": {
-        "es": "Las floraciones algales nocivas son fenómenos naturales que no pueden evitarse, pero sus efectos sobre la salmonicultura pueden enfrentarse con mayor información, preparación y capacidad de respuesta. Así lo explicó Stephanie Sáez, analista de Fitoplancton y Bio-Óptica de Plancton Andino , durante una entrevista en el programa Acuicultura en Acción de Radio El Conquistador Red Los Lagos. La profesional sostuvo que la percepción de un aumento en la frecuencia de estos eventos también se relaciona con la mayor capacidad de monitoreo y con el crecimiento de las actividades productivas vinculadas al océano. “Actualmente hay mucho más conocimiento y tenemos mucho más contacto con lo que sucede en",
-        "en": "Harmful algal blooms are natural phenomena that cannot be avoided, but their effects on salmon farming can be addressed with greater information, preparation and response capacity. This was explained by Stephanie Sáez, Phytoplankton and Bio-Optics analyst at Plancton Andino, during an interview on the Aquaculture in Action program on Radio El Conquistador Red Los Lagos. The professional maintained that the perception of an increase in the frequency of these events is also related to the greater monitoring capacity and the growth of productive activities linked to the ocean. “Currently there is much more knowledge and we have much more contact with what is happening in",
-        "no": "Skadelig algeoppblomstring er naturfenomener som ikke kan unngås, men virkningene på lakseoppdrett kan håndteres med større informasjons-, forberedelses- og responskapasitet. Dette ble forklart av Stephanie Sáez, fytoplankton- og biooptikkanalytiker ved Plancton Andino, under et intervju på Aquaculture in Action-programmet på Radio El Conquistador Red Los Lagos. Fagpersonen hevdet at oppfatningen av en økning i frekvensen av disse hendelsene også er knyttet til den større overvåkingskapasiteten og veksten av produktive aktiviteter knyttet til havet. «For tiden er det mye mer kunnskap og vi har mye mer kontakt med det som skjer i"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 8,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/stephanie-saez.png"
-    },
-    {
-      "title": {
-        "es": "Historias que merecen ser reconocidas: comienza convocatoria para los premios de la Cena Anual de la Industria del Salmón",
-        "en": "Stories that deserve to be recognized: call for entries begins for the Annual Salmon Industry Dinner awards",
-        "no": "Historier som fortjener å bli anerkjent: Innkalling til påmeldinger begynner for den årlige prisen for lakseindustriens middag"
-      },
-      "url": "https://www.mundoacuicola.cl/new/historias-que-merecen-ser-reconocidas-comienza-convocatoria-para-los-premios-de-la-cena-anual-de-la-industria-del-salmon/",
-      "date": "Mon, 13 Jul 2026 02:57:49 +0000",
-      "summary": {
-        "es": "La ceremonia de reconocimientos se realizará en el marco de la Cena Anual de la Industria del Salmón, instancia que busca distinguir a trabajadores, empresas y familias cuya trayectoria ha contribuido al desarrollo de la acuicultura chilena. Las postulaciones ya se encuentran abiertas y podrán ser presentadas por empresas, instituciones y particulares. La entrada Historias que merecen ser reconocidas: comienza convocatoria para los premios de la Cena Anual de la Industria del Salmón se publicó primero en Mundoacuicola .",
-        "en": "The recognition ceremony will be held within the framework of the Annual Dinner of the Salmon Industry, an event that seeks to distinguish workers, companies and families whose career has contributed to the development of Chilean aquaculture. Applications are now open and may be submitted by companies, institutions and individuals. The entry Stories that deserve to be recognized: call for entries begins for the Annual Salmon Industry Dinner awards was first published in Mundoacuicola.",
-        "no": "Anerkjennelsesseremonien vil bli holdt innenfor rammen av den årlige middagen til lakseindustrien, en begivenhet som søker å skille arbeidere, bedrifter og familier hvis karriere har bidratt til utviklingen av chilensk havbruk. Søknader er nå åpnet og kan sendes inn av bedrifter, institusjoner og enkeltpersoner. Oppføringen Historier som fortjener å bli anerkjent: innkalling begynner for den årlige salmonindustry-middagsprisen ble først publisert i Mundoacuicola."
+        "es": "Subpesca, Sernapesca y la Armada conformaron un Comité de Emergencia para monitorear y coordinar acciones preventivas ante el sistema frontal que afecta al sector pesquero. La entrada Constituyen Comité de Emergencia para monitorear efectos del sistema frontal en la pesca artesanal y las caletas se publicó primero en Mundoacuicola .",
+        "en": "Subpesca, Sernapesca and the Navy formed an Emergency Committee to monitor and coordinate preventive actions against the frontal system that affects the fishing sector. The entry They establish an Emergency Committee to monitor the effects of the frontal system on artisanal fishing and the coves was first published in Mundoacuicola.",
+        "no": "Subpesca, Sernapesca og marinen dannet en nødkomité for å overvåke og koordinere forebyggende tiltak mot frontsystemet som påvirker fiskerisektoren. Oppføringen De oppretter en nødkomité for å overvåke effekten av frontsystemet på håndverksfiske og vikene ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -147,159 +122,184 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/CenaDelSalmon2.jpg"
-    },
-    {
-      "title": {
-        "es": "Consejo del Salmón fortalece agenda comercial en EE. UU. para apoyar exportaciones chilenas",
-        "en": "Salmon Council strengthens trade agenda in the US to support Chilean exports",
-        "no": "Salmon Council styrker handelsagendaen i USA for å støtte chilensk eksport"
-      },
-      "url": "https://www.aqua.cl/consejo-del-salmon-fortalece-agenda-comercial-en-ee-uu-para-apoyar-exportaciones-chilenas/",
-      "date": "Fri, 10 Jul 2026 22:06:39 +0000",
-      "summary": {
-        "es": "En un contexto marcado por la evolución del escenario comercial internacional y el seguimiento de las condiciones de acceso a los mercados, el Consejo del Salmón desarrolló una agenda de trabajo en Estados Unidos para fortalecer la presencia de la salmonicultura chilena en su principal mercado de exportación y acompañar las gestiones que impulsa el país en materia comercial. El gremio, que representa a seis de las principales empresas productoras de salmón del país, estuvo representado por su director internacional, Pablo Barahona, y por la directora de Estudios Aplicados, Alejandra Bustamante. Durante la visita sostuvieron reuniones con autoridades chilenas y estadounidenses, participaron e",
-        "en": "In a context marked by the evolution of the international commercial scenario and the monitoring of market access conditions, the Salmon Council developed a work agenda in the United States to strengthen the presence of Chilean salmon farming in its main export market and accompany the efforts promoted by the country in commercial matters. The union, which represents six of the main salmon producing companies in the country, was represented by its international director, Pablo Barahona, and by the director of Applied Studies, Alejandra Bustamante. During the visit they held meetings with Chilean and American authorities, participated and",
-        "no": "I en kontekst preget av utviklingen av det internasjonale kommersielle scenariet og overvåkingen av markedsadgangsforholdene, utviklet lakserådet en arbeidsagenda i USA for å styrke tilstedeværelsen av chilensk lakseoppdrett i dets viktigste eksportmarked og ledsage innsatsen landet fremmer i kommersielle spørsmål. Fagforeningen, som representerer seks av de viktigste lakseproduserende selskapene i landet, var representert av sin internasjonale direktør, Pablo Barahona, og av direktøren for Applied Studies, Alejandra Bustamante. Under besøket holdt de møter med chilenske og amerikanske myndigheter, deltok og"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 17,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Consejo-del-Salmon-en-EEUU-2-Consejo-del-Salmon-768x1024.jpeg"
-    },
-    {
-      "title": {
-        "es": "Exportaciones de pesca y acuicultura crecen un 6,4% durante el primer semestre de 2026",
-        "en": "Fishing and aquaculture exports grow by 6.4% during the first half of 2026",
-        "no": "Fiske- og havbrukseksporten vokser med 6,4 % i løpet av første halvår 2026"
-      },
-      "url": "https://www.aqua.cl/exportaciones-de-pesca-y-acuicultura-crecen-un-64-durante-el-primer-semestre-de-2026/",
-      "date": "Mon, 13 Jul 2026 10:47:00 +0000",
-      "summary": {
-        "es": "ProChile dio a conocer el Informe de Exportaciones no Cobre no Litio correspondiente al mes de junio del año 2026. El documento,&nbsp; disponible en el Centro Digital del Conocimiento de la institución , destaca el mejor primer semestre de la historia en esta categoría, con un registro de US$ 27.355 millones, un crecimiento de +10,3% respecto al mismo período del año 2025. Más allá del salmón y la trucha&nbsp; En el análisis más detallado, los envíos de Pesca y Acuicultura crecieron 6,4% impulsados por las exportaciones de salmón y trucha con US$ 3.504 millones y +6,5%. Estados Unidos con US$ 1.360 millones y +1,4%, Japón con US$ 539 millones y +1% y Brasil con US$520 millones y +9,8% son lo",
-        "en": "ProChile released the Non-Copper Non-Lithium Export Report corresponding to the month of June 2026. The document,&nbsp; available in the institution's Digital Knowledge Center, highlights the best first semester in history in this category, with a record of US$ 27,355 million, a growth of +10.3% compared to the same period in 2025. Beyond salmon and trout&nbsp; In the more detailed analysis, Fisheries and Aquaculture shipments grew 6.4% driven by salmon and trout exports with US$ 3,504 million and +6.5%. The United States with US$ 1,360 million and +1.4%, Japan with US$ 539 million and +1% and Brazil with US$520 million and +9.8% are the",
-        "no": "ProChile ga ut rapporten om ikke-kobber-litiumeksport som tilsvarer juni måned 2026. Dokumentet,&nbsp; tilgjengelig i institusjonens Digital Knowledge Center, fremhever det beste første semesteret i historien i denne kategorien, med en rekord på USD 27 355 millioner, en vekst på +10,3 % sammenlignet med samme periode i 2025. Utover laks og ørret&nbsp; I den mer detaljerte analysen økte forsendelsene fra fiskeri og akvakultur med 6,4 % drevet av eksport av laks og ørret med 3 504 millioner USD og +6,5 %. USA med USD 1 360 millioner og +1,4 %, Japan med USD 539 millioner og +1 % og Brasil med USD 520 millioner og +9,8 % er"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 11,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2024/02/Salmon-ProChile-1-scaled.jpg"
-    },
-    {
-      "title": {
-        "es": "Tren salmonero toma velocidad: EFE proyecta movilizar 100 contenedores semanales desde Frutillar",
-        "en": "Salmon train picks up speed: EFE plans to mobilize 100 containers weekly from Frutillar",
-        "no": "Laksetog skyter fart: EFE planlegger å mobilisere 100 containere ukentlig fra Frutillar"
-      },
-      "url": "https://infosalmon.cl/tren-salmonero-frutillar-biobio/",
-      "date": "Mon, 13 Jul 2026 02:51:48 +0000",
-      "summary": {
-        "es": "El denominado “Tren Salmonero” podría pasar durante los próximos meses de una experiencia piloto a una alternativa logística permanente para las exportaciones acuícolas del sur de Chile. EFE trabaja en la implementación de un servicio ferroviario regular entre Frutillar, en la Región de Los Lagos, y los puertos del Biobío, con el objetivo de movilizar dos trenes y alrededor de 100 contenedores por semana. El gerente de EFE Logística, Alejandro Merello, señaló que existe una evaluación favorable entre las empresas y organizaciones que participaron en la experiencia desarrollada en 2025. En declaraciones a SABES, el ejecutivo afirmó que están “trabajando para iniciar un servicio regular”, cuya",
-        "en": "The so-called “Salmon Train” could go over the next few months from a pilot experience to a permanent logistics alternative for aquaculture exports from southern Chile. EFE is working on the implementation of a regular rail service between Frutillar, in the Los Lagos Region, and the ports of Biobío, with the aim of mobilizing two trains and around 100 containers per week. The manager of EFE Logistics, Alejandro Merello, pointed out that there is a favorable evaluation among the companies and organizations that participated in the experience developed in 2025. In statements to SABES, the executive stated that they are “working to start a regular service”, whose",
-        "no": "Det såkalte \"Laksetoget\" kan i løpet av de neste månedene gå fra en pilotopplevelse til et permanent logistikkalternativ for akvakultureksport fra det sørlige Chile. EFE jobber med implementeringen av en vanlig jernbanetjeneste mellom Frutillar, i Los Lagos-regionen, og havnene i Biobío, med mål om å mobilisere to tog og rundt 100 containere per uke. Lederen for EFE Logistics, Alejandro Merello, påpekte at det er en positiv evaluering blant selskapene og organisasjonene som deltok i erfaringen utviklet i 2025. I uttalelser til SABES uttalte lederen at de \"arbeider for å starte en vanlig tjeneste\", hvis"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
       "score": 8,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/salmon-tren.png"
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/SubpescaEmergencia2334.jpeg"
     },
     {
       "title": {
-        "es": "MNL incorpora concepto “Bioresilience@work”\npara prevención en la acuicultura",
-        "en": "MNL incorporates “Bioresilience@work” concept\nfor prevention in aquaculture",
-        "no": "MNL inkorporerer \"Bioresilience@work\"-konseptet\ntil forebygging i akvakultur"
+        "es": "La agenda de los gremios en EE.UU. para defender al salmón chileno de los nuevos aranceles",
+        "en": "The agenda of the unions in the US to defend Chilean salmon from the new tariffs",
+        "no": "Agendaen til fagforeningene i USA for å forsvare chilensk laks fra de nye tollsatsene"
       },
-      "url": "https://www.salmonexpert.cl/mnl-mnl-group-pathovet/mnl-incorpora-concepto-bioresiliencework-para-prevencion-en-la-acuicultura/2148829",
+      "url": "https://www.salmonexpert.cl/aranceles-consejo-del-salmon-eeuu/la-agenda-de-los-gremios-en-eeuu-para-defender-al-salmon-chileno-de-los-nuevos-aranceles/2150483",
       "date": "",
       "summary": {
-        "es": "El encuentro internacional, reunió a expertos de Chile, Noruega y Estados Unidos para abordar la producción acuícola desde la comprensión profunda de la fisiología, inmunología y patología del pez.",
-        "en": "The international meeting brought together experts from Chile, Norway and the United States to address aquaculture production from a deep understanding of the physiology, immunology and pathology of the fish.",
-        "no": "Det internasjonale møtet samlet eksperter fra Chile, Norge og USA for å ta opp akvakulturproduksjon fra en dyp forståelse av fiskens fysiologi, immunologi og patologi."
+        "es": "Tanto SalmonChile como el Consejo del Salmón llevan a cabo negociaciones de alto nivel en Estados Unidos para evitar que se aplique un arancel de 12,5% al salmón chileno.",
+        "en": "Both SalmonChile and the Salmon Council are carrying out high-level negotiations in the United States to prevent a 12.5% ​​tariff from being applied to Chilean salmon.",
+        "no": "Både SalmonChile og Salmon Council gjennomfører forhandlinger på høyt nivå i USA for å hindre en toll på 12,5 % på chilensk laks."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2150488.jpg?imageId=2150488&x=0&y=12.92&cropw=100&croph=35.83&panox=0&panoy=12.92&panow=100&panoh=35.83&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Salmonicultura será motor clave en la nueva Mesa Regional del Empleo de Los Lagos",
+        "en": "Salmon farming will be a key driver in the new Regional Employment Board of Los Lagos",
+        "no": "Lakseoppdrett vil være en nøkkeldriver i det nye regionale arbeidsstyret i Los Lagos"
+      },
+      "url": "https://www.salmonexpert.cl/empleo-gobierno-los-lagos/salmonicultura-sera-motor-clave-en-la-nueva-mesa-regional-del-empleo-de-los-lagos/2152999",
+      "date": "",
+      "summary": {
+        "es": "Autoridades y representantes del sector productivo, coincidieron en que agilizar permisos y destrabar inversiones es esencial para generar empleo, mientras SalmonChile pidió pasar del diagnóstico a la acción.",
+        "en": "Authorities and representatives of the productive sector agreed that expediting permits and unlocking investments is essential to generate employment, while SalmonChile asked to move from diagnosis to action.",
+        "no": "Myndigheter og representanter for den produktive sektoren var enige om at det å fremskynde tillatelser og låse opp investeringer er avgjørende for å generere sysselsetting, mens SalmonChile ba om å gå fra diagnose til handling."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2153009.jpg?imageId=2153009&x=0&y=27.59&cropw=100&croph=63.55&panox=0&panoy=27.59&panow=100&panoh=63.55&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Prevén oferta ajustada de salmón y mayor presión sobre costos acuícolas",
+        "en": "Tight salmon supply and greater pressure on aquaculture costs expected",
+        "no": "Trangt laksetilbud og større press på akvakulturkostnadene forventes"
+      },
+      "url": "https://www.aqua.cl/preven-oferta-ajustada-de-salmon-y-mayor-presion-sobre-costos-acuicolas/",
+      "date": "Fri, 17 Jul 2026 10:46:00 +0000",
+      "summary": {
+        "es": "Los mercados acuícolas globales enfrentarían durante el segundo semestre de 2026 una combinación de menor crecimiento de la oferta de salmón, débil recuperación de la demanda de camarón y mayores costos de los ingredientes marinos. Así lo proyecta RaboResearch en su informe “ Global aquaculture update 2H 2026 ”, elaborado por los analistas Novel Sharma y Gorjan Nikolik. El documento advierte que las condiciones macroeconómicas, los riesgos ambientales y los cambios en los flujos comerciales seguirán influyendo sobre la oferta y los precios. La persistencia de precios minoristas elevados en Estados Unidos podría limitar la rotación de inventarios de especies de segmentos medios, especialmente",
+        "en": "Global aquaculture markets would face during the second half of 2026 a combination of lower growth in salmon supply, weak recovery in shrimp demand and higher costs of marine ingredients. This is projected by RaboResearch in its report “Global aquaculture update 2H 2026”, prepared by analysts Novel Sharma and Gorjan Nikolik. The document warns that macroeconomic conditions, environmental risks and changes in trade flows will continue to influence supply and prices. The persistence of high retail prices in the United States could limit the inventory turnover of mid-range species, especially",
+        "no": "Globale havbruksmarkeder vil i løpet av andre halvdel av 2026 møte en kombinasjon av lavere vekst i laksetilførselen, svak oppgang i etterspørselen etter reker og høyere kostnader for marine ingredienser. Dette anslår RaboResearch i sin rapport «Global aquaculture update 2H 2026», utarbeidet av analytikerne Novel Sharma og Gorjan Nikolik. Dokumentet advarer om at makroøkonomiske forhold, miljørisiko og endringer i handelsstrømmer vil fortsette å påvirke tilbud og priser. Vedvarende høye utsalgspriser i USA kan begrense lageromsetningen til mellomstore arter, spesielt"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 7,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2148834.jpg?imageId=2148834&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+      "score": 21,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/04/acuicultura-Freepik.es_-scaled.jpg"
     },
     {
       "title": {
-        "es": "Corte de Apelaciones confirma decisión que ordena a Subpesca entregar antecedentes de proyectos técnicos salmoneros anteriores a 1997",
-        "en": "Court of Appeals confirms decision ordering Subpesca to provide information on technical salmon projects prior to 1997",
-        "no": "Lagmannsretten bekrefter avgjørelse som pålegger Subpesca å gi opplysninger om tekniske lakseprosjekter før 1997"
+        "es": "Mowi registra cosecha récord de 150 mil toneladas en el 2T de 2026",
+        "en": "Mowi records record harvest of 150 thousand tons in Q2 of 2026",
+        "no": "Mowi registrerer en rekordhøst på 150 tusen tonn i 2. kvartal 2026"
       },
-      "url": "https://www.mundoacuicola.cl/new/corte-de-apelaciones-confirma-decision-que-ordena-a-subpesca-entregar-antecedentes-de-proyectos-tecnicos-salmoneros-anteriores-a-1997/",
-      "date": "Thu, 09 Jul 2026 23:19:54 +0000",
+      "url": "https://www.aqua.cl/mowi-registra-cosecha-record-de-150-mil-toneladas-en-el-2t-de-2026/",
+      "date": "Fri, 17 Jul 2026 10:48:00 +0000",
       "summary": {
-        "es": "El tribunal rechazó el reclamo de ilegalidad presentado por Cermaq Chile, Nueva Cermaq y Salmones Humboldt contra una resolución del Consejo para la Transparencia, manteniendo la obligación de entregar información relacionada con proyectos técnicos de concesiones de acuicultura cuya tramitación se inició antes de abril de 1997. La entrada Corte de Apelaciones confirma decisión que ordena a Subpesca entregar antecedentes de proyectos técnicos salmoneros anteriores a 1997 se publicó primero en Mundoacuicola .",
-        "en": "The court rejected the claim of illegality presented by Cermaq Chile, Nueva Cermaq and Salmones Humboldt against a resolution of the Council for Transparency, maintaining the obligation to deliver information related to technical projects for aquaculture concessions whose processing began before April 1997. The entry Court of Appeals confirms decision that orders Subpesca to deliver background information on technical salmon projects prior to 1997 was first published in Mundoacuicola.",
-        "no": "Retten avviste påstanden om ulovlighet fremsatt av Cermaq Chile, Nueva Cermaq og Salmones Humboldt mot en resolusjon fra Council for Transparency, som opprettholder plikten til å levere informasjon relatert til tekniske prosjekter for akvakulturkonsesjoner hvis behandling startet før april 1997. Innlegget lagmannsretten bekrefter avgjørelse som har beordret bakgrunnsinformasjon om 19.00. i Mundoacuicola."
+        "es": "La compañía alcanzó un volumen de cosecha histórico para un segundo trimestre, impulsado principalmente por el desempeño de sus operaciones en Noruega, mientras que el EBIT operacional del grupo ascendió a aproximadamente EUR 231 millones (US$263,5 millones). Mowi ASA informó sus resultados preliminares correspondientes al segundo trimestre de 2026, período en el que alcanzó una cosecha total de 150 mil toneladas peso eviscerado (GWT), cifra récord para un segundo trimestre y que representa un crecimiento de 13% respecto de las 133 mil toneladas registradas en igual período de 2025. La cosecha obtenida superó además la proyección entregada por la compañía durante la presentación de sus resul",
+        "en": "The company achieved a historic harvest volume for a second quarter, mainly driven by the performance of its operations in Norway, while the group's operational EBIT amounted to approximately EUR 231 million (US$263.5 million). Mowi ASA reported its preliminary results corresponding to the second quarter of 2026, a period in which it achieved a total harvest of 150 thousand tons gutted weight (GWT), a record figure for a second quarter and which represents a growth of 13% compared to the 133 thousand tons registered in the same period of 2025. The harvest obtained also exceeded the projection provided by the company during the presentation of its results.",
+        "no": "Selskapet oppnådde et historisk slaktevolum for andre kvartal, hovedsakelig drevet av ytelsen til virksomheten i Norge, mens konsernets operasjonelle EBIT beløp seg til ca. EUR 231 millioner (US$263,5 millioner). Mowi ASA rapporterte sine foreløpige resultater tilsvarende andre kvartal 2026, en periode hvor man oppnådde en total avling på 150 tusen tonn sløyd vekt (GWT), et rekordtall for et andre kvartal og som representerer en vekst på 13 % sammenlignet med de 133 tusen tonn registrert i samme periode i 2025. Prosjektet som ble oppnådd i selskapet oversteg også resultatene som ble oppnådd i selskapet."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "regulatory",
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
       "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 20,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Beitveitnes-6.jpg"
+    },
+    {
+      "title": {
+        "es": "Reestructuración en el salmón canadiense: Mowi East y Grieg rediseñan la industria salmonera",
+        "en": "Restructuring in Canadian salmon: Mowi East and Grieg redesign the salmon industry",
+        "no": "Omstrukturering i kanadisk laks: Mowi East og Grieg redesigner laksenæringen"
+      },
+      "url": "https://infosalmon.cl/restructuracion-mercado-salmon-canada-atlantico-cooke-mowi-2026/",
+      "date": "Fri, 17 Jul 2026 18:07:12 +0000",
+      "summary": {
+        "es": "Tras el anuncio formal de la venta de los activos de Mowi Canada East a la multinacional Cooke Inc. a finales de junio, el sector confirma un patrón de desinversión por parte de los principales grupos de origen noruego en la zona de Newfoundland and Labrador, mercado que en los primeros meses de 2026 ya había registrado la transferencia de las operaciones de Grieg Seafood NL a Cermaq Group AS. Esta doble transacción marca un giro en la salmonicultura norteamericana, desplazando el liderazgo operativo hacia empresas con operaciones ya consolidadas en el continente americano. El impacto operativo de la adquisición de Cooke Con la adquisición de Mowi Canada East, Cooke Inc. incorpora a su balan",
+        "en": "Following the formal announcement of the sale of Mowi Canada East's assets to the multinational Cooke Inc. at the end of June, the sector confirms a pattern of disinvestment by the main groups of Norwegian origin in the Newfoundland and Labrador area, a market that in the first months of 2026 had already recorded the transfer of operations from Grieg Seafood NL to Cermaq Group AS. This double transaction marks a shift in North American salmon farming, shifting operational leadership to companies with already consolidated operations on the American continent. The operational impact of the Cooke acquisition With the acquisition of Mowi Canada East, Cooke Inc. adds to its balance",
+        "no": "Etter den formelle kunngjøringen av salget av Mowi Canada Easts eiendeler til det multinasjonale Cooke Inc. i slutten av juni, bekrefter sektoren et mønster av desinvesteringer fra hovedgruppene med norsk opprinnelse i Newfoundland- og Labrador-området, et marked som i de første månedene av 2026 allerede hadde registrert overføring av virksomhet fra Grieg Seafood Group AS til Cermaq. Denne doble transaksjonen markerer et skifte i nordamerikansk lakseoppdrett, og flytter operasjonelt lederskap til selskaper med allerede konsolidert virksomhet på det amerikanske kontinentet. Den operasjonelle virkningen av Cooke-oppkjøpet Med oppkjøpet av Mowi Canada East, øker Cooke Inc. sin balanse"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
       "score": 12,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/01/SubpescaCentrosAerobicos.jpg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/05/DRONE-1024x768-1.jpeg"
     },
     {
       "title": {
-        "es": "Queda definido el concepto de microrelocalización de concesiones para destrabar a la salmonicultura",
-        "en": "The concept of micro-relocation of concessions is defined to unblock salmon farming",
-        "no": "Konseptet med mikroflytting av konsesjoner er definert for å frigjøre blokkering av lakseoppdrett"
+        "es": "Un nuevo éxito para el grupo Mowi: sus avances en Chile",
+        "en": "A new success for the Mowi group: its progress in Chile",
+        "no": "En ny suksess for Mowi-gruppen: fremgangen i Chile"
       },
-      "url": "https://www.salmonexpert.cl/concesiones-gobierno-jose-antonio-kast/queda-definido-el-concepto-de-microrelocalizacion-de-concesiones-para-destrabar-a-la-salmonicultura/2150405",
+      "url": "https://www.salmonexpert.cl/mowi-mowi-chile-resultados/un-nuevo-exito-para-el-grupo-mowi-sus-avances-en-chile/2154093",
       "date": "",
       "summary": {
-        "es": "En línea con el Presidente Kast, los senadores aprobaron que una microrelocalización de concesiones, implica un desplazamiento no superior a 350 metros sin generar aumento en la producción de salmón: se destrabarán 95 solicitudes.",
-        "en": "In line with President Kast, the senators approved that a micro-relocation of concessions implies a displacement of no more than 350 meters without generating an increase in salmon production: 95 applications will be unblocked.",
-        "no": "I tråd med president Kast godkjente senatorene at en mikroflytting av konsesjoner innebærer en forskyvning på ikke mer enn 350 meter uten å generere en økning i lakseproduksjonen: 95 søknader vil bli opphevet."
+        "es": "La operación nacional de la salmonicultora expandió su producción a 17.500 toneladas en el segundo trimestre, al mismo tiempo, vio bajar sus ganancias en el país.",
+        "en": "The salmon farming company's national operation expanded its production to 17,500 tons in the second quarter, at the same time, it saw its profits in the country decrease.",
+        "no": "Lakseoppdrettsselskapets nasjonale virksomhet utvidet produksjonen til 17.500 tonn i andre kvartal, samtidig som det ble redusert overskudd i landet."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 10,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2075358.jpg?imageId=2075358&x=0&y=0&cropw=100&croph=84.87&panox=0&panoy=0&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Incautan 1.000 metros de redes centolleras durante fiscalización en Puerto Natales",
+        "en": "1,000 meters of crab nets seized during inspection in Puerto Natales",
+        "no": "1000 meter med krabbenett beslaglagt under inspeksjon i Puerto Natales"
+      },
+      "url": "https://www.aqua.cl/incautan-1-000-metros-de-redes-centolleras-durante-fiscalizacion-en-puerto-natales/",
+      "date": "Fri, 17 Jul 2026 19:00:00 +0000",
+      "summary": {
+        "es": "A dos días del inicio de la temporada extractiva de centolla, funcionarios del Servicio Nacional de Pesca y Acuicultura (Sernapesca) y de la Armada de Chile incautaron 1.000 metros de redes centolleras que se encontraban a bordo de una embarcación fiscalizada en Puerto Natales. El operativo se desarrolló en el sector del golfo Almirante Montt y tuvo como objetivo verificar que la actividad extractiva se realizara conforme a las exigencias normativas vigentes. Entre estas disposiciones se encuentra el uso exclusivo de jaulas trampa, el respeto de la talla mínima de captura de 12 centímetros y la extracción únicamente de ejemplares machos. Redes se encontraban ocultas La directora regional de ",
+        "en": "Two days before the start of the crab harvesting season, officials from the National Fisheries and Aquaculture Service (Sernapesca) and the Chilean Navy seized 1,000 meters of crab nets that were on board an inspected vessel in Puerto Natales. The operation was carried out in the Almirante Montt Gulf sector and its objective was to verify that the extractive activity was carried out in accordance with current regulatory requirements. Among these provisions is the exclusive use of trap cages, respect for the minimum capture size of 12 centimeters and the extraction of only male specimens. Networks were hidden The regional director of",
+        "no": "To dager før starten av krabbehøstsesongen, beslagla tjenestemenn fra National Fisheries and Aquaculture Service (Sernapesca) og den chilenske marinen 1000 meter med krabbenett som var om bord på et inspisert fartøy i Puerto Natales. Operasjonen ble utført i Almirante Montt Gulf-sektoren og dens mål var å verifisere at utvinningsaktiviteten ble utført i samsvar med gjeldende regulatoriske krav. Blant disse bestemmelsene er eksklusiv bruk av fellebur, respekt for minimumsfangststørrelsen på 12 centimeter og uttak av kun mannlige prøver. Nettverk ble skjult Regiondirektøren i"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "regulatory",
       "category_label": {
         "es": "Regulatorio",
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 10,
+      "score": 8,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2150554.jpg?imageId=2150554&x=0&y=6.91&cropw=100&croph=84.87&panox=0&panoy=6.91&panow=100&panoh=84.87&width=1200&height=683"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/incautacion-redes-centolleras-Sernapesca.jpg"
     }
   ]
 }
