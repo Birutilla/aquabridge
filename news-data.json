@@ -1,31 +1,6 @@
 {
-  "updated": "2026-07-17T19:55:07Z",
+  "updated": "2026-07-20T15:52:37Z",
   "articles": [
-    {
-      "title": {
-        "es": "Ya se acerca al mercado: vacuna muestra impacto reduciendo 73% el Caligus en los salmones",
-        "en": "It is already approaching the market: vaccine shows impact by reducing Caligus in salmon by 73%",
-        "no": "Den nærmer seg allerede markedet: vaksine viser effekt ved å redusere Caligus i laks med 73 %"
-      },
-      "url": "https://www.salmonexpert.cl/caligus-piscirickettsia-srs/ya-se-acerca-al-mercado-vacuna-muestra-impacto-reduciendo-73-el-caligus-en-los-salmones/2152500",
-      "date": "",
-      "summary": {
-        "es": "Nuevos antecedentes sobre el potencial de la vacuna para Caligus refuerzan su valor como herramienta inmunológica. Desarrolladores trabajan en su escalado productivo para lanzarla.",
-        "en": "New information on the potential of the Caligus vaccine reinforces its value as an immunological tool. Developers are working on its productive scaling to launch it.",
-        "no": "Ny informasjon om potensialet til Caligus-vaksinen forsterker dens verdi som et immunologisk verktøy. Utviklere jobber med den produktive skaleringen for å lansere den."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1222300.jpg?imageId=1222300&x=0&y=11.83&cropw=100&croph=76.33&panox=0&panoy=11.83&panow=100&panoh=76.33&width=1200&height=683"
-    },
     {
       "title": {
         "es": "IPath y vacunas comerciales: una dupla sinérgica prometedora frente a Caligus y Piscirickettsia",
@@ -53,6 +28,31 @@
     },
     {
       "title": {
+        "es": "Chonchi: Biblioteca Municipal y Aqua Chile realizaron cuenta cuentos sobre salmonicultura para niños",
+        "en": "Chonchi: Municipal Library and Aqua Chile carried out storytellers about salmon farming for children",
+        "no": "Chonchi: Municipal Library og Aqua Chile gjennomførte historiefortellere om lakseoppdrett for barn"
+      },
+      "url": "https://www.aqua.cl/chonchi-biblioteca-municipal-y-aqua-chile-realizaron-cuenta-cuentos-sobre-salmonicultura-para-ninos/",
+      "date": "Mon, 20 Jul 2026 10:46:00 +0000",
+      "summary": {
+        "es": "Con una alta participación de niños y sus familias, la Biblioteca Pública Municipal de Chonchi fue el escenario del cuenta cuentos «Simona la curiosa del Salmón» , iniciativa desarrollada durante las vacaciones de invierno en el marco de una alianza entre la Municipalidad de Chonchi y Aqua Chile. La actividad buscó acercar a los más pequeños al ciclo de vida del salmón y a la salmonicultura mediante la historia de Simona, personaje central del libro impulsado por la empresa, el cual es distribuido en las comunidades donde la compañía desarrolla sus operaciones. La encargada de la Biblioteca Pública Municipal de Chonchi, Pamela Subiabre , destacó la convocatoria y el trabajo colaborativo con ",
+        "en": "With a high participation of children and their families, the Municipal Public Library of Chonchi was the setting for the story telling “Simona the Curious Salmon”, an initiative developed during the winter holidays within the framework of an alliance between the Municipality of Chonchi and Aqua Chile. The activity sought to bring the little ones closer to the life cycle of salmon and salmon farming through the story of Simona, the central character of the book promoted by the company, which is distributed in the communities where the company carries out its operations. The person in charge of the Municipal Public Library of Chonchi, Pamela Subiabre, highlighted the call and the collaborative work with",
+        "no": "Med en høy deltakelse av barn og deres familier, var det kommunale offentlige biblioteket i Chonchi rammen for historiefortellingen «Simona den nysgjerrige laksen», et initiativ utviklet i løpet av vinterferien innenfor rammen av en allianse mellom Chonchi kommune og Aqua Chile. Aktiviteten søkte å bringe de minste nærmere livssyklusen til lakse- og lakseoppdrett gjennom historien om Simona, hovedpersonen i boken fremmet av selskapet, og som distribueres i lokalsamfunnene hvor selskapet driver sin virksomhet. Den ansvarlige for det kommunale offentlige biblioteket i Chonchi, Pamela Subiabre, fremhevet oppfordringen og samarbeidet med"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 2,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/1-LIBRO-SIMONA-1024x771.jpg"
+    },
+    {
+      "title": {
         "es": "SalmonChile destaca avances en descarbonización y economía regenerativa",
         "en": "SalmonChile highlights advances in decarbonization and regenerative economy",
         "no": "SalmonChile fremhever fremskritt innen avkarbonisering og regenerativ økonomi"
@@ -72,8 +72,8 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 13,
-      "cross_source": false,
+      "score": 17,
+      "cross_source": true,
       "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Regenera-Patagonia-1-1024x556.png"
     },
     {
@@ -103,16 +103,16 @@
     },
     {
       "title": {
-        "es": "Constituyen Comité de Emergencia para monitorear efectos del sistema frontal en la pesca artesanal y las caletas",
-        "en": "They constitute an Emergency Committee to monitor the effects of the frontal system on artisanal fishing and the coves",
-        "no": "De utgjør en nødkomité for å overvåke effektene av frontalsystemet på håndverksfiske og vikene"
+        "es": "Senadora de Aysén pide reforzar la seguridad de los buzos de la salmonicultura",
+        "en": "Senator from Aysén asks to reinforce the safety of salmon farming divers",
+        "no": "Senator fra Aysén ber om å styrke sikkerheten til lakseoppdrettsdykkere"
       },
-      "url": "https://www.mundoacuicola.cl/new/constituyen-comite-de-emergencia-para-monitorear-efectos-del-sistema-frontal-en-la-pesca-artesanal-y-las-caletas/",
-      "date": "Wed, 15 Jul 2026 22:25:06 +0000",
+      "url": "https://www.mundoacuicola.cl/new/senadora-de-aysen-pide-reforzar-la-seguridad-de-los-buzos-de-la-salmonicultura/",
+      "date": "Fri, 17 Jul 2026 16:05:52 +0000",
       "summary": {
-        "es": "Subpesca, Sernapesca y la Armada conformaron un Comité de Emergencia para monitorear y coordinar acciones preventivas ante el sistema frontal que afecta al sector pesquero. La entrada Constituyen Comité de Emergencia para monitorear efectos del sistema frontal en la pesca artesanal y las caletas se publicó primero en Mundoacuicola .",
-        "en": "Subpesca, Sernapesca and the Navy formed an Emergency Committee to monitor and coordinate preventive actions against the frontal system that affects the fishing sector. The entry They establish an Emergency Committee to monitor the effects of the frontal system on artisanal fishing and the coves was first published in Mundoacuicola.",
-        "no": "Subpesca, Sernapesca og marinen dannet en nødkomité for å overvåke og koordinere forebyggende tiltak mot frontsystemet som påvirker fiskerisektoren. Oppføringen De oppretter en nødkomité for å overvåke effekten av frontsystemet på håndverksfiske og vikene ble først publisert i Mundoacuicola."
+        "es": "Tras el último accidente fatal ocurrido en un centro de cultivo, la senadora por Aysén, Ximena Órdenes, solicitó conformar una mesa de trabajo con autoridades, empresas y sindicatos, y afirmó que la seguridad en las labores de buceo no puede abordarse únicamente desde la lógica de la subcontratación. La entrada Senadora de Aysén pide reforzar la seguridad de los buzos de la salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "After the last fatal accident that occurred in a cultivation center, the senator for Aysén, Ximena Órdenes, requested to form a working group with authorities, companies and unions, and stated that safety in diving tasks cannot be addressed solely from the logic of subcontracting. The entry Senator from Aysén asks to reinforce the safety of salmon farming divers was first published in Mundoacuicola.",
+        "no": "Etter den siste dødsulykken som skjedde i et kultiveringssenter, ba senatoren for Aysén, Ximena Órdenes, om å danne en arbeidsgruppe med myndigheter, bedrifter og fagforeninger, og uttalte at sikkerhet i dykkeoppgaver ikke kan adresseres utelukkende fra logikken til underleverandører. Innlegget Senator fra Aysén ber om å styrke sikkerheten til lakseoppdrettsdykkere ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -124,23 +124,23 @@
       },
       "score": 8,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/SubpescaEmergencia2334.jpeg"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/Buceo-Seguridad.jpg"
     },
     {
       "title": {
-        "es": "La agenda de los gremios en EE.UU. para defender al salmón chileno de los nuevos aranceles",
-        "en": "The agenda of the unions in the US to defend Chilean salmon from the new tariffs",
-        "no": "Agendaen til fagforeningene i USA for å forsvare chilensk laks fra de nye tollsatsene"
+        "es": "Mowi Chile fortalece formación de estudiantes de Aysén con visitas a sus instalaciones",
+        "en": "Mowi Chile strengthens training of Aysén students with visits to its facilities",
+        "no": "Mowi Chile styrker opplæringen av Aysén-studenter med besøk på anleggene"
       },
-      "url": "https://www.salmonexpert.cl/aranceles-consejo-del-salmon-eeuu/la-agenda-de-los-gremios-en-eeuu-para-defender-al-salmon-chileno-de-los-nuevos-aranceles/2150483",
-      "date": "",
+      "url": "https://www.aqua.cl/mowi-chile-fortalece-formacion-de-estudiantes-de-aysen-con-visitas-a-sus-instalaciones/",
+      "date": "Mon, 20 Jul 2026 10:47:00 +0000",
       "summary": {
-        "es": "Tanto SalmonChile como el Consejo del Salmón llevan a cabo negociaciones de alto nivel en Estados Unidos para evitar que se aplique un arancel de 12,5% al salmón chileno.",
-        "en": "Both SalmonChile and the Salmon Council are carrying out high-level negotiations in the United States to prevent a 12.5% ​​tariff from being applied to Chilean salmon.",
-        "no": "Både SalmonChile og Salmon Council gjennomfører forhandlinger på høyt nivå i USA for å hindre en toll på 12,5 % på chilensk laks."
+        "es": "Como parte de su compromiso con la formación de nuevos talentos y el fortalecimiento de los vínculos con el mundo académico, Mowi Chile recibió durante junio a estudiantes de enseñanza media técnico-profesional, del CFT Estatal de Aysén y de la Universidad de Aysén en distintas instalaciones de la compañía. Durante las jornadas, los estudiantes recorrieron el área de Mantención, la planta de procesos y la Piscicultura de Agua Dulce (PFA), donde conocieron de primera fuente las distintas etapas de la producción salmonicultora, así como las tecnologías utilizadas, los procesos operacionales y los estándares de seguridad, calidad y sostenibilidad implementados por la empresa. La iniciativa form",
+        "en": "As part of its commitment to training new talents and strengthening ties with the academic world, during June Mowi Chile received students from technical-professional secondary education, from the State CFT of Aysén and from the University of Aysén in different company facilities. During the conference, the students toured the Maintenance area, the process plant and the Freshwater Fish Farm (PFA), where they learned firsthand the different stages of salmon farming production, as well as the technologies used, the operational processes and the safety, quality and sustainability standards implemented by the company. The initiative formed",
+        "no": "Som en del av sin forpliktelse til å trene nye talenter og styrke båndene til den akademiske verden, mottok Mowi Chile i løpet av juni studenter fra teknisk-profesjonell videregående utdanning, fra State CFT of Aysén og fra University of Aysén i forskjellige bedriftsfasiliteter. Under konferansen besøkte studentene vedlikeholdsområdet, prosessanlegget og Freshwater Fish Farm (PFA), hvor de lærte førstehånds de ulike stadiene i produksjonen av lakseoppdrett, samt teknologiene som brukes, driftsprosessene og standardene for sikkerhet, kvalitet og bærekraft implementert av selskapet. Initiativet dannet seg"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -149,82 +149,57 @@
       },
       "score": 8,
       "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2150488.jpg?imageId=2150488&x=0&y=12.92&cropw=100&croph=35.83&panox=0&panoy=12.92&panow=100&panoh=35.83&width=1200&height=683"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-2.39.26-PM.jpeg"
     },
     {
       "title": {
-        "es": "Salmonicultura será motor clave en la nueva Mesa Regional del Empleo de Los Lagos",
-        "en": "Salmon farming will be a key driver in the new Regional Employment Board of Los Lagos",
-        "no": "Lakseoppdrett vil være en nøkkeldriver i det nye regionale arbeidsstyret i Los Lagos"
+        "es": "Fraude de origen: empresa de Dallas fue multada con US$250 mil por vender salmón chileno como escocés, noruego y canadiense",
+        "en": "Origin fraud: Dallas company was fined US$250,000 for selling Chilean salmon as Scottish, Norwegian and Canadian salmon",
+        "no": "Opprinnelsessvindel: Dallas-selskap ble bøtelagt USD 250 000 for å ha solgt chilensk laks som skotsk, norsk og kanadisk laks"
       },
-      "url": "https://www.salmonexpert.cl/empleo-gobierno-los-lagos/salmonicultura-sera-motor-clave-en-la-nueva-mesa-regional-del-empleo-de-los-lagos/2152999",
+      "url": "https://infosalmon.cl/fraude-origen-salmon-chileno-eeuu/",
+      "date": "Sun, 19 Jul 2026 23:56:48 +0000",
+      "summary": {
+        "es": "Una empresa mayorista de productos del mar de Dallas, Estados Unidos, fue sentenciada a pagar una multa de US$250 mil después de comercializar salmón chileno falsamente etiquetado como proveniente de Escocia, Noruega y Canadá, una práctica que se extendió por más de dos años y que permitió a la compañía capturar ganancias estimadas en aproximadamente US$200 mil. Según informó el Departamento de Justicia de Estados Unidos , Seafood Supply Co. fue condenada el 17 de julio de 2026 por dos infracciones graves a la Ley Lacey, legislación que, entre otras disposiciones, prohíbe presentar registros, identificaciones o etiquetas falsas para productos pesqueros y otras especies comercializadas dentro",
+        "en": "A wholesale seafood company in Dallas, United States, was sentenced to pay a fine of US$250,000 after marketing Chilean salmon falsely labeled as coming from Scotland, Norway, and Canada, a practice that spanned more than two years and allowed the company to capture profits estimated at approximately US$200,000. As reported by the United States Department of Justice, Seafood Supply Co. was convicted on July 17, 2026 for two serious violations of the Lacey Act, legislation that, among other provisions, prohibits the presentation of false registrations, identifications or labels for fish products and other species traded within",
+        "no": "Et engros sjømatselskap i Dallas, USA, ble dømt til å betale en bot på USD 250 000 etter å ha markedsført chilensk laks feilaktig merket som kommer fra Skottland, Norge og Canada, en praksis som strakte seg over mer enn to år og tillot selskapet å fange opp fortjeneste beregnet til omtrent USD 200 000. Som rapportert av USAs justisdepartement, ble Seafood Supply Co. dømt 17. juli 2026 for to alvorlige brudd på Lacey Act, lovgivning som blant annet forbyr presentasjon av falske registreringer, identifikasjoner eller etiketter for fiskeprodukter og andre arter som handles innenfor"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 17,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/fraude-salmon.png"
+    },
+    {
+      "title": {
+        "es": "Exportaciones de salmón chileno avanzan contra viento y marea: balance primer semestre",
+        "en": "Chilean salmon exports advance against all odds: first half balance",
+        "no": "Chilensk lakseeksport går frem mot alle odds: balanse i første halvår"
+      },
+      "url": "https://www.salmonexpert.cl/aduanas-balance-envios/exportaciones-de-salmon-chileno-avanzan-contra-viento-y-marea-balance-primer-semestre/2154905",
       "date": "",
       "summary": {
-        "es": "Autoridades y representantes del sector productivo, coincidieron en que agilizar permisos y destrabar inversiones es esencial para generar empleo, mientras SalmonChile pidió pasar del diagnóstico a la acción.",
-        "en": "Authorities and representatives of the productive sector agreed that expediting permits and unlocking investments is essential to generate employment, while SalmonChile asked to move from diagnosis to action.",
-        "no": "Myndigheter og representanter for den produktive sektoren var enige om at det å fremskynde tillatelser og låse opp investeringer er avgjørende for å generere sysselsetting, mens SalmonChile ba om å gå fra diagnose til handling."
+        "es": "Sorprende que, pese a los fuertes aranceles aplicados, la industria nacional continúa en crecimiento en Estados Unidos, que es su principal mercado.",
+        "en": "It is surprising that, despite the strong tariffs applied, the national industry continues to grow in the United States, which is its main market.",
+        "no": "Det er overraskende at den nasjonale industrien, til tross for de sterke tollsatsene, fortsetter å vokse i USA, som er hovedmarkedet."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
-      "category": "industry",
+      "category": "market",
       "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 8,
+      "score": 13,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2153009.jpg?imageId=2153009&x=0&y=27.59&cropw=100&croph=63.55&panox=0&panoy=27.59&panow=100&panoh=63.55&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Prevén oferta ajustada de salmón y mayor presión sobre costos acuícolas",
-        "en": "Tight salmon supply and greater pressure on aquaculture costs expected",
-        "no": "Trangt laksetilbud og større press på akvakulturkostnadene forventes"
-      },
-      "url": "https://www.aqua.cl/preven-oferta-ajustada-de-salmon-y-mayor-presion-sobre-costos-acuicolas/",
-      "date": "Fri, 17 Jul 2026 10:46:00 +0000",
-      "summary": {
-        "es": "Los mercados acuícolas globales enfrentarían durante el segundo semestre de 2026 una combinación de menor crecimiento de la oferta de salmón, débil recuperación de la demanda de camarón y mayores costos de los ingredientes marinos. Así lo proyecta RaboResearch en su informe “ Global aquaculture update 2H 2026 ”, elaborado por los analistas Novel Sharma y Gorjan Nikolik. El documento advierte que las condiciones macroeconómicas, los riesgos ambientales y los cambios en los flujos comerciales seguirán influyendo sobre la oferta y los precios. La persistencia de precios minoristas elevados en Estados Unidos podría limitar la rotación de inventarios de especies de segmentos medios, especialmente",
-        "en": "Global aquaculture markets would face during the second half of 2026 a combination of lower growth in salmon supply, weak recovery in shrimp demand and higher costs of marine ingredients. This is projected by RaboResearch in its report “Global aquaculture update 2H 2026”, prepared by analysts Novel Sharma and Gorjan Nikolik. The document warns that macroeconomic conditions, environmental risks and changes in trade flows will continue to influence supply and prices. The persistence of high retail prices in the United States could limit the inventory turnover of mid-range species, especially",
-        "no": "Globale havbruksmarkeder vil i løpet av andre halvdel av 2026 møte en kombinasjon av lavere vekst i laksetilførselen, svak oppgang i etterspørselen etter reker og høyere kostnader for marine ingredienser. Dette anslår RaboResearch i sin rapport «Global aquaculture update 2H 2026», utarbeidet av analytikerne Novel Sharma og Gorjan Nikolik. Dokumentet advarer om at makroøkonomiske forhold, miljørisiko og endringer i handelsstrømmer vil fortsette å påvirke tilbud og priser. Vedvarende høye utsalgspriser i USA kan begrense lageromsetningen til mellomstore arter, spesielt"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 21,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/04/acuicultura-Freepik.es_-scaled.jpg"
-    },
-    {
-      "title": {
-        "es": "Mowi registra cosecha récord de 150 mil toneladas en el 2T de 2026",
-        "en": "Mowi records record harvest of 150 thousand tons in Q2 of 2026",
-        "no": "Mowi registrerer en rekordhøst på 150 tusen tonn i 2. kvartal 2026"
-      },
-      "url": "https://www.aqua.cl/mowi-registra-cosecha-record-de-150-mil-toneladas-en-el-2t-de-2026/",
-      "date": "Fri, 17 Jul 2026 10:48:00 +0000",
-      "summary": {
-        "es": "La compañía alcanzó un volumen de cosecha histórico para un segundo trimestre, impulsado principalmente por el desempeño de sus operaciones en Noruega, mientras que el EBIT operacional del grupo ascendió a aproximadamente EUR 231 millones (US$263,5 millones). Mowi ASA informó sus resultados preliminares correspondientes al segundo trimestre de 2026, período en el que alcanzó una cosecha total de 150 mil toneladas peso eviscerado (GWT), cifra récord para un segundo trimestre y que representa un crecimiento de 13% respecto de las 133 mil toneladas registradas en igual período de 2025. La cosecha obtenida superó además la proyección entregada por la compañía durante la presentación de sus resul",
-        "en": "The company achieved a historic harvest volume for a second quarter, mainly driven by the performance of its operations in Norway, while the group's operational EBIT amounted to approximately EUR 231 million (US$263.5 million). Mowi ASA reported its preliminary results corresponding to the second quarter of 2026, a period in which it achieved a total harvest of 150 thousand tons gutted weight (GWT), a record figure for a second quarter and which represents a growth of 13% compared to the 133 thousand tons registered in the same period of 2025. The harvest obtained also exceeded the projection provided by the company during the presentation of its results.",
-        "no": "Selskapet oppnådde et historisk slaktevolum for andre kvartal, hovedsakelig drevet av ytelsen til virksomheten i Norge, mens konsernets operasjonelle EBIT beløp seg til ca. EUR 231 millioner (US$263,5 millioner). Mowi ASA rapporterte sine foreløpige resultater tilsvarende andre kvartal 2026, en periode hvor man oppnådde en total avling på 150 tusen tonn sløyd vekt (GWT), et rekordtall for et andre kvartal og som representerer en vekst på 13 % sammenlignet med de 133 tusen tonn registrert i samme periode i 2025. Prosjektet som ble oppnådd i selskapet oversteg også resultatene som ble oppnådd i selskapet."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 20,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Beitveitnes-6.jpg"
+      "image": "https://image.salmonexpert.cl/2154913.jpg?imageId=2154913&x=0&y=23.61&cropw=100&croph=71.67&panox=0&panoy=23.61&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
       "title": {
@@ -253,53 +228,78 @@
     },
     {
       "title": {
-        "es": "Un nuevo éxito para el grupo Mowi: sus avances en Chile",
-        "en": "A new success for the Mowi group: its progress in Chile",
-        "no": "En ny suksess for Mowi-gruppen: fremgangen i Chile"
+        "es": "Seremi de Medio Ambiente en Los Lagos analiza avances y desafíos regulatorios para la acuicultura",
+        "en": "Seremi de Medio Ambiente in Los Lagos analyzes advances and regulatory challenges for aquaculture",
+        "no": "Seremi de Medio Ambiente i Los Lagos analyserer fremskritt og regulatoriske utfordringer for akvakultur"
       },
-      "url": "https://www.salmonexpert.cl/mowi-mowi-chile-resultados/un-nuevo-exito-para-el-grupo-mowi-sus-avances-en-chile/2154093",
-      "date": "",
+      "url": "https://www.aqua.cl/seremi-de-medio-ambiente-en-los-lagos-analiza-avances-y-desafios-regulatorios-para-la-acuicultura/",
+      "date": "Mon, 20 Jul 2026 10:48:00 +0000",
       "summary": {
-        "es": "La operación nacional de la salmonicultora expandió su producción a 17.500 toneladas en el segundo trimestre, al mismo tiempo, vio bajar sus ganancias en el país.",
-        "en": "The salmon farming company's national operation expanded its production to 17,500 tons in the second quarter, at the same time, it saw its profits in the country decrease.",
-        "no": "Lakseoppdrettsselskapets nasjonale virksomhet utvidet produksjonen til 17.500 tonn i andre kvartal, samtidig som det ble redusert overskudd i landet."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2075358.jpg?imageId=2075358&x=0&y=0&cropw=100&croph=84.87&panox=0&panoy=0&panow=100&panoh=84.87&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Incautan 1.000 metros de redes centolleras durante fiscalización en Puerto Natales",
-        "en": "1,000 meters of crab nets seized during inspection in Puerto Natales",
-        "no": "1000 meter med krabbenett beslaglagt under inspeksjon i Puerto Natales"
-      },
-      "url": "https://www.aqua.cl/incautan-1-000-metros-de-redes-centolleras-durante-fiscalizacion-en-puerto-natales/",
-      "date": "Fri, 17 Jul 2026 19:00:00 +0000",
-      "summary": {
-        "es": "A dos días del inicio de la temporada extractiva de centolla, funcionarios del Servicio Nacional de Pesca y Acuicultura (Sernapesca) y de la Armada de Chile incautaron 1.000 metros de redes centolleras que se encontraban a bordo de una embarcación fiscalizada en Puerto Natales. El operativo se desarrolló en el sector del golfo Almirante Montt y tuvo como objetivo verificar que la actividad extractiva se realizara conforme a las exigencias normativas vigentes. Entre estas disposiciones se encuentra el uso exclusivo de jaulas trampa, el respeto de la talla mínima de captura de 12 centímetros y la extracción únicamente de ejemplares machos. Redes se encontraban ocultas La directora regional de ",
-        "en": "Two days before the start of the crab harvesting season, officials from the National Fisheries and Aquaculture Service (Sernapesca) and the Chilean Navy seized 1,000 meters of crab nets that were on board an inspected vessel in Puerto Natales. The operation was carried out in the Almirante Montt Gulf sector and its objective was to verify that the extractive activity was carried out in accordance with current regulatory requirements. Among these provisions is the exclusive use of trap cages, respect for the minimum capture size of 12 centimeters and the extraction of only male specimens. Networks were hidden The regional director of",
-        "no": "To dager før starten av krabbehøstsesongen, beslagla tjenestemenn fra National Fisheries and Aquaculture Service (Sernapesca) og den chilenske marinen 1000 meter med krabbenett som var om bord på et inspisert fartøy i Puerto Natales. Operasjonen ble utført i Almirante Montt Gulf-sektoren og dens mål var å verifisere at utvinningsaktiviteten ble utført i samsvar med gjeldende regulatoriske krav. Blant disse bestemmelsene er eksklusiv bruk av fellebur, respekt for minimumsfangststørrelsen på 12 centimeter og uttak av kun mannlige prøver. Nettverk ble skjult Regiondirektøren i"
+        "es": "La gestión de residuos, el tratamiento de residuos industriales líquidos (Riles), la eficiencia hídrica y la adaptación al cambio climático figuran entre los principales desafíos ambientales que enfrenta actualmente la acuicultura chilena. Así lo señaló la seremi del Medio Ambiente de Los Lagos, Lorena Leichtle, quien analizó el escenario regulatorio vigente y las futuras exigencias que deberán considerar las empresas del sector para fortalecer su desempeño ambiental. En conversación con Medios AQUA, la autoridad destacó que, si bien la industria ha mostrado avances relevantes en valorización de residuos orgánicos, aún existen brechas significativas en materia de economía circular, gestión d",
+        "en": "Waste management, the treatment of liquid industrial waste (Riles), water efficiency and adaptation to climate change are among the main environmental challenges currently facing Chilean aquaculture. This was stated by the Los Lagos Environment Minister, Lorena Leichtle, who analyzed the current regulatory scenario and the future demands that companies in the sector must consider to strengthen their environmental performance. In conversation with AQUA Media, the authority highlighted that, although the industry has shown relevant advances in the recovery of organic waste, there are still significant gaps in terms of circular economy, waste management.",
+        "no": "Avfallshåndtering, behandling av flytende industriavfall (Riles), vanneffektivitet og tilpasning til klimaendringer er blant de viktigste miljøutfordringene chilensk akvakultur står overfor. Dette ble uttalt av Los Lagos miljøminister, Lorena Leichtle, som analyserte det gjeldende reguleringsscenarioet og de fremtidige kravene som selskaper i sektoren må vurdere for å styrke sine miljøprestasjoner. I samtale med AQUA Media fremhevet myndigheten at selv om industrien har vist relevante fremskritt innen gjenvinning av organisk avfall, er det fortsatt betydelige hull når det gjelder sirkulær økonomi, avfallshåndtering."
       },
       "source": "AQUA",
       "source_id": "aquacl",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljo og baerekraft"
+      },
+      "score": 10,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/46ab877a-8837-428f-95d2-e600c7167b22-1024x768.jpg"
+    },
+    {
+      "title": {
+        "es": "Consumidores priorizan calidad, salud y certificaciones al adquirir productos del mar revela ASC",
+        "en": "Consumers prioritize quality, health and certifications when purchasing seafood products, reveals ASC",
+        "no": "Forbrukerne prioriterer kvalitet, helse og sertifiseringer ved kjøp av sjømatprodukter, avslører ASC"
+      },
+      "url": "https://www.aqua.cl/consumidores-priorizan-calidad-salud-y-certificaciones-al-adquirir-productos-del-mar-revela-asc/",
+      "date": "Mon, 20 Jul 2026 10:45:00 +0000",
+      "summary": {
+        "es": "El interés de los consumidores por los alimentos sostenibles continúa creciendo a nivel mundial. Así lo demuestra una nueva investigación global impulsada por Aquaculture Stewardship Council (ASC), que identificó un aumento superior a 10 puntos porcentuales desde 2024 entre quienes afirman preferir productos respetuosos con el medio ambiente y buscar etiquetas de sostenibilidad al momento de comprar alimentos. No obstante, al momento de elegir productos del mar, factores como la salud, el sabor y la calidad continúan siendo los principales impulsores de compra. En este contexto, las certificaciones independientes están desempeñando un papel cada vez más relevante al entregar confianza y resp",
+        "en": "Consumer interest in sustainable foods continues to grow globally. This is demonstrated by new global research promoted by the Aquaculture Stewardship Council (ASC), which identified an increase of more than 10 percentage points since 2024 among those who say they prefer environmentally friendly products and look for sustainability labels when purchasing food. However, when choosing seafood, factors such as health, taste and quality continue to be the main purchase drivers. In this context, independent certifications are playing an increasingly relevant role in providing trust and responsibility.",
+        "no": "Forbrukernes interesse for bærekraftig mat fortsetter å vokse globalt. Dette demonstreres av ny global forskning fremmet av Aquaculture Stewardship Council (ASC), som identifiserte en økning på mer enn 10 prosentpoeng siden 2024 blant de som sier de foretrekker miljøvennlige produkter og ser etter bærekraftsmerker når de kjøper mat. Men når du velger sjømat, er faktorer som helse, smak og kvalitet fortsatt de viktigste kjøpsdriverne. I denne sammenheng spiller uavhengige sertifiseringer en stadig mer relevant rolle for å gi tillit og ansvar."
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "environment",
+      "category_label": {
+        "es": "Medioambiente",
+        "en": "Environment & Sustainability",
+        "no": "Miljo og baerekraft"
+      },
+      "score": 9,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/ASC-Photoshoot_Photo-by-Savannah-van-der-Niet-5-2500x1250-1-e1784324451333.jpg"
+    },
+    {
+      "title": {
+        "es": "Columna de OpiniónMegarreforma y salmonicultura: un cambio de paradigma regulatorio",
+        "en": "Opinion ColumnMegarreform and salmon farming: a change in regulatory paradigm",
+        "no": "OpinionskolonneMegarreform og lakseoppdrett: en endring i regulatorisk paradigme"
+      },
+      "url": "https://www.salmonexpert.cl/concesiones-gobierno-regulacion/megarreforma-y-salmonicultura-un-cambio-de-paradigma-regulatorio/2154852",
+      "date": "",
+      "summary": {
+        "es": "*Columna de opinión para Salmonexpert de Patricio Flores Brito, abogado, fundador de Borde Costero Limitada, especialista en concesiones marítimas, acuicultura, borde costero y derecho administrativo. Al momento de escribir esta columna, el proyecto de ley sobre reconstrucción nacional y desarrollo económico y social —conocido como \"megarreforma\"— ha sido aprobado por el Senado y se encuentra en tercer trámite constitucional. El presente análisis se refiere al texto despachado por dicha Corporación, el cual deberá concluir su tramitación legislativa antes de su promulgación y publicación como ley.",
+        "en": "*Opinion column for Salmonexpert by Patricio Flores Brito, lawyer, founder of Borde Costero Limitada, specialist in maritime concessions, aquaculture, coastal border and administrative law. At the time of writing this column, the bill on national reconstruction and economic and social development—known as \"megarreform\"—has been approved by the Senate and is in the third constitutional process. This analysis refers to the text dispatched by said Corporation, which must complete its legislative processing before its promulgation and publication as law.",
+        "no": "*Meningsspalte for Salmonexpert av Patricio Flores Brito, advokat, grunnlegger av Borde Costero Limitada, spesialist i maritime konsesjoner, akvakultur, kystgrense og forvaltningsrett. På tidspunktet for skriving av denne spalten er lovforslaget om nasjonal gjenoppbygging og økonomisk og sosial utvikling - kjent som \"megarreform\" - blitt godkjent av Senatet og er i den tredje konstitusjonelle prosessen. Denne analysen refererer til teksten som sendes av nevnte selskap, som må fullføre sin lovgivningsmessige behandling før den kunngjøres og publiseres som lov."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "regulatory",
       "category_label": {
         "es": "Regulatorio",
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 8,
+      "score": 14,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/incautacion-redes-centolleras-Sernapesca.jpg"
+      "image": "https://image.salmonexpert.cl/2076146.jpg?imageId=2076146&x=0&y=3.9&cropw=100&croph=62.93&panox=0&panoy=3.9&panow=100&panoh=62.93&width=1200&height=683"
     }
   ]
 }
