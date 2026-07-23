@@ -1,13 +1,38 @@
 {
-  "updated": "2026-07-20T15:52:37Z",
+  "updated": "2026-07-23T13:35:18Z",
   "articles": [
     {
       "title": {
-        "es": "IPath y vacunas comerciales: una dupla sinérgica prometedora frente a Caligus y Piscirickettsia",
-        "en": "IPath and commercial vaccines: a promising synergistic duo against Caligus and Piscirickettsia",
-        "no": "IPath og kommersielle vaksiner: en lovende synergistisk duo mot Caligus og Piscirickettsia"
+        "es": "El Niño: “No podemos repetir lo que vivimos como industria del salmón el año 2016”",
+        "en": "El Niño: “We cannot repeat what we experienced as the salmon industry in 2016”",
+        "no": "El Niño: «Vi kan ikke gjenta det vi opplevde som laksenæringen i 2016»"
       },
-      "url": "https://www.salmonexpert.cl/caligus-centro-incar-incar/ipath-y-vacunas-comerciales-una-dupla-sinergica-prometedora-frente-a-caligus-y-piscirickettsia/2149055",
+      "url": "https://www.salmonexpert.cl/aquabench-el-nino-20262027-joel-leal/el-nino-no-podemos-repetir-lo-que-vivimos-como-industria-del-salmon-el-ano-2016/2156603",
+      "date": "",
+      "summary": {
+        "es": "El gerente general de Aquabench, Joel Leal, llamó a fortalecer la coordinación, el monitoreo ambiental y la planificación anticipada para enfrentar los desafíos que plantea El Niño 2026/2027.",
+        "en": "The general manager of Aquabench, Joel Leal, called for strengthening coordination, environmental monitoring and advance planning to face the challenges posed by El Niño 2026/2027.",
+        "no": "Daglig leder for Aquabench, Joel Leal, ba om styrking av koordinering, miljøovervåking og forhåndsplanlegging for å møte utfordringene El Niño 2026/2027 utgjør."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 6,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/1505032.jpg?imageId=1505032&x=0&y=24.63&cropw=100&croph=63.55&panox=0&panoy=24.63&panow=100&panoh=63.55&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Ya se acerca al mercado: vacuna muestra impacto reduciendo 73% el Caligus en los salmones",
+        "en": "It is already approaching the market: vaccine shows impact by reducing Caligus in salmon by 73%",
+        "no": "Det nærmer seg allerede markedet: vaksine viser effekt ved å redusere Caligus i laks med 73 %"
+      },
+      "url": "https://www.salmonexpert.cl/caligus-piscirickettsia-srs/ya-se-acerca-al-mercado-vacuna-muestra-impacto-reduciendo-73-el-caligus-en-los-salmones/2152500",
       "date": "",
       "summary": {
         "es": "",
@@ -22,47 +47,22 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2065355.jpg?imageId=2065355&x=0&y=5.45&cropw=100&croph=78.18&panox=0&panoy=5.45&panow=100&panoh=78.18&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Chonchi: Biblioteca Municipal y Aqua Chile realizaron cuenta cuentos sobre salmonicultura para niños",
-        "en": "Chonchi: Municipal Library and Aqua Chile carried out storytellers about salmon farming for children",
-        "no": "Chonchi: Municipal Library og Aqua Chile gjennomførte historiefortellere om lakseoppdrett for barn"
-      },
-      "url": "https://www.aqua.cl/chonchi-biblioteca-municipal-y-aqua-chile-realizaron-cuenta-cuentos-sobre-salmonicultura-para-ninos/",
-      "date": "Mon, 20 Jul 2026 10:46:00 +0000",
-      "summary": {
-        "es": "Con una alta participación de niños y sus familias, la Biblioteca Pública Municipal de Chonchi fue el escenario del cuenta cuentos «Simona la curiosa del Salmón» , iniciativa desarrollada durante las vacaciones de invierno en el marco de una alianza entre la Municipalidad de Chonchi y Aqua Chile. La actividad buscó acercar a los más pequeños al ciclo de vida del salmón y a la salmonicultura mediante la historia de Simona, personaje central del libro impulsado por la empresa, el cual es distribuido en las comunidades donde la compañía desarrolla sus operaciones. La encargada de la Biblioteca Pública Municipal de Chonchi, Pamela Subiabre , destacó la convocatoria y el trabajo colaborativo con ",
-        "en": "With a high participation of children and their families, the Municipal Public Library of Chonchi was the setting for the story telling “Simona the Curious Salmon”, an initiative developed during the winter holidays within the framework of an alliance between the Municipality of Chonchi and Aqua Chile. The activity sought to bring the little ones closer to the life cycle of salmon and salmon farming through the story of Simona, the central character of the book promoted by the company, which is distributed in the communities where the company carries out its operations. The person in charge of the Municipal Public Library of Chonchi, Pamela Subiabre, highlighted the call and the collaborative work with",
-        "no": "Med en høy deltakelse av barn og deres familier, var det kommunale offentlige biblioteket i Chonchi rammen for historiefortellingen «Simona den nysgjerrige laksen», et initiativ utviklet i løpet av vinterferien innenfor rammen av en allianse mellom Chonchi kommune og Aqua Chile. Aktiviteten søkte å bringe de minste nærmere livssyklusen til lakse- og lakseoppdrett gjennom historien om Simona, hovedpersonen i boken fremmet av selskapet, og som distribueres i lokalsamfunnene hvor selskapet driver sin virksomhet. Den ansvarlige for det kommunale offentlige biblioteket i Chonchi, Pamela Subiabre, fremhevet oppfordringen og samarbeidet med"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
       "score": 2,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/1-LIBRO-SIMONA-1024x771.jpg"
+      "image": "https://image.salmonexpert.cl/1222300.jpg?imageId=1222300&x=0&y=11.83&cropw=100&croph=76.33&panox=0&panoy=11.83&panow=100&panoh=76.33&width=1200&height=683"
     },
     {
       "title": {
-        "es": "SalmonChile destaca avances en descarbonización y economía regenerativa",
-        "en": "SalmonChile highlights advances in decarbonization and regenerative economy",
-        "no": "SalmonChile fremhever fremskritt innen avkarbonisering og regenerativ økonomi"
+        "es": "ULagos prepara nueva carrera de Ingeniería Naval para los desafíos del sur de Chile",
+        "en": "ULagos prepares new Naval Engineering career for the challenges of southern Chile",
+        "no": "ULagos forbereder ny marineingeniørkarriere for utfordringene i det sørlige Chile"
       },
-      "url": "https://www.aqua.cl/salmonchile-destaca-avances-en-descarbonizacion-y-economia-regenerativa/",
-      "date": "Fri, 17 Jul 2026 19:05:56 +0000",
+      "url": "https://www.aqua.cl/ulagos-prepara-nueva-carrera-de-ingenieria-naval-para-los-desafios-del-sur-de-chile/",
+      "date": "Thu, 23 Jul 2026 10:47:00 +0000",
       "summary": {
-        "es": "Con el objetivo de fortalecer una salmonicultura cada vez más sostenible y alineada con los desafíos del cambio climático, SalmonChile participó en el evento internacional “Regenera Patagonia” , instancia que reunió a actores públicos, privados, académicos y emprendedores para abordar los desafíos y oportunidades de la economía regenerativa en el sur de Chile. La actividad, desarrollada en Puerto Varas, forma parte del proyecto Viraliza Eventos de Corfo y es ejecutada por la consultora Greenticket con el apoyo de la Multigremial Los Lagos. El encuentro congregó a cientos de representantes del ecosistema productivo regional e internacional, promoviendo el intercambio de experiencias en sosten",
-        "en": "With the aim of strengthening salmon farming that is increasingly sustainable and aligned with the challenges of climate change, SalmonChile participated in the international event “Regenera Patagonia”, an event that brought together public, private, academic and entrepreneurial actors to address the challenges and opportunities of the regenerative economy in southern Chile. The activity, carried out in Puerto Varas, is part of Corfo's Viraliza Eventos project and is carried out by the consulting firm Greenticket with the support of the Multigremial Los Lagos. The meeting brought together hundreds of representatives of the regional and international productive ecosystem, promoting the exchange of experiences in sustainability",
-        "no": "Med sikte på å styrke lakseoppdrett som er stadig mer bærekraftig og tilpasset utfordringene med klimaendringer, deltok SalmonChile i det internasjonale arrangementet «Regenera Patagonia», et arrangement som samlet offentlige, private, akademiske og entreprenørielle aktører for å møte utfordringene og mulighetene til den regenerative økonomien i det sørlige Chile. Aktiviteten, utført i Puerto Varas, er en del av Corfos Viraliza Eventos-prosjekt og utføres av konsulentfirmaet Greenticket med støtte fra Multigremial Los Lagos. Møtet samlet hundrevis av representanter for det regionale og internasjonale produktive økosystemet, og fremmet utveksling av erfaringer innen bærekraft"
+        "es": "La Universidad de Los Lagos (ULagos) continúa fortaleciendo su compromiso con el desarrollo regional mediante la preparación de una nueva carrera de Ingeniería Naval , una disciplina clave para impulsar la competitividad, la innovación y la sostenibilidad del sector marítimo en el sur austral de Chile. La iniciativa surge en un contexto donde la región de Los Lagos y las zonas australes concentran una intensa actividad marítimo-portuaria vinculada al transporte de pasajeros y carga, la construcción y reparación de embarcaciones, la pesca industrial y artesanal, la acuicultura y la logística portuaria. Puertos estratégicos como Puerto Montt, Chacao y Quellón enfrentan crecientes desafíos que ",
+        "en": "The University of Los Lagos (ULagos) continues to strengthen its commitment to regional development by preparing a new degree in Naval Engineering, a key discipline to promote competitiveness, innovation and sustainability of the maritime sector in the southern south of Chile. The initiative arises in a context where the Los Lagos region and the southern areas concentrate intense maritime-port activity linked to the transport of passengers and cargo, the construction and repair of vessels, industrial and artisanal fishing, aquaculture and port logistics. Strategic ports such as Puerto Montt, Chacao and Quellón face growing challenges that",
+        "no": "Universitetet i Los Lagos (ULagos) fortsetter å styrke sin forpliktelse til regional utvikling ved å utarbeide en ny grad i marineteknikk, en nøkkeldisiplin for å fremme konkurranseevne, innovasjon og bærekraft i den maritime sektoren i den sørlige delen av Chile. Initiativet oppstår i en kontekst der Los Lagos-regionen og de sørlige områdene konsentrerer intens maritim havneaktivitet knyttet til transport av passasjerer og last, bygging og reparasjon av fartøyer, industrielt og håndverksfiske, akvakultur og havnelogistikk. Strategiske havner som Puerto Montt, Chacao og Quellón står overfor økende utfordringer"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -72,47 +72,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 17,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Regenera-Patagonia-1-1024x556.png"
-    },
-    {
-      "title": {
-        "es": "Skretting Chile anuncia segunda edición de Sustainability & Innovation Conference 2026",
-        "en": "Skretting Chile announces second edition of Sustainability & Innovation Conference 2026",
-        "no": "Skretting Chile kunngjør andre utgave av Sustainability & Innovation Conference 2026"
-      },
-      "url": "https://www.salmonexpert.cl/conferencia-skretting-skretting-chile/skretting-chile-anuncia-segunda-edicion-de-sustainability-innovation-conference-2026/2147357",
-      "date": "",
-      "summary": {
-        "es": "El evento se llevará a cabo el próximo 27 de octubre de 2026 en el Teatro del Lago, en Frutillar, y reunirá nuevamente a líderes del sector, empresas, centros de investigación, autoridades y expertos.",
-        "en": "The event will take place on October 27, 2026 at the Teatro del Lago, in Frutillar, and will once again bring together sector leaders, companies, research centers, authorities and experts.",
-        "no": "Arrangementet finner sted 27. oktober 2026 på Teatro del Lago, i Frutillar, og vil igjen samle sektorledere, bedrifter, forskningssentre, myndigheter og eksperter."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
+      "score": 14,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2147362.jpg?imageId=2147362&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/ingNaval-ULagos-1024x768.jpg"
     },
     {
       "title": {
-        "es": "Senadora de Aysén pide reforzar la seguridad de los buzos de la salmonicultura",
-        "en": "Senator from Aysén asks to reinforce the safety of salmon farming divers",
-        "no": "Senator fra Aysén ber om å styrke sikkerheten til lakseoppdrettsdykkere"
+        "es": "Cena del Salmón 2026: conozca cómo participar de la Gala Anual de la Salmonicultura",
+        "en": "Salmon Dinner 2026: find out how to participate in the Annual Salmon Farming Gala",
+        "no": "Laksemiddag 2026: finn ut hvordan du deltar i den årlige lakseoppdrettsgallaen"
       },
-      "url": "https://www.mundoacuicola.cl/new/senadora-de-aysen-pide-reforzar-la-seguridad-de-los-buzos-de-la-salmonicultura/",
-      "date": "Fri, 17 Jul 2026 16:05:52 +0000",
+      "url": "https://www.mundoacuicola.cl/new/cena-del-salmon-2026-conozca-como-participar-de-la-gala-anual-de-la-salmonicultura/",
+      "date": "Wed, 22 Jul 2026 22:52:11 +0000",
       "summary": {
-        "es": "Tras el último accidente fatal ocurrido en un centro de cultivo, la senadora por Aysén, Ximena Órdenes, solicitó conformar una mesa de trabajo con autoridades, empresas y sindicatos, y afirmó que la seguridad en las labores de buceo no puede abordarse únicamente desde la lógica de la subcontratación. La entrada Senadora de Aysén pide reforzar la seguridad de los buzos de la salmonicultura se publicó primero en Mundoacuicola .",
-        "en": "After the last fatal accident that occurred in a cultivation center, the senator for Aysén, Ximena Órdenes, requested to form a working group with authorities, companies and unions, and stated that safety in diving tasks cannot be addressed solely from the logic of subcontracting. The entry Senator from Aysén asks to reinforce the safety of salmon farming divers was first published in Mundoacuicola.",
-        "no": "Etter den siste dødsulykken som skjedde i et kultiveringssenter, ba senatoren for Aysén, Ximena Órdenes, om å danne en arbeidsgruppe med myndigheter, bedrifter og fagforeninger, og uttalte at sikkerhet i dykkeoppgaver ikke kan adresseres utelukkende fra logikken til underleverandører. Innlegget Senator fra Aysén ber om å styrke sikkerheten til lakseoppdrettsdykkere ble først publisert i Mundoacuicola."
+        "es": "Las adhesiones para el principal encuentro anual de la industria ya pueden gestionarse a través del sitio web oficial del evento, donde es posible seleccionar ubicaciones individuales, reservar mesas completas y conocer alternativas de participación. La entrada Cena del Salmón 2026: conozca cómo participar de la Gala Anual de la Salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "Admissions for the industry's main annual meeting can now be managed through the event's official website, where it is possible to select individual locations, reserve entire tables and learn about participation options. The entry Salmon Dinner 2026: learn how to participate in the Annual Salmon Farming Gala was first published in Mundoacuicola.",
+        "no": "Opptak til bransjens hovedårsmøte kan nå administreres gjennom arrangementets offisielle nettside, hvor det er mulig å velge enkeltsteder, reservere hele bord og lære om deltakelsesmuligheter. Oppslaget Laksemiddag 2026: lær hvordan du deltar i den årlige lakseoppdrettsgallaen ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -122,22 +97,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 8,
+      "score": 12,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/Buceo-Seguridad.jpg"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/CenaAnualSalmon2.jpg"
     },
     {
       "title": {
-        "es": "Mowi Chile fortalece formación de estudiantes de Aysén con visitas a sus instalaciones",
-        "en": "Mowi Chile strengthens training of Aysén students with visits to its facilities",
-        "no": "Mowi Chile styrker opplæringen av Aysén-studenter med besøk på anleggene"
+        "es": "[LA + LEÍDA EL MIÉRCOLES] Cómo la nutrición funcional ayuda en la resistencia de los salmones frente a la piscirickettsiosis",
+        "en": "[LA + READ ON WEDNESDAY] How functional nutrition helps salmon resist piscirickettsiosis",
+        "no": "[LA + LES PÅ ONSDAG] Hvordan funksjonell ernæring hjelper laks med å motstå piscirickettsiose"
       },
-      "url": "https://www.aqua.cl/mowi-chile-fortalece-formacion-de-estudiantes-de-aysen-con-visitas-a-sus-instalaciones/",
-      "date": "Mon, 20 Jul 2026 10:47:00 +0000",
+      "url": "https://www.aqua.cl/como-la-nutricion-funcional-ayuda-en-la-resistencia-de-los-salmones-frente-a-la-piscirickettsiosis/",
+      "date": "Wed, 22 Jul 2026 10:40:00 +0000",
       "summary": {
-        "es": "Como parte de su compromiso con la formación de nuevos talentos y el fortalecimiento de los vínculos con el mundo académico, Mowi Chile recibió durante junio a estudiantes de enseñanza media técnico-profesional, del CFT Estatal de Aysén y de la Universidad de Aysén en distintas instalaciones de la compañía. Durante las jornadas, los estudiantes recorrieron el área de Mantención, la planta de procesos y la Piscicultura de Agua Dulce (PFA), donde conocieron de primera fuente las distintas etapas de la producción salmonicultora, así como las tecnologías utilizadas, los procesos operacionales y los estándares de seguridad, calidad y sostenibilidad implementados por la empresa. La iniciativa form",
-        "en": "As part of its commitment to training new talents and strengthening ties with the academic world, during June Mowi Chile received students from technical-professional secondary education, from the State CFT of Aysén and from the University of Aysén in different company facilities. During the conference, the students toured the Maintenance area, the process plant and the Freshwater Fish Farm (PFA), where they learned firsthand the different stages of salmon farming production, as well as the technologies used, the operational processes and the safety, quality and sustainability standards implemented by the company. The initiative formed",
-        "no": "Som en del av sin forpliktelse til å trene nye talenter og styrke båndene til den akademiske verden, mottok Mowi Chile i løpet av juni studenter fra teknisk-profesjonell videregående utdanning, fra State CFT of Aysén og fra University of Aysén i forskjellige bedriftsfasiliteter. Under konferansen besøkte studentene vedlikeholdsområdet, prosessanlegget og Freshwater Fish Farm (PFA), hvor de lærte førstehånds de ulike stadiene i produksjonen av lakseoppdrett, samt teknologiene som brukes, driftsprosessene og standardene for sikkerhet, kvalitet og bærekraft implementert av selskapet. Initiativet dannet seg"
+        "es": "Las estrategias de nutrición funcional están adquiriendo un rol cada vez más relevante en la salmonicultura moderna. A través de dietas diseñadas para fortalecer el sistema inmune de los peces, estas herramientas complementan los programas de vacunación tradicionales, contribuyendo a una mejor preparación fisiológica frente a desafíos sanitarios y ambientales, favoreciendo además una reducción en el uso de tratamientos terapéuticos y una producción más sostenible. Nutrición de precisión para la salud de peces El académico de la Facultad de Ciencias Veterinarias y Pecuarias (Favet) de la Universidad de Chile, Dr. Mario Caruffo, explica que “la nutrición funcional en salmónidos ha evolucionado",
+        "en": "Functional nutrition strategies are acquiring an increasingly relevant role in modern salmon farming. Through diets designed to strengthen the immune system of fish, these tools complement traditional vaccination programs, contributing to better physiological preparation in the face of health and environmental challenges, also favoring a reduction in the use of therapeutic treatments and more sustainable production. Precision nutrition for fish health The academic from the Faculty of Veterinary and Livestock Sciences (Favet) of the University of Chile, Dr. Mario Caruffo, explains that “functional nutrition in salmonids has evolved",
+        "no": "Funksjonelle ernæringsstrategier får en stadig mer relevant rolle i moderne lakseoppdrett. Gjennom dietter designet for å styrke immunsystemet til fisk, utfyller disse verktøyene tradisjonelle vaksinasjonsprogrammer, og bidrar til bedre fysiologisk forberedelse i møte med helse- og miljøutfordringer, og favoriserer også en reduksjon i bruken av terapeutiske behandlinger og mer bærekraftig produksjon. Presisjonsernæring for fiskehelse Akademikeren fra Fakultet for veterinær- og husdyrvitenskap (Favet) ved University of Chile, Dr. Mario Caruffo, forklarer at «funksjonell ernæring hos laksefisk har utviklet seg"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -147,72 +122,97 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 8,
+      "score": 12,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-2.39.26-PM.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/FOTO-3-Mario-Caruffo-2026-2-1024x768.jpg"
     },
     {
       "title": {
-        "es": "Fraude de origen: empresa de Dallas fue multada con US$250 mil por vender salmón chileno como escocés, noruego y canadiense",
-        "en": "Origin fraud: Dallas company was fined US$250,000 for selling Chilean salmon as Scottish, Norwegian and Canadian salmon",
-        "no": "Opprinnelsessvindel: Dallas-selskap ble bøtelagt USD 250 000 for å ha solgt chilensk laks som skotsk, norsk og kanadisk laks"
+        "es": "INCAR² desplegará su investigación de vanguardia con cinco presentaciones en el Congreso de Ciencias del Mar",
+        "en": "INCAR² will deploy its cutting-edge research with five presentations at the Marine Sciences Congress",
+        "no": "INCAR² vil distribuere sin banebrytende forskning med fem presentasjoner på havvitenskapskongressen"
       },
-      "url": "https://infosalmon.cl/fraude-origen-salmon-chileno-eeuu/",
-      "date": "Sun, 19 Jul 2026 23:56:48 +0000",
+      "url": "https://infosalmon.cl/incar-congreso-ciencias-del-mar-2026/",
+      "date": "Wed, 22 Jul 2026 20:00:40 +0000",
       "summary": {
-        "es": "Una empresa mayorista de productos del mar de Dallas, Estados Unidos, fue sentenciada a pagar una multa de US$250 mil después de comercializar salmón chileno falsamente etiquetado como proveniente de Escocia, Noruega y Canadá, una práctica que se extendió por más de dos años y que permitió a la compañía capturar ganancias estimadas en aproximadamente US$200 mil. Según informó el Departamento de Justicia de Estados Unidos , Seafood Supply Co. fue condenada el 17 de julio de 2026 por dos infracciones graves a la Ley Lacey, legislación que, entre otras disposiciones, prohíbe presentar registros, identificaciones o etiquetas falsas para productos pesqueros y otras especies comercializadas dentro",
-        "en": "A wholesale seafood company in Dallas, United States, was sentenced to pay a fine of US$250,000 after marketing Chilean salmon falsely labeled as coming from Scotland, Norway, and Canada, a practice that spanned more than two years and allowed the company to capture profits estimated at approximately US$200,000. As reported by the United States Department of Justice, Seafood Supply Co. was convicted on July 17, 2026 for two serious violations of the Lacey Act, legislation that, among other provisions, prohibits the presentation of false registrations, identifications or labels for fish products and other species traded within",
-        "no": "Et engros sjømatselskap i Dallas, USA, ble dømt til å betale en bot på USD 250 000 etter å ha markedsført chilensk laks feilaktig merket som kommer fra Skottland, Norge og Canada, en praksis som strakte seg over mer enn to år og tillot selskapet å fange opp fortjeneste beregnet til omtrent USD 200 000. Som rapportert av USAs justisdepartement, ble Seafood Supply Co. dømt 17. juli 2026 for to alvorlige brudd på Lacey Act, lovgivning som blant annet forbyr presentasjon av falske registreringer, identifikasjoner eller etiketter for fiskeprodukter og andre arter som handles innenfor"
+        "es": "Con una agenda que aborda algunos de los principales desafíos científicos de la acuicultura y los ecosistemas marinos, el Centro Interdisciplinario para la Investigación Acuícola–Investigación Aplicada (CIA-INCAR²) participará con cinco presentaciones en el XLV Congreso de Ciencias del Mar , que se realizará entre el 27 y el 30 de julio de 2026 en la Universidad de Concepción. Su participación contempla dos conferencias plenarias, una intervención en un simposio especializado y dos exposiciones temáticas vinculadas con la acuicultura sostenible, la salud de los océanos y la divulgación científica. La participación de INCAR² estará marcada por una destacada presencia académica, con cinco pres",
+        "en": "With an agenda that addresses some of the main scientific challenges of aquaculture and marine ecosystems, the Interdisciplinary Center for Aquaculture Research – Applied Research (CIA-INCAR²) will participate with five presentations at the XLV Congress of Marine Sciences, which will be held between July 27 and 30, 2026 at the University of Concepción. Their participation includes two plenary conferences, an intervention in a specialized symposium and two thematic exhibitions linked to sustainable aquaculture, ocean health and scientific dissemination. INCAR²'s participation will be marked by an outstanding academic presence, with five pres",
+        "no": "Med en agenda som tar for seg noen av de viktigste vitenskapelige utfordringene til akvakultur og marine økosystemer, vil det tverrfaglige senteret for akvakulturforskning – anvendt forskning (CIA-INCAR²) delta med fem presentasjoner på XLV Congress of Marine Sciences, som avholdes mellom 27. og 30. juli 2026 ved University of Concepción. Deres deltakelse inkluderer to plenumskonferanser, en intervensjon i et spesialisert symposium og to tematiske utstillinger knyttet til bærekraftig akvakultur, havhelse og vitenskapelig formidling. INCAR²s deltakelse vil være preget av en enestående akademisk tilstedeværelse, med fem pres"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
-      "category": "market",
+      "category": "industry",
       "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 17,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/fraude-salmon.png"
-    },
-    {
-      "title": {
-        "es": "Exportaciones de salmón chileno avanzan contra viento y marea: balance primer semestre",
-        "en": "Chilean salmon exports advance against all odds: first half balance",
-        "no": "Chilensk lakseeksport går frem mot alle odds: balanse i første halvår"
-      },
-      "url": "https://www.salmonexpert.cl/aduanas-balance-envios/exportaciones-de-salmon-chileno-avanzan-contra-viento-y-marea-balance-primer-semestre/2154905",
-      "date": "",
-      "summary": {
-        "es": "Sorprende que, pese a los fuertes aranceles aplicados, la industria nacional continúa en crecimiento en Estados Unidos, que es su principal mercado.",
-        "en": "It is surprising that, despite the strong tariffs applied, the national industry continues to grow in the United States, which is its main market.",
-        "no": "Det er overraskende at den nasjonale industrien, til tross for de sterke tollsatsene, fortsetter å vokse i USA, som er hovedmarkedet."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 13,
+      "score": 12,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2154913.jpg?imageId=2154913&x=0&y=23.61&cropw=100&croph=71.67&panox=0&panoy=23.61&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/INCAR-EN-CONGRESO-CIENCIAS-DEL-MAR.png"
     },
     {
       "title": {
-        "es": "Reestructuración en el salmón canadiense: Mowi East y Grieg rediseñan la industria salmonera",
-        "en": "Restructuring in Canadian salmon: Mowi East and Grieg redesign the salmon industry",
-        "no": "Omstrukturering i kanadisk laks: Mowi East og Grieg redesigner laksenæringen"
+        "es": "Inacap Puerto Montt y Ventisqueros sellan alianza para fortalecer formación y empleo",
+        "en": "Inacap Puerto Montt and Ventisqueros seal an alliance to strengthen training and employment",
+        "no": "Inacap Puerto Montt og Ventisqueros inngår en allianse for å styrke trening og sysselsetting"
       },
-      "url": "https://infosalmon.cl/restructuracion-mercado-salmon-canada-atlantico-cooke-mowi-2026/",
-      "date": "Fri, 17 Jul 2026 18:07:12 +0000",
+      "url": "https://www.aqua.cl/inacap-puerto-montt-y-ventisqueros-sellan-alianza-para-fortalecer-formacion-y-empleo/",
+      "date": "Thu, 23 Jul 2026 10:49:00 +0000",
       "summary": {
-        "es": "Tras el anuncio formal de la venta de los activos de Mowi Canada East a la multinacional Cooke Inc. a finales de junio, el sector confirma un patrón de desinversión por parte de los principales grupos de origen noruego en la zona de Newfoundland and Labrador, mercado que en los primeros meses de 2026 ya había registrado la transferencia de las operaciones de Grieg Seafood NL a Cermaq Group AS. Esta doble transacción marca un giro en la salmonicultura norteamericana, desplazando el liderazgo operativo hacia empresas con operaciones ya consolidadas en el continente americano. El impacto operativo de la adquisición de Cooke Con la adquisición de Mowi Canada East, Cooke Inc. incorpora a su balan",
-        "en": "Following the formal announcement of the sale of Mowi Canada East's assets to the multinational Cooke Inc. at the end of June, the sector confirms a pattern of disinvestment by the main groups of Norwegian origin in the Newfoundland and Labrador area, a market that in the first months of 2026 had already recorded the transfer of operations from Grieg Seafood NL to Cermaq Group AS. This double transaction marks a shift in North American salmon farming, shifting operational leadership to companies with already consolidated operations on the American continent. The operational impact of the Cooke acquisition With the acquisition of Mowi Canada East, Cooke Inc. adds to its balance",
-        "no": "Etter den formelle kunngjøringen av salget av Mowi Canada Easts eiendeler til det multinasjonale Cooke Inc. i slutten av juni, bekrefter sektoren et mønster av desinvesteringer fra hovedgruppene med norsk opprinnelse i Newfoundland- og Labrador-området, et marked som i de første månedene av 2026 allerede hadde registrert overføring av virksomhet fra Grieg Seafood Group AS til Cermaq. Denne doble transaksjonen markerer et skifte i nordamerikansk lakseoppdrett, og flytter operasjonelt lederskap til selskaper med allerede konsolidert virksomhet på det amerikanske kontinentet. Den operasjonelle virkningen av Cooke-oppkjøpet Med oppkjøpet av Mowi Canada East, øker Cooke Inc. sin balanse"
+        "es": "Inacap Sede Puerto Montt y Ventisqueros firmaron un convenio de colaboración orientado a fortalecer la vinculación entre la educación superior y el sector productivo, generando nuevas oportunidades de desarrollo académico y profesional para los estudiantes. La alianza busca promover una formación más conectada con las necesidades actuales de la industria, potenciando el aprendizaje práctico, la empleabilidad y la inserción laboral. Entre las iniciativas contempladas se encuentran visitas a la planta de procesos de Ventisqueros, charlas técnicas y de especialidad impartidas por profesionales de la empresa, participación en ferias laborales y el fortalecimiento de los procesos de prácticas pro",
+        "en": "Inacap Headquarters Puerto Montt and Ventisqueros signed a collaboration agreement aimed at strengthening the link between higher education and the productive sector, generating new opportunities for academic and professional development for students. The alliance seeks to promote training that is more connected to the current needs of the industry, promoting practical learning, employability and job placement. Among the initiatives contemplated are visits to the Ventisqueros process plant, technical and specialty talks given by company professionals, participation in job fairs and the strengthening of professional internship processes.",
+        "no": "Inacaps hovedkvarter Puerto Montt og Ventisqueros signerte en samarbeidsavtale med sikte på å styrke koblingen mellom høyere utdanning og den produktive sektoren, og generere nye muligheter for akademisk og faglig utvikling for studenter. Alliansen søker å fremme opplæring som er mer knyttet til bransjens nåværende behov, fremme praktisk læring, ansettelsesevne og jobbplassering. Blant initiativene som vurderes er besøk til Ventisqueros prosessanlegg, tekniske og spesialitetsforedrag holdt av fagfolk i bedriften, deltakelse på jobbmesser og styrking av profesjonelle praksisprosesser."
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 11,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/Inacap-firma-convenio-con-Ventisqueros-2-Ventisqueros-1024x678.jpg"
+    },
+    {
+      "title": {
+        "es": "ONGs llevaron a Washington los argumentos que abrieron la puerta a nuevos aranceles contra el salmón chileno",
+        "en": "NGOs brought to Washington the arguments that opened the door to new tariffs against Chilean salmon",
+        "no": "NGOer brakte til Washington argumentene som åpnet døren for nye tollsatser mot chilensk laks"
+      },
+      "url": "https://infosalmon.cl/argumentos-ong-aranceles-salmon-chileno-ustr/",
+      "date": "Wed, 22 Jul 2026 22:15:37 +0000",
+      "summary": {
+        "es": "En el marco de la investigación iniciada por la Representación Comercial de Estados Unidos (USTR), proceso en el cual SalmonChile y el Consejo del Salmón expusieron la relevancia estratégica del salmón nacional. La participación de la Fundación Libera presentó la contraparte del debate y argumentos presentados por los gremios salmoneros de Chile. Durante la jornada, la presidenta de la ONG, Carolina Rudnick, utilizó los dos bloques de exposición otorgados por el comité para actuar en representación de Juan Carlos Cárdenas, director de la ONG Ecoceanos, antes de presentar la postura de su propia institución. Argumentos presentados ante la USTR En la primera intervención, a nombre de Ecoceanos",
+        "en": "Within the framework of the investigation initiated by the United States Trade Representative (USTR), a process in which SalmonChile and the Salmon Council presented the strategic relevance of national salmon. The participation of the Libera Foundation presented the counterpart of the debate and arguments presented by the salmon farming unions of Chile. During the day, the president of the NGO, Carolina Rudnick, used the two presentation blocks granted by the committee to act on behalf of Juan Carlos Cárdenas, director of the NGO Ecoceanos, before presenting the position of her own institution. Arguments presented before the USTR In the first intervention, on behalf of Ecoceanos",
+        "no": "Innenfor rammen av undersøkelsen initiert av USAs handelsrepresentant (USTR), en prosess der SalmonChile og Salmon Council presenterte den strategiske relevansen til nasjonal laks. Deltakelsen av Libera Foundation presenterte motstykket til debatten og argumentene presentert av lakseoppdrettsforeningene i Chile. I løpet av dagen brukte presidenten for NGO, Carolina Rudnick, de to presentasjonsblokkene som ble gitt av komiteen til å handle på vegne av Juan Carlos Cárdenas, direktør for NGO Ecoceanos, før hun presenterte stillingen til sin egen institusjon. Argumenter presentert for USTR I den første intervensjonen, på vegne av Ecoceanos"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-22-134817.png"
+    },
+    {
+      "title": {
+        "es": "De recolectoras de orilla a emprendedoras textiles: alianza salmonicultora abre nuevas oportunidades en Calbuco",
+        "en": "From shore gatherers to textile entrepreneurs: salmon farming alliance opens new opportunities in Calbuco",
+        "no": "Fra landsamlere til tekstilentreprenører: lakseoppdrettsalliansen åpner nye muligheter i Calbuco"
+      },
+      "url": "https://infosalmon.cl/cermaq-skretting-mujeres-calbuco-newen-recicla/",
+      "date": "Wed, 22 Jul 2026 20:49:48 +0000",
+      "summary": {
+        "es": "Frente a la disminución de la actividad vinculada a la recolección de orilla, doce mujeres de la agrupación Newen Recicla de Calbuco dieron un nuevo paso hacia la diversificación de sus ingresos tras completar un programa de capacitación en costura, manufactura textil, herramientas digitales y gestión de negocios. La iniciativa, desarrollada por Cermaq Chile y financiada por Skretting Chile, busca fortalecer sus emprendimientos y generar nuevas oportunidades económicas para ellas y sus familias. El vínculo entre Skretting y Newen Recicla comenzó el año pasado, cuando la compañía encargó al grupo la confección de bolsas reutilizables para una conferencia corporativa. Esa primera experiencia p",
+        "en": "Faced with the decrease in activity linked to shore collection, twelve women from the Newen Recicla de Calbuco group took a new step towards diversifying their income after completing a training program in sewing, textile manufacturing, digital tools and business management. The initiative, developed by Cermaq Chile and financed by Skretting Chile, seeks to strengthen their ventures and generate new economic opportunities for them and their families. The link between Skretting and Newen Recicla began last year, when the company commissioned the group to make reusable bags for a corporate conference. That first experience",
+        "no": "Overfor nedgangen i aktivitet knyttet til landinnsamling, tok tolv kvinner fra Newen Recicla de Calbuco-gruppen et nytt skritt mot å diversifisere inntekten etter å ha fullført et opplæringsprogram innen søm, tekstilproduksjon, digitale verktøy og bedriftsledelse. Initiativet, utviklet av Cermaq Chile og finansiert av Skretting Chile, søker å styrke deres satsninger og generere nye økonomiske muligheter for dem og deres familier. Koblingen mellom Skretting og Newen Recicla begynte i fjor, da selskapet ga gruppen i oppdrag å lage gjenbrukbare poser til en bedriftskonferanse. Den første opplevelsen"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -224,57 +224,32 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/05/DRONE-1024x768-1.jpeg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/cermaq-skretting-newen-calbuco-scaled-e1784753132865.jpeg"
     },
     {
       "title": {
-        "es": "Seremi de Medio Ambiente en Los Lagos analiza avances y desafíos regulatorios para la acuicultura",
-        "en": "Seremi de Medio Ambiente in Los Lagos analyzes advances and regulatory challenges for aquaculture",
-        "no": "Seremi de Medio Ambiente i Los Lagos analyserer fremskritt og regulatoriske utfordringer for akvakultur"
+        "es": "MNL incorpora concepto “Bioresilience@work”\npara prevención en la acuicultura",
+        "en": "MNL incorporates “Bioresilience@work” concept\nfor prevention in aquaculture",
+        "no": "MNL inkorporerer \"Bioresilience@work\"-konseptet\ntil forebygging i akvakultur"
       },
-      "url": "https://www.aqua.cl/seremi-de-medio-ambiente-en-los-lagos-analiza-avances-y-desafios-regulatorios-para-la-acuicultura/",
-      "date": "Mon, 20 Jul 2026 10:48:00 +0000",
+      "url": "https://www.salmonexpert.cl/mnl-mnl-group-pathovet/mnl-incorpora-concepto-bioresiliencework-para-prevencion-en-la-acuicultura/2148829",
+      "date": "",
       "summary": {
-        "es": "La gestión de residuos, el tratamiento de residuos industriales líquidos (Riles), la eficiencia hídrica y la adaptación al cambio climático figuran entre los principales desafíos ambientales que enfrenta actualmente la acuicultura chilena. Así lo señaló la seremi del Medio Ambiente de Los Lagos, Lorena Leichtle, quien analizó el escenario regulatorio vigente y las futuras exigencias que deberán considerar las empresas del sector para fortalecer su desempeño ambiental. En conversación con Medios AQUA, la autoridad destacó que, si bien la industria ha mostrado avances relevantes en valorización de residuos orgánicos, aún existen brechas significativas en materia de economía circular, gestión d",
-        "en": "Waste management, the treatment of liquid industrial waste (Riles), water efficiency and adaptation to climate change are among the main environmental challenges currently facing Chilean aquaculture. This was stated by the Los Lagos Environment Minister, Lorena Leichtle, who analyzed the current regulatory scenario and the future demands that companies in the sector must consider to strengthen their environmental performance. In conversation with AQUA Media, the authority highlighted that, although the industry has shown relevant advances in the recovery of organic waste, there are still significant gaps in terms of circular economy, waste management.",
-        "no": "Avfallshåndtering, behandling av flytende industriavfall (Riles), vanneffektivitet og tilpasning til klimaendringer er blant de viktigste miljøutfordringene chilensk akvakultur står overfor. Dette ble uttalt av Los Lagos miljøminister, Lorena Leichtle, som analyserte det gjeldende reguleringsscenarioet og de fremtidige kravene som selskaper i sektoren må vurdere for å styrke sine miljøprestasjoner. I samtale med AQUA Media fremhevet myndigheten at selv om industrien har vist relevante fremskritt innen gjenvinning av organisk avfall, er det fortsatt betydelige hull når det gjelder sirkulær økonomi, avfallshåndtering."
+        "es": "El encuentro internacional, reunió a expertos de Chile, Noruega y Estados Unidos para abordar la producción acuícola desde la comprensión profunda de la fisiología, inmunología y patología del pez.",
+        "en": "The international meeting brought together experts from Chile, Norway and the United States to address aquaculture production from a deep understanding of the physiology, immunology and pathology of the fish.",
+        "no": "Det internasjonale møtet samlet eksperter fra Chile, Norge og USA for å ta opp akvakulturproduksjon fra en dyp forståelse av fiskens fysiologi, immunologi og patologi."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
       "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 10,
+      "score": 7,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/46ab877a-8837-428f-95d2-e600c7167b22-1024x768.jpg"
-    },
-    {
-      "title": {
-        "es": "Consumidores priorizan calidad, salud y certificaciones al adquirir productos del mar revela ASC",
-        "en": "Consumers prioritize quality, health and certifications when purchasing seafood products, reveals ASC",
-        "no": "Forbrukerne prioriterer kvalitet, helse og sertifiseringer ved kjøp av sjømatprodukter, avslører ASC"
-      },
-      "url": "https://www.aqua.cl/consumidores-priorizan-calidad-salud-y-certificaciones-al-adquirir-productos-del-mar-revela-asc/",
-      "date": "Mon, 20 Jul 2026 10:45:00 +0000",
-      "summary": {
-        "es": "El interés de los consumidores por los alimentos sostenibles continúa creciendo a nivel mundial. Así lo demuestra una nueva investigación global impulsada por Aquaculture Stewardship Council (ASC), que identificó un aumento superior a 10 puntos porcentuales desde 2024 entre quienes afirman preferir productos respetuosos con el medio ambiente y buscar etiquetas de sostenibilidad al momento de comprar alimentos. No obstante, al momento de elegir productos del mar, factores como la salud, el sabor y la calidad continúan siendo los principales impulsores de compra. En este contexto, las certificaciones independientes están desempeñando un papel cada vez más relevante al entregar confianza y resp",
-        "en": "Consumer interest in sustainable foods continues to grow globally. This is demonstrated by new global research promoted by the Aquaculture Stewardship Council (ASC), which identified an increase of more than 10 percentage points since 2024 among those who say they prefer environmentally friendly products and look for sustainability labels when purchasing food. However, when choosing seafood, factors such as health, taste and quality continue to be the main purchase drivers. In this context, independent certifications are playing an increasingly relevant role in providing trust and responsibility.",
-        "no": "Forbrukernes interesse for bærekraftig mat fortsetter å vokse globalt. Dette demonstreres av ny global forskning fremmet av Aquaculture Stewardship Council (ASC), som identifiserte en økning på mer enn 10 prosentpoeng siden 2024 blant de som sier de foretrekker miljøvennlige produkter og ser etter bærekraftsmerker når de kjøper mat. Men når du velger sjømat, er faktorer som helse, smak og kvalitet fortsatt de viktigste kjøpsdriverne. I denne sammenheng spiller uavhengige sertifiseringer en stadig mer relevant rolle for å gi tillit og ansvar."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 9,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/ASC-Photoshoot_Photo-by-Savannah-van-der-Niet-5-2500x1250-1-e1784324451333.jpg"
+      "image": "https://image.salmonexpert.cl/2148834.jpg?imageId=2148834&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
@@ -300,6 +275,31 @@
       "score": 14,
       "cross_source": false,
       "image": "https://image.salmonexpert.cl/2076146.jpg?imageId=2076146&x=0&y=3.9&cropw=100&croph=62.93&panox=0&panoy=3.9&panow=100&panoh=62.93&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Megarreforma: Quiroz instala a la salmonicultura como símbolo del nuevo impulso económico",
+        "en": "Megareform: Quiroz installs salmon farming as a symbol of the new economic impulse",
+        "no": "Megareform: Quiroz installerer lakseoppdrett som et symbol på den nye økonomiske impulsen"
+      },
+      "url": "https://www.mundoacuicola.cl/new/megarreforma-quiroz-instala-a-la-salmonicultura-como-simbolo-del-nuevo-impulso-economico/",
+      "date": "Tue, 21 Jul 2026 23:08:23 +0000",
+      "summary": {
+        "es": "Durante el balance realizado este martes tras la aprobación en la Cámara de Diputadas y Diputados del proyecto de Reconstrucción Nacional y Desarrollo Económico y Social -conocido como megarreforma-, el ministro de Hacienda, Jorge Quiroz, destacó a la salmonicultura como uno de los sectores que, a juicio del Gobierno, se verán impulsados por la iniciativa, vinculando su desarrollo con mayores niveles de inversión, productividad y el avance de procesos de relocalización. La entrada Megarreforma: Quiroz instala a la salmonicultura como símbolo del nuevo impulso económico se publicó primero en Mundoacuicola .",
+        "en": "During the assessment carried out this Tuesday after the approval in the Chamber of Deputies of the National Reconstruction and Economic and Social Development project - known as mega-reform -, the Minister of Finance, Jorge Quiroz, highlighted salmon farming as one of the sectors that, in the opinion of the Government, will be boosted by the initiative, linking its development with higher levels of investment, productivity and the advancement of relocation processes. The entry Megareforma: Quiroz installs salmon farming as a symbol of the new economic impulse was first published in Mundoacuicola.",
+        "no": "Under vurderingen som ble utført denne tirsdagen etter godkjenningen i avdelingskammeret av prosjektet Nasjonal gjenoppbygging og økonomisk og sosial utvikling – kjent som megareform – fremhevet finansminister Jorge Quiroz lakseoppdrett som en av sektorene som, etter regjeringens oppfatning, vil få et løft av initiativet, som knytter utviklingen sammen med høyere nivåer av investeringsprosesser og produktivitet. Oppføringen Megareforma: Quiroz installerer lakseoppdrett som et symbol på den nye økonomiske impulsen ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/QuirozRadioUchile2.jpg"
     }
   ]
 }
