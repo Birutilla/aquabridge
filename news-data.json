@@ -1,93 +1,93 @@
 {
-  "updated": "2026-08-03T13:38:09Z",
+  "updated": "2026-08-06T13:42:55Z",
   "articles": [
     {
       "title": {
-        "es": "Acuicultura 4.0: Entre la eficiencia, empleos y el desafío de los datos federados",
-        "en": "Aquaculture 4.0: Between efficiency, jobs and the challenge of federated data",
-        "no": "Akvakultur 4.0: Mellom effektivitet, arbeidsplasser og utfordringen med forente data"
+        "es": "Oxzo presenta plataforma que integra generación de aire y suministro de oxígeno en salmonicultura",
+        "en": "Oxzo presents platform that integrates air generation and oxygen supply in salmon farming",
+        "no": "Oxzo presenterer plattform som integrerer luftgenerering og oksygentilførsel i lakseoppdrett"
       },
-      "url": "https://infosalmon.cl/acuicultura-40-inteligencia-artificial-ciberseguridad-gobernanza-datos-chile/",
-      "date": "Sun, 02 Aug 2026 21:37:52 +0000",
+      "url": "https://www.salmonexpert.cl/aire-oxigenacion-oxzo/oxzo-presenta-plataforma-que-integra-generacion-de-aire-y-suministro-de-oxigeno-en-salmonicultura/2159803",
+      "date": "",
       "summary": {
-        "es": "La implementación gradual de la Ley de 40 horas en Chile exige producir con mayores estándares de eficiencia y sostenibilidad en menor tiempo, obligando a las empresas a pasar de reportes analógicos y reactivos a modelos predictivos basados en Inteligencia Artificial (IA) y automatización en tiempo real. Este fenómeno se refleja de forma directa en el mercado laboral técnico. De acuerdo con datos recientes de Trabajando.com publicados por El Mercurio, el 7,2% de las ofertas laborales en el país ya solicitan explícitamente competencias en IA (cifra que se triplicó a comparación del año anterior según El Mercurio), ofreciendo rentas promedios que alcanzan hasta 4,5 millones de pesos en cargos ",
-        "en": "The gradual implementation of the 40-hour Law in Chile requires producing with higher standards of efficiency and sustainability in less time, forcing companies to move from analog and reactive reports to predictive models based on Artificial Intelligence (AI) and real-time automation. This phenomenon is directly reflected in the technical labor market. According to recent data from Trabajondo.com published by El Mercurio, 7.2% of job offers in the country already explicitly request AI skills (a figure that tripled compared to the previous year according to El Mercurio), offering average incomes that reach up to 4.5 million pesos in charges.",
-        "no": "Den gradvise implementeringen av 40-timersloven i Chile krever produksjon med høyere standarder for effektivitet og bærekraft på kortere tid, noe som tvinger selskaper til å gå fra analoge og reaktive rapporter til prediktive modeller basert på kunstig intelligens (AI) og sanntidsautomatisering. Dette fenomenet gjenspeiles direkte i det tekniske arbeidsmarkedet. I følge nyere data fra Trabajondo.com publisert av El Mercurio ber 7,2 % av jobbtilbudene i landet allerede eksplisitt om AI-ferdigheter (et tall som er tredoblet sammenlignet med året før ifølge El Mercurio), og tilbyr gjennomsnittsinntekter som når opp til 4,5 millioner pesos i kostnader."
+        "es": "",
+        "en": "",
+        "no": ""
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 10,
+      "score": 4,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/02/PLATAFORMA-SKILLS-e1772043056843.png"
+      "image": "https://image.salmonexpert.cl/2159809.jpg?imageId=2159809&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Tina Rosenfeld (Camanchaca) aborda los desafíos y competencias que hoy exige la alta dirección",
-        "en": "Tina Rosenfeld (Camanchaca) addresses the challenges and competencies that senior management requires today",
-        "no": "Tina Rosenfeld (Camanchaca) tar opp utfordringene og kompetansen som toppledelsen krever i dag"
+        "es": "SRS y Tenacibaculosis bajo la lupa: revelan sus mayores factores de riesgo en el salmón chileno",
+        "en": "SRS and Tenacibaculosis under the microscope: their greatest risk factors in Chilean salmon are revealed",
+        "no": "SRS og Tenacibaculosis under mikroskopet: deres største risikofaktorer i chilensk laks blir avslørt"
       },
-      "url": "https://infosalmon.cl/liderazgo-era-digital-tina-rosenfeld-camanchaca-acuicultura/",
-      "date": "Sun, 02 Aug 2026 21:23:22 +0000",
+      "url": "https://www.salmonexpert.cl/epidemiologia-piscirickettsia-sernapesca/srs-y-tenacibaculosis-bajo-la-lupa-revelan-sus-mayores-factores-de-riesgo-en-el-salmon-chileno/2158710",
+      "date": "",
       "summary": {
-        "es": "En una reciente columna , diversos especialistas abordaron cómo ha cambiado la vara directiva frente al avance de las nuevas tecnologías. Frente a este contexto, Tina Rosenfeld, directora en firmas como Masisa y Camanchaca, analizó el perfil que deben consolidar los líderes actuales para mantener a las organizaciones en la vanguardia. En el artículo, Rosenfeld detalló que la aceleración tecnológica impulsada por la inteligencia artificial, la automatización y las soluciones de análisis de datos está transformando la forma en que se gestionan las empresas. Sin embargo, este impacto no solo alcanza las operaciones productivas, sino que redefine los atributos que hoy se exigen a los máximos eje",
-        "en": "In a recent column, various specialists addressed how the managerial standard has changed in the face of the advancement of new technologies. Faced with this context, Tina Rosenfeld, director at firms such as Masisa and Camanchaca, analyzed the profile that current leaders must consolidate to keep organizations at the forefront. In the article, Rosenfeld detailed that technological acceleration driven by artificial intelligence, automation and data analytics solutions is transforming the way businesses are managed. However, this impact not only reaches productive operations, but also redefines the attributes that are currently required of the highest axis.",
-        "no": "I en nylig spalte tok ulike spesialister opp hvordan ledelsesstandarden har endret seg i møte med utviklingen av nye teknologier. Stilt overfor denne konteksten analyserte Tina Rosenfeld, direktør i firmaer som Masisa og Camanchaca, profilen som nåværende ledere må konsolidere for å holde organisasjoner i forkant. I artikkelen beskrev Rosenfeld at teknologisk akselerasjon drevet av kunstig intelligens, automatisering og dataanalyseløsninger endrer måten virksomheter administreres på. Denne påvirkningen når imidlertid ikke bare produktive operasjoner, men redefinerer også egenskapene som for øyeblikket kreves for den høyeste aksen."
+        "es": "",
+        "en": "",
+        "no": ""
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 7,
+      "score": 4,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2025/03/Tina-Rosenfeld-2.jpg"
+      "image": "https://image.salmonexpert.cl/2158718.jpg?imageId=2158718&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Revisión advierte brecha entre avances sobre P. salmonis y su aplicación en el control de la SRS",
-        "en": "Review warns of gap between advances on P. salmonis and its application in the control of SRS",
-        "no": "Gjennomgang advarer om gap mellom fremskritt på P. salmonis og dets anvendelse i kontrollen av SRS"
+        "es": "XI Congreso Nacional de Acuicultura presenta a sus principales exponentes",
+        "en": "XI National Aquaculture Congress presents its main exponents",
+        "no": "XI National Aquaculture Congress presenterer sine hovedeksponenter"
       },
-      "url": "https://www.mundoacuicola.cl/new/revision-advierte-brecha-entre-avances-sobre-p-salmonis-y-su-aplicacion-en-el-control-de-la-srs/",
-      "date": "Fri, 31 Jul 2026 20:53:07 +0000",
+      "url": "https://www.salmonexpert.cl/congreso-nacional-de-acuicultura/xi-congreso-nacional-de-acuicultura-presenta-a-sus-principales-exponentes/2162213",
+      "date": "",
       "summary": {
-        "es": "Marco Rozas-Serri, gerente general de Pathovet Labs, revisó 181 publicaciones científicas y destacó los avances alcanzados en genómica, patogenia, epidemiología, inmunidad y control de Piscirickettsia salmonis, aunque advirtió que persiste una brecha entre ese conocimiento y su aplicación en la regulación sanitaria y el manejo productivo de la salmonicultura. La entrada Revisión advierte brecha entre avances sobre P. salmonis y su aplicación en el control de la SRS se publicó primero en Mundoacuicola .",
-        "en": "Marco Rozas-Serri, general manager of Pathovet Labs, reviewed 181 scientific publications and highlighted the advances made in genomics, pathogenesis, epidemiology, immunity and control of Piscirickettsia salmonis, although he warned that a gap persists between this knowledge and its application in health regulation and productive management of salmon farming. The entry Review warns of gap between advances on P. salmonis and its application in the control of SRS was first published in Mundoacuicola.",
-        "no": "Marco Rozas-Serri, daglig leder for Pathovet Labs, gjennomgikk 181 vitenskapelige publikasjoner og fremhevet fremskrittene innen genomikk, patogenese, epidemiologi, immunitet og kontroll av Piscirickettsia salmonis, selv om han advarte om at det fortsatt er et gap mellom denne kunnskapen og dens anvendelse i helseregulering og produktiv forvaltning av lakseoppdrett. Oppføringen Review advarer om gap mellom fremskritt på P. salmonis og dens anvendelse i kontrollen av SRS ble først publisert i Mundoacuicola."
+        "es": "Con la participación de destacados referentes nacionales e internacionales en investigación, gestión pública e innovación acuícola, el evento continúa avanzando en la consolidación de su programa científico con la organización a cargo de la Universidad de Chile.",
+        "en": "With the participation of prominent national and international leaders in research, public management and aquaculture innovation, the event continues to advance in the consolidation of its scientific program with the organization in charge of the University of Chile.",
+        "no": "Med deltakelse av fremtredende nasjonale og internasjonale ledere innen forskning, offentlig ledelse og akvakulturinnovasjon, fortsetter arrangementet å gå videre i konsolideringen av sitt vitenskapelige program med organisasjonen som er ansvarlig for University of Chile."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "technology",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
       "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/07/MarcoRozasPathovet.jpg"
+      "score": 16,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2162218.jpg?imageId=2162218&x=0&y=20.37&cropw=100&croph=79.63&panox=0&panoy=20.37&panow=100&panoh=79.63&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Biología Marina llegará a Puerto Montt en 2027 para la formación en ciencias del mar y acuicultura",
-        "en": "Marine Biology will arrive in Puerto Montt in 2027 for training in marine sciences and aquaculture",
-        "no": "Marine Biology vil ankomme Puerto Montt i 2027 for opplæring i marine vitenskaper og akvakultur"
+        "es": "Vitapro impulsa la acuicultura sostenible con innovación y acción climática",
+        "en": "Vitapro promotes sustainable aquaculture with innovation and climate action",
+        "no": "Vitapro fremmer bærekraftig havbruk med innovasjon og klimatiltak"
       },
-      "url": "https://www.aqua.cl/biologia-marina-llegara-a-puerto-montt-en-2027-para-la-formacion-en-ciencias-del-mar-y-acuicultura/",
-      "date": "Mon, 03 Aug 2026 10:45:00 +0000",
+      "url": "https://www.aqua.cl/vitapro-impulsa-la-acuicultura-sostenible-con-innovacion-y-accion-climatica/",
+      "date": "Wed, 05 Aug 2026 19:00:00 +0000",
       "summary": {
-        "es": "La Universidad Austral de Chile (UACh) anunció la apertura de la carrera de Biología Marina en su Sede Puerto Montt a partir de 2027, ampliando su oferta académica en una disciplina estratégica para el desarrollo científico, ambiental y productivo de la región de Los Lagos y del sur austral del país. Con más de 40 años de trayectoria en Valdivia, la carrera comenzará a impartirse también en Puerto Montt, territorio reconocido por su liderazgo en acuicultura, actividades marítimas e investigación marina. El programa entregará una sólida formación en biología, física y química, preparando profesionales con competencias para formular, dirigir y ejecutar proyectos interdisciplinarios orientados ",
-        "en": "The Universidad Austral de Chile (UACh) announced the opening of the Marine Biology degree at its Puerto Montt Campus starting in 2027, expanding its academic offering in a strategic discipline for the scientific, environmental and productive development of the Los Lagos region and the southern south of the country. With more than 40 years of experience in Valdivia, the course will also begin to be taught in Puerto Montt, a territory recognized for its leadership in aquaculture, maritime activities and marine research. The program will provide solid training in biology, physics and chemistry, preparing professionals with the skills to formulate, direct and execute interdisciplinary projects oriented",
-        "no": "Universidad Austral de Chile (UACh) kunngjorde åpningen av marinbiologigraden på Puerto Montt Campus som starter i 2027, og utvider sitt akademiske tilbud i en strategisk disiplin for vitenskapelig, miljømessig og produktiv utvikling av Los Lagos-regionen og den sørlige sør av landet. Med mer enn 40 års erfaring i Valdivia, vil kurset også begynne å bli undervist i Puerto Montt, et territorium anerkjent for sitt lederskap innen akvakultur, maritime aktiviteter og marin forskning. Programmet vil gi solid opplæring i biologi, fysikk og kjemi, forberede fagpersoner med ferdigheter til å formulere, lede og utføre tverrfaglige prosjekter orientert"
+        "es": "Vitapro, empresa líder en soluciones nutricionales para la acuicultura en Latinoamérica y parte de Alicorp, presentó su Memoria de Sostenibilidad 2025 , documento que recoge los principales avances de la compañía en materia productiva, ambiental y social, reafirmando su propósito de Transformar la acuicultura. Nutrir el mañana. Durante 2025, la compañía superó las 933 mil toneladas de alimento balanceado producidas, lo que representó un crecimiento de 38% respecto al año anterior. Asimismo, más del 70% de sus ventas provinieron de productos desarrollados en sus Centros Experimentales Acuícolas (CEAs), reflejando el papel estratégico de la ciencia, la investigación y la innovación en el desar",
+        "en": "Vitapro, a leading company in nutritional solutions for aquaculture in Latin America and part of Alicorp, presented its 2025 Sustainability Report, a document that includes the company's main advances in productive, environmental and social matters, reaffirming its purpose of Transforming aquaculture. Nourish tomorrow. During 2025, the company exceeded 933 thousand tons of balanced feed produced, which represented a growth of 38% compared to the previous year. Likewise, more than 70% of its sales came from products developed in its Experimental Aquaculture Centers (CEAs), reflecting the strategic role of science, research and innovation in the development",
+        "no": "Vitapro, et ledende selskap innen ernæringsløsninger for akvakultur i Latin-Amerika og en del av Alicorp, presenterte sin bærekraftsrapport for 2025, et dokument som inkluderer selskapets viktigste fremskritt innen produktive, miljømessige og sosiale forhold, og bekreftet formålet med å transformere akvakultur. Gi næring i morgen. I løpet av 2025 oversteg selskapet 933 tusen tonn produsert balansert fôr, noe som representerte en vekst på 38 % sammenlignet med året før. På samme måte kom mer enn 70 % av salget fra produkter utviklet i deres eksperimentelle akvakultursentre (CEA), noe som gjenspeiler den strategiske rollen til vitenskap, forskning og innovasjon i utviklingen"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -97,25 +97,50 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 18,
+      "score": 12,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/3.jpg-2-1.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Nicovita-799x1024.png"
     },
     {
       "title": {
-        "es": "Loreto Seguel: “La Semana del Salmón pone en el centro a la comunidad y proyecta el orgullo del salmón chileno”",
-        "en": "Loreto Seguel: “Salmon Week puts the community at the center and projects the pride of Chilean salmon”",
-        "no": "Loreto Seguel: \"Salmon Week setter samfunnet i sentrum og projiserer stoltheten til chilensk laks\""
+        "es": "Este es el camino para que la salmonicultura chilena sea una de las industrias más seguras",
+        "en": "This is the way for Chilean salmon farming to be one of the safest industries",
+        "no": "Dette er måten for chilensk lakseoppdrett å være en av de sikreste næringene"
       },
-      "url": "https://www.aqua.cl/loreto-seguel-la-semana-del-salmon-pone-en-el-centro-a-la-comunidad-y-proyecta-el-orgullo-del-salmon-chileno/",
-      "date": "Mon, 03 Aug 2026 10:50:00 +0000",
+      "url": "https://www.salmonexpert.cl/fatalidades-iso-45001-prevencion-de-riesgos/este-es-el-camino-para-que-la-salmonicultura-chilena-sea-una-de-las-industrias-mas-seguras/2160804",
+      "date": "",
       "summary": {
-        "es": "La presidenta ejecutiva del Consejo del Salmón, Loreto Seguel , destacó la realización de la Semana del Salmón , iniciativa organizada por la Municipalidad de Puerto Montt junto a la industria salmonicultora, que se desarrolla entre el 27 de julio y el 1 de agosto con una variada programación gastronómica, cultural, artística y de emprendimiento. El Consejo del Salmón participó en la cuarta jornada de la Semana del Salmón, realizada el jueves y dedicada especialmente a la comunidad. La programación incluyó una cocina en vivo encabezada por la presidenta ejecutiva del gremio, Loreto Seguel , junto al chef Frederic Emery , quienes prepararon una tradicional sopa de salmón, generando un espacio",
-        "en": "The executive president of the Salmon Council, Loreto Seguel, highlighted the holding of Salmon Week, an initiative organized by the Municipality of Puerto Montt together with the salmon farming industry, which takes place between July 27 and August 1 with a varied gastronomic, cultural, artistic and entrepreneurship program. The Salmon Council participated in the fourth day of Salmon Week, held on Thursday and dedicated especially to the community. The programming included a live kitchen headed by the executive president of the union, Loreto Seguel, together with chef Frederic Emery, who prepared a traditional salmon soup, creating a space",
-        "no": "Den administrerende presidenten i Lakserådet, Loreto Seguel, fremhevet avholdelsen av Salmon Week, et initiativ organisert av Puerto Montt kommune sammen med lakseoppdrettsnæringen, som finner sted mellom 27. juli og 1. august med et variert gastronomisk, kulturelt, kunstnerisk og entreprenørskapsprogram. Lakserådet deltok på den fjerde dagen av lakseuken, som ble holdt på torsdag og dedikert spesielt til samfunnet. Programmeringen inkluderte et levende kjøkken ledet av den administrerende presidenten for forbundet, Loreto Seguel, sammen med kokken Frederic Emery, som tilberedte en tradisjonell laksesuppe, og skapte et rom"
+        "es": "Informe indica que fortaleciendo la voluntad colectiva de gremios, gerencias, Estado y trabajadores llevaría a la salmonicultura en una de las industrias más seguras de Chile. Muerte de buzos es uno de los desafíos.",
+        "en": "Informe indica que fortaleciendo la voluntad colectiva de gremios, gerencias, Estado y trabajadores llevaría a la salmonicultura en una de las industrias más seguras de Chile. Muerte de buzos es uno de los desafíos.",
+        "no": "Rapporten indikerer at en styrking av den kollektive viljen til fagforeninger, ledelse, stat og arbeidere vil gjøre lakseoppdrett til en av de sikreste næringene i Chile. Dykkernes død er en av utfordringene."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/1380772.jpg?imageId=1380772&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Jaula Solar de Mowi Chile, el proyecto reconocido en los 50 años de la salmonicultura por su aporte a la innovación",
+        "en": "Mowi Chile Solar Cage, the project recognized in the 50 years of salmon farming for its contribution to innovation",
+        "no": "Mowi Chile Solar Cage, prosjektet anerkjent i de 50 årene med lakseoppdrett for sitt bidrag til innovasjon"
+      },
+      "url": "https://www.mundoacuicola.cl/new/jaula-solar-de-mowi-chile-el-proyecto-reconocido-en-los-50-anos-de-la-salmonicultura-por-su-aporte-a-la-innovacion/",
+      "date": "Wed, 05 Aug 2026 21:51:25 +0000",
+      "summary": {
+        "es": "La iniciativa fue distinguida con el Sello Salmón, reconocimiento creado por Mundo Acuícola en el marco de la conmemoración de los 50 años de la salmonicultura chilena para relevar a personas, equipos e iniciativas que han realizado aportes significativos al desarrollo de la industria. La entrada Jaula Solar de Mowi Chile, el proyecto reconocido en los 50 años de la salmonicultura por su aporte a la innovación se publicó primero en Mundoacuicola .",
+        "en": "La iniciativa fue distinguida con el Sello Salmón, reconocimiento creado por Mundo Acuícola en el marco de la conmemoración de los 50 años de la salmonicultura chilena para relevar a personas, equipos e iniciativas que han realizado aportes significativos al desarrollo de la industria. La entrada Jaula Solar de Mowi Chile, el proyecto reconocido en los 50 años de la salmonicultura por su aporte a la innovación se publicó primero en Mundoacuicola .",
+        "no": "La iniciativa fue distinguida con el Sello Salmón, reconocimiento creado por Mundo Acuícola en el marco de la conmemoración de los 50 años de la salmonicultura chilena para relevar a personas, equipos e iniciativas que han realizado aportes significativos al desarrollo de la industria. La entrada Jaula Solar de Mowi Chile, el proyecto reconocido en los 50 años de la salmonicultura por su aporte a la innovación se publicó primero en Mundoacuicola ."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -124,70 +149,20 @@
       },
       "score": 11,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/DSC08448.JPG-1024x769.jpeg"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Mowi-equipo-jaula-solar.png"
     },
     {
       "title": {
-        "es": "RTRS destaca potencial de la soja certificada para impulsar una salmonicultura más baja en carbono",
-        "en": "RTRS highlights potential of certified soy to promote lower carbon salmon farming",
-        "no": "RTRS fremhever potensialet til sertifisert soya for å fremme lakseoppdrett med lavere karbon"
+        "es": "Multi X y Sercotec lanzan segunda Red Pyme Aysén para proveedores de la salmonicultura",
+        "en": "Multi X and Sercotec launch second Aysén Pyme Network for salmon farming suppliers",
+        "no": "Multi X og Sercotec lanserer andre Aysén Pyme Network for leverandører av lakseoppdrett"
       },
-      "url": "https://www.aqua.cl/rtrs-destaca-potencial-de-la-soja-certificada-para-impulsar-una-salmonicultura-mas-baja-en-carbono/",
-      "date": "Mon, 03 Aug 2026 10:47:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/multi-x-y-sercotec-lanzan-segunda-red-pyme-aysen-para-proveedores-de-la-salmonicultura/",
+      "date": "Wed, 05 Aug 2026 21:55:54 +0000",
       "summary": {
-        "es": "Durante la segunda edición de Regenera Patagonia , uno de los principales encuentros sobre sostenibilidad y economía regenerativa de Chile, la organización RTRS (Round Table on Responsible Soy) presentó el potencial de la soja certificada para fortalecer la trazabilidad, reducir las emisiones de carbono y acompañar la transición de la salmonicultura hacia cadenas de suministro más sostenibles. En el panel «Materias primas certificadas para la reducción de emisiones en la acuicultura» , la gerente de Desarrollo de Mercado y Relacionamiento con Partes Interesadas para Latinoamérica de RTRS, Mariela Montoya , destacó que la alimentación representa uno de los principales focos para disminuir la ",
-        "en": "During the second edition of Regenera Patagonia, one of the main meetings on sustainability and regenerative economy in Chile, the RTRS organization (Round Table on Responsible Soy) presented the potential of certified soy to strengthen traceability, reduce carbon emissions and accompany the transition of salmon farming towards more sustainable supply chains. In the panel \"Certified raw materials for the reduction of emissions in aquaculture\", the manager of Market Development and Relations with Stakeholders for Latin America of RTRS, Mariela Montoya, highlighted that food represents one of the main focuses to reduce",
-        "no": "Under den andre utgaven av Regenera Patagonia, et av hovedmøtene om bærekraft og regenerativ økonomi i Chile, presenterte RTRS-organisasjonen (Round Table on Responsible Soy) potensialet til sertifisert soya for å styrke sporbarheten, redusere karbonutslipp og følge med på overgangen til lakseoppdrett mot mer bærekraftige forsyningskjeder. I panelet «Sertifiserte råvarer for reduksjon av utslipp i akvakultur», fremhevet lederen av Market Development and Relations with Stakeholders for Latin America i RTRS, Mariela Montoya, at mat representerer et av hovedfokusene for å redusere"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/55411840496_efd91f5fe2_3k-882x1024.jpg"
-    },
-    {
-      "title": {
-        "es": "Ciencia chilena desafía décadas de estrategias contra el SRS: nueva revisión plantea un cambio de paradigma para la salmonicultura",
-        "en": "Chilean science challenges decades of strategies against SRS: new review proposes a paradigm shift for salmon farming",
-        "no": "Chilensk vitenskap utfordrer tiår med strategier mot SRS: ny gjennomgang foreslår et paradigmeskifte for lakseoppdrett"
-      },
-      "url": "https://infosalmon.cl/ciencia-chilena-desafia-decadas-de-estrategias-contra-el-srs/",
-      "date": "Sun, 02 Aug 2026 21:46:52 +0000",
-      "summary": {
-        "es": "Durante décadas, la industria del salmón ha combatido la piscirickettsiosis (SRS) bajo un paradigma que asumía que Piscirickettsia salmonis era un patógeno relativamente uniforme. Sin embargo, una de las revisiones científicas más completas publicadas hasta la fecha plantea que esa premisa ya no se sostiene. El estudio “From Genogroups to Control Strategies: A Comprehensive Review of Piscirickettsia salmonis and Piscirickettsiosis to Optimize Health Management in Salmonid Aquaculture», sintetiza 181 publicaciones científicas revisadas por pares y analiza la evolución del conocimiento generado entre 2014 y 2026 sobre genómica, patogénesis, epidemiología, inmunología y estrategias de control. ",
-        "en": "For decades, the salmon industry has combated piscirickettsiosis (SRS) under a paradigm that assumed that Piscirickettsia salmonis was a relatively uniform pathogen. However, one of the most complete scientific reviews published to date suggests that this premise no longer holds. The study “From Genogroups to Control Strategies: A Comprehensive Review of Piscirickettsia salmonis and Piscirickettsiosis to Optimize Health Management in Salmonid Aquaculture” synthesizes 181 peer-reviewed scientific publications and analyzes the evolution of knowledge generated between 2014 and 2026 on genomics, pathogenesis, epidemiology, immunology and control strategies.",
-        "no": "I flere tiår har lakseindustrien bekjempet piscirickettsiosis (SRS) under et paradigme som antok at Piscirickettsia salmonis var et relativt ensartet patogen. Imidlertid antyder en av de mest komplette vitenskapelige oversiktene som er publisert til dags dato at denne forutsetningen ikke lenger holder. Studien \"From Genogroups to Control Strategies: A Comprehensive Review of Piscirickettsia salmonis and Piscirickettsiosis to Optimize Health Management in Salmonid Aquaculture\" syntetiserer 181 fagfellevurderte vitenskapelige publikasjoner og analyserer utviklingen av kunnskap generert mellom 2014 og 2014 og 2026 om immunologi, patologi og patologisk kontroll strategier."
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Creditos_Cedida_.jpeg"
-    },
-    {
-      "title": {
-        "es": "Salmonicultoras ya confirman su participación en la Cena del Salmón, proyectando su valor como vitrina estratégica",
-        "en": "Salmon farmers already confirm their participation in the Salmon Dinner, projecting their value as a strategic showcase",
-        "no": "Lakseoppdrettere bekrefter allerede sin deltakelse i laksemiddagen, og projiserer deres verdi som et strategisk utstillingsvindu"
-      },
-      "url": "https://www.mundoacuicola.cl/new/salmonicultoras-ya-confirman-su-participacion-en-la-cena-del-salmon-proyectando-su-valor-como-vitrina-estrategica-para-la-industria/",
-      "date": "Mon, 03 Aug 2026 08:24:14 +0000",
-      "summary": {
-        "es": "Con más de cinco empresas salmonicultoras ya confirmadas, una creciente participación de proveedores, gremios y centros de investigación, la Gala Anual de la Salmonicultura se perfila como una instancia de amplia convocatoria para las compañías que buscan fortalecer su presencia en el principal ecosistema acuícola del país. La entrada Salmonicultoras ya confirman su participación en la Cena del Salmón, proyectando su valor como vitrina estratégica se publicó primero en Mundoacuicola .",
-        "en": "With more than five salmon farming companies already confirmed, a growing participation of suppliers, unions and research centers, the Annual Salmon Farming Gala is emerging as an event of broad convocation for companies seeking to strengthen their presence in the main aquaculture ecosystem of the country. The entry Salmon farmers already confirm their participation in the Salmon Dinner, projecting its value as a strategic showcase was first published in Mundoacuicola.",
-        "no": "Med mer enn fem lakseoppdrettsselskaper allerede bekreftet, en økende deltakelse fra leverandører, fagforeninger og forskningssentre, fremstår den årlige lakseoppdrettsgallaen som en begivenhet med bred innkalling for selskaper som ønsker å styrke sin tilstedeværelse i det viktigste akvakulturøkosystemet i landet. Oppføringen Lakseoppdrettere bekrefter allerede sin deltakelse i laksemiddagen, og projiserer verdien som et strategisk utstillingsvindu, ble først publisert i Mundoacuicola."
+        "es": "La segunda versión del programa gratuito contempla talleres especializados y mentorías de ejecutivos de Multi X para fortalecer las capacidades de pymes de Aysén vinculadas o interesadas en incorporarse a la cadena de valor de la industria salmonera. La entrada Multi X y Sercotec lanzan segunda Red Pyme Aysén para proveedores de la salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "The second version of the free program includes specialized workshops and mentoring from Multi X executives to strengthen the capabilities of Aysén SMEs linked to or interested in joining the salmon industry value chain. The entry Multi X and Sercotec launch second Aysén Pyme Network for salmon farming suppliers was first published in Mundoacuicola.",
+        "no": "Den andre versjonen av gratisprogrammet inkluderer spesialiserte workshops og veiledning fra Multi X-ledere for å styrke evnene til Aysén SMB-er knyttet til eller interessert i å bli med i lakseindustriens verdikjede. Oppføringen Multi X og Sercotec lanserer det andre Aysén Pyme-nettverket for leverandører av lakseoppdrett ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -197,109 +172,134 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/ParticipanMundoAcuicola222.jpg"
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Multi-X-Red-Pyme-Aysen.png"
     },
     {
       "title": {
-        "es": "Subsecretaria de Ciencia y seremis del Biobío y Ñuble conocen avances del Incar² en acuicultura sostenible",
-        "en": "Undersecretary of Science and seremis of Biobío and Ñuble learn about the progress of Incar² in sustainable aquaculture",
-        "no": "Undersekretær for vitenskap og seremis i Biobío og Ñuble lærer om fremgangen til Incar² innen bærekraftig akvakultur"
+        "es": "Subpesca y gremios avanzan en primera Red de Seguridad y Bienestar Social para la pesca artesanal",
+        "en": "Subpesca and unions advance in the first Safety and Social Welfare Network for artisanal fishing",
+        "no": "Subpesca og fagforeninger går videre i det første nettverket for sikkerhet og sosial velferd for håndverksfiske"
       },
-      "url": "https://www.aqua.cl/subsecretaria-de-ciencia-y-seremi-de-biobio-y-nuble-conocen-avances-de-incar%c2%b2-en-acuicultura-sostenible/",
-      "date": "Fri, 31 Jul 2026 16:16:08 +0000",
+      "url": "https://www.mundoacuicola.cl/new/subpesca-y-gremios-avanzan-en-primera-red-de-seguridad-y-bienestar-social-para-la-pesca-artesanal/",
+      "date": "Wed, 05 Aug 2026 21:29:56 +0000",
       "summary": {
-        "es": "La subsecretaria de Ciencia, Tecnología, Conocimiento e Innovación, Carolina Rossi Pantoja , junto al seremi de Ciencia de las regiones del Biobío y Ñuble, Pedro Ramírez Glade , realizaron una visita protocolar al Centro Interdisciplinario para la Investigación Acuícola-Investigación Aplicada (Incar²), en Concepción, para conocer los avances científicos, los desafíos y las proyecciones de la institución en el desarrollo de investigación aplicada para una acuicultura sostenible. La delegación estuvo integrada además por el asesor de la Subsecretaría de Ciencia, Tomás Rivero ; el profesional de Políticas Públicas de la Seremi de Ciencia Biobío, Pablo Sanhueza Melo ; la coordinadora territorial",
-        "en": "The Undersecretary of Science, Technology, Knowledge and Innovation, Carolina Rossi Pantoja, together with the Seremi of Science of the Biobío and Ñuble regions, Pedro Ramírez Glade, made a protocol visit to the Interdisciplinary Center for Aquaculture Research-Applied Research (Incar²), in Concepción, to learn about the scientific advances, challenges and projections of the institution in the development of applied research for sustainable aquaculture. The delegation was also made up of the advisor to the Undersecretary of Science, Tomás Rivero; the Public Policies professional of the Seremi de Ciencia Biobío, Pablo Sanhueza Melo; the territorial coordinator",
-        "no": "Undersekretæren for vitenskap, teknologi, kunnskap og innovasjon, Carolina Rossi Pantoja, sammen med Seremi of Science i Biobío- og Ñuble-regionene, Pedro Ramírez Glade, foretok et protokollbesøk til det tverrfaglige senteret for akvakulturforskning-anvendt forskning (Incar²), i Concepción, for å lære om de vitenskapelige utfordringene og utviklingen av bærekraftig utvikling av prosjekter. akvakultur. Delegasjonen besto også av rådgiveren til undersekretæren for vitenskap, Tomás Rivero; fagpersonen for offentlige politikker til Seremi de Ciencia Biobío, Pablo Sanhueza Melo; territoriell koordinator"
+        "es": "La Subsecretaría de Pesca y Acuicultura inició junto a confederaciones del sector un proceso para construir una propuesta de protección social para pescadores artesanales, con medidas en salud, seguridad laboral, seguros y modernización del Registro Pesquero Artesanal. La entrada Subpesca y gremios avanzan en primera Red de Seguridad y Bienestar Social para la pesca artesanal se publicó primero en Mundoacuicola .",
+        "en": "La Subsecretaría de Pesca y Acuicultura inició junto a confederaciones del sector un proceso para construir una propuesta de protección social para pescadores artesanales, con medidas en salud, seguridad laboral, seguros y modernización del Registro Pesquero Artesanal. La entrada Subpesca y gremios avanzan en primera Red de Seguridad y Bienestar Social para la pesca artesanal se publicó primero en Mundoacuicola .",
+        "no": "Undersekretariatet for fiskeri og akvakultur startet, sammen med konføderasjoner av sektoren, en prosess for å bygge et forslag til sosial beskyttelse for håndverksfiskere, med tiltak innen helse, arbeidssikkerhet, forsikring og modernisering av håndverksfiskeregisteret. Oppføringen Subpesca og fagforeninger går videre i det første nettverket for sikkerhet og sosial velferd for håndverksfiske ble først publisert i Mundoacuicola."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "industry",
       "category_label": {
         "es": "Industria",
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 6,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-30-at-11.41.01-AM-1024x768.jpeg"
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Pesca-artesanal-seguridad-social.png"
     },
     {
       "title": {
-        "es": "Salmoneras noruegas acusan pérdidas de hasta 40.000 toneladas por el sistema de semáforos",
-        "en": "Norwegian salmon farms accuse losses of up to 40,000 tons due to the traffic light system",
-        "no": "Norske lakseoppdrettsanlegg anklager tap på opptil 40 000 tonn på grunn av lyskrysssystemet"
+        "es": "U. de Chile impulsa envejecimiento activo en Dalcahue con apoyo de la salmonicultura",
+        "en": "U. of Chile promotes active aging in Dalcahue with support from salmon farming",
+        "no": "U. of Chile fremmer aktiv aldring i Dalcahue med støtte fra lakseoppdrett"
       },
-      "url": "https://infosalmon.cl/salmoneras-noruegas-demandan-estado-sistema-semaforos/",
-      "date": "Fri, 31 Jul 2026 18:27:38 +0000",
+      "url": "https://www.mundoacuicola.cl/new/u-de-chile-impulsa-envejecimiento-activo-en-dalcahue-con-apoyo-de-la-salmonicultura/",
+      "date": "Wed, 05 Aug 2026 20:55:55 +0000",
       "summary": {
-        "es": "Un grupo integrado por 21 empresas salmonicultoras, liderado por empresas como Mowi, Lerøy Vest y Alsaker Fjordbruk, junto a productores de menor escala, han interpuesto una nueva demanda colectiva contra el Gobierno Noruego. El objetivo central de la acción legal es revocar las decisiones gubernamentales que imponen reducciones de biomasa bajo el sistema noruego de semáforos. La acción se volvió a retomar tras la resolución adoptada a fines de junio por el Parlamento Noruego, en la que se decretó nuevamente luz roja para el área de producción 3 (PO3). Bajo este marco normativo (diseñado en el año 2017 para mitigar el Caligus), las zonas clasificadas con luz roja están obligadas a recortar s",
-        "en": "A group made up of 21 salmon farming companies, led by companies such as Mowi, Lerøy Vest and Alsaker Fjordbruk, together with smaller scale producers, have filed a new class action lawsuit against the Norwegian Government. The central objective of the legal action is to overturn government decisions imposing biomass reductions under the Norwegian traffic light system. The action was resumed after the resolution adopted at the end of June by the Norwegian Parliament, in which a red light was again decreed for production area 3 (PO3). Under this regulatory framework (designed in 2017 to mitigate Caligus), areas classified as having red light are required to cut s",
-        "no": "En gruppe bestående av 21 lakseoppdrettsselskaper, ledet av selskaper som Mowi, Lerøy Vest og Alsaker Fjordbruk, sammen med mindre skalaprodusenter, har reist et nytt gruppesøksmål mot den norske regjeringen. Det sentrale målet med rettssaken er å omgjøre myndighetsvedtak som pålegger biomassereduksjoner under det norske trafikklyssystemet. Aksjonen ble gjenopptatt etter vedtaket som ble vedtatt i slutten av juni av Stortinget, der det igjen ble vedtatt rødt lys for produksjonsområde 3 (PO3). I henhold til dette regelverket (designet i 2017 for å dempe Caligus), er områder klassifisert som rødt lys pålagt å kutte s."
+        "es": "La Universidad de Chile inició en Dalcahue la quinta edición de su programa para formar líderes en envejecimiento activo y saludable. La iniciativa cuenta con una amplia red de colaboración público-privada, que incluye a Camanchaca, Salmones Antártica e Invermar, y contempla formación, prevención y atención de salud en Chiloé. La entrada U. de Chile impulsa envejecimiento activo en Dalcahue con apoyo de la salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "The University of Chile began the fifth edition of its program to train leaders in active and healthy aging in Dalcahue. The initiative has a broad public-private collaboration network, which includes Camanchaca, Salmones Antártica and Invermar, and includes training, prevention and health care in Chiloé. The entry U. de Chile promotes active aging in Dalcahue with the support of salmon farming was first published in Mundoacuicola.",
+        "no": "Universitetet i Chile startet den femte utgaven av programmet sitt for å trene ledere i aktiv og sunn aldring i Dalcahue. Initiativet har et bredt offentlig-privat samarbeidsnettverk, som inkluderer Camanchaca, Salmones Antártica og Invermar, og inkluderer opplæring, forebygging og helsehjelp i Chiloé. Oppføringen U. de Chile fremmer aktiv aldring i Dalcahue med støtte fra lakseoppdrett ble først publisert i Mundoacuicola."
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Envejecimiento-activo-Dalcahue-salmoneras.png"
+    },
+    {
+      "title": {
+        "es": "Exportaciones superan los US$3.500 millones y la acuicultura mantiene su crecimiento durante 2026",
+        "en": "Exports exceed US$3.5 billion and aquaculture maintains its growth during 2026",
+        "no": "Exportaciones superan los US$3.500 millones y la acuicultura mantiene su crecimiento durante 2026"
+      },
+      "url": "https://www.aqua.cl/exportaciones-superan-los-us-3-500-millones-y-la-acuicultura-mantiene-su-crecimiento-durante-2026/",
+      "date": "Thu, 06 Aug 2026 10:46:00 +0000",
+      "summary": {
+        "es": "La Subsecretaría de Pesca y Acuicultura (Subpesca) publicó una nueva edición del Informe Sectorial de Pesca y Acuicultura, correspondiente al seguimiento de los principales indicadores productivos y comerciales del sector, el que evidencia un escenario de resultados mixtos, donde destaca fundamentalmente el sólido desempeño de la acuicultura y del comercio exterior. En este contextos, las exportaciones pesqueras y acuícolas alcanzaron los US$ 3.524,2 millones al mes de abril de 2026, lo que representa un crecimiento de 5,6% respecto del mismo período del año anterior y un incremento de 22,9% en comparación con el promedio del quinquenio 2021-2025. El sector acuícola continuó mostrando una ev",
+        "en": "La Subsecretaría de Pesca y Acuicultura (Subpesca) publicó una nueva edición del Informe Sectorial de Pesca y Acuicultura, correspondiente al seguimiento de los principales indicadores productivos y comerciales del sector, el que evidencia un escenario de resultados mixtos, donde destaca fundamentalmente el sólido desempeño de la acuicultura y del comercio exterior. En este contextos, las exportaciones pesqueras y acuícolas alcanzaron los US$ 3.524,2 millones al mes de abril de 2026, lo que representa un crecimiento de 5,6% respecto del mismo período del año anterior y un incremento de 22,9% en comparación con el promedio del quinquenio 2021-2025. El sector acuícola continuó mostrando una ev",
+        "no": "Undersekretæren for fiskeri og akvakultur (Subpesca) publiserte en ny utgave av fiskeri- og akvakultursektorens rapport, tilsvarende overvåkingen av de viktigste produktive og kommersielle indikatorene for sektoren, som viser et scenario med blandede resultater, der den solide ytelsen til akvakultur og utenrikshandel skiller seg fundamentalt ut. I denne sammenhengen nådde eksporten av fiske og akvakultur USD 3 524,2 millioner per april 2026, noe som representerer en vekst på 5,6 % sammenlignet med samme periode året før og en økning på 22,9 % sammenlignet med gjennomsnittet for femårsperioden 2021-2025. Havbrukssektoren fortsatte å vise en ev"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
+      },
+      "score": 12,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/subpesca.jpg"
+    },
+    {
+      "title": {
+        "es": "Los resultados del grupo AquaChile se muestran positivos y les devuelven aranceles",
+        "en": "The results of the AquaChile group are positive and they receive tariffs back",
+        "no": "Resultatene til AquaChile-gruppen er positive og de får tariffer tilbake"
+      },
+      "url": "https://www.salmonexpert.cl/agrosuper-aquachile-resultados/los-resultados-del-grupo-aquachile-se-muestran-positivos-y-les-devuelven-aranceles/2162914",
+      "date": "",
+      "summary": {
+        "es": "La salmonicultora controlada por Agrosuper dio a conocer un crecimiento en su EBITDA, el ítem que principalmente, representa qué tan sano está el negocio.",
+        "en": "The salmon farming company controlled by Agrosuper announced a growth in its EBITDA, the item that mainly represents how healthy the business is.",
+        "no": "Lakseoppdrettsselskapet kontrollert av Agrosuper annonserte en vekst i EBITDA, posten som hovedsakelig representerer hvor sunn virksomheten er."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1247680.jpg?imageId=1247680&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Kast prioriza destrabar 24 concesiones salmoneras en Magallanes y las instala entre los ejes de reactivación regional",
+        "en": "Kast prioriza destrabar 24 concesiones salmoneras en Magallanes y las instala entre los ejes de reactivación regional",
+        "no": "Kast prioriterer å frigjøre 24 laksekonsesjoner i Magallanes og installerer dem blant de regionale reaktiveringsaksene"
+      },
+      "url": "https://infosalmon.cl/kast-prioriza-destrabar-24-concesiones-salmoneras-en-magallanes/",
+      "date": "Wed, 05 Aug 2026 22:06:25 +0000",
+      "summary": {
+        "es": "El Gobierno del Presidente José Antonio Kast definió el destrabe de 24 concesiones de salmonicultura en la Región de Magallanes como una de las principales prioridades de su agenda económica para el territorio, marcando una señal relevante para una industria que durante los últimos años ha advertido sobre el impacto de la prolongada tramitación administrativa en el desarrollo de nuevos proyectos y en la competitividad del sector. El anuncio fue realizado por la delegada presidencial regional, Ericka Farías Guerra, quien presentó las principales metas que la administración espera concretar en Magallanes durante su período de gobierno. En el eje económico, la autoridad destacó que se buscará a",
+        "en": "The Government of President José Antonio Kast defined the unblocking of 24 salmon farming concessions in the Magallanes Region as one of the main priorities of its economic agenda for the territory, marking a relevant signal for an industry that in recent years has warned about the impact of the prolonged administrative processing on the development of new projects and on the competitiveness of the sector. The announcement was made by the regional presidential delegate, Ericka Farías Guerra, who presented the main goals that the administration hopes to achieve in Magallanes during its term in office. In the economic axis, the authority highlighted that they will look for",
+        "no": "El Gobierno del Presidente José Antonio Kast definió el destrabe de 24 concesiones de salmonicultura en la Región de Magallanes como una de las principales prioridades de su agenda económica para el territorio, marcando una señal relevante para una industria que durante los últimos años ha advertido sobre el impacto de la prolongada tramitación administrativa en el desarrollo de nuevos proyectos y en la competitividad del sector. El anuncio fue realizado por la delegada presidencial regional, Ericka Farías Guerra, quien presentó las principales metas que la administración espera concretar en Magallanes durante su período de gobierno. En el eje económico, la autoridad destacó que se buscará a"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
       },
       "score": 16,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/06/Ivan-Vindheim-MOWI.jpg"
-    },
-    {
-      "title": {
-        "es": "Salmón chileno llega por primera vez al mercado de Nicaragua",
-        "en": "Chilean salmon arrives for the first time in the Nicaraguan market",
-        "no": "Chilensk laks kommer for første gang til det nicaraguanske markedet"
-      },
-      "url": "https://infosalmon.cl/exportaciones-salmon-chileno-nicaragua/",
-      "date": "Fri, 31 Jul 2026 17:23:23 +0000",
-      "summary": {
-        "es": "El Servicio Nacional de Pesca y Acuicultura ( Sernapesca ) habilitó el ingreso del salmón chileno al mercado nicaragüense, tras concluir las gestiones técnicas y sanitarias con las autoridades de ese país. La apertura se concretó luego de una auditoría realizada en noviembre de 2025 al sistema oficial de control de Chile, que permitió autorizar a ocho establecimientos nacionales para efectuar exportaciones hacia Nicaragua. Si bien dicha autorización se comunicó oficialmente en el mes de marzo, las exportaciones solo podían materializarse al término de las negociaciones del certificado sanitario de exportación. Así, tras la implementación en los sistemas informáticos del Servicio, y como frut",
-        "en": "The National Fisheries and Aquaculture Service (Sernapesca) authorized the entry of Chilean salmon into the Nicaraguan market, after concluding the technical and health procedures with the authorities of that country. The opening took place after an audit carried out in November 2025 of Chile's official control system, which allowed eight national establishments to be authorized to export to Nicaragua. Although this authorization was officially communicated in March, exports could only materialize at the end of the negotiations for the export health certificate. Thus, after implementation in the Service's computer systems, and as a result",
-        "no": "Den nasjonale fiskeri- og akvakulturtjenesten (Sernapesca) godkjente innføring av chilensk laks på det nicaraguanske markedet, etter å ha avsluttet de tekniske og helsemessige prosedyrene med myndighetene i det landet. Åpningen skjedde etter en revisjon utført i november 2025 av Chiles offisielle kontrollsystem, som tillot åtte nasjonale virksomheter å få tillatelse til å eksportere til Nicaragua. Selv om denne autorisasjonen ble offisielt kommunisert i mars, kunne eksport først realiseres ved slutten av forhandlingene om eksporthelsebeviset. Altså etter implementering i Tjenestens datasystemer, og som et resultat"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 14,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/aquachile-nicaragua-1024x576.png"
-    },
-    {
-      "title": {
-        "es": "Corte Suprema blinda la vigencia de las RCA: histórico fallo favorece proyecto salmonero en Los Ríos",
-        "en": "Supreme Court protects the validity of the RCA: historic ruling favors salmon project in Los Ríos",
-        "no": "Høyesterett beskytter gyldigheten av RCA: historisk kjennelse favoriserer lakseprosjektet i Los Ríos"
-      },
-      "url": "https://infosalmon.cl/fallo-favorece-proyecto-salmonero-en-los-rios/",
-      "date": "Sun, 02 Aug 2026 21:14:51 +0000",
-      "summary": {
-        "es": "Un fallo que podría marcar un precedente en la industria salmonera. La Corte Suprema confirmó la sentencia del Tercer Tribunal Ambiental y puso término a la disputa judicial por la Piscicultura Río San Pedro, de Salmones Antártica S.A., rechazando el intento de declarar caduca la Resolución de Calificación Ambiental (RCA) del proyecto. La resolución, dictada el 13 de julio de 2026, no solo ratifica el actuar de la Superintendencia del Medio Ambiente (SMA), sino que además establece un criterio jurídico de alto impacto para el desarrollo de proyectos de inversión en Chile: una RCA no pierde vigencia cuando el proyecto acreditó legalmente el inicio de su ejecución, aunque posteriormente exista",
-        "en": "A ruling that could set a precedent in the salmon industry. The Supreme Court confirmed the ruling of the Third Environmental Court and put an end to the judicial dispute over the Pisciculture Río San Pedro, of Salmones Antártica S.A., rejecting the attempt to declare the Environmental Qualification Resolution (RCA) of the project expired. The resolution, issued on July 13, 2026, not only ratifies the actions of the Superintendency of the Environment (SMA), but also establishes a high-impact legal criterion for the development of investment projects in Chile: an RCA does not lose validity when the project legally accredited the beginning of its execution, even if it subsequently exists",
-        "no": "En dom som kan danne presedens i laksenæringen. Høyesterett bekreftet kjennelsen fra den tredje miljødomstolen og satte en stopper for den rettslige striden om Pisciculture Río San Pedro, fra Salmones Antártica S.A., og avviste forsøket på å erklære miljøkvalifikasjonsresolusjonen (RCA) for prosjektet utløpt. Resolusjonen, utstedt 13. juli 2026, ratifiserer ikke bare handlingene til Superintendency of the Environment (SMA), men etablerer også et juridisk kriterium med stor innvirkning for utvikling av investeringsprosjekter i Chile: en RCA mister ikke gyldigheten når prosjektet lovlig akkrediterte begynnelsen av gjennomføringen, selv om det senere eksisterer"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 9,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Piscicultura-Rio-San-Pedro_-Tercer-Tribunal-Ambiental_.png"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Presidente-Jose-Antonio-Kast-Radio-Biobio-e1785967168176.jpg"
     }
   ]
 }
