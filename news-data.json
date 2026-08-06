@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T13:43:58Z",
+  "updated": "2026-08-06T20:52:37Z",
   "articles": [
     {
       "title": {
@@ -28,16 +28,16 @@
     },
     {
       "title": {
-        "es": "SRS y Tenacibaculosis bajo la lupa: revelan sus mayores factores de riesgo en el salmón chileno",
-        "en": "SRS and Tenacibaculosis under the microscope: their greatest risk factors in Chilean salmon are revealed",
-        "no": "SRS og Tenacibaculosis under mikroskopet: deres største risikofaktorer i chilensk laks blir avslørt"
+        "es": "La urgencia de compartir datos en tiempo real en salmonicultura: \"Seguimos trabajando como islas\"",
+        "en": "The urgency of sharing real-time data in salmon farming: \"We continue working as islands\"",
+        "no": "Det haster med å dele sanntidsdata i lakseoppdrett: \"Vi fortsetter å jobbe som øyer\""
       },
-      "url": "https://www.salmonexpert.cl/epidemiologia-piscirickettsia-sernapesca/srs-y-tenacibaculosis-bajo-la-lupa-revelan-sus-mayores-factores-de-riesgo-en-el-salmon-chileno/2158710",
+      "url": "https://www.salmonexpert.cl/cermaq-cermaq-chile-data/la-urgencia-de-compartir-datos-en-tiempo-real-en-salmonicultura-seguimos-trabajando-como-islas/2160757",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "Respecto a las proyecciones operativas para el ciclo 2026-2027, William Toro de Cermaq Chile, afirmó que el escenario se define por una \"alta incertidumbre\".",
+        "en": "Regarding operational projections for the 2026-2027 cycle, William Toro of Cermaq Chile, stated that the scenario is defined by \"high uncertainty.\"",
+        "no": "Når det gjelder operasjonelle anslag for syklusen 2026-2027, uttalte William Toro fra Cermaq Chile at scenariet er definert av \"høy usikkerhet.\""
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -47,9 +47,59 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
+      "score": 3,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2158718.jpg?imageId=2158718&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2160763.jpg?imageId=2160763&x=0&y=5.59&cropw=100&croph=84.87&panox=0&panoy=5.59&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Plan Salmón 2050 analizará en Quellón los desafíos laborales de la salmonicultura",
+        "en": "Salmon Plan 2050 will analyze the labor challenges of salmon farming in Quellón",
+        "no": "Lakseplan 2050 vil analysere arbeidsutfordringene ved lakseoppdrett i Quellón"
+      },
+      "url": "https://www.aqua.cl/segunda-sesion-del-plan-salmon-2050-abordara-en-quellon-los-desafios-laborales-de-la-salmonicultura/",
+      "date": "Thu, 06 Aug 2026 14:00:00 +0000",
+      "summary": {
+        "es": "La Segunda Sesión 2026 del Plan Salmón 2050, instancia de diálogo y trabajo que reúne a autoridades, representantes de los trabajadores, gremios, empresas, academia y organismos públicos para abordar los desafíos estratégicos de la salmonicultura en el sur de Chile, se realizará en Quellón. La jornada contará con la presencia del subsecretario del Trabajo, Gustavo Rosende, y tendrá como propósito generar un espacio de análisis y diálogo entre autoridades, organismos públicos, organizaciones sindicales, empresas, gremios, universidades y demás actores vinculados al sector, en torno a dos materias principales: salud ocupacional y enfermedades profesionales, y formación y capacitación laboral. ",
+        "en": "The Second Session 2026 of the Salmon Plan 2050, an instance of dialogue and work that brings together authorities, worker representatives, unions, companies, academia and public organizations to address the strategic challenges of salmon farming in southern Chile, will be held in Quellón. The event will be attended by the Undersecretary of Labor, Gustavo Rosende, and will have the purpose of generating a space for analysis and dialogue between authorities, public organizations, union organizations, companies, unions, universities and other actors linked to the sector, around two main subjects: occupational health and occupational diseases, and job training and training.",
+        "no": "Den andre sesjonen 2026 av lakseplanen 2050, en instans av dialog og arbeid som samler myndigheter, arbeidstakerrepresentanter, fagforeninger, bedrifter, akademia og offentlige organisasjoner for å møte de strategiske utfordringene ved lakseoppdrett i det sørlige Chile, vil bli holdt i Quellón. Arrangementet vil bli deltatt av arbeidsminister Gustavo Rosende, og skal ha som formål å skape et rom for analyse og dialog mellom myndigheter, offentlige organisasjoner, fagforeninger, bedrifter, fagforeninger, universiteter og andre aktører knyttet til sektoren, rundt to hovedtema: yrkesrelatert helse og yrkessykdommer, samt arbeidstrening og opplæring."
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-05-at-6.12.25-PM.jpeg"
+    },
+    {
+      "title": {
+        "es": "Próximamente cierra el plazo para enviar resúmenes para Conferencia Internacional de SRS 2026",
+        "en": "The deadline to submit abstracts for the 2026 SRS International Conference closes soon",
+        "no": "Fristen for å sende inn sammendrag for 2026 SRS International Conference stenger snart"
+      },
+      "url": "https://infosalmon.cl/proximamente-cierra-el-plazo-para-enviar-resumenes-para-conferencia-internacional-de-srs-2026/",
+      "date": "Thu, 06 Aug 2026 17:11:12 +0000",
+      "summary": {
+        "es": "Hasta el 15 de agosto estará habilitada, a través del sitio web de la conferencia, la recepción de resúmenes para quienes deseen formar parte del Programa Científico de la primera “International Conference on Salmon Rickettsial Syndrome (SRS2026): Integrating Science, Industry and Policy for Sustainable Salmon Aquaculture”, que se realizará entre los días 9 y 11 de noviembre de 2026 en Puerto Varas, Chile. Las modalidades de presentación consideradas para la conferencia corresponden a exposiciones orales y pósteres. Los formatos, requisitos y condiciones para el envío de los resúmenes se encuentran disponibles en el siguiente enlace: https://www.srs2026conference.cl/abtract La conferencia, q",
+        "en": "Until August 15, the reception of abstracts will be enabled through the conference website for those who wish to be part of the Scientific Program of the first “International Conference on Salmon Rickettsial Syndrome (SRS2026): Integrating Science, Industry and Policy for Sustainable Salmon Aquaculture”, which will be held between November 9 and 11, 2026 in Puerto Varas, Chile. The presentation modalities considered for the conference correspond to oral presentations and posters. The formats, requirements and conditions for sending abstracts are available at the following link: https://www.srs2026conference.cl/abtract The conference, which",
+        "no": "Frem til 15. august vil mottak av abstracts være mulig gjennom konferansens nettside for de som ønsker å være en del av det vitenskapelige programmet til den første \"International Conference on Salmon Rickettsial Syndrome (SRS2026): Integrating Science, Industry and Policy for Sustainable Salmon Aquaculture\", som vil bli avholdt mellom 9. og 16. november i Puerto Varas, 20, Chile. Presentasjonsmodalitetene som vurderes for konferansen tilsvarer muntlige presentasjoner og postere. Formatene, kravene og betingelsene for å sende sammendrag er tilgjengelige på følgende lenke: https://www.srs2026conference.cl/abtract Konferansen, som"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Envio-de-resumenes-SRS-2026_Creditos-INCAR.jpeg"
     },
     {
       "title": {
@@ -72,34 +122,9 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2162218.jpg?imageId=2162218&x=0&y=20.37&cropw=100&croph=79.63&panox=0&panoy=20.37&panow=100&panoh=79.63&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Vitapro impulsa la acuicultura sostenible con innovación y acción climática",
-        "en": "Vitapro promotes sustainable aquaculture with innovation and climate action",
-        "no": "Vitapro fremmer bærekraftig havbruk med innovasjon og klimatiltak"
-      },
-      "url": "https://www.aqua.cl/vitapro-impulsa-la-acuicultura-sostenible-con-innovacion-y-accion-climatica/",
-      "date": "Wed, 05 Aug 2026 19:00:00 +0000",
-      "summary": {
-        "es": "Vitapro, empresa líder en soluciones nutricionales para la acuicultura en Latinoamérica y parte de Alicorp, presentó su Memoria de Sostenibilidad 2025 , documento que recoge los principales avances de la compañía en materia productiva, ambiental y social, reafirmando su propósito de Transformar la acuicultura. Nutrir el mañana. Durante 2025, la compañía superó las 933 mil toneladas de alimento balanceado producidas, lo que representó un crecimiento de 38% respecto al año anterior. Asimismo, más del 70% de sus ventas provinieron de productos desarrollados en sus Centros Experimentales Acuícolas (CEAs), reflejando el papel estratégico de la ciencia, la investigación y la innovación en el desar",
-        "en": "Vitapro, a leading company in nutritional solutions for aquaculture in Latin America and part of Alicorp, presented its 2025 Sustainability Report, a document that includes the company's main advances in productive, environmental and social matters, reaffirming its purpose of Transforming aquaculture. Nourish tomorrow. During 2025, the company exceeded 933 thousand tons of balanced feed produced, which represented a growth of 38% compared to the previous year. Likewise, more than 70% of its sales came from products developed in its Experimental Aquaculture Centers (CEAs), reflecting the strategic role of science, research and innovation in the development",
-        "no": "Vitapro, et ledende selskap innen ernæringsløsninger for akvakultur i Latin-Amerika og en del av Alicorp, presenterte sin bærekraftsrapport for 2025, et dokument som inkluderer selskapets viktigste fremskritt innen produktive, miljømessige og sosiale forhold, og bekreftet formålet med å transformere akvakultur. Gi næring i morgen. I løpet av 2025 oversteg selskapet 933 tusen tonn produsert balansert fôr, noe som representerte en vekst på 38 % sammenlignet med året før. På samme måte kom mer enn 70 % av salget fra produkter utviklet i deres eksperimentelle akvakultursentre (CEA), noe som gjenspeiler den strategiske rollen til vitenskap, forskning og innovasjon i utviklingen"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
       "score": 12,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Nicovita-799x1024.png"
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2162218.jpg?imageId=2162218&x=0&y=20.37&cropw=100&croph=79.63&panox=0&panoy=20.37&panow=100&panoh=79.63&width=1200&height=683"
     },
     {
       "title": {
@@ -128,44 +153,19 @@
     },
     {
       "title": {
-        "es": "Jaula Solar de Mowi Chile, el proyecto reconocido en los 50 años de la salmonicultura por su aporte a la innovación",
-        "en": "Mowi Chile Solar Cage, the project recognized in the 50 years of salmon farming for its contribution to innovation",
-        "no": "Mowi Chile Solar Cage, prosjektet anerkjent i de 50 årene med lakseoppdrett for sitt bidrag til innovasjon"
+        "es": "Por cifras emitidas por Suseso: Agrupaysén refuerza compromiso con la seguridad",
+        "en": "According to figures issued by Suseso: Agrupaysén reinforces commitment to security",
+        "no": "I følge tall utstedt av Suseso: Agrupaysén forsterker forpliktelsen til sikkerhet"
       },
-      "url": "https://www.mundoacuicola.cl/new/jaula-solar-de-mowi-chile-el-proyecto-reconocido-en-los-50-anos-de-la-salmonicultura-por-su-aporte-a-la-innovacion/",
-      "date": "Wed, 05 Aug 2026 21:51:25 +0000",
+      "url": "https://www.aqua.cl/por-cifras-emitidas-por-suseso-agrupaysen-refuerza-compromiso-con-la-seguridad/",
+      "date": "Thu, 06 Aug 2026 19:00:00 +0000",
       "summary": {
-        "es": "La iniciativa fue distinguida con el Sello Salmón, reconocimiento creado por Mundo Acuícola en el marco de la conmemoración de los 50 años de la salmonicultura chilena para relevar a personas, equipos e iniciativas que han realizado aportes significativos al desarrollo de la industria. La entrada Jaula Solar de Mowi Chile, el proyecto reconocido en los 50 años de la salmonicultura por su aporte a la innovación se publicó primero en Mundoacuicola .",
-        "en": "The initiative was awarded the Salmon Seal, a recognition created by Mundo Acuícola within the framework of the commemoration of 50 years of Chilean salmon farming to recognize people, teams and initiatives that have made significant contributions to the development of the industry. The Solar Cage entry from Mowi Chile, the project recognized in the 50 years of salmon farming for its contribution to innovation, was first published in Mundoacuicola.",
-        "no": "Initiativet ble tildelt Salmon Seal, en anerkjennelse skapt av Mundo Acuícola innenfor rammen av markeringen av 50 år med chilensk lakseoppdrett for å anerkjenne mennesker, team og initiativ som har gitt betydelige bidrag til utviklingen av industrien. Solar Cage-bidraget fra Mowi Chile, prosjektet anerkjent i 50 år med lakseoppdrett for sitt bidrag til innovasjon, ble først publisert i Mundoacuicola."
+        "es": "La Asociación Gremial de Proveedores de Servicios Acuícolas de Aysén (Agrupaysén) se refirió a las cifras de mortalidad laboral divulgadas recientemente por la Superintendencia de Seguridad Social (Suseso) en la región, vinculadas con accidentes ocurridos en faenas de servicios para la acuicultura. A través de una declaración pública, el gremio lamentó el fallecimiento de trabajadores en el mar de Aysén y expresó sus condolencias a las familias, amistades y compañeros de labores de las personas afectadas. “La muerte de un trabajador es un hecho trágico que trasciende cualquier análisis técnico, golpea a las familias y conmueve a toda la comunidad regional y a una industria completa”, manifes",
+        "en": "The Guild Association of Aquaculture Service Providers of Aysén (Agrupaysén) referred to the occupational mortality figures recently released by the Superintendency of Social Security (Suseso) in the region, linked to accidents that occurred in aquaculture services tasks. Through a public statement, the union regretted the death of workers in the Aysén Sea and expressed its condolences to the families, friends and co-workers of the affected people. “The death of a worker is a tragic event that transcends any technical analysis, hits families and moves the entire regional community and an entire industry,” they said.",
+        "no": "Guild Association of Aquaculture Service Providers of Aysén (Agrupaysén) refererte til tallene for yrkesdødelighet som nylig ble offentliggjort av Superintendency of Social Security (Suseso) i regionen, knyttet til ulykker som skjedde i akvakulturtjenester. Gjennom en offentlig uttalelse beklaget fagforeningen arbeidernes død i Aysénhavet og uttrykte sin kondolans til familiene, vennene og medarbeiderne til de berørte menneskene. \"En arbeiders død er en tragisk hendelse som overskrider enhver teknisk analyse, rammer familier og beveger hele det regionale samfunnet og en hel industri,\" sa de."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 11,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Mowi-equipo-jaula-solar.png"
-    },
-    {
-      "title": {
-        "es": "Multi X y Sercotec lanzan segunda Red Pyme Aysén para proveedores de la salmonicultura",
-        "en": "Multi X and Sercotec launch second Aysén Pyme Network for salmon farming suppliers",
-        "no": "Multi X og Sercotec lanserer andre Aysén Pyme Network for leverandører av lakseoppdrett"
-      },
-      "url": "https://www.mundoacuicola.cl/new/multi-x-y-sercotec-lanzan-segunda-red-pyme-aysen-para-proveedores-de-la-salmonicultura/",
-      "date": "Wed, 05 Aug 2026 21:55:54 +0000",
-      "summary": {
-        "es": "La segunda versión del programa gratuito contempla talleres especializados y mentorías de ejecutivos de Multi X para fortalecer las capacidades de pymes de Aysén vinculadas o interesadas en incorporarse a la cadena de valor de la industria salmonera. La entrada Multi X y Sercotec lanzan segunda Red Pyme Aysén para proveedores de la salmonicultura se publicó primero en Mundoacuicola .",
-        "en": "The second version of the free program includes specialized workshops and mentoring from Multi X executives to strengthen the capabilities of Aysén SMEs linked to or interested in joining the salmon industry value chain. The entry Multi X and Sercotec launch second Aysén Pyme Network for salmon farming suppliers was first published in Mundoacuicola.",
-        "no": "Den andre versjonen av gratisprogrammet inkluderer spesialiserte workshops og veiledning fra Multi X-ledere for å styrke evnene til Aysén SMB-er knyttet til eller interessert i å bli med i lakseindustriens verdikjede. Oppføringen Multi X og Sercotec lanserer det andre Aysén Pyme-nettverket for leverandører av lakseoppdrett ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -173,24 +173,24 @@
         "no": "Bransjenyheter"
       },
       "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Multi-X-Red-Pyme-Aysen.png"
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/directorio-AgrupAysen.jpeg"
     },
     {
       "title": {
-        "es": "Subpesca y gremios avanzan en primera Red de Seguridad y Bienestar Social para la pesca artesanal",
-        "en": "Subpesca and unions advance in the first Safety and Social Welfare Network for artisanal fishing",
-        "no": "Subpesca og fagforeninger går videre i det første nettverket for sikkerhet og sosial velferd for håndverksfiske"
+        "es": "El futuro de la salmonicultura crece con talento técnico y profesional",
+        "en": "The future of salmon farming grows with technical and professional talent",
+        "no": "Fremtiden for lakseoppdrett vokser med teknisk og faglig talent"
       },
-      "url": "https://www.mundoacuicola.cl/new/subpesca-y-gremios-avanzan-en-primera-red-de-seguridad-y-bienestar-social-para-la-pesca-artesanal/",
-      "date": "Wed, 05 Aug 2026 21:29:56 +0000",
+      "url": "https://infosalmon.cl/formacion-talento-salmonicultura-chile/",
+      "date": "Wed, 05 Aug 2026 23:25:01 +0000",
       "summary": {
-        "es": "La Subsecretaría de Pesca y Acuicultura inició junto a confederaciones del sector un proceso para construir una propuesta de protección social para pescadores artesanales, con medidas en salud, seguridad laboral, seguros y modernización del Registro Pesquero Artesanal. La entrada Subpesca y gremios avanzan en primera Red de Seguridad y Bienestar Social para la pesca artesanal se publicó primero en Mundoacuicola .",
-        "en": "The Undersecretariat of Fisheries and Aquaculture began, together with confederations of the sector, a process to build a social protection proposal for artisanal fishermen, with measures in health, occupational safety, insurance and modernization of the Artisanal Fisheries Registry. The entry Subpesca and unions advance in the first Safety and Social Welfare Network for artisanal fishing was first published in Mundoacuicola.",
-        "no": "Undersekretariatet for fiskeri og akvakultur startet, sammen med konføderasjoner av sektoren, en prosess for å bygge et forslag til sosial beskyttelse for håndverksfiskere, med tiltak innen helse, arbeidssikkerhet, forsikring og modernisering av håndverksfiskeregisteret. Oppføringen Subpesca og fagforeninger går videre i det første nettverket for sikkerhet og sosial velferd for håndverksfiske ble først publisert i Mundoacuicola."
+        "es": "Las industrias de la acuicultura y la salmonicultura han sido motores fundamentales para el desarrollo económico y social de Chile. Su aporte al empleo —directo en indirecto— a lo largo de toda la cadena productiva, así como a las exportaciones y al dinamismo de las economías regionales, las posiciona como parte de los sectores más relevantes del país. Al mismo tiempo, es un sector que enfrenta desafíos cada vez más complejos, incluyendo una creciente competencia internacional, la necesidad de innovación tecnológica, la sostenibilidad y la evolución de su marco regulatorio. En este escenario de tensiones y oportunidades, hay un factor que resulta decisivo e impostergable: la formación de aqu",
+        "en": "The aquaculture and salmon farming industries have been fundamental drivers for the economic and social development of Chile. Their contribution to employment—direct and indirect—along the entire production chain, as well as to exports and the dynamism of regional economies, positions them as part of the most relevant sectors in the country. At the same time, it is a sector that faces increasingly complex challenges, including growing international competition, the need for technological innovation, sustainability and the evolution of its regulatory framework. In this scenario of tensions and opportunities, there is a factor that is decisive and cannot be postponed: the formation of here",
+        "no": "Akvakultur- og lakseoppdrettsnæringene har vært grunnleggende drivere for den økonomiske og sosiale utviklingen i Chile. Deres bidrag til sysselsetting – direkte og indirekte – langs hele produksjonskjeden, samt til eksport og dynamikken i regionale økonomier, posisjonerer dem som en del av de mest relevante sektorene i landet. Samtidig er det en sektor som står overfor stadig mer komplekse utfordringer, inkludert økende internasjonal konkurranse, behovet for teknologisk innovasjon, bærekraft og utviklingen av dets regelverk. I dette scenariet med spenninger og muligheter er det en faktor som er avgjørende og ikke kan utsettes: dannelsen av her"
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -198,33 +198,58 @@
         "no": "Bransjenyheter"
       },
       "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Pesca-artesanal-seguridad-social.png"
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Maria-Elba-Chahuan-vicepresidenta-y-fundadora-de-Union-Emprendedora-350x250.jpg"
     },
     {
       "title": {
-        "es": "U. de Chile impulsa envejecimiento activo en Dalcahue con apoyo de la salmonicultura",
-        "en": "U. of Chile promotes active aging in Dalcahue with support from salmon farming",
-        "no": "U. of Chile fremmer aktiv aldring i Dalcahue med støtte fra lakseoppdrett"
+        "es": "La salmonicultura también se fortalece cuando crecen las pymes",
+        "en": "Salmon farming also strengthens when SMEs grow",
+        "no": "Lakseoppdrett styrkes også når små og mellomstore bedrifter vokser"
       },
-      "url": "https://www.mundoacuicola.cl/new/u-de-chile-impulsa-envejecimiento-activo-en-dalcahue-con-apoyo-de-la-salmonicultura/",
-      "date": "Wed, 05 Aug 2026 20:55:55 +0000",
+      "url": "https://infosalmon.cl/la-salmonicultura-tambien-se-fortalece-cuando-crecen-las-pymes/",
+      "date": "Thu, 06 Aug 2026 20:12:22 +0000",
       "summary": {
-        "es": "La Universidad de Chile inició en Dalcahue la quinta edición de su programa para formar líderes en envejecimiento activo y saludable. La iniciativa cuenta con una amplia red de colaboración público-privada, que incluye a Camanchaca, Salmones Antártica e Invermar, y contempla formación, prevención y atención de salud en Chiloé. La entrada U. de Chile impulsa envejecimiento activo en Dalcahue con apoyo de la salmonicultura se publicó primero en Mundoacuicola .",
-        "en": "The University of Chile began the fifth edition of its program to train leaders in active and healthy aging in Dalcahue. The initiative has a broad public-private collaboration network, which includes Camanchaca, Salmones Antártica and Invermar, and includes training, prevention and health care in Chiloé. The entry U. de Chile promotes active aging in Dalcahue with the support of salmon farming was first published in Mundoacuicola.",
-        "no": "Universitetet i Chile startet den femte utgaven av programmet sitt for å trene ledere i aktiv og sunn aldring i Dalcahue. Initiativet har et bredt offentlig-privat samarbeidsnettverk, som inkluderer Camanchaca, Salmones Antártica og Invermar, og inkluderer opplæring, forebygging og helsehjelp i Chiloé. Oppføringen U. de Chile fremmer aktiv aldring i Dalcahue med støtte fra lakseoppdrett ble først publisert i Mundoacuicola."
+        "es": "Cada vez que hablamos de salmonicultura solemos mirar los grandes números de exportaciones, toneladas producidas o mercados internacionales, pero pocas veces ponemos el foco en las miles de pequeñas empresas y emprendedores que, con su trabajo diario, hacen posible que una de las principales industrias del país siga creciendo. Y esa es una conversación que Chile necesita dar. Durante 2025, el salmón chileno exportó US$6.552 millones, consolidándose por tercer año consecutivo como el segundo producto de exportación, representando el 6% de las exportaciones nacionales y el 17% de las exportaciones no mineras, con presencia en más de 100 mercados alrededor del mundo. Son cifras que hablan de un",
+        "en": "Every time we talk about salmon farming we usually look at the large numbers of exports, tons produced or international markets, but we rarely focus on the thousands of small businesses and entrepreneurs who, with their daily work, make it possible for one of the country's main industries to continue growing. And that is a conversation that Chile needs to have. During 2025, Chilean salmon exported US$6,552 million, consolidating itself for the third consecutive year as the second export product, representing 6% of national exports and 17% of non-mining exports, with a presence in more than 100 markets around the world. These are figures that speak of a",
+        "no": "Hver gang vi snakker om lakseoppdrett ser vi vanligvis på det store antallet eksport, tonn produsert eller internasjonale markeder, men vi fokuserer sjelden på de tusenvis av småbedrifter og gründere som med sitt daglige arbeid gjør det mulig for en av landets hovednæringer å fortsette å vokse. Og det er en samtale som Chile må ha. I løpet av 2025 eksporterte chilensk laks 6 552 millioner dollar, og konsoliderte seg for tredje år på rad som det andre eksportproduktet, og representerte 6 % av nasjonal eksport og 17 % av ikke-gruveeksporten, med tilstedeværelse i mer enn 100 markeder rundt om i verden. Dette er tall som snakker om en"
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
       "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 10,
+      "score": 16,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Envejecimiento-activo-Dalcahue-salmoneras.png"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Maria-Elba-Chahuan-vicepresidenta-y-fundadora-de-Union-Emprendedora.jpg"
+    },
+    {
+      "title": {
+        "es": "Salmón chileno lidera exportaciones no mineras a Brasil con envíos por US$853 millones",
+        "en": "Chilean salmon leads non-mining exports to Brazil with shipments of US$853 million",
+        "no": "Chilensk laks leder ikke-gruvedrift til Brasil med forsendelser på 853 millioner dollar"
+      },
+      "url": "https://infosalmon.cl/salmon-chileno-brasil-exportaciones-2025/",
+      "date": "Thu, 06 Aug 2026 17:08:22 +0000",
+      "summary": {
+        "es": "Con exportaciones cercanas a los US$796 millones durante 2025, Brasil consolidó su posición como uno de los mercados más relevantes para la salmonicultura chilena. En este contexto, el Consejo del Salmón destacó la gira oficial del canciller Francisco Pérez Mackenna como una oportunidad para profundizar la relación económica entre ambos países, fortalecer la articulación público-privada y abrir nuevos espacios para el crecimiento de los productos nacionales en el mercado brasileño. La presidenta ejecutiva del Consejo del Salmón, Loreto Seguel, sostuvo que «Brasil es mucho más que un mercado para el salmón chileno. Es un socio estratégico con el que hemos construido una relación de largo plaz",
+        "en": "With exports close to US$796 million during 2025, Brazil consolidated its position as one of the most relevant markets for Chilean salmon farming. In this context, the Salmon Council highlighted the official tour of Foreign Minister Francisco Pérez Mackenna as an opportunity to deepen the economic relationship between both countries, strengthen public-private coordination and open new spaces for the growth of national products in the Brazilian market. The executive president of the Salmon Council, Loreto Seguel, said that \"Brazil is much more than a market for Chilean salmon. It is a strategic partner with whom we have built a long-term relationship.",
+        "no": "Med eksport nær US$796 millioner i løpet av 2025, konsoliderte Brasil sin posisjon som et av de mest relevante markedene for chilensk lakseoppdrett. I denne sammenhengen fremhevet Lakserådet den offisielle omvisningen til utenriksminister Francisco Pérez Mackenna som en mulighet til å utdype det økonomiske forholdet mellom begge land, styrke offentlig-privat koordinering og åpne nye rom for vekst av nasjonale produkter i det brasilianske markedet. Den administrerende presidenten for lakserådet, Loreto Seguel, sa at \"Brasil er mye mer enn et marked for chilensk laks. Det er en strategisk partner som vi har bygget et langsiktig forhold til."
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/CDS_Brasil_2.jpeg"
     },
     {
       "title": {
@@ -250,31 +275,6 @@
       "score": 12,
       "cross_source": false,
       "image": "https://www.aqua.cl/wp-content/uploads/2026/08/subpesca.jpg"
-    },
-    {
-      "title": {
-        "es": "Los resultados del grupo AquaChile se muestran positivos y les devuelven aranceles",
-        "en": "The results of the AquaChile group are positive and they receive tariffs back",
-        "no": "Resultatene til AquaChile-gruppen er positive og de får tariffer tilbake"
-      },
-      "url": "https://www.salmonexpert.cl/agrosuper-aquachile-resultados/los-resultados-del-grupo-aquachile-se-muestran-positivos-y-les-devuelven-aranceles/2162914",
-      "date": "",
-      "summary": {
-        "es": "La salmonicultora controlada por Agrosuper dio a conocer un crecimiento en su EBITDA, el ítem que principalmente, representa qué tan sano está el negocio.",
-        "en": "The salmon farming company controlled by Agrosuper announced a growth in its EBITDA, the item that mainly represents how healthy the business is.",
-        "no": "Lakseoppdrettsselskapet kontrollert av Agrosuper annonserte en vekst i EBITDA, posten som hovedsakelig representerer hvor sunn virksomheten er."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 8,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1247680.jpg?imageId=1247680&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
