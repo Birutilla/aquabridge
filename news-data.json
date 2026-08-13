@@ -1,68 +1,93 @@
 {
-  "updated": "2026-08-10T13:33:05Z",
+  "updated": "2026-08-13T16:03:42Z",
   "articles": [
     {
       "title": {
-        "es": "InfoSALMON se convierte en el primer medio acuícola en integrar inteligencia artificial a la industria",
-        "en": "InfoSALMON becomes the first aquaculture environment to integrate artificial intelligence into the industry",
-        "no": "InfoSALMON blir det første akvakulturmiljøet som integrerer kunstig intelligens i næringen"
+        "es": "Estudio identifica nuevas moléculas vinculadas a la defensa de la trucha frente al SRS",
+        "en": "Study identifies new molecules linked to trout defense against SRS",
+        "no": "Studien identifiserer nye molekyler knyttet til ørretforsvar mot SRS"
       },
-      "url": "https://infosalmon.cl/infosalmon-integra-asistente-inteligencia-artificial-periodismo-acuicola/",
-      "date": "Fri, 07 Aug 2026 16:06:40 +0000",
+      "url": "https://www.aqua.cl/estudio-identifica-nuevas-moleculas-vinculadas-a-la-defensa-de-la-trucha-frente-al-srs/",
+      "date": "Thu, 13 Aug 2026 10:46:00 +0000",
       "summary": {
-        "es": "La integración busca responder a la creciente demanda de análisis rápido y preciso dentro de la industria salmonera y pesquera. A través de este módulo, la audiencia podrá interactuar directamente con los artículos para sintetizar informes extensos o consultar términos técnicos en tiempo real. Todo el funcionamiento del asistente se apoya exclusivamente sobre la base de datos de artículos y reportajes elaborados por el equipo de InfoSALMON, garantizando la fidelidad y el rigor de la información que caracteriza al medio. Un desarrollo pensado para las exigencias del sector Sobre el alcance de esta implementación, Juan José Cáceres, encargado de Desarrollo de Nuevos Canales de InfoSALMON, dest",
-        "en": "The integration seeks to respond to the growing demand for rapid and accurate analysis within the salmon and fishing industry. Through this module, the audience will be able to interact directly with the articles to synthesize extensive reports or consult technical terms in real time. The entire operation of the assistant is based exclusively on the database of articles and reports prepared by the InfoSALMON team, guaranteeing the fidelity and rigor of the information that characterizes the medium. A development designed for the demands of the sector Regarding the scope of this implementation, Juan José Cáceres, in charge of Development of New Channels at InfoSALMON, dest",
-        "no": "Integrasjonen søker å svare på den økende etterspørselen etter raske og nøyaktige analyser innen lakse- og fiskeindustrien. Gjennom denne modulen vil publikum kunne samhandle direkte med artiklene for å syntetisere omfattende rapporter eller konsultere tekniske termer i sanntid. Hele operasjonen til assistenten er utelukkende basert på databasen med artikler og rapporter utarbeidet av InfoSALMON-teamet, og garanterer trofastheten og strengheten til informasjonen som kjennetegner mediet. En utvikling designet for sektorens krav Når det gjelder omfanget av denne implementeringen, har Juan José Cáceres, ansvarlig for utvikling av nye kanaler hos InfoSALMON, dest."
+        "es": "Un equipo de investigadores de la Universidad Andrés Bello, de la Pontificia Universidad Católica de Chile y del Centro Interdisciplinario para la Investigación Acuícola – Investigación Aplicada, INCAR², ha revelado recientemente cómo unas moléculas llamadas ARN de cadena larga no codificante (lncRNA) orquestan la respuesta inmunológica en el músculo de la trucha arcoíris frente al ataque de la bacteria&nbsp; Piscirickettsia salmonis . El estudio publicado en julio de 2026 y liderado por los integrantes de la línea “Estrés y Bienestar Animal”, de INCAR², Dr. Rodrigo Zuloaga y Dr. Juan Antonio Valdés, utilizó tecnología de secuenciación avanzada para analizar tanto el tejido muscular de los p",
+        "en": "A team of researchers from the Andrés Bello University, the Pontifical Catholic University of Chile and the Interdisciplinary Center for Aquaculture Research – Applied Research, INCAR², has recently revealed how molecules called long-chain non-coding RNA (lncRNA) orchestrate the immune response in the muscle of rainbow trout against the attack of the bacteria&nbsp; Piscirickettsia salmonis. The study published in July 2026 and led by the members of INCAR²'s “Animal Stress and Wellbeing” line, Dr. Rodrigo Zuloaga and Dr. Juan Antonio Valdés, used advanced sequencing technology to analyze both the muscle tissue of the p",
+        "no": "Et team av forskere fra Andrés Bello-universitetet, det pavelige katolske universitetet i Chile og det tverrfaglige senteret for akvakulturforskning – anvendt forskning, INCAR², har nylig avslørt hvordan molekyler kalt langkjedet ikke-kodende RNA (lncRNA) orkestrerer immunresponsen i muskelen til regnbueørret mot angrepet av bakterien&nbsp; Piscirickettsia salmonis. Studien publisert i juli 2026 og ledet av medlemmene av INCAR²s \"Animal Stress and Wellbeing\"-linje, Dr. Rodrigo Zuloaga og Dr. Juan Antonio Valdés, brukte avansert sekvenseringsteknologi for å analysere både muskelvevet i p"
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 8,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Foto-ASISTENCIA-IA-INFOSALMON-1.png"
+      "score": 12,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/rainbowtrout.jpg"
     },
     {
       "title": {
-        "es": "Innovasea destaca el monitoreo por profundidad como una herramienta clave para la acuicultura en mar abierto",
-        "en": "Innovasea highlights depth monitoring as a key tool for open sea aquaculture",
-        "no": "Innovasea fremhever dybdeovervåking som et sentralt verktøy for havbruk i åpent hav"
+        "es": "La urgencia de compartir datos en tiempo real en salmonicultura: \"Seguimos trabajando como islas\"",
+        "en": "The urgency of sharing real-time data in salmon farming: \"We continue working as islands\"",
+        "no": "Det haster med å dele sanntidsdata i lakseoppdrett: \"Vi fortsetter å jobbe som øyer\""
       },
-      "url": "https://infosalmon.cl/monitoreo-por-profundidad-acuicultura-mar-abierto/",
-      "date": "Fri, 07 Aug 2026 16:01:59 +0000",
+      "url": "https://www.salmonexpert.cl/cermaq-cermaq-chile-data/la-urgencia-de-compartir-datos-en-tiempo-real-en-salmonicultura-seguimos-trabajando-como-islas/2160757",
+      "date": "",
       "summary": {
-        "es": "Las condiciones ambientales de una jaula de cultivo pueden cambiar significativamente entre la superficie y las zonas más profundas. Por ello, limitar el monitoreo a un solo punto puede entregar una visión incompleta del entorno en el que realmente se encuentran los peces. Esta es una de las principales conclusiones planteadas por Innovasea , que recientemente analizó distintas experiencias de monitoreo ambiental en centros de cultivo en mar abierto. La compañía sostiene que medir parámetros como temperatura y oxígeno disuelto en diferentes profundidades permite comprender mejor las variaciones dentro de una misma jaula y tomar decisiones operacionales basadas en información más representati",
-        "en": "The environmental conditions of a culture cage can change significantly between the surface and deeper areas. Therefore, limiting monitoring to a single point can provide an incomplete view of the environment in which the fish actually occur. This is one of the main conclusions raised by Innovasea, which recently analyzed different environmental monitoring experiences in open sea farming centers. The company maintains that measuring parameters such as temperature and dissolved oxygen at different depths allows us to better understand the variations within the same cage and make operational decisions based on more representative information.",
-        "no": "Miljøforholdene i et kulturbur kan endre seg betydelig mellom overflaten og dypere områder. Derfor kan det å begrense overvåking til ett enkelt punkt gi et ufullstendig bilde av miljøet der fisken faktisk forekommer. Dette er en av hovedkonklusjonene fra Innovasea, som nylig analyserte ulike miljøovervåkingserfaringer i oppdrettssentre i åpent hav. Selskapet fastholder at måling av parametere som temperatur og oppløst oksygen på forskjellige dyp gjør at vi bedre kan forstå variasjonene innenfor samme merd og ta operasjonelle beslutninger basert på mer representativ informasjon."
+        "es": "",
+        "en": "",
+        "no": ""
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 6,
+      "score": 3,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Crews-Deploying-aquaMeasure-Sensors-300x225.jpg"
+      "image": "https://image.salmonexpert.cl/2160763.jpg?imageId=2160763&x=0&y=5.59&cropw=100&croph=84.87&panox=0&panoy=5.59&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "¿Buscas trabajo en la salmonicultura? Revisa las nuevas vacantes disponibles en Puerto Montt y Puerto Varas",
-        "en": "Are you looking for a job in salmon farming? Check the new vacancies available in Puerto Montt and Puerto Varas",
-        "no": "Ser du etter jobb innen lakseoppdrett? Sjekk de nye ledige stillingene i Puerto Montt og Puerto Varas"
+        "es": "SalmonChile y Consejo del Salmón defienden microrelocalizaciones ante el Tribunal Constitucional",
+        "en": "SalmonChile and the Salmon Council defend micro-relocations before the Constitutional Court",
+        "no": "SalmonChile og lakserådet forsvarer mikroflyttinger for konstitusjonsdomstolen"
       },
-      "url": "https://www.aqua.cl/buscas-trabajo-en-la-salmonicultura-revisa-las-nuevas-vacantes-disponibles-en-puerto-montt-y-puerto-varas/",
-      "date": "Mon, 10 Aug 2026 10:49:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/salmonchile-y-consejo-del-salmon-defienden-microrelocalizaciones-ante-el-tribunal-constitucional/",
+      "date": "Wed, 12 Aug 2026 19:42:16 +0000",
       "summary": {
-        "es": "Si buscas trabajo en la industria acuícola, diversas empresas del sector mantienen abiertas nuevas oportunidades laborales en el sur de Chile. Las vacantes están dirigidas a perfiles técnicos, profesionales, operativos y administrativos, con puestos disponibles principalmente en Puerto Montt y Puerto Varas. Las ofertas corresponden a distintas áreas de la industria del salmón y contemplan cargos para profesionales, técnicos, personal operativo y administrativo. Los interesados pueden revisar el detalle de cada puesto, incluyendo requisitos, funciones, ubicación, beneficios y modalidad de postulación, a través de Empleos AQUA . Vacantes disponibles INGENIERO/A DE PROYECTOS – PUERTO MONTT SUPE",
-        "en": "If you are looking for work in the aquaculture industry, various companies in the sector keep new job opportunities open in the south of Chile. The vacancies are aimed at technical, professional, operational and administrative profiles, with positions available mainly in Puerto Montt and Puerto Varas. The offers correspond to different areas of the salmon industry and include positions for professionals, technicians, operational and administrative personnel. Interested parties can review the details of each position, including requirements, functions, location, benefits and application modality, through AQUA Jobs. Vacancies available PROJECT ENGINEER – PUERTO MONTT SUPE",
-        "no": "Hvis du er på utkikk etter arbeid i havbruksnæringen, holder ulike selskaper i sektoren nye jobbmuligheter åpne sør i Chile. De ledige stillingene er rettet mot tekniske, faglige, operasjonelle og administrative profiler, med stillinger tilgjengelig hovedsakelig i Puerto Montt og Puerto Varas. Tilbudene tilsvarer ulike områder i laksenæringen og inkluderer stillinger for fagfolk, teknikere, drifts- og administrativt personell. Interesserte parter kan gjennomgå detaljene for hver stilling, inkludert krav, funksjoner, plassering, fordeler og søknadsmodalitet, gjennom AQUA Jobs. Ledige stillinger PROSJEKTINGENIØR – PUERTO MONTT SUPE"
+        "es": "Los principales gremios de la salmonicultura intervinieron como terceros interesados ante el Tribunal Constitucional para defender las disposiciones del Plan de Reconstrucción Nacional sobre relocalizaciones y microrelocalizaciones de concesiones acuícolas. SalmonChile sostuvo que las normas cuestionadas no representan una regresión ambiental, mientras el Consejo del Salmón destacó su respaldo político transversal y estimó que podrían favorecer la creación de entre 2.000 y 6.000 empleos en Los Lagos, Aysén y Magallanes. La entrada SalmonChile y Consejo del Salmón defienden microrelocalizaciones ante el Tribunal Constitucional se publicó primero en Mundoacuicola .",
+        "en": "The main salmon farming unions intervened as interested third parties before the Constitutional Court to defend the provisions of the National Reconstruction Plan on relocations and micro-relocations of aquaculture concessions. SalmonChile maintained that the questioned standards do not represent an environmental regression, while the Salmon Council highlighted its transversal political support and estimated that they could favor the creation of between 2,000 and 6,000 jobs in Los Lagos, Aysén and Magallanes. The entry SalmonChile and the Salmon Council defend micro-relocations before the Constitutional Court was first published in Mundoacuicola.",
+        "no": "De viktigste lakseoppdrettsforeningene grep inn som interesserte tredjeparter for konstitusjonsdomstolen for å forsvare bestemmelsene i den nasjonale gjenoppbyggingsplanen om flytting og mikroflytting av akvakulturkonsesjoner. SalmonChile hevdet at de stilte spørsmålene ikke representerer en miljømessig regresjon, mens Salmon Council fremhevet sin tverrgående politiske støtte og estimerte at de kunne favorisere opprettelsen av mellom 2000 og 6000 arbeidsplasser i Los Lagos, Aysén og Magallanes. Innlegget SalmonChile og Salmon Council forsvarer mikroflyttinger før konstitusjonsdomstolen ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Microrelocalizaciones-TC.png"
+    },
+    {
+      "title": {
+        "es": "Industria acuícola abre 15 oportunidades laborales para profesionales, técnicos y operarios",
+        "en": "Aquaculture industry opens 15 job opportunities for professionals, technicians and operators",
+        "no": "Havbruksnæringen åpner 15 jobbmuligheter for fagfolk, teknikere og operatører"
+      },
+      "url": "https://www.aqua.cl/industria-acuicola-abre-15-oportunidades-laborales-para-profesionales-tecnicos-y-operarios/",
+      "date": "Thu, 13 Aug 2026 10:49:00 +0000",
+      "summary": {
+        "es": "La industria acuícola mantiene una importante demanda de capital humano en el sur de Chile. Las nuevas ofertas laborales publicadas por Empleos Aqua reflejan esta tendencia y consideran puestos relacionados con producción, mantenimiento, logística, calidad, abastecimiento, administración y operaciones. Actualmente, el portal registra 15 vacantes vinculadas con la acuicultura y actividades relacionadas con la salmonicultura . La mayoría de las oportunidades se concentra en Puerto Montt. También hay puestos disponibles en Puerto Varas. Las ofertas consideran distintos niveles de experiencia y especialización. Entre los cargos disponibles se encuentran supervisores, profesionales, técnicos y op",
+        "en": "The aquaculture industry maintains an important demand for human capital in southern Chile. The new job offers published by Jobs Aqua reflect this trend and consider positions related to production, maintenance, logistics, quality, supply, administration and operations. Currently, the portal registers 15 vacancies linked to aquaculture and activities related to salmon farming. Most opportunities are concentrated in Puerto Montt. There are also positions available in Puerto Varas. The offers consider different levels of experience and specialization. Available positions include supervisors, professionals, technicians and op",
+        "no": "Havbruksnæringen opprettholder en viktig etterspørsel etter menneskelig kapital i det sørlige Chile. De nye jobbtilbudene utgitt av Jobs Aqua reflekterer denne trenden og vurderer stillinger knyttet til produksjon, vedlikehold, logistikk, kvalitet, forsyning, administrasjon og drift. Foreløpig registrerer portalen 15 ledige stillinger knyttet til akvakultur og aktiviteter knyttet til lakseoppdrett. De fleste mulighetene er konsentrert i Puerto Montt. Det er også ledige stillinger i Puerto Varas. Tilbudene vurderer ulike nivåer av erfaring og spesialisering. Tilgjengelige stillinger inkluderer veiledere, fagfolk, teknikere og op"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -74,7 +99,7 @@
       },
       "score": 14,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/b2b-media-group-2-1024x768-1.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/05/EmpleosAqua-1024x683.png"
     },
     {
       "title": {
@@ -103,16 +128,16 @@
     },
     {
       "title": {
-        "es": "Edición génica en la agenda de la salmonicultura chilena: regulación, bioseguridad y resistencia a enfermedades marcan el debate",
-        "en": "Gene editing on the agenda of Chilean salmon farming: regulation, biosafety and disease resistance mark the debate",
-        "no": "Genredigering på agendaen for chilensk lakseoppdrett: regulering, biosikkerhet og sykdomsresistens markerer debatten"
+        "es": "Seremi de Economía: “Para generar empleo necesitamos crecimiento, y para crecer necesitamos inversión”",
+        "en": "Seremi from Economy: “To generate employment we need growth, and to grow we need investment”",
+        "no": "Seremi fra Economy: \"For å generere sysselsetting trenger vi vekst, og for å vokse trenger vi investeringer\""
       },
-      "url": "https://infosalmon.cl/edicion-genica-en-la-agenda-de-la-salmonicultura-chilena/",
-      "date": "Mon, 10 Aug 2026 01:46:55 +0000",
+      "url": "https://infosalmon.cl/gisela-strauch-salmonicultura-los-lagos/",
+      "date": "Wed, 12 Aug 2026 23:04:44 +0000",
       "summary": {
-        "es": "La edición génica dejó de ser una discusión exclusivamente científica para transformarse en un desafío regulatorio y estratégico para la acuicultura chilena. Esa fue una de las principales conclusiones del webinar “Regulación de la Edición Génica: Experiencias Internacionales y Desafíos para Chile”, organizado por la Subsecretaría de Pesca y Acuicultura (SUBPESCA) y la Facultad de Ciencias Veterinarias y Pecuarias de la Universidad de Chile (Favet), a través de la iniciativa EDIGEN. La actividad reunió a especialistas de Chile, Argentina, México y organismos internacionales para analizar cómo distintos países están abordando las nuevas tecnologías genómicas (NGTs), qué criterios se utilizan ",
-        "en": "Gene editing ceased to be an exclusively scientific discussion and became a regulatory and strategic challenge for Chilean aquaculture. That was one of the main conclusions of the webinar “Regulation of Gene Editing: International Experiences and Challenges for Chile”, organized by the Undersecretary of Fisheries and Aquaculture (SUBPESCA) and the Faculty of Veterinary and Livestock Sciences of the University of Chile (Favet), through the EDIGEN initiative. The activity brought together specialists from Chile, Argentina, Mexico and international organizations to analyze how different countries are approaching new genomic technologies (NGTs), what criteria are used",
-        "no": "Genredigering sluttet å være en utelukkende vitenskapelig diskusjon og ble en regulatorisk og strategisk utfordring for chilensk akvakultur. Det var en av hovedkonklusjonene på nettseminaret «Regulation of Gene Editing: International Experiences and Challenges for Chile», organisert av Undersecretary of Fisheries and Aquaculture (SUBPESCA) og Fakultet for veterinær- og husdyrvitenskap ved University of Chile (Favet), gjennom EDIGEN-initiativet. Aktiviteten samlet spesialister fra Chile, Argentina, Mexico og internasjonale organisasjoner for å analysere hvordan ulike land nærmer seg nye genomiske teknologier (NGT), hvilke kriterier som brukes"
+        "es": "La salmonicultura seguirá ocupando un lugar estratégico en el desarrollo económico de la Región de Los Lagos, pero su crecimiento deberá avanzar de la mano de mayor innovación, productividad y altos estándares ambientales. Así lo planteó la seremi de Economía, Fomento y Turismo de Los Lagos, Gisela Strauch, quien abordó los principales desafíos que enfrenta la región en materia de inversión, empleo y desarrollo productivo. La autoridad reconoce que el escenario regional presenta dificultades, particularmente en materia laboral, pero sostiene que Los Lagos cuenta con una base productiva suficientemente amplia y resiliente para enfrentar ese desafío. Acuicultura, pesca artesanal, mitilicultura",
+        "en": "Salmon farming will continue to occupy a strategic place in the economic development of the Los Lagos Region, but its growth must advance hand in hand with greater innovation, productivity and high environmental standards. This was stated by the Seremi of Economy, Development and Tourism of Los Lagos, Gisela Strauch, who addressed the main challenges facing the region in terms of investment, employment and productive development. The authority recognizes that the regional scenario presents difficulties, particularly in labor matters, but maintains that Los Lagos has a sufficiently broad and resilient productive base to face this challenge. Aquaculture, artisanal fishing, mushroom farming",
+        "no": "Lakseoppdrett vil fortsette å innta en strategisk plass i den økonomiske utviklingen i Los Lagos-regionen, men veksten må gå hånd i hånd med større innovasjon, produktivitet og høye miljøstandarder. Dette ble uttalt av Seremi for økonomi, utvikling og turisme i Los Lagos, Gisela Strauch, som tok for seg hovedutfordringene som regionen står overfor når det gjelder investeringer, sysselsetting og produktiv utvikling. Myndigheten erkjenner at det regionale scenariet byr på vanskeligheter, spesielt i arbeidsforhold, men fastholder at Los Lagos har en tilstrekkelig bred og robust produktiv base til å møte denne utfordringen. Akvakultur, håndverksfiske, soppoppdrett"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -122,50 +147,25 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Expositores-webinar-edicion-genica.png"
+      "score": 9,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/seremi-loslagos-economia2-scaled.jpeg"
     },
     {
       "title": {
-        "es": "Invermar profundiza estrategia de acuicultura de precisión y bienestar animal",
-        "en": "Invermar deepens precision aquaculture and animal welfare strategy",
-        "no": "Invermar utdyper presisjonsakvakultur og dyrevelferdsstrategi"
+        "es": "Arancel estadounidense tensiona competitividad y empleo de la salmonicultura chilena",
+        "en": "US tariff strains competitiveness and employment in Chilean salmon farming",
+        "no": "Amerikanske tollsatser belaster konkurranseevnen og sysselsettingen i chilensk lakseoppdrett"
       },
-      "url": "https://www.aqua.cl/invermar-profundiza-estrategia-de-acuicultura-de-precision-y-bienestar-animal/",
-      "date": "Mon, 10 Aug 2026 10:48:00 +0000",
+      "url": "https://www.salmonexpert.cl/aranceles-eeuu-empleo/arancel-estadounidense-tensiona-competitividad-y-empleo-de-la-salmonicultura-chilena/2165528",
+      "date": "",
       "summary": {
-        "es": "Invermar continúa profundizando su estrategia orientada hacia una acuicultura de precisión, con foco en el uso de datos, la prevención sanitaria y el bienestar animal como herramientas para mejorar la toma de decisiones en sus centros de cultivo. En este contexto, una delegación técnica y ejecutiva de la salmonera realizó una visita a las instalaciones centrales y plantas productivas de Veterquímica en Santiago, donde pudo conocer procesos de producción, investigación y desarrollo tecnológico vinculados a soluciones utilizadas por la industria acuícola. La comitiva estuvo encabezada por el subgerente de Agua Mar, Jorge Melipillán, y el subgerente de Salud de Invermar, Christian Correa, quien",
-        "en": "Invermar continues to deepen its strategy aimed at precision aquaculture, with a focus on the use of data, health prevention and animal welfare as tools to improve decision-making in its farming centers. In this context, a technical and executive delegation from the salmon company visited the central facilities and production plants of Veterquimica in Santiago, where they were able to learn about production, research and technological development processes linked to solutions used by the aquaculture industry. The delegation was led by the deputy manager of Agua Mar, Jorge Melipillán, and the deputy manager of Invermar Health, Christian Correa, who",
-        "no": "Invermar fortsetter å utdype sin strategi rettet mot presisjonsakvakultur, med fokus på bruk av data, helseforebygging og dyrevelferd som verktøy for å forbedre beslutningstaking i sine oppdrettssentre. I denne sammenheng besøkte en teknisk og utøvende delegasjon fra lakseselskapet de sentrale anleggene og produksjonsanleggene til Veterquimica i Santiago, hvor de fikk lære om produksjon, forskning og teknologiske utviklingsprosesser knyttet til løsninger som brukes av havbruksnæringen. Delegasjonen ble ledet av nestleder i Agua Mar, Jorge Melipillán, og nestleder i Invermar Health, Christian Correa, som"
+        "es": "La industria calificó el 12,5% como un “duro golpe”, mientras que los trabajadores, advirtieron posibles efectos laborales y el Gobierno busca excluir al salmón de la sobretasa.",
+        "en": "The industry described the 12.5% ​​as a “hard blow”, while workers warned of possible labor effects and the Government seeks to exclude salmon from the surcharge.",
+        "no": "Næringen beskrev de 12,5 % som et \"hardt slag\", mens arbeidere advarte om mulige arbeidskraftseffekter og regjeringen forsøker å ekskludere laks fra tillegget."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Invermar-visita-veterquimica-Invermar.jpeg"
-    },
-    {
-      "title": {
-        "es": "Estudio explora uso de urea en alimento para salmones y reporta menor mortalidad tras tratamientos contra piojo de mar",
-        "en": "Study explores use of urea in salmon feed and reports lower mortality after treatments against sea lice",
-        "no": "Studie utforsker bruk av urea i laksefôr og rapporterer lavere dødelighet etter behandlinger mot lakselus"
-      },
-      "url": "https://www.mundoacuicola.cl/new/estudio-explora-uso-de-urea-en-alimento-para-salmones-y-reporta-menor-mortalidad-tras-tratamientos-contra-piojo-de-mar/",
-      "date": "Fri, 07 Aug 2026 19:27:14 +0000",
-      "summary": {
-        "es": "El proyecto desarrollado por Nofima junto a BioMar y la Universidad Noruega de Ciencias de la Vida observó además una mejor adaptación de los salmones al agua de mar y cambios en genes asociados con la función de barrera de la piel. Los investigadores plantean que los resultados abren una línea para el desarrollo de nuevos alimentos funcionales, aunque todavía se requiere mayor investigación. La entrada Estudio explora uso de urea en alimento para salmones y reporta menor mortalidad tras tratamientos contra piojo de mar se publicó primero en Mundoacuicola .",
-        "en": "The project developed by Nofima together with BioMar and the Norwegian University of Life Sciences also observed a better adaptation of salmon to seawater and changes in genes associated with the barrier function of the skin. The researchers propose that the results open a line for the development of new functional foods, although more research is still required. The entry Study explores the use of urea in salmon feed and reports lower mortality after treatments against sea lice was first published in Mundoacuicola.",
-        "no": "Prosjektet utviklet av Nofima sammen med BioMar og Norges miljø- og biovitenskapelige universitet observerte også en bedre tilpasning av laks til sjøvann og endringer i gener knyttet til hudens barrierefunksjon. Forskerne foreslår at resultatene åpner en linje for utvikling av nye funksjonelle matvarer, selv om det fortsatt er behov for mer forskning. Entry Study utforsker bruken av urea i laksefôr og rapporterer lavere dødelighet etter at behandlinger mot lakselus først ble publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -174,20 +174,45 @@
       },
       "score": 8,
       "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Nofima-investigacion-urea.jpg"
+      "image": "https://image.salmonexpert.cl/2165540.jpg?imageId=2165540&x=0&y=11.83&cropw=100&croph=76.33&panox=0&panoy=11.83&panow=100&panoh=76.33&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Mercado ruso sigue siendo una oportunidad para el salmón chileno: experto llama a retomar presencia comercial y fortalecer alianzas",
-        "en": "Russian market continues to be an opportunity for Chilean salmon: expert calls for resuming commercial presence and strengthening alliances",
-        "no": "Det russiske markedet fortsetter å være en mulighet for chilensk laks: ekspert oppfordrer til å gjenoppta kommersiell tilstedeværelse og styrke allianser"
+        "es": "Salmones Camanchaca aumenta ingresos durante el 1S de 2026 pese a menores precios",
+        "en": "Salmones Camanchaca increases revenue during H1 2026 despite lower prices",
+        "no": "Salmones Camanchaca øker inntektene i løpet av H1 2026 til tross for lavere priser"
       },
-      "url": "https://infosalmon.cl/mercado-ruso-sigue-siendo-una-oportunidad-para-el-salmon-chileno/",
-      "date": "Thu, 06 Aug 2026 22:51:39 +0000",
+      "url": "https://www.aqua.cl/salmones-camanchaca-aumenta-ingresos-durante-el-1s-de-2026-pese-a-menores-precios/",
+      "date": "Wed, 12 Aug 2026 20:00:34 +0000",
       "summary": {
-        "es": "Aunque las exportaciones chilenas de salmón continúan creciendo a nivel global durante 2026, el mercado ruso ha seguido una trayectoria distinta. En el primer semestre del año, los envíos hacia ese destino cayeron cerca de un 37% en volumen y un 44% en valor, reflejando un escenario donde la mayor producción local, la sustitución de importaciones y los cambios en la dinámica del consumo están reconfigurando uno de los mercados históricamente relevantes para la salmonicultura chilena. Según cifras oficiales del Servicio Nacional de Aduanas, entre enero y junio de 2026 Chile exportó 441.000 toneladas de salmón, generando retornos por US$3.506 millones, lo que representa un crecimiento de 15,5%",
-        "en": "Although Chilean salmon exports continue to grow globally during 2026, the Russian market has followed a different trajectory. In the first half of the year, shipments to that destination fell by around 37% in volume and 44% in value, reflecting a scenario where increased local production, import substitution and changes in consumption dynamics are reconfiguring one of the historically relevant markets for Chilean salmon farming. According to official figures from the National Customs Service, between January and June 2026 Chile exported 441,000 tons of salmon, generating returns of US$3,506 million, which represents a growth of 15.5%",
-        "no": "Selv om chilensk lakseeksport fortsetter å vokse globalt i løpet av 2026, har det russiske markedet fulgt en annen bane. I første halvår falt forsendelsene til den destinasjonen med rundt 37 % i volum og 44 % i verdi, noe som gjenspeiler et scenario der økt lokal produksjon, importsubstitusjon og endringer i forbruksdynamikk rekonfigurerer et av de historisk relevante markedene for chilensk lakseoppdrett. I følge offisielle tall fra det nasjonale tollvesenet eksporterte Chile mellom januar og juni 2026 441 000 tonn laks, noe som ga en avkastning på 3 506 millioner dollar, som representerer en vekst på 15,5 %"
+        "es": "Salmones Camanchaca S.A. informó sus resultados financieros correspondientes al segundo trimestre y primer semestre de 2026, período en el que registró ingresos acumulados por US$ 201 millones , cifra que representa un aumento de 15% respecto de 2025 . Durante el segundo trimestre, los ingresos alcanzaron US$ 94,6 millones , con un incremento de 35% frente al mismo período del año anterior. El resultado estuvo impulsado principalmente por mayores volúmenes de venta provenientes de inventarios de salmón Atlántico y salmón del Pacífico u coho, lo que permitió compensar parcialmente la disminución de los precios y las menores cosechas. Los mayores volúmenes de venta de inventarios permitieron c",
+        "en": "Salmones Camanchaca S.A. reported its financial results corresponding to the second quarter and first half of 2026, a period in which it recorded accumulated revenues of US$ 201 million, a figure that represents an increase of 15% compared to 2025. During the second quarter, revenues reached US$94.6 million, with an increase of 35% compared to the same period of the previous year. The result was mainly driven by higher sales volumes from inventories of Atlantic salmon and Pacific salmon or coho, which allowed us to partially offset the decrease in prices and lower harvests. Higher inventory sales volumes allowed c",
+        "no": "Salmones Camanchaca S.A. rapporterte sine økonomiske resultater tilsvarende andre kvartal og første halvår av 2026, en periode hvor de registrerte akkumulerte inntekter på 201 millioner dollar, et tall som representerer en økning på 15 % sammenlignet med 2025. I løpet av andre kvartal nådde inntektene 94,6 millioner dollar, med en økning på 35 % i samme periode i året før. Resultatet var hovedsakelig drevet av høyere salgsvolum fra lagre av atlantisk laks og stillehavslaks eller coho, noe som gjorde at vi delvis kunne kompensere for prisnedgangen og lavere slakte. Høyere lagersalgsvolumer tillatt c"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 22,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/03/XIA_6415-1024x683.jpg"
+    },
+    {
+      "title": {
+        "es": "Precio del salmón noruego sube 20,7% interanual mientras las exportaciones aceleran en la semana 32",
+        "en": "Norwegian salmon price rises 20.7% year-on-year as exports accelerate in week 32",
+        "no": "Norsk laksepris stiger med 20,7 % fra år til år ettersom eksporten øker i uke 32"
+      },
+      "url": "https://infosalmon.cl/precio-del-salmon-noruego-sube-207-interanual/",
+      "date": "Wed, 12 Aug 2026 16:54:46 +0000",
+      "summary": {
+        "es": "El mercado noruego del salmón volvió a mostrar señales de fortaleza durante la semana 32. De acuerdo con las últimas cifras de Statistics Norway (SSB), el precio promedio de exportación del salmón de cultivo fresco o refrigerado alcanzó NOK$74,90 (US$7,90) por kilo, lo que representa un incremento de 1,8% respecto de la semana anterior y de 20,7% frente al mismo período de 2025. El avance de los precios se produjo en paralelo con un importante aumento de los volúmenes exportados. Noruega despachó 28.602 toneladas de salmón fresco o refrigerado durante la semana, un 10,9% más interanual y un 6,1% por encima de la semana anterior. La combinación de mayor volumen y precios significativamente su",
+        "en": "The Norwegian salmon market again showed signs of strength during week 32. According to the latest figures from Statistics Norway (SSB), the average export price of fresh or chilled farmed salmon reached NOK$74.90 (US$7.90) per kilo, representing an increase of 1.8% compared to the previous week and 20.7% compared to the same period in 2025. The advance in prices occurred in parallel with a significant increase in volumes exported. Norway shipped 28,602 tonnes of fresh or chilled salmon during the week, up 10.9% year-on-year and 6.1% above the previous week. The combination of higher volume and significantly higher prices",
+        "no": "Det norske laksemarkedet viste igjen tegn til styrke i uke 32. I følge de siste tallene fra Statistisk sentralbyrå (SSB) nådde gjennomsnittlig eksportpris på fersk eller kjølt oppdrettslaks NOK 74,90 (US$ 7,90) per kilo, noe som representerer en økning på 1,8 % sammenlignet med forrige uke og 20,7 % sammenlignet med samme periode5 i 20 paralleller med en betydelig økning i volum. eksportert. Norge sendte 28 602 tonn fersk eller kjølt laks i løpet av uken, en økning på 10,9 % fra år til år og 6,1 % over uken før. Kombinasjonen av høyere volum og betydelig høyere priser"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -198,21 +223,21 @@
         "no": "Marked og naringsliv"
       },
       "score": 18,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Precios-del-salmon-en-Krasnodar_Creditos-Cedida_.png"
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/blumar-350x250.jpeg"
     },
     {
       "title": {
-        "es": "Comisión de Pesca analiza impacto del arancel de EE.UU. al salmón y riesgo para 86 mil empleos",
-        "en": "Fisheries Commission analyzes impact of the US tariff on salmon and risk for 86 thousand jobs",
-        "no": "Fiskerikommisjonen analyserer virkningen av den amerikanske tollsatsen på laks og risiko for 86 tusen arbeidsplasser"
+        "es": "Christian Correa: “El bienestar animal en la fase de agua dulce es un pilar estratégico”",
+        "en": "Christian Correa: “Animal welfare in the freshwater phase is a strategic pillar”",
+        "no": "Christian Correa: «Dyrevelferd i ferskvannsfasen er en strategisk pilar»"
       },
-      "url": "https://www.aqua.cl/comision-de-pesca-analiza-impacto-del-arancel-de-ee-uu-al-salmon-y-riesgo-para-86-mil-empleos/",
-      "date": "Fri, 07 Aug 2026 16:37:59 +0000",
+      "url": "https://www.aqua.cl/christian-correa-el-bienestar-animal-en-la-fase-de-agua-dulce-es-un-pilar-estrategico/",
+      "date": "Thu, 13 Aug 2026 10:50:00 +0000",
       "summary": {
-        "es": "La Comisión de Intereses Marítimos, Pesca y Acuicultura , presidida por el senador Carlos Kuschel , abordó el impacto del aumento del arancel impuesto por Estados Unidos a las importaciones de diversas industrias chilenas, con especial foco en el salmón, uno de los principales productos de exportación del país. La medida elevó el arancel al 12,5% y responde a una evaluación técnica de la Oficina del Representante Comercial de los Estados Unidos (USTR), que ubicó a Chile dentro de un grupo de 41 países que carecen de marcos regulatorios específicos contra el trabajo forzoso. Durante la sesión, la subsecretaria de Relaciones Económicas Internacionales , Paula Estévez, aclaró que la resolución ",
-        "en": "The Maritime Interests, Fisheries and Aquaculture Commission, chaired by Senator Carlos Kuschel, addressed the impact of the increase in the tariff imposed by the United States on imports from various Chilean industries, with special focus on salmon, one of the country's main export products. The measure raised the tariff to 12.5% ​​and responds to a technical evaluation by the Office of the United States Trade Representative (USTR), which placed Chile within a group of 41 countries that lack specific regulatory frameworks against forced labor. During the session, the undersecretary of International Economic Relations, Paula Estévez, clarified that the resolution",
-        "no": "Maritime Interests, Fisheries and Aquaculture Commission, ledet av senator Carlos Kuschel, tok for seg virkningen av økningen i tollsatsen USA har pålagt import fra ulike chilenske industrier, med spesielt fokus på laks, en av landets viktigste eksportprodukter. Tiltaket hevet tariffen til 12,5 % og svarer på en teknisk evaluering fra Office of the United States Trade Representative (USTR), som plasserte Chile innenfor en gruppe på 41 land som mangler spesifikke regulatoriske rammer mot tvangsarbeid. Under sesjonen klargjorde undersekretæren for internasjonale økonomiske relasjoner, Paula Estévez, at resolusjonen"
+        "es": "La fase de agua dulce ocupa un lugar estratégico dentro del modelo productivo de Invermar. Es en esta etapa donde se construye la base fisiológica del pez, se desarrolla su competencia inmunológica y se define la calidad de la smoltificación, factores que inciden posteriormente en su desempeño en el mar. Así lo explicó el subgerente de Salud de Invermar, Christian Correa Ojeda, quien señaló que la compañía entiende el bienestar animal como una inversión productiva. El enfoque busca favorecer el potencial genético, la respuesta a las vacunaciones y la preparación para la transferencia, junto con indicadores como factor de conversión, sobrevivencia, crecimiento y uniformidad. “Para Invermar, e",
+        "en": "The freshwater phase occupies a strategic place within Invermar's production model. It is at this stage where the physiological basis of the fish is built, its immunological competence is developed and the quality of smoltification is defined, factors that subsequently affect its performance in the sea. This was explained by Invermar's Deputy Health Manager, Christian Correa Ojeda, who pointed out that the company understands animal well-being as a productive investment. The approach seeks to promote genetic potential, response to vaccinations and preparation for transfer, along with indicators such as conversion factor, survival, growth and uniformity. “To winter, and",
+        "no": "Ferskvannsfasen inntar en strategisk plass innenfor Invermars produksjonsmodell. Det er på dette stadiet hvor det fysiologiske grunnlaget til fisken bygges, dens immunologiske kompetanse utvikles og kvaliteten på smoltifiseringen defineres, faktorer som senere påvirker dens ytelse i havet. Dette ble forklart av nestleder i Invermar, Christian Correa Ojeda, som påpekte at selskapet forstår dyrevelferd som en produktiv investering. Tilnærmingen søker å fremme genetisk potensial, respons på vaksinasjoner og forberedelse til overføring, sammen med indikatorer som konverteringsfaktor, overlevelse, vekst og ensartethet. «Til vinter, og"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -222,84 +247,59 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 11,
+      "score": 8,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/pesca-Senado.webp"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Christian-Correa-Invermar.jpeg"
     },
     {
       "title": {
-        "es": "Francia autoriza proyecto RAS de Pure Salmon para 10.000 toneladas de salmón al año",
-        "en": "France authorizes Pure Salmon RAS project for 10,000 tons of salmon per year",
-        "no": "Frankrike godkjenner Pure Salmon RAS-prosjektet for 10 000 tonn laks per år"
+        "es": "Comisión de Pesca aprueba cambio para captura industrial de jibia con red de media agua",
+        "en": "Fisheries Commission approves change for industrial capture of cuttlefish with mid-water nets",
+        "no": "Fiskerikommisjonen godkjenner endring for industriell fangst av blekksprut med midvannsgarn"
       },
-      "url": "https://www.aqua.cl/francia-autoriza-proyecto-ras-de-pure-salmon-para-10-000-toneladas-de-salmon-al-ano/",
-      "date": "Mon, 10 Aug 2026 10:45:00 +0000",
+      "url": "https://www.aqua.cl/comision-de-pesca-aprueba-cambio-para-captura-industrial-de-jibia-con-red-de-media-agua/",
+      "date": "Thu, 13 Aug 2026 10:43:00 +0000",
       "summary": {
-        "es": "Las autoridades de Francia otorgaron la autorización ambiental al proyecto de Pure Salmon para construir una instalación terrestre con capacidad de producción de 10.000 toneladas de salmón en Le Verdon-sur-Mer , marcando un importante avance para el desarrollo de la iniciativa. El proyecto, que operará bajo el nombre «Saumon du Médoc» , constituye un pilar de la estrategia de expansión global de Pure Salmon y aprovechará la experiencia operativa adquirida por la compañía en sus instalaciones de Japón. La autorización ambiental fue concedida oficialmente el 3 de agosto de 2026, completando el proceso de revisión técnica y regulatoria del emplazamiento ubicado en el puerto industrial de Le Ver",
-        "en": "The French authorities granted environmental authorization to the Pure Salmon project to build a land-based facility with a production capacity of 10,000 tons of salmon in Le Verdon-sur-Mer, marking an important step forward for the development of the initiative. The project, which will operate under the name \"Saumon du Médoc\", constitutes a pillar of Pure Salmon's global expansion strategy and will take advantage of the operational experience acquired by the company at its facilities in Japan. The environmental authorization was officially granted on August 3, 2026, completing the technical and regulatory review process of the site located in the industrial port of Le Ver",
-        "no": "Franske myndigheter ga miljøgodkjenning til Pure Salmon-prosjektet for å bygge et landbasert anlegg med en produksjonskapasitet på 10 000 tonn laks i Le Verdon-sur-Mer, som markerer et viktig skritt fremover for utviklingen av initiativet. Prosjektet, som skal operere under navnet «Saumon du Médoc», utgjør en pilar i Pure Salmons globale ekspansjonsstrategi og vil dra nytte av den operasjonelle erfaringen selskapet har tilegnet seg ved sine anlegg i Japan. Miljøgodkjenningen ble offisielt gitt 3. august 2026, og fullførte den tekniske og forskriftsmessige gjennomgangsprosessen for stedet som ligger i industrihavnen Le Ver"
+        "es": "La Comisión de Intereses Marítimos, Pesca y Acuicultura del Senado aprobó por unanimidad el proyecto que busca modificar la normativa vigente para la captura de jibia y permitir nuevamente el uso de la red de media agua en las regiones del Biobío y Ñuble. La iniciativa obtuvo cuatro votos a favor y ninguno en contra, y establece una excepción a la denominada Ley de la Jibia, vigente desde 2019. La propuesta busca adecuar la legislación a la realidad pesquera y productiva de ambas regiones, donde esta actividad industrial se desarrolló históricamente, estableciendo una autorización acotada tanto respecto de las embarcaciones contempladas como del área marítima en la que podrán operar. Reactiv",
+        "en": "The Senate's Maritime Interests, Fisheries and Aquaculture Commission unanimously approved the project that seeks to modify the current regulations for the capture of cuttlefish and once again allow the use of the mid-water network in the Biobío and Ñuble regions. The initiative obtained four votes in favor and none against, and establishes an exception to the so-called Cuttlefish Law, in force since 2019. The proposal seeks to adapt the legislation to the fishing and productive reality of both regions, where this industrial activity was historically developed, establishing a limited authorization both with respect to the vessels contemplated and the maritime area in which they may operate. Reactivation",
+        "no": "Senatets maritime interesse-, fiskeri- og akvakulturkommisjon godkjente enstemmig prosjektet som søker å endre gjeldende regelverk for fangst av blekksprut og igjen tillate bruk av midtvannsnettverket i Biobío- og Ñuble-regionene. Initiativet fikk fire stemmer for og ingen mot, og etablerer et unntak fra den såkalte blekksprutloven, som har vært gjeldende siden 2019. Forslaget tar sikte på å tilpasse lovgivningen til fiskeri- og produktiviteten i begge regioner, hvor denne industrielle aktiviteten historisk har vært utviklet, og etablerer en begrenset tillatelse både med hensyn til fartøyene som vurderes og det maritime området. Reaktivering"
       },
       "source": "AQUA",
       "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Pure-salmon-France-landbased-aquaculture-scaled.jpg"
-    },
-    {
-      "title": {
-        "es": "Proveedores de la salmonicultura ya cuentan con una guía para medir su huella de carbono",
-        "en": "Salmon farming suppliers already have a guide to measure their carbon footprint",
-        "no": "Lakseoppdrettsleverandører har allerede en veiledning for å måle deres karbonfotavtrykk"
-      },
-      "url": "https://www.mundoacuicola.cl/new/proveedores-de-la-salmonicultura-ya-cuentan-con-una-guia-para-medir-su-huella-de-carbono/",
-      "date": "Mon, 10 Aug 2026 00:33:20 +0000",
-      "summary": {
-        "es": "La iniciativa surge a partir de una de las brechas identificadas durante el diseño del PTI: la necesidad de contar con una metodología que permita avanzar hacia una medición estandarizada de la huella de carbono entre los distintos actores de la cadena de valor. La entrada Proveedores de la salmonicultura ya cuentan con una guía para medir su huella de carbono se publicó primero en Mundoacuicola .",
-        "en": "The initiative arises from one of the gaps identified during the design of the PTI: the need to have a methodology that allows progress towards a standardized measurement of the carbon footprint among the different actors in the value chain. The entry Salmon farming suppliers now have a guide to measure their carbon footprint was first published in Mundoacuicola.",
-        "no": "Initiativet oppstår fra et av hullene som ble identifisert under utformingen av PTI: behovet for å ha en metodikk som tillater fremgang mot en standardisert måling av karbonfotavtrykket blant de ulike aktørene i verdikjeden. Oppføringen Lakseoppdrettsleverandører har nå en veiledning for å måle karbonavtrykket deres ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/PTIIndustriaSostenible.jpeg"
-    },
-    {
-      "title": {
-        "es": "Subpesca busca actualizar normativa para impulsar nuevas tecnologías de remediación de fondos marinos",
-        "en": "Subpesca seeks to update regulations to promote new seabed remediation technologies",
-        "no": "Subpesca søker å oppdatere regelverket for å fremme nye havbunnssaneringsteknologier"
-      },
-      "url": "https://www.mundoacuicola.cl/new/subpesca-busca-actualizar-normativa-para-impulsar-nuevas-tecnologias-de-remediacion-de-fondos-marinos/",
-      "date": "Fri, 07 Aug 2026 15:20:42 +0000",
-      "summary": {
-        "es": "La Subsecretaría reunió a empresas productoras, proveedores tecnológicos y organizaciones vinculadas a la biotecnología para identificar brechas en la regulación vigente. El trabajo derivará en propuestas de modificación a la Resolución 1141 de 2021, con foco en facilitar el pilotaje y escalamiento de soluciones de remediación biológica, química y física. La entrada Subpesca busca actualizar normativa para impulsar nuevas tecnologías de remediación de fondos marinos se publicó primero en Mundoacuicola .",
-        "en": "The Undersecretariat brought together production companies, technology providers and organizations linked to biotechnology to identify gaps in current regulation. The work will lead to proposals to modify Resolution 1141 of 2021, with a focus on facilitating the piloting and scaling of biological, chemical and physical remediation solutions. The Subpesca entry seeks to update regulations to promote new seabed remediation technologies was first published in Mundoacuicola.",
-        "no": "Undersekretariatet samlet produksjonsbedrifter, teknologileverandører og organisasjoner knyttet til bioteknologi for å identifisere hull i gjeldende regulering. Arbeidet vil føre til forslag om å endre resolusjon 1141 av 2021, med fokus på å legge til rette for pilotering og skalering av biologiske, kjemiske og fysiske saneringsløsninger. Subpesca-oppføringen søker å oppdatere regelverket for å fremme nye havbunnssaneringsteknologier ble først publisert i Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
       "category": "regulatory",
       "category_label": {
         "es": "Regulatorio",
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 16,
+      "score": 14,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/02/j-13-Jibia-PIndustrialesBiobio-scaled.jpg"
+    },
+    {
+      "title": {
+        "es": "Blumar recibió al seremi de Hacienda del Biobío para abordar proyecto de ley de Reconstrucción Nacional",
+        "en": "Blumar received the Seremi of Hacienda del Biobío to address the National Reconstruction bill",
+        "no": "Blumar mottok Seremi fra Hacienda del Biobío for å ta opp regningen om nasjonal gjenoppbygging"
+      },
+      "url": "https://www.aqua.cl/blumar-recibio-al-seremi-de-hacienda-del-biobio-para-abordar-proyecto-de-ley-de-reconstruccion-nacional/",
+      "date": "Thu, 13 Aug 2026 10:47:00 +0000",
+      "summary": {
+        "es": "En sus instalaciones en Talcahuano, Blumar recibió la visita del seremi de Hacienda de la Región del Biobío, Ronald Ruf, para abordar los alcances fundamentales del proyecto de ley de Reconstrucción Nacional y Desarrollo Económico y Social. Los desafíos económicos actuales, el impulso de medidas que apoyen el crecimiento, la generación de empleo, la reconstrucción y la certeza para la inversión fueron algunos de los puntos más importantes destacados por la autoridad regional, quien también explicó el contexto que da origen al proyecto, que continúa su tramitación en el Congreso. Las propuestas detalladas por el seremi fueron: en materia laboral, los créditos tributarios orientados a la prote",
+        "en": "At its facilities in Talcahuano, Blumar received a visit from the Seremi of the Treasury of the Biobío Region, Ronald Ruf, to address the fundamental scope of the National Reconstruction and Economic and Social Development bill. The current economic challenges, the promotion of measures that support growth, job creation, reconstruction and certainty for investment were some of the most important points highlighted by the regional authority, who also explained the context that gave rise to the project, which continues its processing in Congress. The proposals detailed by the seremi were: in labor matters, tax credits aimed at protection",
+        "no": "Ved sine anlegg i Talcahuano fikk Blumar besøk av Seremi for finansdepartementet i Biobío-regionen, Ronald Ruf, for å ta opp det grunnleggende omfanget av lovforslaget om nasjonal gjenoppbygging og økonomisk og sosial utvikling. Dagens økonomiske utfordringer, fremme av tiltak som støtter vekst, jobbskaping, gjenoppbygging og sikkerhet for investeringer var noen av de viktigste punktene som ble fremhevet av den regionale myndigheten, som også redegjorde for konteksten som ga opphav til prosjektet, som fortsetter sin behandling i Kongressen. Forslagene som ble beskrevet i seremien var: i arbeidssaker, skattefradrag rettet mot beskyttelse"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
+      },
+      "score": 12,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Bioremediacion-de-Fondos-Marinos.jpg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/blumar.jpeg"
     }
   ]
 }
