@@ -1,68 +1,68 @@
 {
-  "updated": "2026-08-17T21:48:31Z",
+  "updated": "2026-08-20T13:32:25Z",
   "articles": [
     {
       "title": {
-        "es": "Desarrollan tecnología para mejorar administración oral de oxitetraciclina en salmónidos",
-        "en": "They develop technology to improve oral administration of oxytetracycline in salmonids",
-        "no": "De utvikler teknologi for å forbedre oral administrering av oksytetracyklin hos laksefisk"
+        "es": "El equipo que innovó con tecnología para mejor administración de oxitetraciclina en salmón",
+        "en": "The team that innovated with technology for better administration of oxytetracycline in salmon",
+        "no": "Teamet som innoverte med teknologi for bedre administrering av oksytetracyklin i laks"
       },
-      "url": "https://www.aqua.cl/desarrollan-tecnologia-para-mejorar-administracion-oral-de-oxitetraciclina-en-salmonidos/",
-      "date": "Mon, 17 Aug 2026 10:46:00 +0000",
+      "url": "https://www.salmonexpert.cl/administracion-antibioticos-innovacion/el-equipo-que-innovo-con-tecnologia-para-mejor-administracion-de-oxitetraciclina-en-salmon/2167465",
+      "date": "",
       "summary": {
-        "es": "Un equipo multidisciplinario de la Universidad de Chile desarrolló una plataforma de microencapsulación para mejorar la administración oral de oxitetraciclina (OTC) en salmónidos. La tecnología aumentó en 34% la exposición total al medicamento frente a una formulación comercial. Además, permitió prolongar la permanencia del antimicrobiano en el organismo de los peces. El desarrollo busca mejorar la eficacia de los tratamientos y promover un uso más responsable de los antimicrobianos en salmonicultura. Tecnología para optimizar la oxitetraciclina La investigación fue realizada por profesionales de distintas facultades de la Universidad de Chile. El equipo incluyó a la Dra. Javiera Cornejo, la",
-        "en": "A multidisciplinary team from the University of Chile developed a microencapsulation platform to improve the oral administration of oxytetracycline (OTC) in salmonids. The technology increased total exposure to the drug by 34% compared to a commercial formulation. In addition, it allowed the stay of the antimicrobial in the fish's body to be prolonged. The development seeks to improve the effectiveness of treatments and promote a more responsible use of antimicrobials in salmon farming. Technology to optimize oxytetracycline The research was carried out by professionals from different faculties of the University of Chile. The team included Dr. Javiera Cornejo, the",
-        "no": "Et tverrfaglig team fra University of Chile utviklet en mikroinnkapslingsplattform for å forbedre oral administrering av oksytetracyklin (OTC) hos laksefisk. Teknologien økte den totale eksponeringen for stoffet med 34 % sammenlignet med en kommersiell formulering. I tillegg tillot det oppholdet til det antimikrobielle stoffet i fiskens kropp å bli forlenget. Utviklingen søker å forbedre effektiviteten av behandlinger og fremme en mer ansvarlig bruk av antimikrobielle stoffer i lakseoppdrett. Teknologi for å optimalisere oksytetracyklin Forskningen ble utført av fagfolk fra forskjellige fakulteter ved Universitetet i Chile. Teamet inkluderte Dr. Javiera Cornejo, den"
+        "es": "En la Universidad de Chile generaron plataforma de microencapsulación, que optimiza la administración oral de oxitetraciclina en salmónidos, aumentando su biodisponibilidad relativa en un 34%.",
+        "en": "At the University of Chile, they generated a microencapsulation platform that optimizes the oral administration of oxytetracycline in salmonids, increasing its relative bioavailability by 34%.",
+        "no": "Ved University of Chile genererte de en mikroinnkapslingsplattform som optimerer oral administrering av oksytetracyklin i laksefisk, og øker dens relative biotilgjengelighet med 34 %."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Equipo-Fondef-1024x458.png"
+      "score": 6,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2167475.jpg?imageId=2167475&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Australis abrirá las puertas de la salmonicultura a la comunidad con feria en Puerto Natales",
-        "en": "Australis will open the doors of salmon farming to the community with a fair in Puerto Natales",
-        "no": "Australis vil åpne dørene til lakseoppdrett for samfunnet med en messe i Puerto Natales"
+        "es": "Vacunas de nueva generación: los pasos para reforzar la eficacia frente a Piscirickettsia",
+        "en": "New generation vaccines: steps to strengthen effectiveness against Piscirickettsia",
+        "no": "Ny generasjons vaksiner: trinn for å styrke effektiviteten mot Piscirickettsia"
       },
-      "url": "https://www.mundoacuicola.cl/new/australis-abrira-las-puertas-de-la-salmonicultura-a-la-comunidad-con-feria-en-puerto-natales/",
-      "date": "Mon, 17 Aug 2026 17:13:00 +0000",
+      "url": "https://www.salmonexpert.cl/piscirickettsia-piscirickettsiosis-srs/vacunas-de-nueva-generacion-los-pasos-para-reforzar-la-eficacia-frente-a-piscirickettsia/2166308",
+      "date": "",
       "summary": {
-        "es": "La Feria Australis versión Dumestre abrirá por primera vez sus puertas a toda la comunidad para mostrar el ciclo productivo del salmón, desde agua dulce hasta procesamiento, junto con tecnologías como robótica y alimentación remota. La entrada Australis abrirá las puertas de la salmonicultura a la comunidad con feria en Puerto Natales se publicó primero en Mundoacuicola .",
-        "en": "The Dumestre version Australis Fair will open its doors to the entire community for the first time to show the salmon production cycle, from fresh water to processing, along with technologies such as robotics and remote feeding. The entry Australis will open the doors of salmon farming to the community with a fair in Puerto Natales was first published in Mundoacuicola.",
-        "no": "Dumestre-versjonen Australis Fair vil åpne dørene for hele samfunnet for første gang for å vise laksens produksjonssyklus, fra ferskvann til prosessering, sammen med teknologier som robotikk og fjernfôring. Oppføringen Australis vil åpne dørene til lakseoppdrett for samfunnet med en messe i Puerto Natales ble først publisert i Mundoacuicola."
+        "es": "",
+        "en": "",
+        "no": ""
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 8,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Feria-Australis-Dumestre.png"
+      "score": 2,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1968444.jpg?imageId=1968444&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Datos confirman que las tecnologías de oxigenación, aireación y surgencia de Oxzo mitigan los efectos de El Niño en la salmonicultura",
-        "en": "Data confirms that Oxzo's oxygenation, aeration and upwelling technologies mitigate the effects of El Niño on salmon farming",
-        "no": "Data bekrefter at Oxzos oksygenerings-, lufting- og oppstrømsteknologier demper effekten av El Niño på lakseoppdrett"
+        "es": "Ministros y líderes del sector se darán cita en AquaForum Los Lagos 2026",
+        "en": "Ministers and leaders of the sector will meet at AquaForum Los Lagos 2026",
+        "no": "Ministre og ledere for sektoren vil møtes på AquaForum Los Lagos 2026"
       },
-      "url": "https://www.aqua.cl/datos-confirman-que-las-tecnologias-de-oxigenacion-aireacion-y-surgencia-de-oxzo-mitigan-los-efectos-de-el-nino-en-la-salmonicultura/",
-      "date": "Mon, 17 Aug 2026 10:49:00 +0000",
+      "url": "https://www.aqua.cl/ministros-y-lideres-del-sector-se-daran-cita-en-aquaforum-los-lagos-2026/",
+      "date": "Thu, 20 Aug 2026 10:51:00 +0000",
       "summary": {
-        "es": "Con la llegada de agosto y el comienzo de la etapa de mayor vigilancia ambiental para la acuicultura nacional, la industria salmonera nacional enfrenta un escenario marcado por las proyecciones del fenómeno El Niño, caracterizado por el aumento de la temperatura del agua, la disminución del oxígeno disuelto y un mayor riesgo de Floraciones de Algas Nocivas (FAN). Ante este contexto, datos presentados por Oxzo en el seminario Aquabench 2026 confirman que el uso integrado de sus sistemas de oxigenación, aireación y surgencia mitiga de forma medible los efectos de estos eventos en los centros de cultivo. Los resultados muestran que la operación con AIR MAR, la plataforma de aireación de la comp",
-        "en": "With the arrival of August and the beginning of the stage of greater environmental surveillance for national aquaculture, the national salmon industry faces a scenario marked by the projections of the El Niño phenomenon, characterized by the increase in water temperature, the decrease in dissolved oxygen and a greater risk of Harmful Algal Blooms (HAB). In this context, data presented by Oxzo at the Aquabench 2026 seminar confirm that the integrated use of its oxygenation, aeration and upwelling systems measurably mitigates the effects of these events in cultivation centers. The results show that the operation with AIR MAR, the aeration platform of the comp",
-        "no": "Med ankomsten av august og begynnelsen av stadiet med større miljøovervåking for nasjonalt akvakultur, står den nasjonale laksenæringen overfor et scenario preget av anslagene fra El Niño-fenomenet, preget av økningen i vanntemperaturen, nedgangen i oppløst oksygen og en større risiko for skadelig algeoppblomstring (HAB). I denne sammenheng bekrefter data presentert av Oxzo på Aquabench 2026-seminaret at den integrerte bruken av oksygenerings-, lufte- og oppvekstsystemene målbart reduserer effekten av disse hendelsene i dyrkingssentre. Resultatene viser at operasjonen med AIR MAR, lufteplattformen til komp"
+        "es": "Bajo el lema “Salmonicultura del Futuro: Certezas, Sostenibilidad, Liderazgo”, AquaForum Los Lagos 2026 reunirá a representantes de la industria, autoridades gubernamentales, integrantes de la comunidad científica y proveedores tecnológicos. La conferencia se realizará el jueves 5 de noviembre en el Hotel Wyndham de Puerto Varas, región de Los Lagos. De acuerdo con la información publicada por la organización, se espera la participación de más de 300 asistentes y más de 25 speakers durante la jornada. El propósito estratégico del encuentro será abordar las certezas regulatorias, los avances en sostenibilidad, la economía circular y la ciencia e innovación requeridas para proyectar la competi",
+        "en": "Under the motto “Salmonculture of the Future: Certainties, Sustainability, Leadership”, AquaForum Los Lagos 2026 will bring together industry representatives, government authorities, members of the scientific community and technology providers. The conference will be held on Thursday, November 5 at the Wyndham Hotel in Puerto Varas, Los Lagos region. According to the information published by the organization, the participation of more than 300 attendees and more than 25 speakers is expected during the day. The strategic purpose of the meeting will be to address regulatory certainties, advances in sustainability, the circular economy and the science and innovation required to project the competition.",
+        "no": "Under mottoet \"Fremtidens laksekultur: sikkerhet, bærekraft, lederskap\", vil AquaForum Los Lagos 2026 samle industrirepresentanter, offentlige myndigheter, medlemmer av det vitenskapelige miljøet og teknologileverandører. Konferansen vil bli holdt torsdag 5. november på Wyndham Hotel i Puerto Varas, Los Lagos-regionen. I følge informasjonen publisert av organisasjonen forventes deltakelse av mer enn 300 deltakere og mer enn 25 foredragsholdere i løpet av dagen. Det strategiske formålet med møtet vil være å ta for seg regulatoriske sikkerheter, fremskritt innen bærekraft, den sirkulære økonomien og vitenskapen og innovasjonen som kreves for å projisere konkurransen."
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -72,34 +72,9 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/DJI_0129-2-OXZO-1024x575.jpg"
-    },
-    {
-      "title": {
-        "es": "25 años junto a la salmonicultura: STIM Chile proyecta una nueva etapa marcada por innovación y sustentabilidad",
-        "en": "25 years with salmon farming: STIM Chile projects a new stage marked by innovation and sustainability",
-        "no": "25 år med lakseoppdrett: STIM Chile prosjekterer en ny fase preget av innovasjon og bærekraft"
-      },
-      "url": "https://infosalmon.cl/stim-chile-celebra-25-anos-impulsando-innovacion-y-soluciones-sustentables-para-la-salmonicultura/",
-      "date": "Mon, 17 Aug 2026 20:23:06 +0000",
-      "summary": {
-        "es": "En el marco de la celebración de sus 25 años de trayectoria en el país, el pasado jueves 13 de agosto STIM Chile realizó el seminario “Herramientas sustentables para el futuro de la salmonicultura”, encuentro que reunió en el CAMM de Puerto Varas a clientes, colaboradores, profesionales y representantes de distintas empresas de la industria, junto con expertos nacionales e internacionales. La actividad tuvo como eje central el análisis de nuevas tecnologías, productos y estrategias orientadas a fortalecer la salud, el bienestar y la eficiencia productiva de los peces, desde una perspectiva sustentable y basada en la innovación. El programa contempló exposiciones técnicas y un posterior panel",
-        "en": "As part of the celebration of its 25 years of experience in the country, last Thursday, August 13, STIM Chile held the seminar “Sustainable tools for the future of salmon farming”, a meeting that brought together clients, collaborators, professionals and representatives of different companies in the industry, together with national and international experts, at the CAMM in Puerto Varas. The central axis of the activity was the analysis of new technologies, products and strategies aimed at strengthening the health, well-being and productive efficiency of fish, from a sustainable perspective based on innovation. The program included technical presentations and a subsequent panel",
-        "no": "Som en del av feiringen av sin 25 års erfaring i landet, sist torsdag, 13. august, holdt STIM Chile seminaret «Bærekraftige verktøy for fremtiden for lakseoppdrett», et møte som samlet kunder, samarbeidspartnere, fagfolk og representanter for ulike selskaper i bransjen, sammen med nasjonale og internasjonale eksperter, på CAMM i Puerto Varas. Den sentrale aksen for aktiviteten var analyse av nye teknologier, produkter og strategier rettet mot å styrke fiskens helse, velvære og produktive effektivitet, fra et bærekraftig perspektiv basert på innovasjon. Programmet inneholdt tekniske presentasjoner og et påfølgende panel"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 15,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Eduardo-Aguilera-225x300.jpg"
+      "score": 14,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/AquaForum-Los-Lagos-Banner-B2B-Media-Group-1024x683.png"
     },
     {
       "title": {
@@ -128,16 +103,16 @@
     },
     {
       "title": {
-        "es": "SRS 2026 extiende plazo para el envío de resúmenes a encuentro que reunirá los últimos conocimientos y soluciones sobre piscirickettsiosis",
-        "en": "SRS 2026 extends the deadline for submitting abstracts to a meeting that will bring together the latest knowledge and solutions on piscirickettsiosis",
-        "no": "SRS 2026 forlenger fristen for å sende inn abstracts til et møte som vil samle den nyeste kunnskapen og løsningene om piscirickettsiose"
+        "es": "Cflow refuerza su apuesta por los sistemas RAS en Chile con la incorporación de Andrés Castillo",
+        "en": "Cflow reinforces its commitment to RAS systems in Chile with the incorporation of Andrés Castillo",
+        "no": "Cflow forsterker sin forpliktelse til RAS-systemer i Chile med inkorporeringen av Andrés Castillo"
       },
-      "url": "https://infosalmon.cl/srs-2026-extiende-plazo-para-el-envio-de-resumenes/",
-      "date": "Mon, 17 Aug 2026 00:47:50 +0000",
+      "url": "https://infosalmon.cl/cflow-andres-castillo-ras-chile/",
+      "date": "Wed, 19 Aug 2026 03:49:31 +0000",
       "summary": {
-        "es": "La discusión sobre el Síndrome Rickettsial del Salmón (SRS) busca dar un nuevo salto en noviembre próximo. La primera International Conference on Salmon Rickettsial Syndrome (SRS 2026): Integrating Science, Industry and Policy for Sustainable Salmon Aquaculture, organizada por el Centro Interdisciplinario para la Investigación Acuícola (INCAR²), extendió hasta este 4 de septiembre el plazo para enviar resúmenes científicos. La decisión apunta a ampliar la participación de investigadores, profesionales y estudiantes y, al mismo tiempo, fortalecer el carácter interdisciplinario que sus organizadores quieren imprimir al encuentro, que se desarrollará entre el 9 y el 11 de noviembre de 2026 en P",
-        "en": "The discussion on Salmon Rickettsial Syndrome (SRS) seeks to take a new leap next November. The first International Conference on Salmon Rickettsial Syndrome (SRS 2026): Integrating Science, Industry and Policy for Sustainable Salmon Aquaculture, organized by the Interdisciplinary Center for Aquaculture Research (INCAR²), extended the deadline to submit scientific abstracts until September 4. The decision aims to expand the participation of researchers, professionals and students and, at the same time, strengthen the interdisciplinary character that its organizers want to give to the meeting, which will take place between November 9 and 11, 2026 in P",
-        "no": "Diskusjonen om Salmon Rickettsial Syndrome (SRS) søker å ta et nytt sprang neste november. Den første internasjonale konferansen om Salmon Rickettsial Syndrome (SRS 2026): Integrating Science, Industry and Policy for Sustainable Salmon Aquaculture, organisert av Interdisciplinary Center for Aquaculture Research (INCAR²), forlenget fristen for å sende inn vitenskapelige sammendrag til 4. september. Beslutningen tar sikte på å utvide deltakelsen og studentenes deltakelse, samtidig som dens faglige karakter, samtidig styrke dens faglige karakter, samtidig som dens tverrfaglige karakter. arrangørene ønsker å gi til møtet, som vil finne sted mellom 9. og 11. november 2026 i P"
+        "es": "Cflow anunció la incorporación de Andrés Castillo a su equipo en Chile como Business Development – RAS &amp; Aquaculture Systems, reforzando una línea de trabajo que la compañía busca seguir profundizando ante el creciente desarrollo y las nuevas exigencias de los sistemas de recirculación para la acuicultura. La empresa destacó que Castillo cuenta con experiencia en gestión de proyectos, asistencia técnica y operación dentro de la industria acuícola, un perfil que consideran estratégico para fortalecer el desarrollo de soluciones RAS y otros sistemas destinados al sector. La incorporación se produce además en un momento en que Cflow busca profundizar su presencia en el mercado chileno, dond",
+        "en": "Cflow announced the incorporation of Andrés Castillo to its team in Chile as Business Development – ​​RAS &amp; Aquaculture Systems, reinforcing a line of work that the company seeks to continue deepening in the face of the growing development and new demands of recirculation systems for aquaculture. The company highlighted that Castillo has experience in project management, technical assistance and operations within the aquaculture industry, a profile that they consider strategic to strengthen the development of RAS solutions and other systems for the sector. The incorporation also occurs at a time when Cflow seeks to deepen its presence in the Chilean market, where",
+        "no": "Cflow kunngjorde innlemmelsen av Andrés Castillo til teamet sitt i Chile som forretningsutvikling – ​​RAS &amp; Aquaculture Systems, som forsterker en arbeidslinje som selskapet søker å fortsette å utdype i møte med den økende utviklingen og nye krav til resirkuleringssystemer for akvakultur. Selskapet fremhevet at Castillo har erfaring med prosjektledelse, teknisk bistand og drift innen havbruksnæringen, en profil de anser som strategisk for å styrke utviklingen av RAS-løsninger og andre systemer for sektoren. Innlemmelsen skjer også på et tidspunkt da Cflow søker å utdype sin tilstedeværelse i det chilenske markedet, hvor"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -149,20 +124,20 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Dr-Ruben-Avendano-y-Dra-Valentina-Valenzuela_Creditos-Cedida_.png"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Cflow_Andres_Castillo_Tommy_Moller_foto_1.png"
     },
     {
       "title": {
-        "es": "Empresa acuícola de Los Lagos explora oportunidades de biotecnología en Brasil",
-        "en": "Los Lagos aquaculture company explores biotechnology opportunities in Brazil",
-        "no": "Los Lagos akvakulturselskap utforsker bioteknologiske muligheter i Brasil"
+        "es": "En el foro Pacific Silver de Salmofood analizarán oportunidades del coho en EE. UU.",
+        "en": "At Salmofood's Pacific Silver forum they will analyze coho opportunities in the US.",
+        "no": "På Salmofoods Pacific Silver-forum vil de analysere coho-muligheter i USA."
       },
-      "url": "https://www.aqua.cl/empresa-acuicola-de-los-lagos-explora-oportunidades-de-biotecnologia-en-brasil/",
-      "date": "Mon, 17 Aug 2026 18:00:00 +0000",
+      "url": "https://www.aqua.cl/en-el-foro-pacific-silver-de-salmofood-analizaran-oportunidades-del-coho-en-ee-uu/",
+      "date": "Thu, 20 Aug 2026 10:46:00 +0000",
       "summary": {
-        "es": "Una delegación de empresas chilenas participó en Deep Tech Week Brasil en el marco de la convocatoria de ProChile “Misión Comercial Biotecnología a Brasil”, iniciativa orientada a generar oportunidades de negocios y fortalecer la vinculación con el ecosistema científico y tecnológico brasileño. Entre las empresas participantes estuvo AVHA Group, de la región de Los Lagos, firma especializada en diagnóstico para la salmonicultura e integrada por los laboratorios ADL y Vehice. La actividad se desarrolló entre el 10 y el 14 de agosto y reunió a startups , inversionistas, empresas, centros de investigación e instituciones vinculadas con áreas como biotecnología, salud, alimentos, medioambiente y",
-        "en": "A delegation of Chilean companies participated in Deep Tech Week Brazil within the framework of the ProChile call “Biotechnology Trade Mission to Brazil”, an initiative aimed at generating business opportunities and strengthening the link with the Brazilian scientific and technological ecosystem. Among the participating companies was AVHA Group, from the Los Lagos region, a firm specialized in diagnostics for salmon farming and made up of the ADL and Vehice laboratories. The activity took place between August 10 and 14 and brought together startups, investors, companies, research centers and institutions linked to areas such as biotechnology, health, food, environment and",
-        "no": "En delegasjon av chilenske selskaper deltok i Deep Tech Week Brazil innenfor rammen av ProChile-oppkallet \"Biotechnology Trade Mission to Brazil\", et initiativ som tar sikte på å generere forretningsmuligheter og styrke koblingen til det brasilianske vitenskapelige og teknologiske økosystemet. Blant de deltakende selskapene var AVHA Group, fra Los Lagos-regionen, et firma som spesialiserer seg på diagnostikk for lakseoppdrett og består av ADL- og Vehice-laboratoriene. Aktiviteten fant sted mellom 10. og 14. august og samlet startups, investorer, bedrifter, forskningssentre og institusjoner knyttet til områder som bioteknologi, helse, mat, miljø og"
+        "es": "El salmón coho chileno presenta oportunidades para fortalecer su presencia en Estados Unidos en un escenario donde los consumidores están priorizando cada vez más la relación precio-calidad, la facilidad de preparación, los atributos nutricionales y la sostenibilidad. Este será uno de los principales ejes de la presentación que realizará Melissa Rodriguez, vicepresidenta de Circana, durante el foro “Pacific Silver 2026”, organizado por Vitapro Chile a través de su marca Salmofood. El encuentro se llevará a cabo el próximo martes 25 de agosto en el Hotel Wyndham Pettra de Puerto Varas y reunirá a distintos actores de la industria salmonicultora nacional para analizar los desafíos y oportunida",
+        "en": "Chilean coho salmon presents opportunities to strengthen its presence in the United States in a scenario where consumers are increasingly prioritizing price-quality ratio, ease of preparation, nutritional attributes and sustainability. This will be one of the main axes of the presentation made by Melissa Rodriguez, vice president of Circana, during the “Pacific Silver 2026” forum, organized by Vitapro Chile through its Salmofood brand. The meeting will take place next Tuesday, August 25 at the Wyndham Pettra Hotel in Puerto Varas and will bring together different actors from the national salmon farming industry to analyze the challenges and opportunities.",
+        "no": "Chilensk coho-laks gir muligheter til å styrke sin tilstedeværelse i USA i et scenario der forbrukere i økende grad prioriterer forhold mellom pris og kvalitet, enkel tilberedning, ernæringsmessige egenskaper og bærekraft. Dette vil være en av hovedaksene i presentasjonen laget av Melissa Rodriguez, visepresident i Circana, under «Pacific Silver 2026»-forumet, organisert av Vitapro Chile gjennom Salmofood-merket. Møtet finner sted førstkommende tirsdag 25. august på Wyndham Pettra Hotel i Puerto Varas og vil samle ulike aktører fra den nasjonale lakseoppdrettsnæringen for å analysere utfordringene og mulighetene."
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -174,57 +149,57 @@
       },
       "score": 11,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Hugo-Roa-Avha-group-ProChile-1024x684.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Melissa-Rodriguez-Salmofood.jpg"
     },
     {
       "title": {
-        "es": "Pacific Silver 2026 analizará el potencial del salmón coho en Chile y sus mercados",
-        "en": "Pacific Silver 2026 will analyze the potential of coho salmon in Chile and its markets",
-        "no": "Pacific Silver 2026 vil analysere potensialet til coho-laks i Chile og dets markeder"
+        "es": "Mercado del salmón noruego gana impulso: precios avanzan mientras la demanda sostiene las exportaciones",
+        "en": "Norwegian salmon market gains momentum: prices advance as demand supports exports",
+        "no": "Det norske laksemarkedet får fart: Prisene går opp etter hvert som etterspørselen støtter eksporten"
       },
-      "url": "https://www.aqua.cl/pacific-silver-2026-analizara-el-potencial-del-salmon-coho-en-chile-y-sus-mercados/",
-      "date": "Mon, 17 Aug 2026 10:45:00 +0000",
+      "url": "https://infosalmon.cl/mercado-del-salmon-noruego-gana-impulso/",
+      "date": "Wed, 19 Aug 2026 18:18:49 +0000",
       "summary": {
-        "es": "Vitapro Chile, a través de su marca Salmofood, realizará el próximo 25 de agosto en Puerto Varas el foro técnico-estratégico “Pacific Silver 2026”, encuentro que reunirá a especialistas nacionales e internacionales para analizar la situación actual y las proyecciones del salmón del Pacífico (coho) ( Oncorhynchus kisutch ) en la salmonicultura chilena y en los mercados internacionales. La actividad se desarrollará en el hotel Wyndham Pettra de Puerto Varas y contará con un programa estructurado en seis ejes temáticos vinculados a la cadena de valor de esta especie. Durante la jornada se abordarán materias relacionadas con producción, salud de peces, investigación y desarrollo, desafíos produc",
-        "en": "Vitapro Chile, through its Salmofood brand, will hold the “Pacific Silver 2026” technical-strategic forum on August 25 in Puerto Varas, a meeting that will bring together national and international specialists to analyze the current situation and projections of Pacific salmon (coho) (Oncorhynchus kisutch) in Chilean salmon farming and in international markets. The activity will take place at the Wyndham Pettra hotel in Puerto Varas and will have a program structured into six thematic axes linked to the value chain of this species. During the day, matters related to production, fish health, research and development, production challenges will be addressed.",
-        "no": "Vitapro Chile vil, gjennom sin Salmofood-varemerke, holde det teknisk-strategiske forumet «Pacific Silver 2026» 25. august i Puerto Varas, et møte som vil samle nasjonale og internasjonale spesialister for å analysere den nåværende situasjonen og anslagene for stillehavslaks (coho) (Oncorhynchus kisutch) i chilensk lakseoppdrett og i internasjonale markeder. Aktiviteten vil finne sted på Wyndham Pettra-hotellet i Puerto Varas og vil ha et program strukturert i seks tematiske akser knyttet til verdikjeden til denne arten. I løpet av dagen vil saker knyttet til produksjon, fiskehelse, forskning og utvikling, produksjonsutfordringer bli tatt opp."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 11,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/DRA.-PAULINA-LOPEZ-Salmofood-1024x683.jpeg"
-    },
-    {
-      "title": {
-        "es": "El boom del salmón japonés: Del rescate costero a los megaproyectos RAS",
-        "en": "The Japanese salmon boom: From coastal rescue to RAS megaprojects",
-        "no": "Den japanske lakseboomen: Fra kystredning til RAS-megaprosjekter"
-      },
-      "url": "https://infosalmon.cl/boom-salmon-japon-acuicultura-ras-demanda-asia/",
-      "date": "Mon, 17 Aug 2026 20:59:15 +0000",
-      "summary": {
-        "es": "Apoyada en la política de Estado que elevó la acuicultura en tierra y los Sistemas RAS al rango de prioridad estratégica de seguridad nacional , la industria nipona experimenta un crecimiento sostenido. Según datos del Instituto de Investigación y Educación Pesquera de Japón (FRA), los centros de cultivo en el país se han triplicado en los últimos diez años, contabilizando 152 sitios operativos a 2026 entre instalaciones marinas y continentales. Reactivación costera En la región costera de Tohoku (sector gravemente afectado por el terremoto y tsunami del 2011), la salmonicultura marina lidera la reactivación económica local. A la tradicional producción de salmón coho en la prefectura de Miya",
-        "en": "Supported by the State policy that elevated land-based aquaculture and RAS Systems to the rank of strategic national security priority, the Japanese industry is experiencing sustained growth. According to data from the Fisheries Research and Education Institute of Japan (FRA), farming centers in the country have tripled in the last ten years, accounting for 152 operational sites by 2026 between marine and continental facilities. Coastal reactivation In the coastal region of Tohoku (sector severely affected by the 2011 earthquake and tsunami), marine salmon farming leads the local economic reactivation. To the traditional coho salmon production in Miya prefecture",
-        "no": "Støttet av statens politikk som løftet landbasert akvakultur og RAS-systemer til rangering av strategisk nasjonal sikkerhetsprioritet, opplever den japanske industrien vedvarende vekst. I følge data fra Fiskeriforsknings- og utdanningsinstituttet i Japan (FRA) har oppdrettssentrene i landet tredoblet seg de siste ti årene, og utgjør 152 driftssteder innen 2026 mellom marine og kontinentale anlegg. Kystreaktivering I kystregionen Tohoku (sektor som er hardt rammet av jordskjelvet og tsunamien i 2011), leder marin lakseoppdrett den lokale økonomiske reaktiveringen. Til den tradisjonelle coho lakseproduksjonen i Miya prefektur"
+        "es": "El mercado del salmón noruego continúa mostrando señales de fortaleza, con precios al alza y una demanda que se mantiene firme en algunos de sus principales mercados. Durante la semana en curso, el precio spot del salmón noruego fue estimado en EUR 6,24 por kilo (US$7,24/kg; NOK 68/kg), frente a los EUR 5,95/kg (US$6,90/kg) registrados la semana anterior. El incremento confirma una recuperación en los valores de mercado y mantiene los precios acumulados del tercer trimestre, hasta ahora, ampliamente alineados con las expectativas de consenso de los analistas recopiladas en el medio SalmonBusiness . Exportaciones mantienen ritmo La evolución de los precios se produce en paralelo con un increm",
+        "en": "The Norwegian salmon market continues to show signs of strength, with prices rising and demand remaining strong in some of its main markets. During the current week, the spot price of Norwegian salmon was estimated at EUR 6.24 per kilo (US$7.24/kg; NOK 68/kg), compared to EUR 5.95/kg (US$6.90/kg) recorded the previous week. The increase confirms a recovery in market values ​​and keeps the accumulated prices of the third quarter, so far, broadly aligned with the consensus expectations of analysts compiled in the SalmonBusiness medium. Exports maintain pace The evolution of prices occurs in parallel with an increase",
+        "no": "Det norske laksemarkedet fortsetter å vise styrketegn, med stigende priser og fortsatt sterk etterspørsel i noen av hovedmarkedene. I løpet av inneværende uke ble spotprisen på norsk laks estimert til 6,24 EUR per kilo (7,24 USD/kg; 68 NOK/kg), sammenlignet med 5,95 EUR/kg (6,90 USD/kg) registrert forrige uke. Økningen bekrefter en bedring i markedsverdier og holder de akkumulerte prisene i tredje kvartal, så langt, stort sett på linje med konsensusforventningene til analytikere samlet i SalmonBusiness-mediet. Eksporten holder tempo Prisutviklingen skjer parallelt med en økning"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
-      "category": "industry",
+      "category": "market",
       "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/Takaichi-1.jpg"
+      "score": 22,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2024/10/Diseno-sin-titulo-46.png"
+    },
+    {
+      "title": {
+        "es": "Lanzan plataforma digital para conectar proveedores con productores de salmón",
+        "en": "Digital platform launched to connect suppliers with salmon producers",
+        "no": "Digital plattform lansert for å koble leverandører med lakseprodusenter"
+      },
+      "url": "https://www.salmonexpert.cl/corfo-emprendimiento-plataforma/lanzan-plataforma-digital-para-conectar-proveedores-con-productores-de-salmon/2169317",
+      "date": "",
+      "summary": {
+        "es": "La herramienta del PTI busca articular la oferta de más de 400 empresas de la zona sur-austral, con las demandas técnicas, operacionales y de sostenibilidad de la industria.",
+        "en": "The PTI tool seeks to articulate the offer of more than 400 companies in the south-austral zone, with the technical, operational and sustainability demands of the industry.",
+        "no": "PTI-verktøyet søker å artikulere tilbudet til mer enn 400 selskaper i den sør-australe sonen, med de tekniske, operasjonelle og bærekraftige kravene til industrien."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2169325.jpg?imageId=2169325&x=0&y=44.63&cropw=100&croph=47.78&panox=0&panoy=44.63&panow=100&panoh=47.78&width=1200&height=683"
     },
     {
       "title": {
@@ -235,9 +210,9 @@
       "url": "https://www.salmonexpert.cl/camanchaca-cosechas-precios/salmones-camanchaca-logra-buenos-resultados-pese-a-la-baja-de-precios-y-de-cosechas/2166239",
       "date": "",
       "summary": {
-        "es": "\"La caída del 10% en precios por mucho mayor volumen cosechado en Noruega y Chile no lo esperábamos, aunque nos permite proyectar nulos crecimientos para el segundo semestre, cuando tenemos previsto un fuerte aumento de cosechas y ventas”.",
-        "en": "\"We did not expect the 10% drop in prices due to the much greater volume harvested in Norway and Chile, although it allows us to project zero growth for the second half of the year, when we plan for a strong increase in harvests and sales.\"",
-        "no": "\"Vi forventet ikke prisfallet på 10% på grunn av det mye større volumet som ble slaktet i Norge og Chile, selv om det lar oss anslå nullvekst for andre halvår, når vi planlegger en sterk økning i avlinger og salg.\""
+        "es": "",
+        "en": "",
+        "no": ""
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -247,47 +222,47 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 18,
+      "score": 12,
       "cross_source": false,
       "image": "https://image.salmonexpert.cl/1349440.jpg?imageId=1349440&x=0&y=11.94&cropw=100&croph=71.67&panox=0&panoy=11.94&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Exportaciones de salmón chileno avanzan pese a un escenario comercial más desafiante",
-        "en": "Chilean salmon exports advance despite a more challenging commercial scenario",
-        "no": "Chilensk lakseeksport går frem til tross for et mer utfordrende kommersielt scenario"
+        "es": "Seremi de Economía destaca potencial de la salmonicultura para impulsar empleo en Magallanes",
+        "en": "Seremi de Economía highlights the potential of salmon farming to boost employment in Magallanes",
+        "no": "Seremi de Economía fremhever potensialet til lakseoppdrett for å øke sysselsettingen i Magallanes"
       },
-      "url": "https://www.salmonexpert.cl/aduanas-envios-exportaciones/exportaciones-de-salmon-chileno-avanzan-pese-a-un-escenario-comercial-mas-desafiante/2167355",
-      "date": "",
+      "url": "https://www.aqua.cl/seremi-de-economia-destaca-potencial-de-la-salmonicultura-para-impulsar-empleo-en-magallanes/",
+      "date": "Thu, 20 Aug 2026 10:45:00 +0000",
       "summary": {
-        "es": "Estados Unidos continuó como principal destino, mientras China destacó por un crecimiento de 91,6%, en volumen. Rusia, en contraste, mantuvo una fuerte contracción.",
-        "en": "The United States continued as the main destination, while China stood out for its growth of 91.6% in volume. Russia, in contrast, maintained a strong contraction.",
-        "no": "USA fortsatte som hoveddestinasjon, mens Kina skilte seg ut for sin vekst på 91,6 % i volum. Russland, derimot, opprettholdt en sterk sammentrekning."
+        "es": "El seremi de Economía, Fomento y Turismo, Francisco Birke , visitó el centro de cultivo Punta Johnson de AquaChile. La autoridad conoció las operaciones de engorda y el proceso previo al inicio de la cosecha. La jornada también incluyó un recorrido por otro centro de cultivo y por la base terrestre de la compañía. Esta última se encuentra ubicada en Ladrilleros. Tras el recorrido, la autoridad destacó la importancia de conocer directamente una de las principales actividades productivas presentes en la región. También relevó su aporte al empleo y a la economía de Magallanes. “Estamos visitando uno de los centros de la empresa AquaChile. Estamos en el centro Punta Johnson, un centro que ya est",
+        "en": "The Minister of Economy, Development and Tourism, Francisco Birke, visited AquaChile's Punta Johnson cultivation center. The authority learned about the fattening operations and the process prior to the start of the harvest. The day also included a tour of another cultivation center and the company's land base. The latter is located in Ladrilleros. After the tour, the authority highlighted the importance of knowing directly one of the main productive activities present in the region. He also highlighted his contribution to employment and the economy of Magallanes. \"We are visiting one of the centers of the AquaChile company. We are in the Punta Johnson center, a center that is already",
+        "no": "Ministeren for økonomi, utvikling og turisme, Francisco Birke, besøkte AquaChiles Punta Johnson-dyrkingssenter. Myndigheten fikk kjennskap til oppfeingsoperasjonene og prosessen før høstingen startet. Dagen inneholdt også omvisning på et annet dyrkingssenter og bedriftens landbase. Sistnevnte ligger i Ladrilleros. Etter omvisningen fremhevet myndigheten viktigheten av å kjenne direkte til en av de viktigste produktive aktivitetene i regionen. Han fremhevet også sitt bidrag til sysselsetting og økonomien i Magallanes. \"Vi besøker et av sentrene til AquaChile-selskapet. Vi er i Punta Johnson-senteret, et senter som allerede er"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 13,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2167367.jpg?imageId=2167367&x=0&y=6.42&cropw=100&croph=87.16&panox=0&panoy=6.42&panow=100&panoh=87.16&width=1200&height=683"
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/5-1-1024x768.jpeg"
     },
     {
       "title": {
-        "es": "Diputado Mauro González por fallo del TC: “Las microrelocalizaciones eran una solución técnica”",
-        "en": "Deputy Mauro González due to TC ruling: “Micro-relocations were a technical solution”",
-        "no": "Nestleder Mauro González på grunn av TC-dommen: \"Mikroflytting var en teknisk løsning\""
+        "es": "Subpesca pone freno a cambio para capturar jibia con red de media agua en Biobío",
+        "en": "Subpesca puts the brakes on change to capture cuttlefish with a mid-water net in Biobío",
+        "no": "Subpesca setter bremsene på endring for å fange blekksprut med et midtvannsnett i Biobío"
       },
-      "url": "https://www.aqua.cl/diputado-mauro-gonzalez-por-fallo-del-tc-las-microrelocalizaciones-eran-una-solucion-tecnica/",
-      "date": "Mon, 17 Aug 2026 10:50:00 +0000",
+      "url": "https://www.aqua.cl/subpesca-pone-freno-a-cambio-para-capturar-jibia-con-red-de-media-agua-en-biobio/",
+      "date": "Thu, 20 Aug 2026 10:43:00 +0000",
       "summary": {
-        "es": "El diputado Mauro González cuestionó el fallo del Tribunal Constitucional que declaró inconstitucional parte del proyecto de ley de Reconstrucción Nacional, en lo relacionado con las denominadas “microrelocalizaciones” de concesiones de acuicultura. La iniciativa modificaba la Ley N° 20.434, sobre relocalización de concesiones de acuicultura, y establecía que las denominadas “microrelocalizaciones” quedarían exentas del ingreso al Sistema de Evaluación de Impacto Ambiental (SEIA). Al respecto, el parlamentario sostuvo que la decisión genera incertidumbre para el sector y llamó al Gobierno a adoptar medidas administrativas que permitan destrabar las solicitudes de relocalización actualmente e",
-        "en": "Deputy Mauro González questioned the ruling of the Constitutional Court that declared part of the National Reconstruction bill unconstitutional, in relation to the so-called “micro-relocations” of aquaculture concessions. The initiative modified Law No. 20,434, on the relocation of aquaculture concessions, and established that the so-called “micro-relocations” would be exempt from entering the Environmental Impact Assessment System (SEIA). In this regard, the parliamentarian maintained that the decision generates uncertainty for the sector and called on the Government to adopt administrative measures that allow unblocking the relocation requests currently and",
-        "no": "Nestleder Mauro González stilte spørsmål ved kjennelsen fra den konstitusjonelle domstolen som erklærte en del av den nasjonale gjenoppbyggingsloven for grunnlovsstridig, i forhold til de såkalte \"mikroflyttingene\" av akvakulturkonsesjoner. Initiativet endret lov nr. 20 434, om flytting av akvakulturkonsesjoner, og fastslo at de såkalte \"mikroflyttingene\" ville være unntatt fra å gå inn i miljøkonsekvensvurderingssystemet (SEIA). I denne forbindelse fastholdt parlamentarikeren at vedtaket skaper usikkerhet for sektoren og oppfordret regjeringen til å vedta administrative tiltak som gjør det mulig å fjerne blokkeringen av flytteforespørslene for øyeblikket og"
+        "es": "La Subsecretaría de Pesca y Acuicultura (Subpesca) fijó su posición respecto del proyecto de ley que busca permitir el uso de red de media agua para la extracción industrial de jibia en la región del Biobío, señalando que actualmente no es el momento adecuado para priorizar una modificación de esta naturaleza. Desde la autoridad precisaron que la iniciativa no corresponde a un proyecto impulsado por el Ejecutivo, no cuenta con patrocinio del Gobierno ni tiene urgencia legislativa, por lo que su eventual avance dependerá de las decisiones que adopte el Congreso Nacional. Subpesca enfatizó, sin embargo, que esta posición no desconoce el derecho del sector industrial a capturar el 10% de jibia ",
+        "en": "The Undersecretariat of Fisheries and Aquaculture (Subpesca) established its position regarding the bill that seeks to allow the use of a mid-water network for the industrial extraction of cuttlefish in the Biobío region, pointing out that currently it is not the right time to prioritize a modification of this nature. The authorities specified that the initiative does not correspond to a project promoted by the Executive, it does not have sponsorship from the Government nor does it have legislative urgency, so its eventual advancement will depend on the decisions adopted by the National Congress. Subpesca emphasized, however, that this position does not ignore the right of the industrial sector to capture 10% of cuttlefish.",
+        "no": "Undersekretariatet for fiskeri og akvakultur (Subpesca) etablerte sin holdning til lovforslaget som søker å tillate bruk av et midtvannsnettverk for industriell utvinning av blekksprut i Biobío-regionen, og påpekte at det for øyeblikket ikke er riktig tidspunkt å prioritere en modifikasjon av denne arten. Myndighetene spesifiserte at initiativet ikke samsvarer med et prosjekt fremmet av den utøvende myndigheten, det har ikke sponsing fra regjeringen og heller ikke haster med lovgivning, så dets eventuelle fremskritt vil avhenge av beslutningene vedtatt av nasjonalkongressen. Subpesca understreket imidlertid at denne posisjonen ikke ignorerer industrisektorens rett til å fange 10 % av blekkspruten."
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -297,9 +272,34 @@
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 14,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2025/04/Diputado-Mauro-Gonzalez.jpg"
+      "score": 18,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/07/pesca-de-jibia-en-Chile-Ferepa-Biobio.png"
+    },
+    {
+      "title": {
+        "es": "INCAR² analiza las relocalizaciones como instrumento para mejorar la sustentabilidad de la salmonicultura",
+        "en": "INCAR² analyzes relocations as an instrument to improve the sustainability of salmon farming",
+        "no": "INCAR² analyserer flytting som et instrument for å forbedre bærekraften i lakseoppdrett"
+      },
+      "url": "https://www.mundoacuicola.cl/new/incar2-analiza-las-relocalizaciones-como-instrumento-para-mejorar-la-sustentabilidad-de-la-salmonicultura/",
+      "date": "Wed, 19 Aug 2026 14:40:08 +0000",
+      "summary": {
+        "es": "El nuevo Policy Brief de INCAR² examina las relocalizaciones de centros de cultivo como herramienta de ordenamiento territorial para reducir riesgos ambientales y sanitarios. El documento identifica barreras normativas y plantea fortalecer el monitoreo, la gobernanza y la coordinación institucional. La entrada INCAR² analiza las relocalizaciones como instrumento para mejorar la sustentabilidad de la salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "INCAR²'s new Policy Brief examines the relocations of cultivation centers as a territorial planning tool to reduce environmental and health risks. The document identifies regulatory barriers and proposes strengthening monitoring, governance and institutional coordination. The INCAR² entry analyzes relocations as an instrument to improve the sustainability of salmon farming was first published in Mundoacuicola.",
+        "no": "INCAR²s nye policy Brief undersøker flytting av dyrkingssentre som et territorielt planleggingsverktøy for å redusere miljø- og helserisiko. Dokumentet identifiserer regulatoriske barrierer og foreslår styrking av overvåking, styring og institusjonell koordinering. INCAR²-oppføringen analyserer flytting som et instrument for å forbedre bærekraften til lakseoppdrett ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Policy-brief-relocalizaciones-.png"
     }
   ]
 }
