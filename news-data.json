@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-24T13:36:59Z",
+  "updated": "2026-08-27T13:33:13Z",
   "articles": [
     {
       "title": {
-        "es": "Innovación sanitaria en peces: Diagnóstico temprano y vigilancia integrada",
-        "en": "Health innovation in fish: Early diagnosis and integrated surveillance",
-        "no": "Helseinnovasjon hos fisk: Tidlig diagnose og integrert overvåking"
+        "es": "Alianza Yelcho designa a un nuevo director ejecutivo",
+        "en": "Alianza Yelcho appoints a new executive director",
+        "no": "Alianza Yelcho utnevner en ny administrerende direktør"
       },
-      "url": "https://www.aqua.cl/innovacion-sanitaria-en-peces-diagnostico-temprano-y-vigilancia-integrada/",
-      "date": "Mon, 24 Aug 2026 10:50:00 +0000",
+      "url": "https://www.aqua.cl/alianza-yelcho-designa-a-un-nuevo-director-ejecutivo/",
+      "date": "Thu, 27 Aug 2026 10:46:00 +0000",
       "summary": {
-        "es": "La salud de los peces atraviesa una etapa de transformación, donde la prevención adquiere un rol central. Nuevas herramientas científicas permiten avanzar hacia diagnósticos más tempranos y sistemas de vigilancia integrados, capaces de entregar información relevante para proteger la sostenibilidad de la acuicultura. Para los investigadores, el desafío está en integrar información molecular, ambiental y tecnológica para avanzar hacia una vigilancia más precisa y anticipar problemas sanitarios. Bajo esta mirada, el profesor asociado del Departamento de Patología Animal de la Universidad de Chile, Dr. Felipe Reyes López, destacó la importancia de avanzar hacia diagnósticos tempranos que permita",
-        "en": "The health of fish is going through a stage of transformation, where prevention takes on a central role. New scientific tools allow progress towards earlier diagnoses and integrated surveillance systems, capable of delivering relevant information to protect the sustainability of aquaculture. For researchers, the challenge is to integrate molecular, environmental and technological information to advance towards more precise surveillance and anticipate health problems. Under this perspective, the associate professor of the Department of Animal Pathology of the University of Chile, Dr. Felipe Reyes López, highlighted the importance of moving towards early diagnoses that allow",
-        "no": "Fiskens helse går gjennom et stadium av transformasjon, hvor forebygging får en sentral rolle. Nye vitenskapelige verktøy tillater fremgang mot tidligere diagnoser og integrerte overvåkingssystemer, i stand til å levere relevant informasjon for å beskytte bærekraften til akvakultur. For forskere er utfordringen å integrere molekylær, miljømessig og teknologisk informasjon for å avansere mot mer presis overvåking og forutse helseproblemer. Under dette perspektivet fremhevet førsteamanuensis ved Institutt for dyrepatologi ved Universitetet i Chile, Dr. Felipe Reyes López, viktigheten av å gå mot tidlige diagnoser som tillater"
+        "es": "Alianza Yelcho informó que Fernando Flores asumió como nuevo director ejecutivo de la iniciativa público-privada, cuyo objetivo es impulsar soluciones inmunológicas para prevenir y controlar la Piscirickettsiosis (SRS) en el salmón de cultivo y contribuir a reducir el uso de antibióticos. Flores inició sus funciones el 17 de agosto de 2026 y, según informó la organización, su incorporación busca fortalecer la agenda científico-técnica de la alianza, profundizar la articulación entre los sectores público y privado y acelerar el desarrollo de herramientas preventivas, especialmente vacunas. Trayectoria en salud animal y salmonicultura Fernando Flores es médico veterinario y licenciado en Cienc",
+        "en": "Alianza Yelcho reported that Fernando Flores took over as the new executive director of the public-private initiative, whose objective is to promote immunological solutions to prevent and control Piscirickettsiosis (SRS) in farmed salmon and contribute to reducing the use of antibiotics. Flores began his duties on August 17, 2026 and, according to the organization, his incorporation seeks to strengthen the scientific-technical agenda of the alliance, deepen the coordination between the public and private sectors and accelerate the development of preventive tools, especially vaccines. Career in animal health and salmon farming Fernando Flores is a veterinary doctor and graduate in Science",
+        "no": "Alianza Yelcho rapporterte at Fernando Flores tok over som ny administrerende direktør for det offentlig-private initiativet, hvis mål er å fremme immunologiske løsninger for å forebygge og kontrollere Piscirickettsiosis (SRS) hos oppdrettslaks og bidra til å redusere bruken av antibiotika. Flores begynte sine plikter 17. august 2026, og ifølge organisasjonen søker hans innlemmelse å styrke den vitenskapelig-tekniske agendaen til alliansen, utdype koordineringen mellom offentlig og privat sektor og akselerere utviklingen av forebyggende verktøy, spesielt vaksiner. Karriere innen dyrehelse og lakseoppdrett Fernando Flores er veterinærlege og utdannet naturvitenskap"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -22,47 +22,97 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Foto-1-scaled.jpg"
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Fernando-Flores-Alianza-Yelcho-scaled.jpg"
     },
     {
       "title": {
-        "es": "El equipo que innovó con tecnología para mejor administración de oxitetraciclina en salmón",
-        "en": "The team that innovated with technology for better administration of oxytetracycline in salmon",
-        "no": "Teamet som innoverte med teknologi for bedre administrering av oksytetracyklin i laks"
+        "es": "Descubren nueva estructura en el piojo de mar que podría ayudar a controlar el cáligus",
+        "en": "They discover a new structure in the sea lice that could help control caligus",
+        "no": "De oppdager en ny struktur i lakselusen som kan bidra til å kontrollere caligus"
       },
-      "url": "https://www.salmonexpert.cl/administracion-antibioticos-innovacion/el-equipo-que-innovo-con-tecnologia-para-mejor-administracion-de-oxitetraciclina-en-salmon/2167465",
-      "date": "",
+      "url": "https://www.aqua.cl/descubren-nueva-estructura-en-el-piojo-de-mar-que-podria-ayudar-a-controlar-el-caligus/",
+      "date": "Thu, 27 Aug 2026 10:44:00 +0000",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "Una investigadora de Nofima describió por primera vez una estructura hasta ahora desconocida ubicada en la parte frontal del cuerpo del piojo de mar. Similar a una pequeña espina, podría cumplir un rol tanto en la forma en que el parásito detecta al salmón como en su fijación inicial sobre la piel del pez. La estructura fue denominada rostral spike y es visible durante la etapa en que el piojo de mar necesita encontrar un hospedador. El hallazgo podría abrir nuevas oportunidades para desarrollar herramientas orientadas al control del parásito. El descubrimiento fue realizado por Amritha Johny, investigadora en salud de peces de Nofima, mientras examinaba copepoditos bajo el microscopio. Esta",
+        "en": "A Nofima researcher described for the first time a previously unknown structure located on the front part of the sea louse's body. Similar to a small spine, it could play a role both in how the parasite detects the salmon and in its initial attachment to the fish's skin. The structure was called the rostral spike and is visible during the stage when the sea lice needs to find a host. The discovery could open new opportunities to develop tools aimed at controlling the parasite. The discovery was made by Amritha Johny, a fish health researcher at Nofima, while examining copepodites under the microscope. This",
+        "no": "En Nofima-forsker beskrev for første gang en tidligere ukjent struktur plassert på den fremre delen av sjølusens kropp. I likhet med en liten ryggrad kan den spille en rolle både i hvordan parasitten oppdager laksen og i dens første feste til fiskens skinn. Strukturen ble kalt rostralpiggen og er synlig i det stadiet da lakselusen trenger å finne en vert. Oppdagelsen kan åpne nye muligheter for å utvikle verktøy rettet mot å kontrollere parasitten. Oppdagelsen ble gjort av Amritha Johny, en fiskehelseforsker ved Nofima, mens hun undersøkte copepodites under mikroskopet. Dette"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2167475.jpg?imageId=2167475&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+      "score": 6,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Amritha-Johny-768x432-Nofima-1024x576.jpeg"
     },
     {
       "title": {
-        "es": "SalmonChile y Armasur llevan innovación y formación técnico-profesional a Los Lagos y Aysén",
-        "en": "SalmonChile and Armasur bring innovation and technical-professional training to Los Lagos and Aysén",
-        "no": "SalmonChile og Armasur bringer innovasjon og teknisk-profesjonell opplæring til Los Lagos og Aysén"
+        "es": "El salmón que EE.UU. podría estar dejando escapar: ¿cuánto valor económico está en juego?",
+        "en": "The salmon the US could be letting slip: How much economic value is at stake?",
+        "no": "Laksen USA kan slippe ut: Hvor mye økonomisk verdi står på spill?"
       },
-      "url": "https://www.aqua.cl/salmonchile-y-armasur-llevan-innovacion-y-formacion-tecnico-profesional-a-los-lagos-y-aysen/",
-      "date": "Mon, 24 Aug 2026 10:47:00 +0000",
+      "url": "https://infosalmon.cl/el-salmon-que-ee-uu-podria-estar-dejando-escapar/",
+      "date": "Wed, 26 Aug 2026 21:22:01 +0000",
       "summary": {
-        "es": "Con el objetivo de descentralizar el conocimiento y fortalecer los vínculos con zonas aisladas del sur de Chile, comenzará la “Ruta por Fiordos y Canales de Chiloé a Aysén”. La iniciativa tendrá su inicio oficial este viernes 21 de agosto. Es liderada por SalmonChile y sus empresas socias, junto con Armasur y ONG Canales. El protagonista será el Buque Escuela Capitán Williams. La embarcación está dedicada durante todo el año a la formación técnico-profesional de estudiantes de Los Lagos. Durante esta travesía, el buque se transformará en una plataforma de “Puertas Abiertas”. El objetivo será que estudiantes, autoridades y vecinos conozcan la cadena de valor de la salmonicultura. Innovación y",
-        "en": "With the aim of decentralizing knowledge and strengthening links with isolated areas of southern Chile, the “Route through Fjords and Canals from Chiloé to Aysén” will begin. The initiative will have its official start this Friday, August 21. It is led by SalmonChile and its partner companies, together with Armasur and NGO Canales. The protagonist will be the Captain Williams Training Ship. The boat is dedicated throughout the year to the technical-professional training of students from Los Lagos. During this voyage, the ship will transform into an “Open Doors” platform. The objective will be for students, authorities and neighbors to know the salmon farming value chain. Innovation and",
-        "no": "Med sikte på å desentralisere kunnskap og styrke forbindelsene med isolerte områder i det sørlige Chile, starter «Ruten gjennom fjorder og kanaler fra Chiloé til Aysén». Initiativet vil ha sin offisielle start fredag ​​21. august. Det ledes av SalmonChile og dets partnerselskaper, sammen med Armasur og NGO Canales. Hovedpersonen vil være Captain Williams Training Ship. Båten er dedikert gjennom året til teknisk-profesjonell opplæring av studenter fra Los Lagos. Under denne seilasen vil skipet forvandles til en \"Open Doors\"-plattform. Målet vil være at studenter, myndigheter og naboer skal kjenne verdikjeden til lakseoppdrett. Innovasjon og"
+        "es": "La salmonicultura y la truchicultura estadounidense tienen un problema que va mucho más allá de la producción de peces: la capacidad de transformar demanda interna en actividad económica doméstica está limitada por las barreras que enfrenta la producción local. Esa es una de las principales conclusiones del nuevo estudio publicado en Journal of the World Aquaculture Society, que por primera vez cuantifica la contribución económica de los centros de cultivo comerciales de salmónidos en Estados Unidos. La investigación de Shraddha Hegde, Carole R. Engle y otros autores estima que el sector aportó US$394,3 millones a la economía estadounidense durante 2023, considerando efectos directos, indire",
+        "en": "American salmon and trout farming have a problem that goes far beyond fish production: the ability to transform domestic demand into domestic economic activity is limited by the barriers faced by local production. That is one of the main conclusions of the new study published in the Journal of the World Aquaculture Society, which for the first time quantifies the economic contribution of commercial salmon farming centers in the United States. Research by Shraddha Hegde, Carole R. Engle and other authors estimates that the sector contributed US$394.3 million to the US economy during 2023, considering direct effects, indire",
+        "no": "Amerikansk lakse- og ørretoppdrett har et problem som går langt utover fiskeproduksjonen: muligheten til å transformere innenlandsk etterspørsel til innenlandsk økonomisk aktivitet begrenses av barrierene som lokal produksjon står overfor. Det er en av hovedkonklusjonene i den nye studien publisert i Journal of the World Aquaculture Society, som for første gang kvantifiserer det økonomiske bidraget til kommersielle lakseoppdrettssentre i USA. Forskning av Shraddha Hegde, Carole R. Engle og andre forfattere anslår at sektoren bidro med USD 394,3 millioner til den amerikanske økonomien i løpet av 2023, tatt i betraktning direkte effekter, indire"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Mercado-en-salmon-EEUU-1024x683.png"
+    },
+    {
+      "title": {
+        "es": "SalmonChile capacita a proveedores en equidad de género para fortalecer la cadena de valor",
+        "en": "SalmonChile trains suppliers in gender equality to strengthen the value chain",
+        "no": "SalmonChile utdanner leverandører i likestilling for å styrke verdikjeden"
+      },
+      "url": "https://www.mundoacuicola.cl/new/salmonchile-capacita-a-proveedores-en-equidad-de-genero-para-fortalecer-la-cadena-de-valor/",
+      "date": "Wed, 26 Aug 2026 21:45:11 +0000",
+      "summary": {
+        "es": "La Mesa de Equidad de Género del Salmón reunió en INACAP Puerto Montt a 38 empresas proveedoras no socias, firmas asociadas y representantes del sector público para entregar herramientas de gestión e impulsar buenas prácticas laborales en la cadena de valor de la salmonicultura. La entrada SalmonChile capacita a proveedores en equidad de género para fortalecer la cadena de valor se publicó primero en Mundoacuicola .",
+        "en": "The Salmon Gender Equity Roundtable brought together 38 non-member supplier companies, associated firms and representatives of the public sector at INACAP Puerto Montt to provide management tools and promote good labor practices in the salmon farming value chain. The entry SalmonChile trains suppliers in gender equality to strengthen the value chain was first published in Mundoacuicola.",
+        "no": "Salmon Gender Equity Roundtable samlet 38 ikke-medlemsleverandørselskaper, tilknyttede firmaer og representanter for offentlig sektor ved INACAP Puerto Montt for å tilby styringsverktøy og fremme god arbeidspraksis i lakseoppdrettsverdikjeden. Oppslaget SalmonChile trener leverandører i likestilling for å styrke verdikjeden ble først publisert i Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Mesa-de-Equidad-de-Genero-SalmonChile-Avances.jpg"
+    },
+    {
+      "title": {
+        "es": "Acuicultura abre puente entre Chile y Argentina con alianza desde la Patagonia",
+        "en": "Aquaculture opens a bridge between Chile and Argentina with an alliance from Patagonia",
+        "no": "Akvakultur åpner en bro mellom Chile og Argentina med en allianse fra Patagonia"
+      },
+      "url": "https://www.aqua.cl/acuicultura-abre-nuevo-puente-entre-chile-y-argentina-con-alianza-proyectada-desde-la-patagonia/",
+      "date": "Thu, 27 Aug 2026 10:48:00 +0000",
+      "summary": {
+        "es": "Una delegación de Comodoro Rivadavia, provincia de Chubut, visitó la Universidad de Los Lagos durante la tercera semana de agosto. La visita buscó fortalecer los vínculos binacionales para impulsar el desarrollo de la acuicultura entre Chile y Argentina. La comitiva conoció experiencias productivas, tecnológicas y científicas desarrolladas por la Universidad de Los Lagos en la región de Los Lagos. Experiencia acuícola de la Universidad de Los Lagos La acuicultura chilena es considerada un referente sudamericano por su desarrollo productivo y científico. En este contexto, la Ingeniería en Acuicultura de la Universidad de Los Lagos destaca por su trayectoria. La institución fue pionera en la f",
+        "en": "A delegation from Comodoro Rivadavia, province of Chubut, visited the University of Los Lagos during the third week of August. The visit sought to strengthen binational ties to promote the development of aquaculture between Chile and Argentina. The delegation learned about productive, technological and scientific experiences developed by the University of Los Lagos in the Los Lagos region. Aquaculture experience of the University of Los Lagos Chilean aquaculture is considered a South American benchmark for its productive and scientific development. In this context, the Aquaculture Engineering of the University of Los Lagos stands out for its trajectory. The institution was a pioneer in the f",
+        "no": "En delegasjon fra Comodoro Rivadavia, provinsen Chubut, besøkte University of Los Lagos i løpet av den tredje uken i august. Besøket forsøkte å styrke binasjonale bånd for å fremme utviklingen av akvakultur mellom Chile og Argentina. Delegasjonen lærte om produktive, teknologiske og vitenskapelige erfaringer utviklet av University of Los Lagos i Los Lagos-regionen. Akvakulturerfaring ved University of Los Lagos Chilensk akvakultur regnes som en søramerikansk målestokk for sin produktive og vitenskapelige utvikling. I denne sammenhengen skiller Aquaculture Engineering ved University of Los Lagos seg ut for sin bane. Institusjonen var en pioner i f.eks"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -72,22 +122,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 12,
+      "score": 13,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Buque-Escuela-1.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/41-scaled-1-1024x768.jpg"
     },
     {
       "title": {
-        "es": "Minería y salmonicultura unen fuerzas en Santiago en seminario de InfoSALMON: Carlos Urenda pide una agenda común para impulsar la inversión regional",
-        "en": "Mining and salmon farming join forces in Santiago at the InfoSALMON seminar: Carlos Urenda calls for a common agenda to promote regional investment",
-        "no": "Gruvedrift og lakseoppdrett slår seg sammen i Santiago på InfoSALMON-seminaret: Carlos Urenda etterlyser en felles agenda for å fremme regionale investeringer"
+        "es": "Juan Sebastián Montes llevará a cumbre de InfoSALMON el debate sobre riesgos globales para la salmonicultura",
+        "en": "Juan Sebastián Montes will bring the debate on global risks for salmon farming to the InfoSALMON summit",
+        "no": "Juan Sebastián Montes vil bringe debatten om globale risikoer for lakseoppdrett til InfoSALMON-toppmøtet"
       },
-      "url": "https://infosalmon.cl/consejo-minero-carlos-urenda-salmonicultura-inversion-regional/",
-      "date": "Mon, 24 Aug 2026 02:35:29 +0000",
+      "url": "https://infosalmon.cl/riesgos-globales-de-la-salmonicultura-juan-sebastian-montes/",
+      "date": "Wed, 26 Aug 2026 22:06:15 +0000",
       "summary": {
-        "es": "Aunque operan en geografías y ecosistemas distintos (desde el desierto del norte hasta los fiordos australes), la minería y la salmonicultura comparten una misma columna vertebral. Son las actividades que sostienen el comercio exterior de Chile, dinamizan el empleo regional y que actualmente, enfrentan desafíos regulatorios críticos para proyectar su crecimiento. En este marco, el evento «El Salmón: Potencia Económica de Chile», organizada por InfoSALMON para el próximo 3 de septiembre en las instalaciones de Deloitte en la comuna de Las Condes, abrirá un diálogo intersectorial inédito. Uno de sus principales protagonistas será Carlos Urenda, Gerente General del Consejo Minero (CM), quien in",
-        "en": "Although they operate in different geographies and ecosystems (from the northern desert to the southern fjords), mining and salmon farming share the same backbone. They are the activities that sustain Chile's foreign trade, boost regional employment and currently face critical regulatory challenges to project their growth. In this framework, the event \"El Salmón: Economic Power of Chile\", organized by InfoSALMON for next September 3 at the Deloitte facilities in the commune of Las Condes, will open an unprecedented intersectoral dialogue. One of its main protagonists will be Carlos Urenda, General Manager of the Mining Council (CM), who in",
-        "no": "Selv om de opererer i forskjellige geografier og økosystemer (fra den nordlige ørkenen til de sørlige fjordene), deler gruvedrift og lakseoppdrett samme ryggrad. De er aktivitetene som opprettholder Chiles utenrikshandel, øker regional sysselsetting og står for øyeblikket overfor kritiske regulatoriske utfordringer for å projisere deres vekst. I denne rammen vil arrangementet \"El Salmón: Chiles økonomiske kraft\", organisert av InfoSALMON neste 3. september ved Deloitte-anleggene i Las Condes-kommunen, åpne en enestående intersektoriell dialog. En av hovedpersonene vil være Carlos Urenda, daglig leder for Mining Council (CM), som i"
+        "es": "Ampliar la mirada más allá de los costos y comprender los riesgos globales para la salmonicultura será el principal mensaje que Juan Sebastián Montes, decano de la Escuela de Negocios de la Universidad Adolfo Ibáñez, llevará al seminario “El Salmón: Potencia Económica de Chile”. Montes presentará la charla magistral “Navegando un mundo incierto. Desafíos para la gestión en el siglo 21”, en la que abordará los cambios geopolíticos, económicos y tecnológicos que podrían afectar la competitividad de una industria orientada principalmente a la exportación. La exposición formará parte del encuentro organizado por InfoSALMON ⁠, que se realizará el próximo 3 de septiembre en las dependencias de Del",
+        "en": "Broadening the view beyond costs and understanding the global risks for salmon farming will be the main message that Juan Sebastián Montes, dean of the Business School of the Adolfo Ibáñez University, will take to the seminar “El Salmón: Economic Power of Chile.” Montes will present the keynote talk \"Navigating an uncertain world. Challenges for management in the 21st century\", in which he will address the geopolitical, economic and technological changes that could affect the competitiveness of an industry oriented mainly to export. The exhibition will be part of the meeting organized by InfoSALMON ⁠, which will take place on September 3 at the Del",
+        "no": "Å utvide synet utover kostnader og forstå de globale risikoene for lakseoppdrett vil være hovedbudskapet som Juan Sebastián Montes, dekan ved handelshøyskolen ved Adolfo Ibáñez-universitetet, vil ta med seg til seminaret «El Salmón: Chiles økonomiske kraft». Montes vil presentere hovedforedraget \"Navigering i en usikker verden. Utfordringer for ledelse i det 21. århundre\", der han vil ta for seg de geopolitiske, økonomiske og teknologiske endringene som kan påvirke konkurranseevnen til en industri orientert hovedsakelig mot eksport. Utstillingen vil være en del av møtet i regi av InfoSALMON ⁠, som finner sted 3. september på Del"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -98,46 +148,71 @@
         "no": "Bransjenyheter"
       },
       "score": 12,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Carlos-Urenda-SNTGO-INFSALM.png"
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Diseno-sin-titulo-5.png"
     },
     {
       "title": {
-        "es": "Melissa Rodriguez en «Pacific Silver 2026»: El consumidor de EE.UU. busca salmón Coho como una alternativa «premium accesible»",
-        "en": "Melissa Rodriguez in \"Pacific Silver 2026\": The US consumer seeks Coho salmon as an \"accessible premium\" alternative",
-        "no": "Melissa Rodriguez i \"Pacific Silver 2026\": Den amerikanske forbrukeren søker Coho-laks som et \"tilgjengelig premium\"-alternativ"
+        "es": "Hack Ur Mindset 2026 reunió en Puerto Varas nuevas miradas para impulsar el desarrollo sostenible",
+        "en": "Hack Ur Mindset 2026 brought together new perspectives in Puerto Varas to promote sustainable development",
+        "no": "Hack Ur Mindset 2026 samlet nye perspektiver i Puerto Varas for å fremme bærekraftig utvikling"
       },
-      "url": "https://infosalmon.cl/experta-circana-melissa-rodriguez-salmon-coho-chileno-eeuu-pacific-silver-2026/",
-      "date": "Fri, 21 Aug 2026 19:27:06 +0000",
+      "url": "https://www.aqua.cl/384229-2/",
+      "date": "Thu, 27 Aug 2026 10:50:00 +0000",
       "summary": {
-        "es": "El salmón Coho chileno tiene una oportunidad concreta de fortalecer su presencia en Estados Unidos en un escenario donde los consumidores priorizan cada vez más la relación precio-calidad, la facilidad de preparación, los atributos nutricionales y la sostenibilidad. Así lo plantea Melissa Rodriguez, vicepresidenta de Circana y destacada experta internacional invitada al foro “Pacific Silver 2026”, organizado por Vitapro Chile a través de su marca Salmofood. El evento se realizará el próximo martes 25 de agosto en el Hotel Wyndham Pettra de Puerto Varas, reuniendo a los principales actores de la industria salmonicultora nacional para analizar los desafíos y oportunidades de desarrollo de esta",
-        "en": "Chilean Coho salmon has a concrete opportunity to strengthen its presence in the United States in a scenario where consumers increasingly prioritize price-quality ratio, ease of preparation, nutritional attributes and sustainability. This is stated by Melissa Rodriguez, vice president of Circana and prominent international expert invited to the “Pacific Silver 2026” forum, organized by Vitapro Chile through its Salmofood brand. The event will take place next Tuesday, August 25 at the Wyndham Pettra Hotel in Puerto Varas, bringing together the main players in the national salmon farming industry to analyze the challenges and development opportunities of this industry.",
-        "no": "Chilensk Coho-laks har en konkret mulighet til å styrke sin tilstedeværelse i USA i et scenario der forbrukere i økende grad prioriterer forhold mellom pris og kvalitet, enkel tilberedning, ernæringsmessige egenskaper og bærekraft. Dette er uttalt av Melissa Rodriguez, visepresident i Circana og fremtredende internasjonal ekspert invitert til «Pacific Silver 2026»-forumet, organisert av Vitapro Chile gjennom Salmofood-merket. Arrangementet finner sted neste tirsdag, 25. august på Wyndham Pettra Hotel i Puerto Varas, og samler hovedaktørene i den nasjonale lakseoppdrettsindustrien for å analysere utfordringene og utviklingsmulighetene til denne industrien."
+        "es": "Tras dos jornadas de reflexión y aprendizaje, este miércoles finalizó en Puerto Varas Hack Ur Mindset 2026, encuentro que invitó a sus participantes a cuestionar sus formas de pensar, liderar y relacionarse, a partir de las dimensiones ser, pensar y relacionarse de los Inner Development Goals (IDG). La iniciativa fue impulsada por Singulares, con el apoyo de Corfo Los Lagos a través de Viraliza Eventos y la participación de Medios AQUA como Media Partner, y abordó temas como la energía con propósito, la transición energética, el rol de las mujeres en la acuicultura, el potencial de Chile y la colaboración público-privada, además del emprendimiento y la innovación desde los territorios. En es",
+        "en": "After two days of reflection and learning, Hack Ur Mindset 2026 ended this Wednesday in Puerto Varas, a meeting that invited its participants to question their ways of thinking, leading and relating, based on the dimensions of being, thinking and relating of the Inner Development Goals (IDG). The initiative was promoted by Singulares, with the support of Corfo Los Lagos through Viraliza Eventos and the participation of Medios AQUA as Media Partner, and addressed topics such as energy with purpose, the energy transition, the role of women in aquaculture, the potential of Chile and public-private collaboration, in addition to entrepreneurship and innovation from the territories. in is",
+        "no": "Etter to dager med refleksjon og læring, ble Hack Ur Mindset 2026 avsluttet denne onsdagen i Puerto Varas, et møte som inviterte deltakerne til å stille spørsmål ved deres måter å tenke, lede og forholde seg på, basert på dimensjonene til å være, tenke og forholde seg til de indre utviklingsmålene (IDG). Initiativet ble fremmet av Singulares, med støtte fra Corfo Los Lagos gjennom Viraliza Eventos og deltagelse av Medios AQUA som mediepartner, og tok for seg temaer som energi med formål, energiomstillingen, kvinners rolle i akvakultur, potensialet til Chile og offentlig-privat samarbeid, i tillegg til entreprenørskap og innovasjon fra territoriene. i er"
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 11,
+      "score": 9,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/rodriguez-pacific-silver-1024x683.png"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/IMG_4205-1024x768.jpeg"
     },
     {
       "title": {
-        "es": "Demanda firme y menor oferta configuran un nuevo escenario para el salmón chileno",
-        "en": "Firm demand and lower supply configure a new scenario for Chilean salmon",
-        "no": "Sterk etterspørsel og lavere tilbud konfigurerer et nytt scenario for chilensk laks"
+        "es": "Instituto Milenio SECOS suma cuatro investigadores para reforzar acuicultura y pesca artesanal",
+        "en": "Instituto Milenio SECOS adds four researchers to reinforce aquaculture and artisanal fishing",
+        "no": "Instituto Milenio SECOS legger til fire forskere for å styrke akvakultur og håndverksfiske"
       },
-      "url": "https://www.salmonexpert.cl/asia-pacifico-cermaq-chile-exportaciones/demanda-firme-y-menor-oferta-configuran-un-nuevo-escenario-para-el-salmon-chileno/2169294",
+      "url": "https://www.aqua.cl/instituto-milenio-secos-suma-cuatro-investigadores-para-reforzar-acuicultura-y-pesca-artesanal/",
+      "date": "Thu, 27 Aug 2026 10:43:00 +0000",
+      "summary": {
+        "es": "El Instituto Milenio en Socio-Ecología Costera (SECOS) incorporó a cuatro nuevos investigadores con el objetivo de fortalecer sus capacidades científicas en áreas vinculadas con la acuicultura, la pesca artesanal y el desarrollo costero. Se trata de María Gabriela Nieves, quien se integrará como investigadora postdoctoral al Sistema Socio-Ecológico (SSE) de Acuicultura; Carlos Hidalgo, también investigador postdoctoral, quien desarrollará su trabajo en el SSE de Pesca Artesanal; Roberto Cárdenas, quien se incorporará al SSE de Desarrollo Costero con foco en economía aplicada; y Alex Galán, quien asumirá como investigador adjunto, reforzando las líneas de investigación en biogeoquímica y estu",
+        "en": "The Millennium Institute in Coastal Socio-Ecology (SECOS) incorporated four new researchers with the aim of strengthening its scientific capabilities in areas linked to aquaculture, artisanal fishing and coastal development. This is María Gabriela Nieves, who will join the Aquaculture Socio-Ecological System (SSE) as a postdoctoral researcher; Carlos Hidalgo, also a postdoctoral researcher, who will carry out his work at the SSE of Artisanal Fishing; Roberto Cárdenas, who will join the SSE of Coastal Development with a focus on applied economics; and Alex Galán, who will take over as associate researcher, reinforcing the lines of research in biogeochemistry and studies.",
+        "no": "Millennium Institute in Coastal Socio-Ecology (SECOS) har innlemmet fire nye forskere med mål om å styrke sin vitenskapelige kapasitet innen områder knyttet til akvakultur, håndverksfiske og kystutvikling. Dette er María Gabriela Nieves, som vil bli med i Aquaculture Socio-Ecological System (SSE) som postdoktor; Carlos Hidalgo, også en postdoktor, som vil utføre sitt arbeid ved SSE of Artisanal Fishing; Roberto Cárdenas, som vil bli medlem av SSE of Coastal Development med fokus på anvendt økonomi; og Alex Galán, som vil ta over som assisterende forsker, og forsterke forskningslinjene innen biogeokjemi og studier."
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/incorporaciones-Instituto-Milenio-SECOS.png"
+    },
+    {
+      "title": {
+        "es": "Del crecimiento exportador a la valorización: los desafíos para consolidar el salmón coho chileno",
+        "en": "From export growth to valorization: the challenges to consolidate Chilean coho salmon",
+        "no": "Fra eksportvekst til valorisering: utfordringene med å konsolidere chilensk coho-laks"
+      },
+      "url": "https://www.salmonexpert.cl/coho-exportaciones-chilenas-salmofood/del-crecimiento-exportador-a-la-valorizacion-los-desafios-para-consolidar-el-salmon-coho-chileno/2173001",
       "date": "",
       "summary": {
-        "es": "El Salmonexpert Webinar abordó las perspectivas de precios, el crecimiento de Asia-Pacífico y las oportunidades que emergen en mercados como Filipinas, Australia e India.",
-        "en": "The Salmonexpert Webinar covered price outlook, Asia-Pacific growth and emerging opportunities in markets such as the Philippines, Australia and India.",
-        "no": "Salmonexpert-webinaret dekket prisutsikter, Asia-Stillehavsvekst og nye muligheter i markeder som Filippinene, Australia og India."
+        "es": "Con exportaciones al alza y nuevos mercados por conquistar, representantes de la cadena analizaron las condiciones necesarias para sostener la rentabilidad y expansión de la especie.",
+        "en": "With exports on the rise and new markets to conquer, representatives of the chain analyzed the necessary conditions to sustain the profitability and expansion of the species.",
+        "no": "Med eksport på vei og nye markeder å erobre, analyserte representanter for kjeden de nødvendige forholdene for å opprettholde lønnsomheten og utvidelsen av arten."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -147,34 +222,9 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 20,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2169305.jpg?imageId=2169305&x=0&y=7.28&cropw=100&croph=85.43&panox=0&panoy=7.28&panow=100&panoh=85.43&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Salmonicultores chilenos conocen en Europa nuevas tecnologías de Vaxxinova",
-        "en": "Chilean salmon farmers learn about new Vaxxinova technologies in Europe",
-        "no": "Chilenske lakseoppdrettere lærer om nye Vaxxinova-teknologier i Europa"
-      },
-      "url": "https://www.aqua.cl/salmonicultores-chilenos-conocen-en-europa-nuevas-tecnologias-de-vaxxinova/",
-      "date": "Mon, 24 Aug 2026 10:46:00 +0000",
-      "summary": {
-        "es": "Durante una semana, representantes de la salmonicultura chilena recorrieron instalaciones especializadas en Noruega y Alemania. La iniciativa buscó fortalecer la conexión entre las capacidades globales de Vaxxinova cold-Aqua y distintas empresas especializadas en Aqua del Grupo EW. También abordó los desafíos sanitarios de la salmonicultura chilena. La actividad se realizó en el marco del Vaxxinova Tech Tour 2026 . La iniciativa fue organizada por Vaxxinova Chile, Vaxxinova Norway y Vaxxinova Autogenous Germany. La gira reunió a líderes del área de salud de AquaChile, Multi X y Salmones Camanchaca. También participaron especialistas en salud de peces, genética, diagnóstico, investigación y d",
-        "en": "For a week, representatives of Chilean salmon farming toured specialized facilities in Norway and Germany. The initiative sought to strengthen the connection between the global capabilities of Vaxxinova cold-Aqua and different companies specialized in Aqua of the EW Group. He also addressed the health challenges of Chilean salmon farming. The activity was carried out within the framework of the Vaxxinova Tech Tour 2026. The initiative was organized by Vaxxinova Chile, Vaxxinova Norway and Vaxxinova Autogenous Germany. The tour brought together leaders from the health area of ​​AquaChile, Multi X and Salmones Camanchaca. Specialists in fish health, genetics, diagnosis, research and d also participated.",
-        "no": "I en uke turnerte representanter for chilensk lakseoppdrett spesialiserte anlegg i Norge og Tyskland. Initiativet forsøkte å styrke forbindelsen mellom de globale egenskapene til Vaxxinova cold-Aqua og forskjellige selskaper som spesialiserer seg på Aqua fra EW Group. Han tok også opp helseutfordringene ved chilensk lakseoppdrett. Aktiviteten ble gjennomført innenfor rammen av Vaxxinova Tech Tour 2026. Initiativet ble arrangert av Vaxxinova Chile, Vaxxinova Norge og Vaxxinova Autogenous Germany. Turen samlet ledere fra helseområdet AquaChile, Multi X og Salmones Camanchaca. Spesialister innen fiskehelse, genetikk, diagnose, forskning og d deltok også."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
       "score": 12,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/Foto-2-Bergen-1024x768.jpeg"
+      "image": "https://image.salmonexpert.cl/2173011.jpg?imageId=2173011&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
@@ -185,9 +235,9 @@
       "url": "https://www.salmonexpert.cl/envios-exportaciones-fiscalizacion/chile-concreta-avances-para-la-continuidad-de-las-exportaciones-de-salmon-al-mercado-ruso/2168745",
       "date": "",
       "summary": {
-        "es": "Desde Sernapesca destacaron la permanente colaboración y apoyo técnico brindado por Rosselkhoznadzor, particularmente, en la implementación de los nuevos requisitos microbiológicos exigidos.",
-        "en": "Sernapesca highlighted the permanent collaboration and technical support provided by Rosselkhoznadzor, particularly in the implementation of the new microbiological requirements demanded.",
-        "no": "Sernapesca fremhevet det permanente samarbeidet og den tekniske støtten levert av Rosselkhoznadzor, spesielt i implementeringen av de nye mikrobiologiske kravene som kreves."
+        "es": "",
+        "en": "",
+        "no": ""
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -203,16 +253,16 @@
     },
     {
       "title": {
-        "es": "Salmones Camanchaca logra buenos resultados pese a la baja de precios y de cosechas",
-        "en": "Salmones Camanchaca achieves good results despite lower prices and harvests",
-        "no": "Salmones Camanchaca oppnår gode resultater til tross for lavere priser og avling"
+        "es": "Empresa salmonicultora aumenta su previsión de producción para 2026 en 20.000 toneladas",
+        "en": "Salmon farming company increases its production forecast for 2026 by 20,000 tons",
+        "no": "Lakseoppdrettsselskap øker produksjonsprognosen for 2026 med 20 000 tonn"
       },
-      "url": "https://www.salmonexpert.cl/camanchaca-cosechas-precios/salmones-camanchaca-logra-buenos-resultados-pese-a-la-baja-de-precios-y-de-cosechas/2166239",
+      "url": "https://www.salmonexpert.cl/cosecha-cosechas-noruega/empresa-salmonicultora-aumenta-su-prevision-de-produccion-para-2026-en-20000-toneladas/2172042",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "SalMar prevé ahora un volumen total de cosecha de 350.000 toneladas este año, incluyendo la participación relativa de Scottish Sea Farms. Esto supondría un crecimiento del volumen del 16%.",
+        "en": "SalMar now forecasts a total harvest volume of 350,000 tonnes this year, including the relative share of Scottish Sea Farms. This would mean a volume growth of 16%.",
+        "no": "SalMar spår nå et samlet slaktevolum på 350.000 tonn i år, inkludert den relative andelen Scottish Sea Farms. Dette vil bety en volumvekst på 16 %."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -222,47 +272,22 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 12,
+      "score": 10,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1349440.jpg?imageId=1349440&x=0&y=11.94&cropw=100&croph=71.67&panox=0&panoy=11.94&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2019396.jpg?imageId=2019396&x=0&y=4.08&cropw=100&croph=70.11&panox=0&panoy=4.08&panow=100&panoh=70.11&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Coho en agua dulce: la etapa que define la calidad del futuro salmón",
-        "en": "Coho in fresh water: the stage that defines the quality of future salmon",
-        "no": "Coho i ferskvann: stadiet som definerer kvaliteten på fremtidig laks"
+        "es": "Blumar firma alianza para apoyar reinserción laboral de mujeres privadas de libertad",
+        "en": "Blumar signs alliance to support labor reintegration of women deprived of liberty",
+        "no": "Blumar signerer allianse for å støtte arbeidsreintegrering av kvinner som er berøvet frihet"
       },
-      "url": "https://infosalmon.cl/etapa-agua-dulce-salmon-coho/",
-      "date": "Mon, 24 Aug 2026 02:05:59 +0000",
+      "url": "https://www.mundoacuicola.cl/new/blumar-firma-alianza-para-apoyar-reinsercion-laboral-de-mujeres-privadas-de-libertad/",
+      "date": "Wed, 26 Aug 2026 18:01:10 +0000",
       "summary": {
-        "es": "Chile es el principal productor mundial de salmón coho ( Oncorhynchus kisutch ) y en 2023 alcanzó 276.327 toneladas, según los anuarios estadísticos de Sernapesca . Es, además, la especie salmonídea de mayor crecimiento productivo del país en la última década. Pero ese resultado, que se mide en el mar y se corona en la cosecha, empieza en etapas más tempranas: en las pisciculturas de agua dulce del sur de Chile, donde la ova se transforma en alevín y el alevín en smolt. La etapa determinante “Para cualquier especie, sea la que sea, la etapa de agua dulce es tremendamente relevante en los aspectos productivos y sanitarios que ocurren después en el mar”, afirma Rubén Avendaño Herrera, investig",
-        "en": "Chile is the world's leading producer of coho salmon (Oncorhynchus kisutch) and in 2023 it reached 276,327 tons, according to Sernapesca statistical yearbooks. It is also the salmon species with the highest productive growth in the country in the last decade. But this result, which is measured at sea and crowned at harvest, begins in earlier stages: in the freshwater fish farms of southern Chile, where the egg is transformed into fry and the fry into smolt. The determining stage “For any species, whatever it may be, the freshwater stage is tremendously relevant in the productive and health aspects that occur later in the sea,” says Rubén Avendaño Herrera, researcher.",
-        "no": "Chile er verdens ledende produsent av coho-laks (Oncorhynchus kisutch) og i 2023 nådde den 276 327 tonn, ifølge Sernapescas statistiske årbøker. Det er også laksearten med høyest produktiv vekst i landet det siste tiåret. Men dette resultatet, som måles til sjøs og krones ved høsting, begynner i tidligere stadier: i ferskvannsoppdrettsanleggene i det sørlige Chile, hvor egget omdannes til yngel og yngelen til smolt. Det avgjørende stadiet \"For enhver art, uansett hva det måtte være, er ferskvannsstadiet enormt relevant i de produktive og helsemessige aspektene som oppstår senere i havet,\" sier Rubén Avendaño Herrera, forsker."
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Wikimedia-Commons-acompanar-el-apartado-Flujo-abierto-versus-RAS-300x225.jpg"
-    },
-    {
-      "title": {
-        "es": "Vaxxinova conecta la innovación acuícola y la prevención en salud con los desafíos sanitarios de Chile",
-        "en": "Vaxxinova connects aquaculture innovation and health prevention with Chile's health challenges",
-        "no": "Vaxxinova kobler akvakulturinnovasjon og helseforebygging med Chiles helseutfordringer"
-      },
-      "url": "https://www.mundoacuicola.cl/new/vaxxinova-conecta-la-innovacion-acuicola-y-la-prevencion-en-salud-con-los-desafios-sanitarios-de-chile/",
-      "date": "Mon, 24 Aug 2026 01:34:04 +0000",
-      "summary": {
-        "es": "La gira reunió a líderes del área de salud de las empresas AquaChile, Multi X y Salmones Camanchaca con especialistas en salud de peces, genética, diagnóstico, investigación y desarrollo de vacunas, generando un espacio de intercambio directo sobre los principales desafíos sanitarios y productivos de la acuicultura de aguas frías. La entrada Vaxxinova conecta la innovación acuícola y la prevención en salud con los desafíos sanitarios de Chile se publicó primero en Mundoacuicola .",
-        "en": "The tour brought together leaders from the health area of ​​the companies AquaChile, Multi The Vaxxinova entry connects aquaculture innovation and health prevention with Chile's health challenges was first published in Mundoacuicola.",
-        "no": "Turen samlet ledere fra helseområdet til selskapene AquaChile, Multi Vaxxinova-oppføringen kobler akvakulturinnovasjon og helseforebygging med Chiles helseutfordringer ble først publisert i Mundoacuicola."
+        "es": "La alianza con la Corporación Abriendo Puertas busca fortalecer las competencias laborales y oportunidades de reinserción de mujeres privadas de libertad, dando continuidad a los cursos de formación en oficios iniciados en 2025 y con miras a extender la iniciativa a Concepción y Puerto Montt. La entrada Blumar firma alianza para apoyar reinserción laboral de mujeres privadas de libertad se publicó primero en Mundoacuicola .",
+        "en": "The alliance with the Abriendo Puertas Corporation seeks to strengthen the job skills and reintegration opportunities of women deprived of liberty, giving continuity to the training courses in trades started in 2025 and with a view to extending the initiative to Concepción and Puerto Montt. The entry Blumar signs alliance to support the labor reintegration of women deprived of liberty was first published in Mundoacuicola.",
+        "no": "Alliansen med Abriendo Puertas Corporation søker å styrke jobbferdighetene og reintegreringsmulighetene til kvinner som er berøvet frihet, og gir kontinuitet til opplæringskursene i fag startet i 2025 og med sikte på å utvide initiativet til Concepción og Puerto Montt. Oppføringen Blumar signerer allianse for å støtte arbeidsreintegrering av kvinner som er berøvet frihet, ble først publisert i Mundoacuicola."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -272,34 +297,9 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 10,
+      "score": 8,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Foto-1-Cuxhaven.jpeg"
-    },
-    {
-      "title": {
-        "es": "SBAP e IFOP fortalecen coordinación para proteger ecosistemas marinos de Aysén",
-        "en": "SBAP and IFOP strengthen coordination to protect Aysén's marine ecosystems",
-        "no": "SBAP og IFOP styrker koordineringen for å beskytte Ayséns marine økosystemer"
-      },
-      "url": "https://www.aqua.cl/sbap-e-ifop-fortalecen-coordinacion-para-proteger-ecosistemas-marinos-de-aysen/",
-      "date": "Mon, 24 Aug 2026 10:44:00 +0000",
-      "summary": {
-        "es": "El Servicio de Biodiversidad y Áreas Protegidas (SBAP) inició una nueva etapa de coordinación científica e institucional con el Instituto de Fomento Pesquero (IFOP) y la Dirección Zonal de Pesca y Acuicultura. El encuentro se realizó en Coyhaique y permitió definir prioridades comunes para proteger los ecosistemas marinos de la región de Aysén. La reunión también abordó la gestión de pesquerías de pequeña escala que se desarrollan dentro de áreas destinadas a la conservación. SBAP, IFOP y Subpesca coordinan acciones en Aysén La jornada reunió al director regional de SBAP en Aysén, Claudio Aguirre; al director ejecutivo nacional del IFOP, Luis Parot; y al director zonal de Pesca de Aysén, Lui",
-        "en": "The Biodiversity and Protected Areas Service (SBAP) began a new stage of scientific and institutional coordination with the Fisheries Development Institute (IFOP) and the Zonal Directorate of Fisheries and Aquaculture. The meeting was held in Coyhaique and made it possible to define common priorities to protect the marine ecosystems of the Aysén region. The meeting also addressed the management of small-scale fisheries that are developed within areas designated for conservation. SBAP, IFOP and Subpesca coordinate actions in Aysén The event brought together the regional director of SBAP in Aysén, Claudio Aguirre; to the national executive director of the IFOP, Luis Parot; and the regional director of Fisheries of Aysén, Lui",
-        "no": "Biodiversity and Protected Areas Service (SBAP) startet en ny fase av vitenskapelig og institusjonell koordinering med Fisheries Development Institute (IFOP) og Zonedirektoratet for fiskeri og akvakultur. Møtet ble holdt i Coyhaique og gjorde det mulig å definere felles prioriteringer for å beskytte de marine økosystemene i Aysén-regionen. Møtet tok også opp forvaltningen av småskala fiskerier som er utviklet innenfor områder som er utpekt for bevaring. SBAP, IFOP og Subpesca koordinerer aksjoner i Aysén Arrangementet samlet regiondirektøren for SBAP i Aysén, Claudio Aguirre; til den nasjonale administrerende direktøren for IFOP, Luis Parot; og regiondirektøren for Fisheries of Aysén, Lui"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/08/reunion-director-nacional-ifop-foto-oficial.tmb-noticiades.png"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/08/Blumar-Mujeres-Privadas-de-Libertad.png"
     }
   ]
 }
