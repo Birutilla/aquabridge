@@ -1,0 +1,26 @@
+=== ABOUT PAGE TRANSLATIONS BACKUP — 2026-08-31 ===
+Backed up from js/main.js before About page was removed from website.
+
+=== ENGLISH (en) ===
+    about_pre:"The company",
+    about_h1:"Four partners. One shared commitment.",
+    about_sub:"AquaBridge brings together four professionals with deep, complementary expertise across aquaculture technology, commercial leadership, legal and financial management, and international business development, united by a shared commitment to connecting the world's best aquaculture technology with Chile's salmon industry.",
+    about_location:"Based in Puerto Varas, Chile's salmon industry capital.",
+    about_team_h2:"The partners.",
+    p1_long:"Javier Infante is an aquaculture engineer and MBA with more than 20 years of international experience spanning technology development, commercial strategy, and business development across the aquaculture sector. He has worked at the intersection of science and industry throughout his career, leading technical programs and building commercial partnerships across multiple continents. Javier brings the technical credibility and international network that allows AquaBridge to engage with aquaculture technology companies as a peer, not simply as a broker.",
+    p2_long:"Juan Pablo Barrales has spent more than 25 years in commercial leadership roles within Chile's salmon sector. As Managing Director of Innovasea Chile, he built the company from zero to a 35% market share, achieving 30 to 33% year-on-year growth. He served on the SalmonChile Board from 2021 to 2025 and has direct relationships with senior decision-makers at Camanchaca, Cermaq, Multiexport, Blumar, and Fjord Seafood, among others. Juan Pablo's network is the foundation of AquaBridge's buyer-side access.",
+    p3_long:"Jaime Uribe brings more than 25 years of experience in finance, legal administration, and regulatory compliance. With a Big Four background at KPMG and an MBA in Tax Planning, he served as LATAM Legal Representative for Pentair and as Finance and Administration Manager at Innovasea Chile. He holds a Master's degree in Compliance. Jaime oversees all client communications, legal structures, and compliance matters for AquaBridge engagements.",
+    p4_name:"Svein Arve Tronsgård", p4_role:"Business Development Advisor",
+    p4_long:"Svein Arve Tronsgård is a business development professional based in Norway, with a background in finance and international commercial development. He is Business Development Director at OXZO S.A and holds a degree from Trondheim Business School. Svein brings a European market perspective and an extensive network in the Norwegian aquaculture and technology sector, supporting AquaBridge's international business development and serving as the primary bridge to the Norwegian and broader European market.",
+
+=== NORWEGIAN (no) ===
+    about_pre:"Selskapet",
+    about_h1:"Fire partnere. Én felles forpliktelse.",
+    about_sub:"AquaBridge samler fire fagfolk med dyp, komplementær ekspertise innen havbruksteknologi, kommersiell ledelse, juridisk og finansiell forvaltning og internasjonal forretningsutvikling, forent av en felles forpliktelse til å koble verdens beste havbruksteknologi med Chiles lakseindustri.",
+    about_location:"Basert i Puerto Varas, Chiles lakseindustrihovedstad.",
+    about_team_h2:"Partnerne.",
+    p1_long:"Javier Infante er havbruksingeniør og MBA med mer enn 20 års internasjonal erfaring innen havbruksteknologi og forretningsutvikling. Han er Principal Investigator ved Ocean Rainforest Inc. under det amerikanske energidepartementets ARPA-E MARINER-program, med fokus på offshore makroalgedyrkingssystemer. Han er medgründer av SWD Connectors. Javier bringer den tekniske troverdigheten og det internasjonale vitenskapelige nettverket som posisjonerer AquaBridge som en fagfelle blant havbruksteknologiselskaper globalt.",
+    p2_long:"Juan Pablo Barrales har tilbrakt mer enn 25 år i kommersielle lederstillinger i den chilenske laksesektoren. Som administrerende direktør for Innovasea Chile bygde han selskapet fra null til 35% markedsandel med 30 til 33% år-over-år-vekst. Han satt i SalmonChiles styre fra 2021 til 2025 og har direkte relasjoner til seniorbeslutningstagere ved Camanchaca, Cermaq, Multiexport, Blumar og Fjord Seafood, blant andre.",
+    p3_long:"Jaime Uribe bringer mer enn 25 års erfaring innen finans, juridisk administrasjon og regulatorisk etterlevelse. Med Big Four-bakgrunn fra KPMG og en MBA i skatteplanlegging tjenestegjorde han som LATAMs juridiske representant for Pentair og som finans- og administrasjonssjef ved Innovasea Chile. Han holder en mastergrad i Compliance.",
+    p4_name:"Svein Arve Tronsgård", p4_role:"Rådgiver for forretningsutvikling",
+    p4_long:"Svein Arve Tronsgård er en forretningsutviklingsprofesjonell basert i Norge, med bakgrunn innen finans og internasjonal kommersiell utvikling. Han er Business Development Director i OXZO S.A og er utdannet fra Trondheim Økonomiske Høgskole. Svein bringer et europeisk markedsperspektiv og et bredt nettverk i norsk havbruks- og teknologisektor, og støtter AquaBridges internasjonale forretningsutvikling som primær bro til det norske og bredere europeiske markedet.",

@@ -8,7 +8,7 @@ Total: up to 12 articles
 pip install feedparser deep-translator beautifulsoup4 requests
 """
 
-import json, re, subprocess, sys, unicodedata
+import json, random, re, subprocess, sys, time, unicodedata
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -598,16 +598,29 @@ def translate_batch(texts, target_lang):
         return texts
 
     def translate_one(text):
+        # The Google backend fails intermittently ("No translation was found"),
+        # especially under parallel load. A silent Spanish fallback publishes
+        # Spanish text to the live site, so retry a few times with backoff and
+        # a small jitter before giving up.
         if not text or not text.strip():
             return ""
-        try:
-            t = GoogleTranslator(source="es", target=target_lang)
-            return t.translate(text[:4900]) or text
-        except Exception as e:
-            print(f"  Translate error ({target_lang}): {e}", file=sys.stderr)
-            return text
+        snippet = text[:4900]
+        last_err = None
+        for attempt in range(5):
+            try:
+                t = GoogleTranslator(source="es", target=target_lang)
+                out = t.translate(snippet)
+                if out and out.strip() and out.strip() != snippet.strip():
+                    return out
+                last_err = "empty or untranslated result"
+            except Exception as e:
+                last_err = e
+            time.sleep(1.5 * (attempt + 1) + random.random())
+        print(f"  Translate error ({target_lang}) after retries: {last_err}",
+              file=sys.stderr)
+        return text
 
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=4) as pool:
         return list(pool.map(translate_one, texts))
 
 
