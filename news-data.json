@@ -1,68 +1,68 @@
 {
-  "updated": "2026-09-04T13:00:52Z",
+  "updated": "2026-09-07T12:33:33Z",
   "articles": [
     {
       "title": {
-        "es": "Australis reúne a más de 600 personas en feria abierta sobre producción de salmón en Puerto Natales",
-        "en": "Australis brings together more than 600 people at an open fair on salmon production in Puerto Natales",
-        "no": "Australis samler mer enn 600 mennesker på en åpen messe om lakseproduksjon i Puerto Natales"
+        "es": "Veterquimica refuerza su I+D y apunta a nuevas vacunas y soluciones biotecnológicas para la acuicultura",
+        "en": "Veterquimica refuerza su I+D y apunta a nuevas vacunas y soluciones biotecnológicas para la acuicultura",
+        "no": "Veterquimica forsterker sin FoU og tar sikte på nye vaksiner og bioteknologiske løsninger for akvakultur"
       },
-      "url": "https://www.mundoacuicola.cl/new/australis-reune-a-mas-de-600-personas-en-feria-abierta-sobre-produccion-de-salmon-en-puerto-natales/",
-      "date": "Thu, 03 Sep 2026 18:58:46 +0000",
+      "url": "https://infosalmon.cl/veterquimica-id-soluciones-acuicultura/",
+      "date": "Sun, 06 Sep 2026 22:38:18 +0000",
       "summary": {
-        "es": "La primera versión completamente abierta a la comunidad de la Feria Australis reunió a vecinos, estudiantes y autoridades en cerca de 20 stands, donde trabajadores y proveedores mostraron las distintas etapas de la producción de salmón, tecnologías e innovaciones utilizadas por la compañía. La entrada Australis reúne a más de 600 personas en feria abierta sobre producción de salmón en Puerto Natales se publicó primero en Mundoacuicola .",
-        "en": "The first version completely open to the community of the Australis Fair brought together neighbors, students and authorities in about 20 stands, where workers and suppliers showed the different stages of salmon production, technologies and innovations used by the company. The entry Australis brings together more than 600 people at an open fair on salmon production in Puerto Natales was first published in Mundoacuicola.",
-        "no": "Den første versjonen helt åpen for fellesskapet til Australis Fair samlet naboer, studenter og myndigheter i rundt 20 stands, der arbeidere og leverandører viste de ulike stadiene i lakseproduksjonen, teknologier og innovasjoner som ble brukt av selskapet. Oppslaget Australis samler mer enn 600 mennesker på en åpen messe om lakseproduksjon i Puerto Natales ble først publisert i Mundoacuicola."
+        "es": "Fortalecer la investigación aplicada y transformar el conocimiento científico en soluciones concretas para la industria acuícola es el objetivo detrás de la nueva incorporación de Veterquimica a su equipo de I+D. La empresa sumó a Nicolás Salinas, especialista en inmunología y fisiología de peces, quien participará en el desarrollo de nuevas metodologías y aplicaciones biotecnológicas, entre ellas un estimulante inmunológico orientado a potenciar la producción de anticuerpos y contribuir a disminuir la mortalidad asociada a agentes microbianos Bioquímico de la Pontificia Universidad Católica de Valparaíso y doctor en Biotecnología por la Universidad Técnica Federico Santa María y la PUCV, Ni",
+        "en": "Strengthening applied research and transforming scientific knowledge into concrete solutions for the aquaculture industry is the objective behind the new addition of Veterquimica to its R&D team. The company added Nicolás Salinas, a specialist in fish immunology and physiology, who will participate in the development of new biotechnological methodologies and applications, including an immunological stimulant aimed at enhancing the production of antibodies and contributing to reducing mortality associated with microbial agents Biochemist from the Pontifical Catholic University of Valparaíso and doctor in Biotechnology from the Federico Santa María Technical University and the PUCV, Ni",
+        "no": "Å styrke anvendt forskning og transformere vitenskapelig kunnskap til konkrete løsninger for havbruksnæringen er målet bak det nye tilskuddet til Veterquimica til FoU-teamet. Selskapet la til Nicolás Salinas, en spesialist i fiskeimmunologi og fysiologi, som vil delta i utviklingen av nye bioteknologiske metoder og applikasjoner, inkludert et immunologisk stimulerende middel rettet mot å øke produksjonen av antistoffer og bidra til å redusere dødelighet assosiert med mikrobielle midler."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 8,
+      "score": 12,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/Australis-reune-a-mas-de-600-personas-en-feria-abierta-sobre-produccion-de-salmon-en-Puerto-Natales.png"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Veterquimica-fortalece-ID-2.jpg"
     },
     {
       "title": {
-        "es": "Nuevo protocolo establece 33 indicadores para evaluar el bienestar de trucha arcoíris en agua de mar",
-        "en": "New protocol establishes 33 indicators to evaluate the well-being of rainbow trout in seawater",
-        "no": "Ny protokoll etablerer 33 indikatorer for å evaluere trivselen til regnbueørret i sjøvann"
+        "es": "Biotecnología transforma residuos de salmón en ingredientes de alto valor industrial",
+        "en": "Biotechnology transforms salmon waste into ingredients of high industrial value",
+        "no": "Bioteknologi forvandler lakseavfall til ingredienser av høy industriell verdi"
       },
-      "url": "https://www.mundoacuicola.cl/new/nuevo-protocolo-establece-33-indicadores-para-evaluar-el-bienestar-de-trucha-arcoiris-en-agua-de-mar/",
-      "date": "Thu, 03 Sep 2026 21:48:37 +0000",
+      "url": "https://www.salmonexpert.cl/biotecnologia-industria-ingredientes/biotecnologia-transforma-residuos-de-salmon-en-ingredientes-de-alto-valor-industrial/2175448",
+      "date": "",
       "summary": {
-        "es": "El Centre for Aquaculture Progress publicó una nueva herramienta para el monitoreo del bienestar de trucha arcoíris durante su engorda en agua de mar. El protocolo reúne indicadores individuales, grupales y ambientales, establece una escala de evaluación de cuatro niveles y entrega orientaciones para su aplicación en centros de cultivo. La entrada Nuevo protocolo establece 33 indicadores para evaluar el bienestar de trucha arcoíris en agua de mar se publicó primero en Mundoacuicola .",
-        "en": "The Center for Aquaculture Progress published a new tool for monitoring the well-being of rainbow trout during fattening in seawater. The protocol brings together individual, group and environmental indicators, establishes a four-level evaluation scale and provides guidelines for its application in cultivation centers. The entry New protocol establishes 33 indicators to evaluate the well-being of rainbow trout in seawater was first published in Mundoacuicola.",
-        "no": "Senter for havbruksfremgang publiserte et nytt verktøy for å overvåke regnbueørretens trivsel under oppfeing i sjøvann. Protokollen samler individuelle, gruppe- og miljøindikatorer, etablerer en evalueringsskala på fire nivåer og gir retningslinjer for anvendelse i dyrkingssentre. Oppføringen Ny protokoll etablerer 33 indikatorer for å evaluere trivselen til regnbueørret i sjøvann ble først publisert i Mundoacuicola."
+        "es": "A través de la hidrólisis enzimática, un innovador proyecto Fondecyt Iniciación propone convertir el esquelón de salmón en un cotizado insumo natural para las industrias alimentaria, cosmética y farmacéutica.",
+        "en": "Through enzymatic hydrolysis, an innovative Fondecyt Iniciación project proposes to convert salmon skein into a sought-after natural input for the food, cosmetics and pharmaceutical industries.",
+        "no": "Gjennom enzymatisk hydrolyse foreslår et innovativt Fondecyt Iniciación-prosjekt å konvertere laksenøste til en ettertraktet naturlig innsats for mat-, kosmetikk- og farmasøytisk industri."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 6,
+      "score": 4,
       "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/Nuevo-protocolo-establece-33-indicadores-para-evaluar-el-bienestar-de-trucha-arcoiris-en-agua-de-mar.png"
+      "image": "https://image.salmonexpert.cl/1806983.jpg?imageId=1806983&x=0&y=0&cropw=100&croph=84.87&panox=0&panoy=0&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Acuicultura abre nuevas oportunidades laborales en Puerto Montt, Chiloé y Magallanes",
-        "en": "Aquaculture opens new job opportunities in Puerto Montt, Chiloé and Magallanes",
-        "no": "Akvakultur åpner nye jobbmuligheter i Puerto Montt, Chiloé og Magallanes"
+        "es": "Puerto Montt, Puerto Varas y Magallanes concentran nuevas vacantes en acuicultura",
+        "en": "Puerto Montt, Puerto Varas y Magallanes concentran nuevas vacantes en acuicultura",
+        "no": "Puerto Montt, Puerto Varas og Magallanes konsentrerer nye ledige stillinger innen akvakultur"
       },
-      "url": "https://www.aqua.cl/acuicultura-abre-nuevas-oportunidades-laborales-en-puerto-montt-chiloe-y-magallanes/",
-      "date": "Fri, 04 Sep 2026 10:49:00 +0000",
+      "url": "https://www.aqua.cl/puerto-montt-puerto-varas-y-magallanes-concentran-nuevas-vacantes-en-acuicultura/",
+      "date": "Mon, 07 Sep 2026 09:49:00 +0000",
       "summary": {
-        "es": "La industria acuícola y salmonicultora mantiene abiertas nuevas ofertas de trabajo en el sur de Chile . Las oportunidades están dirigidas a profesionales, técnicos, administrativos y trabajadores interesados en incorporarse al sector. Las vacantes incluyen cargos relacionados con producción, mantenimiento, prevención de riesgos, administración, gestión, operaciones marítimas y plantas salmoneras , entre otras áreas. A través de Empleos AQUA , los interesados pueden revisar los requisitos, funciones y condiciones de cada cargo. El portal reúne oportunidades laborales vinculadas con la acuicultura, salmonicultura y otras actividades del sector marítimo. Nuevas ofertas de trabajo en acuicultura",
-        "en": "The aquaculture and salmon farming industry keeps new job offers open in southern Chile. The opportunities are aimed at professionals, technicians, administrators and workers interested in joining the sector. The vacancies include positions related to production, maintenance, risk prevention, administration, management, maritime operations and salmon plants, among other areas. Through AQUA Jobs, interested parties can review the requirements, functions and conditions of each position. The portal brings together job opportunities linked to aquaculture, salmon farming and other activities in the maritime sector. New job offers in aquaculture",
-        "no": "Akvakultur- og lakseoppdrettsnæringen holder nye jobbtilbud åpne i det sørlige Chile. Mulighetene er rettet mot fagfolk, teknikere, administratorer og arbeidere som er interessert i å bli med i sektoren. De ledige stillingene omfatter blant annet stillinger knyttet til produksjon, vedlikehold, risikoforebygging, administrasjon, ledelse, maritim drift og lakseanlegg. Gjennom AQUA Jobs kan interesserte parter gjennomgå kravene, funksjonene og betingelsene for hver stilling. Portalen samler jobbmuligheter knyttet til havbruk, lakseoppdrett og andre aktiviteter i maritim sektor. Nye jobbtilbud innen havbruk"
+        "es": "La industria acuícola continúa generando oportunidades laborales en distintos puntos del sur de Chile, con una nueva actualización de vacantes disponibles a través de EmpleosAqua . En esta ocasión, Puerto Montt concentra la mayor parte de las ofertas, mientras que Puerto Varas y Magallanes también suman posiciones para profesionales, técnicos y operarios. Entre los cargos más atractivos destacan Supervisor de Operaciones Portuarias, Piloto ROV, Supervisor de Operaciones Acuícolas y Encargado de Maestranza y Proyectos, además de oportunidades vinculadas a mantención, producción de agua mar, piscicultura y soporte operacional. La variedad de puestos refleja la diversidad de perfiles que requie",
+        "en": "The aquaculture industry continues to generate job opportunities in different parts of southern Chile, with a new update of vacancies available through EmpleosAqua. On this occasion, Puerto Montt concentrates most of the offers, while Puerto Varas and Magallanes also add positions for professionals, technicians and operators. Among the most attractive positions are Port Operations Supervisor, ROV Pilot, Aquaculture Operations Supervisor and Master and Project Manager, in addition to opportunities linked to maintenance, seawater production, fish farming and operational support. The variety of positions reflects the diversity of profiles required",
+        "no": "Havbruksnæringen fortsetter å generere jobbmuligheter i ulike deler av det sørlige Chile, med en ny oppdatering av ledige stillinger tilgjengelig gjennom EmpleosAqua. Ved denne anledningen konsentrerer Puerto Montt de fleste tilbudene, mens Puerto Varas og Magallanes også legger til stillinger for fagfolk, teknikere og operatører. Blant de mest attraktive stillingene er Havnedriftsleder, ROV-pilot, Havbruksdriftsleder og Master og Prosjektleder, i tillegg til muligheter knyttet til vedlikehold, sjøvannsproduksjon, fiskeoppdrett og driftsstøtte. Variasjonen av stillinger gjenspeiler mangfoldet av profiler som kreves"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -72,22 +72,47 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 17,
+      "score": 12,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Exportacion-Consejo-del-Salmon-980x686-1.jpg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2025/08/corte-de-metal-con-equipos-de-plasma-scaled.jpg"
     },
     {
       "title": {
-        "es": "Surgencia estratégica: OXZO reporta hasta 34% de mitigación del fitoplanctonSurgencia estratégica: OXZO reporta hasta 34% de mitigación del fitoplancton",
-        "en": "Strategic emergence: OXZO reports up to 34% phytoplankton mitigationStrategic emergence: OXZO reports up to 34% phytoplankton mitigation",
-        "no": "Strategisk fremvekst: OXZO rapporterer opp til 34 % planteplanktonredusering Strategisk fremvekst: OXZO rapporterer opp til 34 % planteplanktondemping"
+        "es": "Seremi de la Mujer de La Araucanía destaca liderazgo femenino en piscicultura de Hendrix Genetics",
+        "en": "Seremi de la Mujer de La Araucanía highlights female leadership in fish farming from Hendrix Genetics",
+        "no": "Seremi de la Mujer de La Araucanía fremhever kvinnelig lederskap innen fiskeoppdrett fra Hendrix Genetics"
       },
-      "url": "https://infosalmon.cl/surgencia-estrategica-oxzo-fitoplancton/",
-      "date": "Thu, 03 Sep 2026 17:53:02 +0000",
+      "url": "https://www.aqua.cl/seremi-de-la-mujer-de-la-araucania-destaca-liderazgo-femenino-en-piscicultura-de-hendrix-genetics/",
+      "date": "Mon, 07 Sep 2026 09:48:00 +0000",
       "summary": {
-        "es": "Puerto Varas, 3 de septiembre de 2026. Ante el aumento de floraciones algales previsto en el actual contexto de El Niño, OXZO presentó los resultados de un estudio en terreno sobre surgencia estratégica. La compañía, especializada en tecnologías de oxigenación y aireación in situ para aumentar la productividad de la acuicultura, evaluó el comportamiento de distintas estrategias frente a eventos de mayor exigencia ambiental, como la proliferación de fitoplancton. Los resultados confirmaron que la renovación del agua generada por la surgencia puede reducir la concentración de microalgas: en promedio, las zonas con surgencia registraron un 29% menos fitoplancton que las zonas de control, con co",
-        "en": "Puerto Varas, September 3, 2026. Given the increase in algal blooms expected in the current El Niño context, OXZO presented the results of a field study on strategic upwelling. The company, specialized in in situ oxygenation and aeration technologies to increase aquaculture productivity, evaluated the behavior of different strategies in the face of more environmentally demanding events, such as the proliferation of phytoplankton. The results confirmed that the renewal of the water generated by the upwelling can reduce the concentration of microalgae: on average, the upwelling areas recorded 29% less phytoplankton than the control areas, with co",
-        "no": "Puerto Varas, 3. september 2026. Gitt økningen i algeoppblomstring som forventes i den nåværende El Niño-konteksten, presenterte OXZO resultatene av en feltstudie om strategisk oppvekst. Selskapet, som spesialiserer seg på in situ oksygenering og luftingsteknologier for å øke akvakulturproduktiviteten, evaluerte oppførselen til ulike strategier i møte med mer miljøkrevende hendelser, som spredning av planteplankton. Resultatene bekreftet at fornyelsen av vannet generert av oppstrømningen kan redusere konsentrasjonen av mikroalger: i gjennomsnitt registrerte oppvekstområdene 29 % mindre planteplankton enn kontrollområdene, med co."
+        "es": "En el marco de las acciones orientadas a visibilizar y acercar el desarrollo de la salmonicultura a las autoridades y comunidades locales de la Región de La Araucanía, la secretaria regional ministerial (Seremi) de la Mujer y la Equidad de Género, Carolina Lagos, realizó una visita técnica y guiada a las dependencias de la piscicultura Catripulli, perteneciente a la empresa socia de SalmonChile, Hendrix Genetics. Durante la jornada, desarrollada en el sector de Catripulli, comuna de Curarrehue, la autoridad conoció en detalle los altos estándares operacionales, de bioseguridad y bienestar animal con los que opera la instalación. La visita fue guiada por el jefe de la piscicultura, Alejandro ",
+        "en": "Within the framework of the actions aimed at making visible and bringing the development of salmon farming closer to the local authorities and communities of the La Araucanía Region, the regional ministerial secretary (Seremi) of Women and Gender Equality, Carolina Lagos, carried out a technical and guided visit to the facilities of the Catripulli fish farm, belonging to SalmonChile's partner company, Hendrix Genetics. During the day, held in the Catripulli sector, commune of Curarrehue, the authority learned in detail about the high operational, biosafety and animal welfare standards with which the facility operates. The visit was guided by the head of the fish farm, Alejandro",
+        "no": "Innenfor rammen av handlingene som har som mål å synliggjøre og bringe utviklingen av lakseoppdrett nærmere lokale myndigheter og lokalsamfunn i La Araucanía-regionen, gjennomførte den regionale ministersekretæren (Seremi) for kvinner og likestilling, Carolina Lagos, et teknisk og guidet besøk til fasilitetene til fiskefarmen Catripulli, som tilhører SalmonChiles genetikkselskap, Hendrix. I løpet av dagen, holdt i Catripulli-sektoren, Curarrehue kommune, lærte myndigheten i detalj om de høye drifts-, biosikkerhets- og dyrevelferdsstandardene som anlegget opererer med. Besøket ble guidet av sjefen for oppdrettsanlegget, Alejandro"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/SCh-HG.jpeg"
+    },
+    {
+      "title": {
+        "es": "Salmones Aysén y Mutual de Seguridad sellan alianza estratégica para fortalecer la cultura preventiva en sus operaciones",
+        "en": "Salmones Aysén and Mutual de Seguridad seal a strategic alliance to strengthen the preventive culture in their operations",
+        "no": "Salmones Aysén og Mutual de Seguridad inngår en strategisk allianse for å styrke den forebyggende kulturen i deres virksomhet"
+      },
+      "url": "https://infosalmon.cl/salmones-aysen-mutual-de-seguridad-alianza-prevencion-riesgos-laborales/",
+      "date": "Fri, 04 Sep 2026 20:53:26 +0000",
+      "summary": {
+        "es": "A partir del 1 de septiembre de 2026, Salmones Aysén inició formalmente una nueva etapa en materia de gestión de riesgos laborales al incorporar a Mutual de Seguridad como su organismo administrador del seguro laboral y socio estratégico en prevención. La alianza tiene como propósito profundizar las políticas de salud ocupacional, consolidar el autocuidado y continuar construyendo una cultura de seguridad integral en todos los eslabones de la compañía. El acuerdo se fundamenta en el principio compartido de resguardar la integridad física y el bienestar de los trabajadores mediante una gestión sistemática que permita anticiparse a los factores de riesgo propios de la actividad acuícola, carac",
+        "en": "As of September 1, 2026, Salmones Aysén formally began a new stage in occupational risk management by incorporating Mutual de Seguridad as its labor insurance administrative body and strategic partner in prevention. The purpose of the alliance is to deepen occupational health policies, consolidate self-care and continue building a comprehensive safety culture in all links of the company. The agreement is based on the shared principle of safeguarding the physical integrity and well-being of workers through systematic management that allows anticipating the risk factors inherent to aquaculture activity, characterizing",
+        "no": "Fra 1. september 2026 startet Salmones Aysén formelt et nytt stadium i yrkesrisikostyring ved å innlemme Mutual de Seguridad som sitt administrative organ for arbeidsforsikring og strategisk partner innen forebygging. Hensikten med alliansen er å utdype arbeidshelsepolitikken, konsolidere egenomsorg og fortsette å bygge en omfattende sikkerhetskultur i alle ledd i selskapet. Avtalen er basert på det felles prinsippet om å ivareta arbeidstakernes fysiske integritet og velvære gjennom systematisk ledelse som gjør det mulig å forutse risikofaktorene som er iboende til akvakulturvirksomhet, som karakteriserer"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -97,47 +122,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 15,
+      "score": 10,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/green-alga-laboratory-research-alternative-biofue-2026-03-25-02-18-26-utc-scaled-e1788456848380.jpg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Convenio-53-salmones-aysen-y-mutual.jpg"
     },
     {
       "title": {
-        "es": "SalmonChile en MasterChef: el segundo producto más exportado del país entra al horario prime",
-        "en": "SalmonChile on MasterChef: the second most exported product in the country enters prime time",
-        "no": "SalmonChile på MasterChef: det nest mest eksporterte produktet i landet går i beste sendetid"
+        "es": "La batalla genética contra el cáligus y el avance en peces más resistentes",
+        "en": "The genetic battle against caligus and progress in more resistant fish",
+        "no": "Den genetiske kampen mot caligus og fremgang i mer motstandsdyktig fisk"
       },
-      "url": "https://infosalmon.cl/salmonchile-en-masterchef/",
-      "date": "Thu, 03 Sep 2026 21:27:38 +0000",
+      "url": "https://www.aqua.cl/la-batalla-genetica-contra-el-caligus-avanza-en-peces-mas-resistentes/",
+      "date": "Mon, 07 Sep 2026 09:50:00 +0000",
       "summary": {
-        "es": "Puerto Montt, 3 de septiembre de 2026.- Octubre marcará el debut de SalmonChile en MasterChef Chile , coincidiendo con el regreso del programa. María Luisa Godoy conducirá las 89 emisiones, mientras que los chefs Yann Yvin, Fernanda Fuentes y Juan Manuel Pena Passaro estarán a cargo de las evaluaciones. Durante la temporada, el salmón austral formará parte de desafíos culinarios, consejos y pruebas rápidas, con preparaciones que irán desde la cocina cotidiana hasta la alta cocina. Según el gremio, esta presencia mostrará el rigor gastronómico de una proteína que alimenta mesas exigentes de todo el mundo. La presencia de SalmonChile en el programa refuerza el orgullo de las más de 86.000 fami",
-        "en": "Puerto Montt, September 3, 2026.- October will mark the debut of SalmonChile on MasterChef Chile, coinciding with the return of the program. María Luisa Godoy will host the 89 broadcasts, while chefs Yann Yvin, Fernanda Fuentes and Juan Manuel Pena Passaro will be in charge of the evaluations. During the season, southern salmon will be part of culinary challenges, tips and quick tests, with preparations that will range from everyday cuisine to haute cuisine. According to the union, this presence will show the gastronomic rigor of a protein that feeds demanding tables around the world. The presence of SalmonChile in the program reinforces the pride of the more than 86,000 families",
-        "no": "Puerto Montt, 3. september 2026.- Oktober vil markere debuten til SalmonChile på MasterChef Chile, samtidig som programmet kommer tilbake. María Luisa Godoy er vertskap for de 89 sendingene, mens kokkene Yann Yvin, Fernanda Fuentes og Juan Manuel Pena Passaro vil stå for evalueringene. I løpet av sesongen vil sydlandsk laks være en del av kulinariske utfordringer, tips og raske tester, med tilberedninger som vil spenne fra hverdagskost til haute cuisine. Ifølge fagforeningen vil denne tilstedeværelsen vise den gastronomiske strengheten til et protein som mater krevende bord rundt om i verden. Tilstedeværelsen av SalmonChile i programmet forsterker stoltheten til de mer enn 86 000 familiene"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 11,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/MasterChef-SalmonChile-2.jpeg"
-    },
-    {
-      "title": {
-        "es": "Salmones Aysén y Mutual de Seguridad sellan alianza para fortalecer la prevención",
-        "en": "Salmones Aysén and Mutual de Seguridad seal an alliance to strengthen prevention",
-        "no": "Salmones Aysén og Mutual de Seguridad inngår en allianse for å styrke forebygging"
-      },
-      "url": "https://www.aqua.cl/salmones-aysen-y-mutual-de-seguridad-sellan-alianza-para-fortalecer-la-prevencion/",
-      "date": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "summary": {
-        "es": "El 1 de septiembre marcó el inicio de una nueva etapa para Salmones Aysén, al comenzar nuestro camino junto a Mutual de Seguridad como nuestra nueva mutualidad y partner estratégico en seguridad, orientada a fortalecer la gestión preventiva y seguir construyendo una cultura de seguridad al interior de la compañía. La alianza nace desde una convicción que ambas organizaciones comparten: hacer las cosas bien y proteger lo que más importa: las personas. El acuerdo busca potenciar el trabajo preventivo, el liderazgo en seguridad y el desarrollo de nuevas iniciativas que permitan anticiparse a los riesgos y generar entornos de trabajo cada vez más seguros. Para Salmones Aysén, este paso forma par",
-        "en": "September 1 marked the beginning of a new stage for Salmones Aysén, as we began our journey together with Mutual de Seguridad as our new mutuality and strategic partner in safety, aimed at strengthening preventive management and continuing to build a culture of safety within the company. The alliance was born from a conviction that both organizations share: doing things well and protecting what matters most: people. The agreement seeks to enhance preventive work, safety leadership and the development of new initiatives that allow us to anticipate risks and generate increasingly safer work environments. For Salmones Aysén, this step is even",
-        "no": "1. september markerte starten på en ny etappe for Salmones Aysén, da vi begynte vår reise sammen med Mutual de Seguridad som vår nye gjensidighet og strategiske partner innen sikkerhet, med sikte på å styrke forebyggende ledelse og fortsette å bygge en sikkerhetskultur i selskapet. Alliansen ble født ut fra en overbevisning som begge organisasjonene deler: å gjøre ting bra og beskytte det som betyr mest: mennesker. Avtalen søker å styrke forebyggende arbeid, sikkerhetsledelse og utvikling av nye tiltak som lar oss forutse risiko og generere stadig sikrere arbeidsmiljøer. For Salmones Aysén er dette trinnet jevnt"
+        "es": "La genómica acuícola está transformando el abordaje de la caligidosis en la salmonicultura. Estas herramientas permiten identificar mecanismos y marcadores asociados con la resistencia del salmón al Caligus rogercresseyi . El avance permite pasar de una aproximación general a una comprensión más precisa de la interacción entre el hospedero y el parásito. Al respecto, el subdirector del Centro Interdisciplinario para la Investigación Acuícola &#8211; Investigación Aplicada (Incar²), académico de la Universidad de Concepción e investigador principal de la línea “Soluciones Ómicas para la Acuicultura” de Incar², doctor Cristian Gallardo Escárate , comenta que, “durante los últimos años hemos av",
+        "en": "Aquaculture genomics is transforming the approach to caligidosis in salmon farming. These tools allow the identification of mechanisms and markers associated with salmon resistance to Caligus rogercresseyi. The advance allows us to move from a general approach to a more precise understanding of the interaction between the host and the parasite. In this regard, the deputy director of the Interdisciplinary Center for Aquaculture Research &#8211; Applied Research (Incar²), academic at the University of Concepción and principal investigator of the “Omic Solutions for Aquaculture” line of Incar², Dr. Cristian Gallardo Escárate, comments that, “during the last few years we have",
+        "no": "Akvakulturgenomikk endrer tilnærmingen til caligidose i lakseoppdrett. Disse verktøyene tillater identifisering av mekanismer og markører assosiert med laksresistens mot Caligus rogercresseyi. Fremskrittet lar oss gå fra en generell tilnærming til en mer presis forståelse av samspillet mellom verten og parasitten. I denne forbindelse sier nestleder ved Tverrfaglig senter for akvakulturforskning &#8211; Anvendt forskning (Incar²), akademiker ved University of Concepción og hovedetterforsker av \"Omic Solutions for Aquaculture\"-linjen til Incar², Dr. Cristian Gallardo Escárate, kommenterer at \"i løpet av de siste årene har vi"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -148,46 +148,21 @@
         "no": "Bransjenyheter"
       },
       "score": 8,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Convenio-79-scaled.jpg"
-    },
-    {
-      "title": {
-        "es": "Acuicultura en Namibia: proponen dar prioridad al sector ante interés por cultivar salmón",
-        "en": "Aquaculture in Namibia: they propose giving priority to the sector due to interest in growing salmon",
-        "no": "Akvakultur i Namibia: de foreslår å prioritere sektoren på grunn av interesse for å dyrke laks"
-      },
-      "url": "https://infosalmon.cl/acuicultura-namibia-inversion-noruega-salmon/",
-      "date": "Thu, 03 Sep 2026 16:40:36 +0000",
-      "summary": {
-        "es": "El interés de inversionistas noruegos por desarrollar el cultivo de salmón en Namibia abre una oportunidad para ampliar la industria acuícola del país africano. Así lo plantea Hiskia Asino, presidente de la Universal Aquaculture Association, quien sostiene que transformar ese potencial en una actividad competitiva requiere superar las brechas de insumos, financiamiento y articulación de la cadena productiva. En una columna publicada en The Villager , el especialista señala que inversionistas noruegos preparan una inversión cercana a N$1.000 millones (dólares namibios), equivalentes a unos US$62 millones, para desarrollar una industria salmonicultora. El texto no identifica a las empresas inv",
-        "en": "The interest of Norwegian investors in developing salmon farming in Namibia opens an opportunity to expand the aquaculture industry in the African country. This is stated by Hiskia Asino, president of the Universal Aquaculture Association, who maintains that transforming this potential into a competitive activity requires overcoming the gaps in inputs, financing and articulation of the productive chain. In a column published in The Villager, the specialist points out that Norwegian investors are preparing an investment of close to N$1,000 million (Namibian dollars), equivalent to about US$62 million, to develop a salmon farming industry. The text does not identify the investment companies",
-        "no": "Norske investorers interesse for å utvikle lakseoppdrett i Namibia åpner en mulighet for å utvide havbruksnæringen i det afrikanske landet. Dette er uttalt av Hiskia Asino, president i Universal Aquaculture Association, som fastholder at å transformere dette potensialet til en konkurransedyktig aktivitet krever å overvinne hullene i input, finansiering og artikulering av den produktive kjeden. I en kronikk publisert i The Villager påpeker spesialisten at norske investorer forbereder en investering på nær 1000 millioner N$ (Namibiske dollar), tilsvarende om lag 62 millioner US$, for å utvikle en lakseoppdrettsnæring. Teksten identifiserer ikke investeringsselskapene"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 8,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/image.fishfarmingexpert.com_-e1788452508398.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/FOTO-3-Caligidosis-salmon-Atlantico-mucus-ciencia-investigacion-proteina-foto-INCAR-1-scaled.jpg"
     },
     {
       "title": {
-        "es": "Salmón noruego alcanza récord mensual en valor y exportaciones de trucha caen 13%",
-        "en": "Norwegian salmon reaches monthly record in value and trout exports fall 13%",
-        "no": "Norsk laks når månedsrekord i verdi og ørreteksporten faller 13 %"
+        "es": "Salmonicultura mueve $3,2 billones con proveedores y aporta más de $74 mil millones al Estado",
+        "en": "Salmon farming moves $3.2 billion with suppliers and contributes more than $74 billion to the State",
+        "no": "Lakseoppdrett flytter 3,2 milliarder dollar med leverandører og bidrar med mer enn 74 milliarder dollar til staten"
       },
-      "url": "https://www.aqua.cl/salmon-noruego-alcanza-record-mensual-en-valor-y-exportaciones-de-trucha-caen-13/",
-      "date": "Fri, 04 Sep 2026 10:47:00 +0000",
+      "url": "https://www.aqua.cl/salmonicultura-mueve-32-billones-con-proveedores-y-aporta-mas-de-74-mil-millones-al-estado/",
+      "date": "Fri, 04 Sep 2026 19:00:00 +0000",
       "summary": {
-        "es": "Las exportaciones noruegas de salmón alcanzaron un nuevo récord en agosto de 2026, mientras que la trucha registró una disminución tanto en volumen como en valor respecto del mismo mes del año anterior, de acuerdo con los datos del Consejo Noruego de Productos del Mar. Durante agosto, Noruega exportó 153.602 toneladas de salmón por un valor de 12.300 millones de coronas noruegas (NOK). La cifra representó un aumento de NOK 2.000 millones, equivalente a un 19%, respecto de agosto del año pasado, mientras que el volumen creció un 7%. Polonia, Países Bajos y China fueron los principales mercados para el salmón noruego durante el mes. Salmón alcanza récord mensual de exportación El valor registr",
-        "en": "Norwegian salmon exports reached a new record in August 2026, while trout recorded a decrease in both volume and value compared to the same month last year, according to data from the Norwegian Seafood Council. During August, Norway exported 153,602 tonnes of salmon worth 12.3 billion Norwegian krone (NOK). The figure represented an increase of NOK 2 billion, equivalent to 19%, compared to August last year, while volume grew by 7%. Poland, the Netherlands and China were the main markets for Norwegian salmon during the month. Salmon reaches monthly export record The recorded value",
-        "no": "Norsk lakseeksport nådde ny rekord i august 2026, mens ørreten registrerte en nedgang i både volum og verdi sammenlignet med samme måned i fjor, viser data fra Norges sjømatråd. I løpet av august eksporterte Norge 153.602 tonn laks til en verdi av 12,3 milliarder norske kroner (NOK). Tallet representerte en økning på 2 milliarder kroner, tilsvarende 19 %, sammenlignet med august i fjor, mens volumet økte med 7 %. Polen, Nederland og Kina var hovedmarkedene for norsk laks i løpet av måneden. Laks når månedlig eksportrekord Den registrerte verdien"
+        "es": "Más de $74.000 millones en impuestos y pagos al Estado registraron durante 2025 las seis empresas socias del Consejo del Salmón. El monto considera impuestos directos, concesiones acuícolas y permisos no territoriales. A esto se suman $3,2 billones en pagos a proveedores nacionales realizados durante el mismo período. Las cifras corresponden a AquaChile, Australis Seafoods, Cermaq, Mowi, Salmones Aysén y Ventisqueros. Los resultados forman parte del sexto Reporte de Impacto Sostenible (RIS) del Consejo del Salmón . El documento fue elaborado bajo la metodología Sustenta+ y reúne más de 140 indicadores. Estos datos permiten medir el desempeño económico, social y ambiental de la salmonicultura",
+        "en": "More than $74,000 million in taxes and payments to the State were registered during 2025 by the six member companies of the Salmon Council. The amount considers direct taxes, aquaculture concessions and non-territorial permits. Added to this are $3.2 billion in payments to national suppliers made during the same period. The figures correspond to AquaChile, Australis Seafoods, Cermaq, Mowi, Salmones Aysén and Ventisqueros. The results form part of the Salmon Council's sixth Sustainable Impact Report (RIS). The document was prepared under the Sustenta+ methodology and brings together more than 140 indicators. These data allow us to measure the economic, social and environmental performance of salmon farming.",
+        "no": "Mer enn 74 000 millioner dollar i skatter og betalinger til staten ble registrert i løpet av 2025 av de seks medlemsbedriftene i Salmon Council. Beløpet tar hensyn til direkte skatter, akvakulturkonsesjoner og ikke-territoriale tillatelser. I tillegg kommer 3,2 milliarder dollar i betalinger til nasjonale leverandører i samme periode. Tallene tilsvarer AquaChile, Australis Seafoods, Cermaq, Mowi, Salmones Aysén og Ventisqueros. Resultatene inngår i Lakserådets sjette Sustainable Impact Report (RIS). Dokumentet ble utarbeidet under Sustenta+-metodikken og samler mer enn 140 indikatorer. Disse dataene lar oss måle den økonomiske, sosiale og miljømessige ytelsen til lakseoppdrett."
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -197,14 +172,14 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 18,
+      "score": 14,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2024/08/gkb77bp1bviz7paxc8a0_mainimage-e1722943019116.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Centro-CDS.png"
     },
     {
       "title": {
         "es": "Salmón chileno mira a México como un mercado con espacio para crecer: ¿el nuevo Brasil?",
-        "en": "Chilean salmon looks at Mexico as a market with room to grow: the new Brazil?",
+        "en": "Salmón chileno mira a México como un mercado con espacio para crecer: ¿el nuevo Brasil?",
         "no": "Chilensk laks ser på Mexico som et marked med plass til å vokse: det nye Brasil?"
       },
       "url": "https://www.salmonexpert.cl/brasil-exportaciones-mexico/salmon-chileno-mira-a-mexico-como-un-mercado-con-espacio-para-crecer-el-nuevo-brasil/2176228",
@@ -228,16 +203,41 @@
     },
     {
       "title": {
-        "es": "[FOTOS+VIDEO] Steen-Hansen inaugura nueva sala de producción para la industria salmonicultora",
-        "en": "[PHOTOS+VIDEO] Steen-Hansen inaugurates a new production room for the salmon farming industry",
-        "no": "[BILDER+VIDEO] Steen-Hansen innvier nytt produksjonsrom for lakseoppdrettsnæringen"
+        "es": "AquaChile en Seafood Expo Asia 2026 fortalece su estrategia de crecimiento en el Sudeste Asiático",
+        "en": "AquaChile at Seafood Expo Asia 2026 strengthens its growth strategy in Southeast Asia",
+        "no": "AquaChile på Seafood Expo Asia 2026 styrker sin vekststrategi i Sørøst-Asia"
       },
-      "url": "https://www.aqua.cl/steen-hansen-inaugura-nueva-sala-de-produccion-para-la-industria-salmonicultora/",
-      "date": "Fri, 04 Sep 2026 10:50:00 +0000",
+      "url": "https://infosalmon.cl/aquachile-seafood-expo-asia/",
+      "date": "Fri, 04 Sep 2026 17:05:49 +0000",
       "summary": {
-        "es": "Steen-Hansen Chile inauguró una nueva sala de producción en Puerto Montt, con la que busca fortalecer su capacidad de respuesta y disponer localmente de productos destinados a la industria salmonicultora. La ceremonia, que contó con clientes, ejecutivos provenientes de Noruega y colaboradores de la empresa; comenzó con las palabras del CEO de Steen-Hansen Group, Ulrik Ulriksen, quien destacó el trabajo del equipo chileno y la importancia que ha adquirido el país para Steen-Hansen. “La compañía ha estado representada aquí durante más de 20 años. En los últimos hemos visto cómo se ha desarrollado la industria y entendemos que, para el mercado chileno, necesitamos una presencia fuerte. La indus",
-        "en": "Steen-Hansen Chile inaugurated a new production room in Puerto Montt, with which it seeks to strengthen its response capacity and locally have products destined for the salmon farming industry. The ceremony, which included clients, executives from Norway and company collaborators; It began with the words of the CEO of Steen-Hansen Group, Ulrik Ulriksen, who highlighted the work of the Chilean team and the importance that the country has acquired for Steen-Hansen. \"The company has been represented here for more than 20 years. In recent years we have seen how the industry has developed and we understand that, for the Chilean market, we need a strong presence. The industry",
-        "no": "Steen-Hansen Chile innviet et nytt produksjonsrom i Puerto Montt, som det søker å styrke sin responskapasitet med og lokalt ha produkter beregnet på lakseoppdrettsnæringen. Seremonien, som inkluderte kunder, ledere fra Norge og bedriftens samarbeidspartnere; Det begynte med ordene til administrerende direktør i Steen-Hansen Group, Ulrik Ulriksen, som fremhevet arbeidet til det chilenske teamet og betydningen landet har fått for Steen-Hansen. \"Bedriften har vært representert her i mer enn 20 år. De siste årene har vi sett hvordan industrien har utviklet seg og vi forstår at vi trenger en sterk tilstedeværelse for det chilenske markedet. Industrien"
+        "es": "La participación de AquaChile en Seafood Expo Asia 2026 se desarrolló entre el 2 y el 4 de septiembre. Durante la feria, la empresa estrechó relaciones con clientes actuales, estableció nuevos vínculos comerciales y presentó su portafolio ante importadores, distribuidores y otros actores de la industria. La feria tuvo especial relevancia por el rol de Singapur como hub comercial para el Sudeste Asiático. Su conectividad, el desarrollo del canal foodservice y su capacidad para concentrar compradores y representantes de distintos países convierten al mercado en una plataforma estratégica para fortalecer el posicionamiento de AquaChile en la región. Durante los tres días, AquaChile contó con un",
+        "en": "AquaChile's participation in Seafood Expo Asia 2026 took place between September 2 and 4. During the fair, the company strengthened relationships with current clients, established new commercial links and presented its portfolio to importers, distributors and other industry players. The fair was especially relevant due to Singapore's role as a commercial hub for Southeast Asia. Its connectivity, the development of the foodservice channel and its ability to concentrate buyers and representatives from different countries make the market a strategic platform to strengthen AquaChile's positioning in the region. During the three days, AquaChile had a",
+        "no": "AquaChiles deltakelse på Seafood Expo Asia 2026 fant sted mellom 2. og 4. september. Under messen styrket selskapet relasjoner med nåværende kunder, etablerte nye kommersielle koblinger og presenterte sin portefølje for importører, distributører og andre bransjeaktører. Messen var spesielt relevant på grunn av Singapores rolle som et kommersielt knutepunkt for Sørøst-Asia. Dens tilkobling, utviklingen av foodservice-kanalen og dens evne til å konsentrere kjøpere og representanter fra forskjellige land gjør markedet til en strategisk plattform for å styrke AquaChiles posisjonering i regionen. I løpet av de tre dagene hadde AquaChile en"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Feria-Singapur-e1788538399329.jpeg"
+    },
+    {
+      "title": {
+        "es": "AquaPacífico proyecta una nueva etapa para la acuicultura chilena",
+        "en": "AquaPacífico projects a new stage for Chilean aquaculture",
+        "no": "AquaPacífico prosjekterer en ny fase for chilensk akvakultur"
+      },
+      "url": "https://www.aqua.cl/tras-cumplir-10-anos-aquapacifico-pone-la-innovacion-en-el-futuro-de-la-acuicultura/",
+      "date": "Mon, 07 Sep 2026 09:46:00 +0000",
+      "summary": {
+        "es": "A diez años de su creación, AquaPacífico celebró su primera década con un encuentro centrado en innovación, transferencia tecnológica y sostenibilidad. El Encuentro Institucional “AquaPacífico 10 años: Resultados, innovación y futuro” se realizó en el Hotel Serena Suite de La Serena. La actividad reunió a representantes del sector público, la academia, empresas y comunidades vinculadas a la acuicultura. El encuentro permitió revisar los principales avances del Centro y proyectar nuevos desafíos para la actividad acuícola. La jornada puso especial énfasis en la transferencia tecnológica, la resiliencia climática y la acuicultura de pequeña escala. AquaPacífico destaca colaboración para impuls",
+        "en": "Ten years after its creation, AquaPacífico celebrated its first decade with a meeting focused on innovation, technology transfer and sustainability. The Institutional Meeting “AquaPacífico 10 years: Results, innovation and future” was held at the Serena Suite Hotel in La Serena. The activity brought together representatives from the public sector, academia, companies and communities linked to aquaculture. The meeting allowed us to review the main advances of the Center and project new challenges for aquaculture activity. The day placed special emphasis on technology transfer, climate resilience and small-scale aquaculture. AquaPacífico highlights collaboration for impuls",
+        "no": "Ti år etter opprettelsen feiret AquaPacífico sitt første tiår med et møte fokusert på innovasjon, teknologioverføring og bærekraft. Institusjonsmøtet \"AquaPacífico 10 år: Resultater, innovasjon og fremtid\" ble holdt på Serena Suite Hotel i La Serena. Aktiviteten samlet representanter fra offentlig sektor, akademia, bedrifter og miljøer knyttet til havbruk. Møtet gjorde det mulig for oss å gjennomgå de viktigste fremskrittene ved senteret og prosjektere nye utfordringer for akvakulturaktivitet. Dagen la spesiell vekt på teknologioverføring, klimaresiliens og småskala havbruk. AquaPacífico fremhever samarbeid for impuls"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -247,59 +247,59 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 12,
+      "score": 10,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Inauguracion-sala-de-procesos-de-Steen-Hansen-02-B2B-Media-Group-1024x768.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/11-1024x767.png"
     },
     {
       "title": {
-        "es": "Skretting abre venta de entradas para Sustainability & Innovation Conference 2026",
-        "en": "Skretting opens ticket sales for Sustainability & Innovation Conference 2026",
-        "no": "Skretting åpner billettsalg til Sustainability & Innovation Conference 2026"
+        "es": "Soledad Tapia detalla en Santiago el nuevo modelo de fiscalización de Sernapesca",
+        "en": "Soledad Tapia details in Santiago the new Sernapesca inspection model",
+        "no": "Soledad Tapia detaljer i Santiago den nye Sernapesca inspeksjonsmodellen"
       },
-      "url": "https://www.aqua.cl/skretting-abre-venta-de-entradas-para-sustainability-innovation-conference-2026/",
-      "date": "Fri, 04 Sep 2026 10:46:00 +0000",
+      "url": "https://infosalmon.cl/sernapesca-soledad-tapia-gestion-cumplimiento-salmonicultura/",
+      "date": "Sun, 06 Sep 2026 22:30:33 +0000",
       "summary": {
-        "es": "Skretting Chile abrió oficialmente la venta de entradas para la segunda edición de Feeding the Future: Sustainability &amp; Innovation Conference 2026, que se realizará el próximo martes 27 de octubre en el Teatro del Lago, en Frutillar. Tras una primera versión que reunió a más de 200 representantes del ecosistema acuícola, el encuentro volverá a convocar a líderes del sector, empresas, centros de investigación, autoridades y expertos nacionales e internacionales en torno a los desafíos de sostenibilidad e innovación de la salmonicultura. En esta oportunidad, el programa estará organizado en cuatro bloques temáticos: Materias Primas e Ingredientes; Huella de Carbono; Energías Renovables; y ",
-        "en": "Skretting Chile officially opened ticket sales for the second edition of Feeding the Future: Sustainability &amp; Innovation Conference 2026, which will take place next Tuesday, October 27 at the Teatro del Lago, in Frutillar. After a first version that brought together more than 200 representatives of the aquaculture ecosystem, the meeting will once again bring together sector leaders, companies, research centers, authorities and national and international experts around the challenges of sustainability and innovation in salmon farming. On this occasion, the program will be organized into four thematic blocks: Raw Materials and Ingredients; Carbon Footprint; Renewable Energies; and",
-        "no": "Skretting Chile åpnet offisielt billettsalg for den andre utgaven av Feeding the Future: Sustainability &amp; Innovasjonskonferanse 2026, som finner sted neste tirsdag, 27. oktober på Teatro del Lago, i Frutillar. Etter en første versjon som samlet mer enn 200 representanter for akvakulturøkosystemet, vil møtet igjen samle sektorledere, bedrifter, forskningssentre, myndigheter og nasjonale og internasjonale eksperter rundt utfordringene med bærekraft og innovasjon i lakseoppdrett. Ved denne anledningen vil programmet bli organisert i fire tematiske blokker: Råvarer og ingredienser; Carbon Footprint; Fornybar energi; og"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Sustainability-Innovation-Conference-Skretting-scaled.jpg"
-    },
-    {
-      "title": {
-        "es": "ACS 10A proyecta siembra de 38,8 millones de peces y Subpesca fija nuevas densidades para próximo ciclo",
-        "en": "ACS 10A projects stocking of 38.8 million fish and Subpesca sets new densities for the next cycle",
-        "no": "ACS 10A planlegger utsetting av 38,8 millioner fisk og Subpesca setter nye tettheter for neste syklus"
-      },
-      "url": "https://infosalmon.cl/acs-10a-los-lagos-siembra-38-millones-peces/",
-      "date": "Thu, 03 Sep 2026 21:15:34 +0000",
-      "summary": {
-        "es": "Con una proyección de siembra que aumenta 85,45% y alcanza los 38.850.720 peces, la Agrupación de Concesiones de Salmónidos (ACS) 10A, ubicada en la Región de Los Lagos, ya cuenta con las densidades de cultivo que regirán durante su próximo período productivo. La Subsecretaría de Pesca y Acuicultura (Subpesca) clasificó a la agrupación en nivel de bioseguridad “Baja 4”, estableciendo una densidad de 4 kg/m³ para salmón del Atlántico y de 3 kg/m³ para trucha arcoíris y salmón coho. La medida quedó establecida mediante la Resolución Exenta N° 02105/2026 y se aplicará durante el período productivo comprendido entre noviembre de 2026 y julio de 2028. Más centros en operación durante el próximo c",
-        "en": "With a stocking projection that increases 85.45% and reaches 38,850,720 fish, the Salmonid Concessions Group (ACS) 10A, located in the Los Lagos Region, already has the culture densities that will govern during its next productive period. The Undersecretary of Fisheries and Aquaculture (Subpesca) classified the group at biosafety level “Low 4”, establishing a density of 4 kg/m³ for Atlantic salmon and 3 kg/m³ for rainbow trout and coho salmon. The measure was established by Exempt Resolution No. 02105/2026 and will be applied during the productive period between November 2026 and July 2028. More centers in operation during the next c",
-        "no": "Med en utsettingsprognose som øker 85,45 % og når 38 850 720 fisk, har Salmonid Concessions Group (ACS) 10A, som ligger i Los Lagos-regionen, allerede kulturtetthetene som vil styre i løpet av den neste produktive perioden. Undersekretæren for fiskeri og akvakultur (Subpesca) klassifiserte gruppen på biosikkerhetsnivå \"Lav 4\", og etablerte en tetthet på 4 kg/m³ for atlantisk laks og 3 kg/m³ for regnbueørret og coho-laks. Tiltaket ble etablert ved unntaksresolusjon nr. 02105/2026 og vil bli brukt i den produktive perioden mellom november 2026 og juli 2028. Flere sentre i drift i løpet av neste c"
+        "es": "Durante el encuentro organizado por InfoSALMON en el centro de convenciones de Deloitte en Las Condes, la directora nacional del Servicio Nacional de Pesca y Acuicultura (Sernapesca), Soledad Tapia Almonacid, abrió el ciclo de conferencias estratégicas del evento «El Salmón: Potencia Económica de Chile». Durante su exposición ante cerca de un centenar de representantes gremiales, diplomáticos, ejecutivos y científicos, la máxima autoridad del servicio desglosó las cifras que sitúan a Chile como potencia acuícola global, con cosechas del sector pesquero y acuícola que alcanzaron cerca de 4,5 millones de toneladas y exportaciones del salmón por más de US$ 6.500 millones hacia 138 países. En es",
+        "en": "During the meeting organized by InfoSALMON at the Deloitte convention center in Las Condes, the national director of the National Fisheries and Aquaculture Service (Sernapesca), Soledad Tapia Almonacid, opened the cycle of strategic conferences of the event \"El Salmón: Economic Power of Chile.\" During his presentation before nearly a hundred union representatives, diplomats, executives and scientists, the highest authority of the service broke down the figures that place Chile as a global aquaculture power, with harvests from the fishing and aquaculture sector that reached nearly 4.5 million tons and salmon exports for more than US$6.5 billion to 138 countries. in is",
+        "no": "Under møtet organisert av InfoSALMON på Deloitte konferansesenter i Las Condes, åpnet den nasjonale direktøren for National Fisheries and Aquaculture Service (Sernapesca), Soledad Tapia Almonacid, syklusen av strategiske konferanser for arrangementet \"El Salmón: Chiles økonomiske kraft.\" Under presentasjonen hans for nesten hundre fagforeningsrepresentanter, diplomater, ledere og forskere, brøt tjenestens høyeste myndighet ned tallene som plasserer Chile som en global akvakulturmakt, med høstinger fra fiske- og akvakultursektoren som nådde nesten 4,5 millioner tonn og lakseeksport for mer enn 6,5 milliarder dollar til 1388 land. i er"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
-      "category": "regulatory",
+      "category": "market",
       "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 8,
+      "score": 10,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/trabajador-salmonicultura-chile-scaled-1-e1788400913588.webp"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Soledad-Tapia-Sernapesca.jpg"
+    },
+    {
+      "title": {
+        "es": "Subrei pone al salmón entre las prioridades de negociación con EE.UU.: “Volver a un arancel cero para el 100% es complejo”",
+        "en": "Subrei puts salmon among the priorities of negotiation with the US: “Returning to a zero tariff for 100% is complex”",
+        "no": "Subrei setter laks blant prioriteringene i forhandlinger med USA: «Å gå tilbake til en nulltariff på 100 % er komplekst»"
+      },
+      "url": "https://infosalmon.cl/arancel-salmon-chileno-estados-unidos-negociacion/",
+      "date": "Sun, 06 Sep 2026 22:26:40 +0000",
+      "summary": {
+        "es": "El salmón se encuentra entre las principales prioridades de Chile en las negociaciones comerciales que mantiene con Estados Unidos para mejorar las condiciones de acceso de los productos nacionales tras la aplicación de nuevos aranceles. Sin embargo, desde el Gobierno reconocen que regresar a un escenario de arancel cero para la totalidad de las exportaciones chilenas aparece, por ahora, como un objetivo complejo. Así lo señaló la subsecretaria de Relaciones Económicas Internacionales (Subrei), Paula Estévez, en una entrevista publicada por El Llanquihue , donde abordó el impacto de la política arancelaria estadounidense sobre la salmonicultura y las gestiones que desarrolla Chile para conse",
+        "en": "Salmon is among Chile's main priorities in the trade negotiations it maintains with the United States to improve access conditions for national products after the application of new tariffs. However, the Government recognizes that returning to a zero tariff scenario for all Chilean exports appears, for now, as a complex objective. This was stated by the Undersecretary of International Economic Relations (Subrei), Paula Estévez, in an interview published by El Llanquihue, where she addressed the impact of the US tariff policy on salmon farming and the efforts that Chile is developing to achieve",
+        "no": "Laks er blant Chiles hovedprioriteringer i handelsforhandlingene det holder med USA for å forbedre tilgangsforholdene for nasjonale produkter etter innføring av nye tollsatser. Regjeringen erkjenner imidlertid at det å gå tilbake til et nulltollscenario for all chilensk eksport foreløpig fremstår som et komplekst mål. Dette ble uttalt av undersekretær for internasjonale økonomiske relasjoner (Subrei), Paula Estévez, i et intervju publisert av El Llanquihue, der hun tok for seg virkningen av USAs tollpolitikk på lakseoppdrett og innsatsen som Chile utvikler for å oppnå."
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 9,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Paula_Estevez_Weinstein-SUBREI.jpg"
     }
   ]
 }
