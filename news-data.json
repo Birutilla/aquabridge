@@ -1,18 +1,68 @@
 {
-  "updated": "2026-09-21T19:18:28Z",
+  "updated": "2026-09-24T12:36:15Z",
   "articles": [
     {
       "title": {
-        "es": "Noruega busca desarrollar herramienta con IA para detectar estrés crítico en salmones",
-        "en": "Norway seeks to develop AI tool to detect critical stress in salmon",
-        "no": "Norge søker å utvikle AI-verktøy for å oppdage kritisk stress hos laks"
+        "es": "AquaChile vincula tecnología, personas y productividad para transformar sus plantas de proceso",
+        "en": "AquaChile links technology, people and productivity to transform its process plants",
+        "no": "AquaChile forbinder teknologi, mennesker og produktivitet for å forvandle prosessanleggene sine"
       },
-      "url": "https://www.mundoacuicola.cl/new/noruega-busca-desarrollar-herramienta-con-ia-para-detectar-estres-critico-en-salmones/",
-      "date": "Thu, 17 Sep 2026 14:09:28 +0000",
+      "url": "https://www.aqua.cl/aquachile-vincula-tecnologia-personas-y-productividad-para-transformar-sus-plantas-de-proceso/",
+      "date": "Thu, 24 Sep 2026 09:50:00 +0000",
       "summary": {
-        "es": "El Fondo Noruego de Investigación de Productos del Mar (FHF) ofrece hasta NOK 8 millones para desarrollar una tecnología que combine visión artificial, sensores e inteligencia artificial para monitorear en tiempo real las operaciones de concentración de salmón Atlántico en el mar. La entrada Noruega busca desarrollar herramienta con IA para detectar estrés crítico en salmones se publicó primero en Mundoacuicola .",
-        "en": "The Norwegian Seafood Research Fund (FHF) is offering up to NOK 8 million to develop a technology that combines computer vision, sensors and artificial intelligence to monitor in real time the concentration operations of Atlantic salmon at sea. The entry Norway seeks to develop an AI tool to detect critical stress in salmon. It was first published in Mundoacuicola .",
-        "no": "Norges sjømatforskningsfond (FHF) tilbyr inntil 8 millioner kroner for å utvikle en teknologi som kombinerer datasyn, sensorer og kunstig intelligens for i sanntid å overvåke konsentrasjonsvirksomheten til atlantisk laks i sjøen. Oppslaget Norge søker å utvikle et AI-verktøy for å oppdage kritisk stress i laks. Det ble først publisert i Mundoacuicola ."
+        "es": "Las tecnologías de visión artificial, inteligencia artificial y sensorización están teniendo un impacto importante en las plantas de proceso. Sin embargo, para el jefe de Innovación y Transformación Digital de AquaChile, Sergio Vera, el mayor valor aparece cuando estas herramientas se conectan entre sí. “Las tecnologías como visión artificial, inteligencia artificial o sensorización tienen un gran impacto, pero hay que ser claro en un punto: el valor aparece cuando se conectan entre sí, no cuando se implementan de forma aislada”, señala. En el área de calidad, Vera considera que la visión artificial es probablemente la tecnología con mayor potencial de corto plazo. Explica que permite detect",
+        "en": "Machine vision, artificial intelligence, and sensorization technologies are having a major impact on process plants. However, for AquaChile's head of Innovation and Digital Transformation, Sergio Vera, the greatest value appears when these tools are connected to each other. \"Technologies such as artificial vision, artificial intelligence or sensorization have a great impact, but we must be clear on one point: the value appears when they are connected to each other, not when they are implemented in isolation,\" he says. In the area of quality, Vera believes that machine vision is probably the technology with the greatest short-term potential. Explain that it allows to detect",
+        "no": "Maskinsyn, kunstig intelligens og sensorteknologi har stor innvirkning på prosessanlegg. Men for AquaChiles leder for innovasjon og digital transformasjon, Sergio Vera, vises den største verdien når disse verktøyene er koblet til hverandre. \"Teknologier som kunstig syn, kunstig intelligens eller sensorisering har stor innvirkning, men vi må være klare på ett punkt: Verdien vises når de er koblet til hverandre, ikke når de implementeres isolert,\" sier han. Når det gjelder kvalitet, mener Vera at maskinsyn trolig er teknologien med størst kortsiktig potensial. Forklar at det gjør det mulig å oppdage"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 14,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Proceso-AquaChile_ISM2088-1024x682.jpg"
+    },
+    {
+      "title": {
+        "es": "Incorporan algoritmo para trucha a solución de biomasa: \"Respaldará toma de decisiones segura\"",
+        "en": "They incorporate algorithm for trout to biomass solution: \"It will support safe decision making\"",
+        "no": "De innarbeider algoritme for ørret til biomasseløsning: \"Det vil støtte trygg beslutningstaking\""
+      },
+      "url": "https://www.salmonexpert.cl/algoritmos-biomasa-innovasea/incorporan-algoritmo-para-trucha-a-solucion-de-biomasa-respaldara-toma-de-decisiones-segura/2184785",
+      "date": "",
+      "summary": {
+        "es": "La solución BiomassPro de Innovasea, que ahora es compatible con ocho especies acuícolas, combina una cámara ligera impulsada por inteligencia artificial con un panel de control intuitivo.",
+        "en": "Innovasea's BiomassPro solution, which is now compatible with eight aquaculture species, combines a lightweight AI-powered camera with an intuitive control panel.",
+        "no": "Innovaseas BiomassPro-løsning, som nå er kompatibel med åtte oppdrettsarter, kombinerer et lett AI-drevet kamera med et intuitivt kontrollpanel."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 11,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2184791.jpg?imageId=2184791&x=0&y=15.13&cropw=100&croph=84.87&panox=0&panoy=15.13&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Garware refuerza estrategia preventiva contra Caligus con faldones Skirt X12",
+        "en": "Garware reinforces preventive strategy against Caligus with Skirt X12 skirts",
+        "no": "Garware forsterker den forebyggende strategien mot Caligus med skjørt X12 skjørt"
+      },
+      "url": "https://www.mundoacuicola.cl/new/garware-refuerza-estrategia-preventiva-contra-caligus-con-faldones-skirt-x12/",
+      "date": "Wed, 23 Sep 2026 15:17:41 +0000",
+      "summary": {
+        "es": "La compañía destacó el uso de faldones Skirt X12 como herramienta preventiva frente a escenarios que podrían favorecer una mayor presión de Caligus y floraciones algales. La tecnología ya es utilizada por productores como Mowi y Cermaq en centros de Aysén y Chiloé, con reducciones reportadas de hasta 60% en la carga parasitaria. La entrada Garware refuerza estrategia preventiva contra Caligus con faldones Skirt X12 se publicó primero en Mundoacuicola .",
+        "en": "The company highlighted the use of Skirt X12 skirts as a preventive tool against scenarios that could favor greater pressure from Caligus and algal blooms. The technology is already used by producers such as Mowi and Cermaq in Aysén and Chiloé centers, with reported reductions of up to 60% in parasitic load. The Garware entry reinforces preventive strategy against Caligus with Skirt skirts X12 was first published in Mundoacuicola .",
+        "no": "Selskapet fremhevet bruken av skjørt X12 skjørt som et forebyggende verktøy mot scenarier som kan favorisere større press fra Caligus og algeoppblomstringer. Teknologien brukes allerede av produsenter som Mowi og Cermaq i Aysén- og Chiloé-sentre, med rapporterte reduksjoner på opptil 60% i parasittbelastning. Garware-oppføringen forsterker den forebyggende strategien mot Caligus med skjørtskjørt x12 ble først publisert i Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -22,172 +72,147 @@
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 17,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/Noruega-busca-desarrollar-herramienta-con-IA-para-detectar-estres-critico-en-salmones.jpg"
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/Garware-refuerza-estrategia-preventiva-contra-Caligus-con-faldones-Skirt-X12.jpg"
     },
     {
       "title": {
-        "es": "Cermaq refuerza su equipo global con nuevos cargos ejecutivos",
-        "en": "Cermaq strengthens its global team with new executive positions",
-        "no": "Cermaq styrker sitt globale team med nye lederstillinger"
+        "es": "MSD Salud Animal refuerza su apuesta acuícola en Chile y nombra a Cristian Catalán como nuevo gerente de la unidad",
+        "en": "MSD Animal Health reinforces its aquaculture commitment in Chile and appoints Cristian Catalán as the new manager of the unit",
+        "no": "MSD Animal Health styrker sitt akvakulturengasjement i Chile og utnevner Cristian Catalán som ny leder av enheten"
       },
-      "url": "https://www.aqua.cl/cermaq-refuerza-su-equipo-global-con-nuevos-cargos-ejecutivos/",
-      "date": "Mon, 21 Sep 2026 09:47:00 +0000",
+      "url": "https://infosalmon.cl/cristian-catalan-msd-salud-animal-acuicultura-chile/",
+      "date": "Wed, 23 Sep 2026 20:00:36 +0000",
       "summary": {
-        "es": "Tras la integración de las operaciones de Grieg Seafood en Finnmark y Canadá, Cermaq realizó cambios en su estructura de gestión global. La compañía busca fortalecer la coordinación, alineación e innovación entre sus distintas regiones. En este contexto, Silvia Segnini fue designada como Chief Financial Officer (CFO), mientras que Snorre Jonassen asumirá como Chief Operating Officer (COO). Además, Bendik Fyhn Terjesen ocupará el cargo de Chief Technology Officer (CTO). Silvia Segnini asume como nueva CFO Silvia Segnini fue designada como nueva Chief Financial Officer (CFO) de Cermaq. 3 parts bruk er ikke tilatt Segnini ingresó a la compañía en 2007 y desde entonces ha desarrollado funciones ",
-        "en": "Following the integration of Grieg Seafood's operations in Finnmark and Canada, Cermaq made changes to its global management structure. The company seeks to strengthen coordination, alignment and innovation between its different regions. In this context, Silvia Segnini was appointed as Chief Financial Officer (CFO), while Snorre Jonassen will take over as Chief Operating Officer (COO). In addition, Bendik Fyhn Terjesen will serve as Chief Technology Officer (CTO). Silvia Segnini assumes as new CFO Silvia Segnini was appointed as new Chief Financial Officer (CFO) of Cermaq. 3 parts bruk er ikke tilatt Segnini joined the company in 2007 and since then has developed functions",
-        "no": "Etter integreringen av Grieg Seafoods virksomhet i Finnmark og Canada, gjorde Cermaq endringer i sin globale ledelsesstruktur. Selskapet søker å styrke koordinering, tilpasning og innovasjon mellom sine ulike regioner. I denne sammenheng ble Silvia Segnini ansatt som finansdirektør (CFO), mens Snorre Jonassen overtar som driftsdirektør (COO). I tillegg vil Bendik Fyhn Terjesen fungere som Chief Technology Officer (CTO). Silvia Segnini tiltrer som ny finansdirektør Silvia Segnini ble ansatt som ny finansdirektør (CFO) i Cermaq. 3 parts bruk er ikke tilatt Segnini tiltrådte i selskapet i 2007 og har siden da utviklet funksjoner"
+        "es": "En medio de una industria acuícola que enfrenta crecientes desafíos sanitarios, productivos y de eficiencia, MSD Salud Animal anunció un cambio relevante en la conducción de su negocio en Chile: Cristian Catalán Arias asumió como nuevo gerente de la Unidad de Acuicultura, posición desde la cual la compañía busca profundizar su trabajo junto a los productores y fortalecer su propuesta de soluciones y servicios para las necesidades actuales y futuras del sector. Médico veterinario de la Universidad Mayor, Cristian Catalán cuenta con más de 27 años de trayectoria profesional vinculada a la salud y producción animal, así como en el área de agronegocios. Su experiencia y continua formación profes",
+        "en": "In the midst of an aquaculture industry that faces growing health, productive and efficiency challenges, MSD Animal Health announced a significant change in the conduct of its business in Chile: Cristian Catalán Arias took over as the new manager of the Aquaculture Unit, a position from which the company seeks to deepen its work with producers and strengthen its proposal of solutions and services for the current and future needs of the sector. A veterinarian at the Universidad Mayor, Cristian Catalán has more than 27 years of professional experience linked to animal health and production, as well as in the area of agribusiness. His experience and continuous professional training",
+        "no": "Midt i en akvakulturindustri som står overfor økende helse-, produktivitets- og effektivitetsutfordringer, kunngjorde MSD Animal Health en betydelig endring i gjennomføringen av sin virksomhet i Chile: Cristian Catalán Arias overtok som ny leder for akvakulturenheten, en stilling som selskapet søker å utdype sitt arbeid med produsenter og styrke sitt forslag til løsninger og tjenester for dagens og fremtidens behov i sektoren. En veterinær ved Universidad Mayor, Cristian Catalán har mer enn 27 års yrkeserfaring knyttet til dyrehelse og produksjon, samt innen agroindustrien. Hans erfaring og kontinuerlige faglige opplæring"
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "technology",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
       "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/msd-catalan-acuicultura-1024x683.png"
+    },
+    {
+      "title": {
+        "es": "Nueva Ley de Transferencia Tecnológica abre una nueva etapa para la innovación en la salmonicultura chilena",
+        "en": "New Technology Transfer Law opens a new stage for innovation in Chilean salmon farming",
+        "no": "Ny teknologioverføringslov åpner en ny fase for innovasjon i chilensk lakseoppdrett"
+      },
+      "url": "https://infosalmon.cl/nueva-ley-de-transferencia-tecnologica-abre-una-nueva-etapa-para-la-innovacion-en-la-salmonicultura-chilena/",
+      "date": "Wed, 23 Sep 2026 21:24:12 +0000",
+      "summary": {
+        "es": "Chile dio un nuevo paso para fortalecer el vínculo entre investigación, innovación y actividad productiva con la publicación de la Ley N.º 21.838, que dicta normas sobre transferencia de tecnología y conocimiento. La normativa, publicada en el Diario Oficial el 17 de septiembre de 2026, establece un marco regulatorio destinado a que la cadena que conecta investigación, ciencia, tecnología, innovación y emprendimiento cuente con capacidades para transferir sus resultados a la sociedad y la industria. Para la industria salmonicultora, el alcance de esta legislación resulta especialmente relevante por la creciente necesidad de transformar investigación aplicada en herramientas concretas para ab",
+        "en": "Chile took a new step to strengthen the link between research, innovation and productive activity with the publication of Law No. 21,838, which dictates rules on technology and knowledge transfer. The regulations, published in the Official Gazette on September 17, 2026, establish a regulatory framework aimed at ensuring that the chain that connects research, science, technology, innovation and entrepreneurship has the capabilities to transfer its results to society and industry. For the salmon farming industry, the scope of this legislation is especially relevant due to the growing need to transform applied research into concrete tools for ab",
+        "no": "Chile tok et nytt skritt for å styrke koblingen mellom forskning, innovasjon og produktiv aktivitet med publiseringen av lov nr. 21 838, som dikterer regler om teknologi og kunnskapsoverføring. Forskriftene, publisert i Official Gazette 17. september 2026, etablerer et regelverk som tar sikte på å sikre at kjeden som forbinder forskning, vitenskap, teknologi, innovasjon og entreprenørskap, har mulighet til å overføre resultatene til samfunnet og industrien. For lakseoppdrettsnæringen er omfanget av denne lovgivningen spesielt relevant på grunn av det økende behovet for å omforme anvendt forskning til konkrete verktøy for ab"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Ley-de-Transferencia-Tecnologica-Imagen-generada-con-IA-1024x683.png"
+    },
+    {
+      "title": {
+        "es": "SudFest: rock y solidaridad unen a la comunidad y a empresas de la salmonicultura en Puerto Montt",
+        "en": "SudFest: rock and solidarity unite the community and salmon farming companies in Puerto Montt",
+        "no": "SudFest: Rock og solidaritet forener lokalsamfunnet og lakseoppdrettsselskapene i Puerto Montt"
+      },
+      "url": "https://www.salmonexpert.cl/adultos-mayores-donacion-de-panales-puerto-montt/sudfest-rock-y-solidaridad-unen-a-la-comunidad-y-a-empresas-de-la-salmonicultura-en-puerto-montt/2180681",
+      "date": "",
+      "summary": {
+        "es": "",
+        "en": "",
+        "no": ""
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 9,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2180689.jpg?imageId=2180689&x=0&y=35.42&cropw=100&croph=35.83&panox=0&panoy=35.42&panow=100&panoh=35.83&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Millonaria inversión de Canadá en tecnología de jaulas flotantes cerradas para la salmonicultura",
+        "en": "Canada's Million Dollar Investment in Closed Floating Cage Technology for Salmon Farming",
+        "no": "Canadas millioninvestering i lukket flytende merdteknologi for lakseoppdrett"
+      },
+      "url": "https://www.salmonexpert.cl/bluegreen-canada-columbia-britanica/millonaria-inversion-de-canada-en-tecnologia-de-jaulas-flotantes-cerradas-para-la-salmonicultura/2185144",
+      "date": "",
+      "summary": {
+        "es": "Marine Donut es un sistema noruego de acuicultura cerrado, flotante y de gran tamaño, con forma circular, destinado al cultivo de salmón en el mar, y ahora se utilizará en Columbia Británica.",
+        "en": "Marine Donut is a large, circular, floating, closed Norwegian aquaculture system for salmon farming at sea, and will now be used in British Columbia.",
+        "no": "Marine Donut er et stort, sirkulært, flytende, lukket norsk oppdrettssystem for lakseoppdrett til sjøs, og skal nå brukes i British Columbia."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
       "score": 8,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Silvia-Segnini_-1518-_WEB-1024x819.jpg"
+      "image": "https://image.salmonexpert.cl/2184577.jpg?imageId=2184577&x=0&y=20.2&cropw=100&croph=63.55&panox=0&panoy=20.2&panow=100&panoh=63.55&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Empleos en acuicultura: revisa las vacantes disponibles en el sur de Chile",
-        "en": "Aquaculture Jobs - Review Vacancies Available in Southern Chile",
-        "no": "Akvakulturjobber - Se gjennom ledige stillinger i Sør-Chile"
+        "es": "Andrés Lyon será CEO de matriz de Australis en Chile y llega nuevo gerente general a la salmonicultora",
+        "en": "Andrés Lyon will be CEO of Australis' parent company in Chile and a new general manager arrives at the salmon farming company",
+        "no": "Andrés Lyon blir administrerende direktør i Australis 'morselskap i Chile og ny daglig leder kommer til lakseoppdrettsselskapet"
       },
-      "url": "https://www.aqua.cl/empleos-en-acuicultura-revisa-las-vacantes-disponibles-en-el-sur-de-chile/",
-      "date": "Mon, 21 Sep 2026 09:49:00 +0000",
+      "url": "https://www.salmonexpert.cl/australis-australis-seafoods-directorio/andres-lyon-sera-ceo-de-matriz-de-australis-en-chile-y-llega-nuevo-gerente-general-a-la-salmonicultora/2185098",
+      "date": "",
       "summary": {
-        "es": "El portal Empleos Aqua mantiene disponibles nuevas ofertas laborales para profesionales, técnicos y trabajadores del sector acuícola. Las vacantes corresponden a áreas como recursos humanos, producción, mantenimiento, operaciones, electromecánica, bodega y apoyo en centros y plantas. Vacantes disponibles Analista de Recursos Humanos – Puerto Varas Técnico en Mantención Especialista – Puerto Montt Técnico de Mantención y Reparaciones – Loncoche, Región de La Araucanía Jefe de Personas y Cultura – Puerto Varas Supervisor de Acopio – Quellón Jefe/a de Línea Planta – Chiloé Asistente de Mantención – Región de Los Ríos Asistente de Producción – Región de Los Ríos Asistente de Bodega – Puerto Vara",
-        "en": "The Aqua Jobs portal keeps new job offers available for professionals, technicians and workers in the aquaculture sector. The vacancies correspond to areas such as human resources, production, maintenance, operations, electromechanics, warehouse and support in centers and plants. Available vacancies Human Resources Analyst – Puerto Varas Maintenance Technician Specialist – Puerto Montt Maintenance and Repair Technician – Loncoche, La Araucanía Region Head of People and Culture – Puerto Varas Storage Supervisor – Quellón Head of Plant Line – Chiloé Maintenance Assistant – Los Ríos Region Production Assistant – Los Ríos Region Winery Assistant – Puerto Vara",
-        "no": "Aqua Jobs-portalen holder nye jobbtilbud tilgjengelige for fagfolk, teknikere og arbeidstakere i akvakultursektoren. De ledige stillingene tilsvarer områder som menneskelige ressurser, produksjon, vedlikehold, drift, elektromekanikk, lager og støtte i sentre og anlegg. Ledige stillinger Human Resources Analyst – Puerto Varas Maintenance Technician Specialist – Puerto Montt Maintenance and Repair Technician – Loncoche, La Araucanía Region Head of People and Culture – Puerto Varas Storage Supervisor – Quellón Head of Plant Line – Chiloé Maintenance Assistant – Los Ríos Region Production Assistant – Los Ríos Region Winery Assistant – Puerto Vara"
+        "es": "Ignacio Bravo, hasta ahora gerente de Farming de la empresa, asumirá como máximo ejecutivo. La compañía proyecta una cosecha de entre 52 mil y 54 mil toneladas en 2026 y resultados positivos.",
+        "en": "Ignacio Bravo, until now the company's Farming Manager, will take over as CEO. The company projects a harvest of between 52 thousand and 54 thousand tons in 2026 and positive results.",
+        "no": "Ignacio Bravo, til nå selskapets Farming Manager, vil ta over som administrerende direktør. Selskapet prosjekterer en innhøsting på mellom 52 tusen og 54 tusen tonn i 2026 og positive resultater."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
       "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 16,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/05/Empleos-Acuicolas-1024x683.png"
-    },
-    {
-      "title": {
-        "es": "Simulacro FAN reúne a salmonicultoras para fortalecer respuesta ante mortalidad masiva",
-        "en": "FAN drill brings together salmon farmers to strengthen response to mass mortality",
-        "no": "VIFTEBOR samler lakseoppdrettere for å styrke responsen på massedødelighet"
-      },
-      "url": "https://www.aqua.cl/simulacro-fan-reune-a-empresas-salmonicultoras-para-fortalecer-respuesta-ante-mortalidad-masiva/",
-      "date": "Mon, 21 Sep 2026 15:30:00 +0000",
-      "summary": {
-        "es": "Con el objetivo de preparar los escenarios y tiempos de respuesta ante un evento de mortalidad masiva asociado a Floraciones de Algas Nocivas (FAN), Fiordo Austral realizó un simulacro en la región de Los Lagos. La actividad buscó poner a prueba la coordinación, los tiempos de reacción y los protocolos operativos de la industria frente a una eventual emergencia durante la temporada estival. El ejercicio incluyó el despliegue de la embarcación Bronco y se desarrolló en el centro Pichanco de Ventisqueros. Además, convocó a representantes de Multi X, Salmones de Chile, Blumar y Ventisqueros. Los participantes se involucraron activamente en las distintas etapas del simulacro FAN, con el objetivo",
-        "en": "In order to prepare the scenarios and response times for a mass mortality event associated with Harmful Algae Flowers (FAN), Fiordo Austral carried out a drill in the Los Lagos region. The activity sought to test the coordination, reaction times and operational protocols of the industry in the face of an eventual emergency during the summer season. The exercise included the deployment of the Bronco vessel and took place at the Pichanco de Ventisqueros center. In addition, he summoned representatives of Multi X, Salmones de Chile, Blumar and Ventisqueros. Participants were actively involved in the different stages of the FAN drill, with the aim of",
-        "no": "For å forberede scenariene og responstidene for en massedødelighetshendelse assosiert med skadelige algeblomster (VIFTE), gjennomførte Fiordo Austral en drill i Los Lagos-regionen. Aktiviteten søkte å teste bransjens koordinering, reaksjonstider og driftsprotokoller i møte med en eventuell nødsituasjon i sommersesongen. Øvelsen inkluderte utplassering av Bronco-fartøyet og fant sted ved Pichanco de Ventisqueros-senteret. I tillegg tilkalte han representanter for Multi X, Salmones de Chile, Blumar og Ventisqueros. Deltakerne var aktivt involvert i de ulike trinnene i VIFTEBORET, med sikte på å"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 13,
+      "score": 14,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Simulcro-FAN-3-1024x768.jpeg"
+      "image": "https://image.salmonexpert.cl/1379932.jpg?imageId=1379932&x=0&y=13.3&cropw=100&croph=63.55&panox=0&panoy=13.3&panow=100&panoh=63.55&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Congreso Nacional de Acuicultura cierra trabajos e inscripción temprana el 30 de septiembre",
-        "en": "National Aquaculture Congress closes jobs and early registration on September 30",
-        "no": "Nasjonal havbrukskongress stenger arbeidsplasser og tidlig registrering 30. september"
+        "es": "Noruega exportó más de 31 mil toneladas de salmón fresco en una semana: volumen subió 26,9% interanual",
+        "en": "Norway exported more than 31 thousand tons of fresh salmon in a week: volume increased 26.9% year-on-year",
+        "no": "Norge eksporterte mer enn 31 tusen tonn fersk laks i løpet av en uke: volumøkning 26,9% fra år til år"
       },
-      "url": "https://www.aqua.cl/congreso-nacional-de-acuicultura-cierra-trabajos-e-inscripcion-el-30-de-septiembre/",
-      "date": "Mon, 21 Sep 2026 14:37:07 +0000",
+      "url": "https://infosalmon.cl/noruega-exportaciones-salmon-fresco-semana-38-2026/",
+      "date": "Wed, 23 Sep 2026 17:42:21 +0000",
       "summary": {
-        "es": "El XI Congreso Nacional de Acuicultura, organizado por la Universidad de Chile y la Sociedad Chilena de Acuicultura, avanza en los preparativos para su próxima edición, que se realizará entre el 30 de noviembre y el 2 de diciembre de 2026 en el Teatro Diego Rivera de Puerto Montt. Tras las celebraciones de Fiestas Patrias, el encuentro entra en una etapa clave de su organización. El próximo 30 de septiembre finalizarán dos procesos relevantes para quienes quieran participar: el envío de trabajos científicos y el período de inscripción temprana. Últimos días para enviar trabajos Investigadores, estudiantes y profesionales vinculados con la acuicultura todavía pueden presentar sus trabajos par",
-        "en": "The XI National Aquaculture Congress, organized by the University of Chile and the Chilean Aquaculture Society, is making progress in the preparations for its next edition, which will be held between November 30 and December 2, 2026 at the Diego Rivera Theater in Puerto Montt. After the celebrations of Fiestas Patrias, the meeting enters a key stage of its organization. On September 30, two relevant processes will end for those who want to participate: the submission of scientific papers and the early registration period. Last days to submit papers Aquaculture-related researchers, students and practitioners can still submit their papers for",
-        "no": "XI National Aquaculture Congress, organisert av University of Chile og Chilean Aquaculture Society, gjør fremskritt i forberedelsene til sin neste utgave, som vil bli avholdt mellom 30. november og 2. desember 2026 på Diego Rivera Theater i Puerto Montt. Etter feiringen av Fiestas Patrias, går møtet inn i en viktig fase av organisasjonen. Den 30. september avsluttes to relevante prosesser for de som ønsker å delta: innlevering av vitenskapelige artikler og perioden for tidlig registrering. Siste dager for å sende inn papirer Akvakulturrelaterte forskere, studenter og utøvere kan fortsatt sende inn sine papirer for"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 13,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Nota-congreso-nacional-acuicultura-Universidad-de-Chile.png"
-    },
-    {
-      "title": {
-        "es": "Aquasur Tech 2027 define tres ejes para abordar los desafíos de la acuicultura",
-        "en": "Aquasur Tech 2027 defines three axes to address aquaculture challenges",
-        "no": "Aquasur Tech 2027 definerer tre akser for akvakulturutfordringer"
-      },
-      "url": "https://www.aqua.cl/aquasur-tech-2027-define-tres-ejes-para-abordar-los-desafios-de-la-acuicultura/",
-      "date": "Mon, 21 Sep 2026 18:00:00 +0000",
-      "summary": {
-        "es": "La tercera versión del encuentro tecnológico se realizará el 17 y 18 de marzo de 2027 en el Hotel Dreams de Punta Arenas, con un programa articulado en torno a la eficiencia operacional, la gestión de riesgos y el rol de Magallanes como plataforma de crecimiento para la industria. La agenda de Aquasur Tech 2027 ya tiene una estructura definida. El congreso que acompañará a la exhibición en Punta Arenas se organizará en tres ejes temáticos que ordenan la conversación de la industria acuícola y buscan responder a las preguntas que el sector se está haciendo de cara al 2030: cómo producir mejor, cómo anticiparse a los riesgos y cómo crecer en Magallanes con respaldo del territorio. El primer ej",
-        "en": "The third version of the technological meeting will be held on March 17 and 18, 2027 at the Dreams Hotel in Punta Arenas, with a program articulated around operational efficiency, risk management and the role of Magallanes as a growth platform for the industry. The Aquasur Tech 2027 agenda already has a defined structure. The congress that will accompany the exhibition in Punta Arenas will be organized into three thematic axes that order the conversation of the aquaculture industry and seek to answer the questions that the sector is asking itself for 2030: how to produce better, how to anticipate risks and how to grow in Magallanes with the support of the territory.",
-        "no": "Den tredje versjonen av det teknologiske møtet vil bli avholdt 17. og 18. mars 2027 på Dreams Hotel i Punta Arenas, med et program artikulert rundt operasjonell effektivitet, risikostyring og Magallanes rolle som en vekstplattform for bransjen. Aquasur Tech 2027-agendaen har allerede en definert struktur. Kongressen som vil følge med utstillingen i Punta Arenas vil bli organisert i tre tematiske akser som ordner samtalen i havbruksnæringen og søker å svare på spørsmålene som sektoren stiller seg selv for 2030: hvordan produsere bedre, hvordan forutse risiko og hvordan vokse i Magallanes med støtte fra territoriet."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/aquasur.png"
-    },
-    {
-      "title": {
-        "es": "Descarbonizar el salmón: ¿cuánto costará reducir sus emisiones hacia 2050?",
-        "en": "Decarbonising salmon: how much will it cost to reduce their emissions by 2050?",
-        "no": "Avkarbonisering av laks: hvor mye vil det koste å redusere utslippene innen 2050?"
-      },
-      "url": "https://infosalmon.cl/descarbonizar-el-salmon-cuanto-costara-reducir-sus-emisiones/",
-      "date": "Sun, 20 Sep 2026 21:14:06 +0000",
-      "summary": {
-        "es": "La carrera de la acuicultura hacia una producción con menor huella climática comienza a definirse con mayor precisión. Un nuevo estudio elaborado para la Unión Europea analiza los costos y las rutas posibles para que el sector acuícola alcance la neutralidad de carbono en 2050 y entrega señales especialmente relevantes para la salmonicultura: el camino no dependerá de una única tecnología, sino de la combinación de alimentación más eficiente, digitalización, energías renovables, mejoras operacionales y descarbonización de toda la cadena de suministro. El informe EU Aquaculture: GHG Reduction Costs and Pathways to Net Zero by 2050, elaborado por Wageningen Social &amp; Economic Research, MRAG",
-        "en": "A new study prepared for the European Union analyzes the costs and possible routes for the aquaculture sector to reach carbon neutrality by 2050 and provides especially relevant signals for salmon farming: the path will not depend on a single technology, but on the combination of more efficient feeding, digitization, renewable energies, operational improvements and decarbonization of the entire The race of aquaculture towards a production with a smaller climate footprint begins to be defined with greater precision. supply chain. The report EU Aquaculture: GHG Reduction Costs and Pathways to Net Zero by 2050, prepared by Wageningen Social &amp; Economic Research, MRAG",
-        "no": "En ny studie utarbeidet for EU analyserer kostnadene og mulige ruter for akvakultursektoren for å nå karbonnøytralitet innen 2050 og gir spesielt relevante signaler for lakseoppdrett: banen vil ikke avhenge av en enkelt teknologi, men av kombinasjonen av mer effektiv fôring, digitalisering, fornybar energi, driftsforbedringer og dekarbonisering av hele Rasen av akvakultur mot en produksjon med et mindre klimaavtrykk begynner å bli definert med større presisjon. forsyningskjeden. Rapporten EU Aquaculture: GHG Reduction Costs and Pathways to Net Zero by 2050, utarbeidet av Wageningen Social &amp; Economic Research, MRAG"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Estudio-descarbonizacion-1.png"
-    },
-    {
-      "title": {
-        "es": "Chile exporta 12% más salmónidos, pero el valor crece solo 7%",
-        "en": "Chile exports 12% more salmonids, but the value grows only 7%",
-        "no": "Chile eksporterer 12% mer laksefisk, men verdien vokser bare 7%"
-      },
-      "url": "https://infosalmon.cl/chile-exporta-mas-salmonidos-valor-crece-2026/",
-      "date": "Mon, 21 Sep 2026 19:07:58 +0000",
-      "summary": {
-        "es": "Chile aumentó sus exportaciones de salmón y trucha durante los primeros ocho meses de 2026, aunque el crecimiento del volumen no se tradujo en un incremento equivalente de los retornos. De acuerdo con cifras del Departamento de Estudios del Servicio Nacional de Aduanas , entre enero y agosto el país exportó 557.532 toneladas de salmónidos por US$4.491 millones. Frente al mismo periodo de 2025, cuando se enviaron 497.802 toneladas por US$4.199 millones, el volumen creció 12% y el valor FOB aumentó 6,97%. La diferencia entre ambas variaciones entrega una primera señal: Chile está colocando una mayor cantidad de producto en los mercados internacionales, pero el retorno promedio por cada kilo ex",
-        "en": "Chile increased its exports of salmon and trout during the first eight months of 2026, although volume growth did not translate into an equivalent increase in returns. According to figures from the Department of Studies of the National Customs Service, between January and August the country exported 557,532 tons of salmonids for US$4,491 million. Compared to the same period in 2025, when 497,802 tons were shipped for $4,199 million, the volume grew 12% and the fob value increased 6.97%. The difference between the two variations gives a first signal: Chile is placing a greater amount of product in international markets, but the average return per kilo ex",
-        "no": "Chile økte sin eksport av laks og ørret i løpet av de første åtte månedene av 2026, selv om volumveksten ikke førte til en tilsvarende økning i avkastningen. Ifølge tall fra Institutt for studier av National Customs Service, mellom januar og august landet eksportert 557,532 tonn laksefisk for US$4,491 millioner. Sammenlignet med samme periode i 2025, da 497,802 tonn ble sendt for US$ 4,199 millioner, økte volumet 12% og fob-verdien økte 6,97%. Forskjellen mellom de to variantene gir et første signal: Chile plasserer en større mengde produkt i internasjonale markeder, men gjennomsnittlig avkastning per kilo ex"
+        "es": "Noruega cerró la semana 38 de 2026 con un aumento tanto en el volumen como en el precio promedio de sus exportaciones de salmón fresco o refrigerado. De acuerdo con las cifras publicadas este miércoles 23 de septiembre por Statistics Norway, entre el 14 y el 20 de septiembre se enviaron al exterior 31.087 toneladas, un 3,2% más que durante los siete días anteriores. En ese mismo período, el precio promedio de exportación alcanzó 71,41 coronas noruegas por kilo, con un alza semanal de 1,8%. La variación más pronunciada aparece al comparar las cantidades exportadas con las de un año atrás. El volumen de salmón fresco o refrigerado fue 26,9% superior al de la semana 38 de 2025. El precio, en ca",
+        "en": "Norway closed week 38 of 2026 with an increase in both the volume and average price of its fresh or chilled salmon exports. According to the figures published by Statistics Norway on Wednesday, September 23, 31,087 tons were shipped abroad between September 14 and 20, 3.2% more than during the previous seven days. In that same period, the average export price reached 71.41 Norwegian kroner per kilo, with a weekly increase of 1.8%. The most pronounced variation appears when comparing the quantities exported with those of a year ago. The volume of fresh or chilled salmon was 26.9% higher than at week 38 of 2025. The price, in ca",
+        "no": "Norge avsluttet uke 38 i 2026 med en økning i både volum og gjennomsnittspris på fersk eller kjølt lakseeksport. Ifølge tallene som Statistisk sentralbyrå publiserte onsdag 23. september, ble 31 087 tonn sendt til utlandet mellom 14. og 20. september, 3,2% mer enn i de sju foregående dagene. Samme periode nådde den gjennomsnittlige eksportprisen 71,41 kroner per kilo, med en ukentlig økning på 1,8%. Den mest uttalte variasjonen vises når man sammenligner de eksporterte mengdene med de som ble eksportert for et år siden. Volumet av fersk eller kjølt laks var 26,9% høyere enn i uke 38 i 2025. Prisen, i ca."
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -197,25 +222,25 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 12,
+      "score": 14,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/camanchaca-salmon-processing-lines-2-2.jpg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/09/Fish_farming_in_Norway_near_Melbu-2.jpg"
     },
     {
       "title": {
-        "es": "La genética podría ayudar a producir salmones que crezcan con menos alimento",
-        "en": "Genetics could help produce salmon that grow on less feed",
-        "no": "Genetikk kan bidra til å produsere laks som vokser på mindre fôr"
+        "es": "Salmones Camanchaca reporta que cosechará dos jaulas tras brote de virus ISA",
+        "en": "Camanchaca Salmon Reports Harvesting Two Cages After ISA Virus Outbreak",
+        "no": "Camanchaca laks rapporterer å høste to bur etter utbrudd av ISA-virus"
       },
-      "url": "https://www.mundoacuicola.cl/new/la-genetica-podria-ayudar-a-producir-salmones-que-crezcan-con-menos-alimento/",
-      "date": "Mon, 21 Sep 2026 18:13:47 +0000",
+      "url": "https://www.salmonexpert.cl/aysen-camanchaca-cosechas/salmones-camanchaca-reporta-que-cosechara-dos-jaulas-tras-brote-de-virus-isa/2184466",
+      "date": "",
       "summary": {
-        "es": "Un estudio de Nofima, la Universidad Noruega de Ciencias de la Vida y Mowi Genetics encontró diferencias genéticas entre familias de salmón Atlántico en crecimiento, consumo y eficiencia alimentaria. Los resultados indican que seleccionar peces con buen crecimiento y menor deposición de energía como grasa podría reducir el alimento necesario para producir una misma cantidad de biomasa. La entrada La genética podría ayudar a producir salmones que crezcan con menos alimento se publicó primero en Mundoacuicola .",
-        "en": "A study by Nofima, the Norwegian University of Life Sciences and Mowi Genetics found genetic differences between Atlantic salmon families in growth, consumption and food efficiency. The results indicate that selecting fish with good growth and less energy deposition as fat could reduce the food needed to produce the same amount of biomass. The entry Genetics could help produce salmon that grow with less food was first published in Mundoacuicola .",
-        "no": "En studie av Nofima, Norges miljø- og biovitenskapelige universitet og Mowi Genetics fant genetiske forskjeller mellom atlantiske laksefamilier i vekst, forbruk og mateffektivitet. Resultatene indikerer at valg av fisk med god vekst og mindre energideponering som fett kan redusere maten som trengs for å produsere samme mengde biomasse. Oppføringen Genetikk kan bidra til å produsere laks som vokser med mindre mat ble først publisert i Mundoacuicola ."
+        "es": "Las diez jaulas restantes del centro Izaza, volvieron a ser muestreadas por la autoridad, y sus resultados determinarán las acciones a seguir frente al virus ISA.",
+        "en": "The remaining ten cages of the Izaza center were sampled again by the authority, and their results will determine the actions to be taken against the ISA virus.",
+        "no": "De resterende ti burene til Izaza-senteret ble prøvetatt igjen av myndighetene, og deres resultater vil avgjøre tiltakene som skal iverksettes mot ISA-viruset."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "market",
       "category_label": {
         "es": "Mercado",
@@ -224,20 +249,20 @@
       },
       "score": 10,
       "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/La-genetica-podria-ayudar-a-producir-salmones-que-crezcan-con-menos-alimento.jpg"
+      "image": "https://image.salmonexpert.cl/2184505.jpg?imageId=2184505&x=0&y=18.23&cropw=100&croph=63.55&panox=0&panoy=18.23&panow=100&panoh=63.55&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Sernapesca activa verificación por sospecha de virus ISA en Aysén",
-        "en": "Sernapesca activates verification for suspected ISA virus in Aysén",
-        "no": "Sernapesca aktiverer verifisering for mistenkt ISA-virus i Aysén"
+        "es": "AquaChile apoya primer Campeonato Regional de Pesca Recreativa que reunió a más de 150 personas en Chiloé",
+        "en": "AquaChile supports the first Regional Recreational Fishing Championship that brought together more than 150 people in Chiloé",
+        "no": "AquaChile støtter det første regionale fritidsfiske-mesterskapet som samlet mer enn 150 personer i Chiloé"
       },
-      "url": "https://www.mundoacuicola.cl/new/sernapesca-activa-verificacion-por-sospecha-de-virus-isa-en-aysen/",
-      "date": "Thu, 17 Sep 2026 22:37:43 +0000",
+      "url": "https://www.mundoacuicola.cl/new/aquachile-apoya-primer-campeonato-regional-de-pesca-recreativa-que-reunio-a-mas-de-150-personas-en-chiloe/",
+      "date": "Wed, 23 Sep 2026 15:31:28 +0000",
       "summary": {
-        "es": "El organismo informó resultados positivos a ISAv en dos jaulas del centro IZAZA de Salmones Camanchaca e instruyó medidas preventivas en centros cercanos. La entrada Sernapesca activa verificación por sospecha de virus ISA en Aysén se publicó primero en Mundoacuicola .",
-        "en": "The agency reported positive results to ISAv in two cages of the IZAZA Camanchaca Salmon Center and instructed preventive measures in nearby centers. The entry Sernapesca activates verification for suspected ISA virus in Aysén was first published in Mundoacuicola .",
-        "no": "Organet rapporterte positive ISAv-resultater i to merder ved Salmones Camanchacas IZAZA-lokalitet og påla forebyggende tiltak ved nærliggende lokaliteter. Innlegget Sernapesca aktiverer verifisering ved mistanke om ISA-virus i Aysén ble først publisert i Mundoacuicola ."
+        "es": "La competencia realizada en Playa Rahue, en Cucao, reunió a cerca de 30 pescadores y participantes provenientes de distintos puntos de Los Lagos. El torneo contempló capturas de róbalo, corvina y lenguado, y contó con apoyo del Gobierno Regional, la Municipalidad de Chonchi y empresas como AquaChile. La entrada AquaChile apoya primer Campeonato Regional de Pesca Recreativa que reunió a más de 150 personas en Chiloé se publicó primero en Mundoacuicola .",
+        "en": "The competition held in Playa Rahue, in Cucao, brought together about 30 fishermen and participants from different parts of Los Lagos. The tournament included catches of bass, croaker and sole, and was supported by the Regional Government, the Municipality of Chonchi and companies such as AquaChile. The AquaChile entry supports the first Regional Recreational Fishing Championship that brought together more than 150 people in Chiloé. It was first published in Mundoacuicola .",
+        "no": "Konkurransen som ble avholdt i Playa Rahue, i Cucao, samlet rundt 30 fiskere og deltakere fra forskjellige deler av Los Lagos. Turneringen inkluderte fangst av bass, croaker og såle, og ble støttet av regionale myndigheter, Chonchi kommune og selskaper som AquaChile. AquaChile-oppføringen støtter det første regionale fritidsfiske-mesterskapet som samlet mer enn 150 personer i Chiloé. Det ble først publisert i Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -247,59 +272,34 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 10,
+      "score": 8,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/Sernapesca-Virus-ISA-Camanchaca.png"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/AquaChile-apoya-primer-Campeonato-Regional-de-Pesca-Recreativa-que-reunio-a-mas-de-150-personas-en-Chiloe.jpg"
     },
     {
       "title": {
-        "es": "Salmones Camanchaca informa brote de virus ISA en una jaula del centro IZAZA en Aysén",
-        "en": "Camanchaca Salmon Reports ISA Virus Outbreak in a Cage at the IZAZA Center in Aysén",
-        "no": "Camanchaca laks rapporterer utbrudd av ISA-virus i et bur ved IZAZA-senteret i Aysén"
+        "es": "Exportaciones de salmón chileno rozan los US$4.500 millones",
+        "en": "Chilean salmon exports approach US$4.5 billion",
+        "no": "Chilensk lakseeksport nærmer seg 4,5 milliarder dollar"
       },
-      "url": "https://www.mundoacuicola.cl/new/salmones-camanchaca-informa-brote-de-virus-isa-en-una-jaula-del-centro-izaza-en-aysen/",
-      "date": "Thu, 17 Sep 2026 20:08:00 +0000",
+      "url": "https://www.salmonexpert.cl/chile-exportaciones-de-salmon-chileno-salmon-y-trucha/exportaciones-de-salmon-chileno-rozan-los-us4500-millones/2183842",
+      "date": "",
       "summary": {
-        "es": "Salmones Camanchaca informó la detección de un brote infeccioso de virus ISA en una jaula del centro IZAZA, ubicado en el Barrio 20 de Aysén. La empresa realizará el muestreo de todas las jaulas durante las próximas 48 horas y, dependiendo de la evaluación establecida por la normativa, considerará la cosecha temprana del centro. La entrada Salmones Camanchaca informa brote de virus ISA en una jaula del centro IZAZA en Aysén se publicó primero en Mundoacuicola .",
-        "en": "Salmones Camanchaca reported the detection of an infectious outbreak of ISA virus in a cage of the IZAZA center, located in Barrio 20 of Aysén. The company will sample all the cages during the next 48 hours and, depending on the evaluation established by the regulations, will consider the early harvest of the center. The entry Camanchaca Salmon reports ISA virus outbreak in a cage of the IZAZA center in Aysén was first published in Mundoacuicola .",
-        "no": "Salmones Camanchaca meldte om påvisning av et infeksiøst utbrudd av ISA-virus i en merd ved IZAZA-lokaliteten i Barrio 20 i Aysén. Selskapet vil prøveta alle merdene i løpet av de neste 48 timene og vil, avhengig av vurderingen fastsatt i regelverket, vurdere tidlig slakting av lokaliteten. Innlegget Salmones Camanchaca melder om ISA-virusutbrudd i en merd ved IZAZA-lokaliteten i Aysén ble først publisert i Mundoacuicola ."
+        "es": "Chile exportó 557.532 toneladas de salmones y truchas entre enero y agosto, un 12% más que en 2025, mientras los retornos aumentaron 6,97%.",
+        "en": "Chile exported 557,532 tons of salmon and trout between January and August, 12% more than in 2025, while returns increased 6.97%.",
+        "no": "Chile eksporterte 557 532 tonn laks og ørret mellom januar og august, 12% mer enn i 2025, mens avkastningen økte med 6,97%."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/Nueva-plantilla-Mundo-Acuicola_20260917_170708_0000.png"
-    },
-    {
-      "title": {
-        "es": "Coho más que triplica su producción en Los Lagos y refuerza perspectivas de crecimiento para 2026",
-        "en": "Coho more than triples its production in Los Lagos and reinforces growth prospects for 2026",
-        "no": "Coho mer enn tredobler sin produksjon i Los Lagos og forsterker vekstutsikter for 2026"
-      },
-      "url": "https://www.mundoacuicola.cl/new/coho-mas-que-triplica-su-produccion-en-los-lagos-y-refuerza-perspectivas-de-crecimiento-para-2026/",
-      "date": "Thu, 17 Sep 2026 15:12:18 +0000",
-      "summary": {
-        "es": "Las plantas de proceso de Los Lagos produjeron 24.136 toneladas de salmón coho durante julio, un 259,1% más que hace un año. El salto ocurre en una temporada para la que la industria ha proyectado volúmenes históricos para la especie en Chile. La entrada Coho más que triplica su producción en Los Lagos y refuerza perspectivas de crecimiento para 2026 se publicó primero en Mundoacuicola .",
-        "en": "The Los Lagos processing plants produced 24,136 tons of coho salmon during July, 259.1% more than a year ago. The jump occurs in a season for which the industry has projected historical volumes for the species in Chile. The Coho entry more than triples its production in Los Lagos and reinforces growth prospects for 2026 was first published in Mundoacuicola .",
-        "no": "Prosessanleggene i Los Lagos produserte 24 136 tonn coholaks i juli, 259,1 % mer enn for ett år siden. Hoppet skjer i en sesong der industrien har anslått historiske volumer for arten i Chile. Innlegget Coho mer enn tredobler produksjonen i Los Lagos og styrker vekstutsiktene for 2026 ble først publisert i Mundoacuicola ."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/09/salmon-coho-boletin-ine.jpg"
+      "score": 8,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2183856.jpg?imageId=2183856&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
