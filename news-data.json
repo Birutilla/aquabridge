@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-05T14:39:00Z",
+  "updated": "2026-10-08T12:33:35Z",
   "articles": [
     {
       "title": {
-        "es": "Nuevos marcadores podrían ayudar a seguir la respuesta inmune frente a Tenacibaculum",
-        "en": "New markers could help track immune response to Tenacibaculum",
-        "no": "Nye markører kan bidra til å spore immunrespons mot Tenacibaculum"
+        "es": "Escolares chilenos desarrollan dron submarino con IA para geolocalizar salmones escapados",
+        "en": "Chilean schoolchildren develop AI underwater drone to geolocate escaped salmon",
+        "no": "Chilenske skolebarn utvikler AI undervannsdrone for å geolokalisere rømt laks"
       },
-      "url": "https://www.salmonexpert.cl/tenacibaculosis-tenacibaculum/nuevos-marcadores-podrian-ayudar-a-seguir-la-respuesta-inmune-frente-a-tenacibaculum/2187257",
-      "date": "",
+      "url": "https://infosalmon.cl/escolares-crean-dron-ia-salmones-escapados-brilliant-blue/",
+      "date": "Thu, 08 Oct 2026 00:30:48 +0000",
       "summary": {
-        "es": "La expresión de siete genes inmunitarios mostró patrones diferenciados entre piel, branquias, bazo y riñón cefálico del salmón, abriendo una línea de investigación para complementar el monitoreo de la enfermedad.",
-        "en": "The expression of seven immune genes showed differentiated patterns between skin, gills, spleen and cephalic kidney of salmon, opening a line of research to complement disease monitoring.",
-        "no": "Ekspresjonen av syv immungener viste differensierte mønstre mellom hud, gjeller, milt og cephalic nyre av laks, åpner en linje av forskning for å utfylle sykdomsovervåking."
+        "es": "Un grupo de estudiantes de enseñanza básica y media de la Región del Biobío desarrolló un dron submarino autónomo con diseño biomimético e inteligencia artificial a bordo. Fue concebido para identificar y geolocalizar ejemplares de salmónidos tras eventos de escape en centros de cultivo. La iniciativa surgió a partir de una inquietud por el impacto ecológico que generan los escapes de peces en los ecosistemas marinos costeros y su interacción trófica con especies nativas, como el pingüino de Humboldt (Spheniscus humboldti). Frente a ese diagnóstico, el equipo se articuló de manera colaborativa a través de redes sociales y comunidades de divulgación STEM. Sobre esto, Constanza Sáez, estudiant",
+        "en": "A group of basic and middle school students from the Biobío Region developed an autonomous underwater drone with biomimetic design and artificial intelligence on board. It was designed to identify and geolocate salmonid specimens after escape events in farming centres. The initiative arose from a concern about the ecological impact of fish escapes on coastal marine ecosystems and their trophic interaction with native species, such as the Humboldt penguin (Spheniscus humboldti). Faced with this diagnosis, the team collaboratively articulated through social networks and stem outreach communities. About this, Constanza Sáez, student",
+        "no": "En gruppe grunn- og ungdomsskoleelever fra Biobío-regionen utviklet en autonom undervannsdrone med biomimetisk design og kunstig intelligens om bord. Den ble designet for å identifisere og geolokalisere laksefiskprøver etter rømningshendelser i oppdrettssentre. Initiativet oppsto fra en bekymring om den økologiske virkningen av fisk rømmer på kystnære marine økosystemer og deres trofiske samspill med innfødte arter, som Humboldt pingvin (Spheniscus humboldti). Konfrontert med denne diagnosen, samarbeidet teamet gjennom sosiale nettverk og stem oppsøkende fellesskap. Om dette, Constanza Sáez, student"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
+      "score": 7,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2113977.jpg?imageId=2113977&x=0&y=32.08&cropw=100&croph=35.83&panox=0&panoy=32.08&panow=100&panoh=35.83&width=1200&height=683"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Fotografia-Equipo-N°3.jpg"
     },
     {
       "title": {
-        "es": "Un avance en las pruebas reduce drásticamente el costo de nueva solución contra piojos del salmón",
-        "en": "A breakthrough in testing dramatically reduces the cost of new salmon lice solution",
-        "no": "Et gjennombrudd i testing reduserer dramatisk kostnadene ved ny lakselusløsning"
+        "es": "La listeria en el salmón requiere más que un lavado minucioso",
+        "en": "Listeria in salmon requires more than thorough washing",
+        "no": "Listeria i laks krever mer enn grundig vask"
       },
-      "url": "https://www.salmonexpert.cl/caligus-parasito-piojo/un-avance-en-las-pruebas-reduce-drasticamente-el-costo-de-nueva-solucion-contra-piojos-del-salmon/2189442",
+      "url": "https://www.salmonexpert.cl/bacteria-bacterias-listeria/la-listeria-en-el-salmon-requiere-mas-que-un-lavado-minucioso/2191042",
       "date": "",
       "summary": {
-        "es": "Smoltscreen está diseñada para encajar dentro de una jaula y consta de dos capas de malla, una de 150 micras y la otra de 200 micras, que son lo suficientemente pequeñas para bloquear cada fase del parásito.",
-        "en": "Smoltscreen is designed to fit inside a cage and consists of two layers of mesh, one 150 micron and the other 200 micron, which are small enough to block each phase of the parasite.",
-        "no": "Smoltscreen er utformet for å passe inn i et bur og består av to lag med netting, ett 150 mikron og det andre 200 mikron, som er små nok til å blokkere hver fase av parasitten."
+        "es": "Un lavado más frecuente no garantiza la eliminación de las bacterias. En algunos casos, se requiere un desmontaje más exhaustivo, un mejor diseño higiénico o la sustitución completa de piezas y equipos.",
+        "en": "More frequent washing does not guarantee the elimination of bacteria. In some cases, more thorough disassembly, better hygienic design, or complete replacement of parts and equipment is required.",
+        "no": "Hyppigere vask garanterer ikke eliminering av bakterier. I noen tilfeller er det nødvendig med mer grundig demontering, bedre hygienisk design eller fullstendig utskifting av deler og utstyr."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -49,20 +49,20 @@
       },
       "score": 2,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2188261.jpg?imageId=2188261&x=0&y=3.03&cropw=100&croph=78.18&panox=0&panoy=3.03&panow=100&panoh=78.18&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/179708.jpg?imageId=179708&x=0&y=13.97&cropw=100&croph=72.07&panox=0&panoy=13.97&panow=100&panoh=72.07&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Ofertas de trabajo en salmonicultura: La industria abre vacantes en Puerto Montt y Puerto Varas",
-        "en": "Salmon farming job offers: The industry opens vacancies in Puerto Montt and Puerto Varas",
-        "no": "Jobbtilbud for lakseoppdrett: Næringen åpner ledige stillinger i Puerto Montt og Puerto Varas"
+        "es": "Puerto Montt busca posicionar el salmón y su oferta turística en Bariloche",
+        "en": "Puerto Montt seeks to position salmon and its tourist offer in Bariloche",
+        "no": "Puerto Montt søker å posisjonere laksen og dens turisttilbud i Bariloche"
       },
-      "url": "https://www.aqua.cl/ofertas-de-trabajo-en-salmonicultura-la-industria-abre-vacantes-en-puerto-montt-y-puerto-varas/",
-      "date": "Mon, 05 Oct 2026 09:49:00 +0000",
+      "url": "https://www.aqua.cl/puerto-montt-busca-posicionar-el-salmon-y-su-oferta-turistica-en-bariloche/",
+      "date": "Thu, 08 Oct 2026 09:46:00 +0000",
       "summary": {
-        "es": "La industria acuícola del sur de Chile mantiene abiertas diversas oportunidades laborales en áreas productivas, técnicas y profesionales, con vacantes en Puerto Montt, Puerto Varas, y otras regiones. A través de E mpleos Aqua , los interesados pueden revisar los requisitos, funciones y demás información de cada oferta, además de conocer los detalles para postular. A continuación, las vacantes disponibles: jefe/a de control de gestión y transformación &#8211; puerto montt https://www.empleosaqua.cl/offer/show/jefea-de-control-de-gestion-y-transformacion-puerto-montt-92871 supervisor de bodega &#8211; puerto montt https://www.empleosaqua.cl/offer/show/supervisor-de-bodega-92877 jefe de turno c",
-        "en": "The aquaculture industry of southern Chile maintains various job opportunities in productive, technical and professional areas, with vacancies in Puerto Montt, Puerto Varas, and other regions. Through E mpleos Aqua , interested parties can review the requirements, functions and other information of each offer, in addition to knowing the details to apply. Here are the vacancies available: Head of Management Control and Transformation – Puerto Montt https://www.empleosaqua.cl/offer/show/jefea-de-control-de-gestion-y-transformacion-puerto-montt-92871 Warehouse Supervisor – Puerto Montt https://www.empleosaqua.cl/offer/show/supervisor-de-bodega-92877 Shift Manager c",
-        "no": "Oppdrettsnæringen i Sør-Chile opprettholder ulike jobbmuligheter i produktive, tekniske og profesjonelle områder, med ledige stillinger i Puerto Montt, Puerto Varas og andre regioner. Gjennom E mpleos Aqua kan interesserte parter gjennomgå kravene, funksjonene og annen informasjon for hvert tilbud, i tillegg til å kjenne detaljene som skal gjelde. Her er ledige stillinger: Leder for administrasjonskontroll og transformasjon – Puerto Montt https://www.empleosaqua.cl/offer/show/jefea-de-control-de-gestion-y-transformacion-puerto-montt-92871 Lagerleder – Puerto Montt https://www.empleosaqua.cl/offer/show/supervisor-de-bodega-92877 Skiftsjef c"
+        "es": "En el marco de la actual estrategia de reposicionamiento turístico e internacionalización, Puerto Montt estará presente como invitado en el evento Bariloche a la Carta (BALC), que se realizará entre el 8 y el 12 de octubre y reúne a más de 65 mil personas cada año. Respondiendo a una invitación del intendente de Bariloche, Walter Cortés, y de la Asociación Empresaria Hotelera Gastronómica local, la capital de la Región de Los Lagos estará presente con una delegación liderada por el alcalde Rodrigo Wainraihgt. El objetivo de esta visita es potenciar la vinculación entre empresas, instituciones públicas y privadas de ambas ciudades, explorar nuevos espacios y mercados para la operación turísti",
+        "en": "Within the framework of the current strategy of tourism repositioning and internationalization, Puerto Montt will be present as a guest at the Bariloche a la Carta (Balc) event, which will be held between October 8 and 12 and brings together more than 65 thousand people each year. Responding to an invitation from the mayor of Bariloche, Walter Cortés, and the local Gastronomic Hotel Business Association, the capital of the Los Lagos Region will be present with a delegation led by Mayor Rodrigo Wainraihgt. The objective of this visit is to strengthen the link between companies, public and private institutions of both cities, explore new spaces and markets for the tourist operation",
+        "no": "Innenfor rammen av den nåværende strategien for reposisjonering og internasjonalisering av turisme, vil Puerto Montt være til stede som gjest på Bariloche a la Carta (Balc) -arrangementet, som vil bli avholdt mellom 8. og 12. oktober og samler mer enn 65 tusen mennesker hvert år. Som svar på en invitasjon fra ordføreren i Bariloche, Walter Cortés, og den lokale Gastronomic Hotel Business Association, vil hovedstaden i Los Lagos-regionen være til stede med en delegasjon ledet av ordfører Rodrigo Wainraihgt. Målet med dette besøket er å styrke koblingen mellom bedrifter, offentlige og private institusjoner i begge byer, utforske nye områder og markeder for turistdriften"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -72,25 +72,50 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 16,
+      "score": 14,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/b2b-media-group-2-scaled.jpeg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/muni-pto-montt.jpeg"
     },
     {
       "title": {
-        "es": "Alerta en la industria por nueva detección de virus ISA en centro de salmón: definiciones del caso",
-        "en": "Industry alert for new detection of ISA virus in salmon center: case definitions",
-        "no": "Bransjevarsling for ny påvisning av ISA-virus i laksesenter: case-definisjoner"
+        "es": "SalmonChile Summit 2025 obtiene Oro en Premios EIKON por su estrategia comunicacional",
+        "en": "SalmonChile Summit 2025 obtains Gold in EIKON Awards for its communication strategy",
+        "no": "SalmonChile Summit 2025 får gull i EIKON Awards for sin kommunikasjonsstrategi"
       },
-      "url": "https://www.salmonexpert.cl/aysen-cermaq-cermaq-chile/alerta-en-la-industria-por-nueva-deteccion-de-virus-isa-en-centro-de-salmon-definiciones-del-caso/2189752",
-      "date": "",
+      "url": "https://www.aqua.cl/salmonchile-summit-2025-obtiene-oro-en-premios-eikon-por-su-estrategia-comunicacional/",
+      "date": "Wed, 07 Oct 2026 16:00:00 +0000",
       "summary": {
-        "es": "Sernapesca precisa que el de Cermaq Chile, corresponde a un evento distinto del brote reciente en la Región de Aysén, sin alguna relación epidemiológica con el proceso ligado a Salmones Camanchaca.",
-        "en": "Sernapesca specifies that Cermaq Chile corresponds to an event different from the recent outbreak in the Aysen Region, without any epidemiological relationship with the process linked to Camanchaca Salmon.",
-        "no": "Sernapesca spesifiserer at Cermaq Chile tilsvarer en hendelse som er forskjellig fra det nylige utbruddet i Aysen-regionen, uten noen epidemiologisk sammenheng med prosessen knyttet til Camanchaca Salmon."
+        "es": "SalmonChile, junto a la agencia SOUL y la consultora Extend, obtuvo el Premio EIKON 2026 de Oro por la estrategia comunicacional desarrollada para el SalmonChile Summit 2025. La iniciativa fue reconocida en la categoría Eventos, que evalúa aspectos como planificación estratégica, organización y difusión en medios de comunicación. En esta categoría, SalmonChile compitió junto a campañas nacionales de marcas como Metro de Santiago, Cencosud y Mercado Libre. Los Premios EIKON son organizados por Ediciones GAF y Revista IMAGEN, cuentan con la validación académica de la Universidad Adolfo Ibáñez y consideran la deliberación de un jurado compuesto por 52 expertos de la industria. SalmonChile Summi",
+        "en": "SalmonChile, together with the SOUL agency and the consultancy Extend, won the EIKON 2026 Gold Award for the communication strategy developed for the SalmonChile Summit 2025. The initiative was recognized in the Events category, which evaluates aspects such as strategic planning, organization and dissemination in the media. In this category, SalmonChile competed alongside national campaigns from brands such as Metro de Santiago, Cencosud, and Mercado Libre. The EIKON Awards are organized by Ediciones GAF and Revista IMAGEN, have the academic validation of the Adolfo Ibáñez University and consider the deliberation of a jury composed of 52 industry experts. SalmonChile Summi",
+        "no": "SalmonChile, sammen med Soul-byrået og konsulentfirmaet Extend, vant EIKON 2026 Gold Award for kommunikasjonsstrategien utviklet for SalmonChile Summit 2025. Initiativet ble anerkjent i kategorien Arrangementer, som evaluerer aspekter som strategisk planlegging, organisering og formidling i media. I denne kategorien konkurrerte SalmonChile sammen med nasjonale kampanjer fra merker som Metro de Santiago, Cencosud og Mercado Libre. EIKON Awards er organisert av Ediciones GAF og Revista IMAGEN, har akademisk validering av Adolfo Ibáñez University og vurderer vurderingen av en jury bestående av 52 bransjeeksperter. SalmonChile Summi"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/SalmonChile-gana-premios-Eikon-SalmonChile.jpeg"
+    },
+    {
+      "title": {
+        "es": "Sernapesca mantiene vigilancia por casos de virus ISA detectados en Aysén",
+        "en": "Sernapesca keeps watch for cases of ISA viruses detected in Aysén",
+        "no": "Sernapesca holder øye med tilfeller av ISA-virus oppdaget i Aysén"
+      },
+      "url": "https://www.aqua.cl/sernapesca-mantiene-vigilancia-por-casos-de-virus-isa-detectados-en-aysen/",
+      "date": "Thu, 08 Oct 2026 09:48:00 +0000",
+      "summary": {
+        "es": "El Servicio Nacional de Pesca y Acuicultura (Sernapesca) continúa con acciones de vigilancia, fiscalización y control ante dos eventos asociados al virus de la anemia infecciosa del salmón (ISAv), detectados recientemente en centros de cultivo de la región de Aysén. Seguimiento al centro Izaza En el centro Izaza, perteneciente a Salmones Camanchaca S.A. y ubicado en la ACS 20, continúan las medidas de control establecidas de acuerdo con la normativa vigente. A la fecha, se ha completado la cosecha de seis jaulas, mientras que las restantes se encuentran en proceso de retiro. Paralelamente, Sernapesca mantiene la vigilancia y fiscalización sanitaria en el centro afectado y en aquellos ubicado",
+        "en": "The National Fisheries and Aquaculture Service (Sernapesca) continues with surveillance, control and control actions in the face of two events associated with the infectious salmon anemia virus (ISAv), recently detected in cultivation centers in the Aysen region. Follow-up to the Izaza center In the Izaza center, belonging to Salmones Camanchaca S.A. and located in ACS 20, the control measures established in accordance with current regulations continue. To date, the harvest of six cages has been completed, while the rest are in the process of being removed. At the same time, Sernapesca maintains health surveillance and control in the affected centre and in those located",
+        "no": "National Fisheries and Aquaculture Service (Sernapesca) fortsetter med overvåkings-, kontroll- og kontrolltiltak i møte med to hendelser knyttet til det smittsomme lakseanemiviruset (ISAv), som nylig ble oppdaget i dyrkingssenter i Aysen-regionen. Oppfølging av Izaza-senteret I Izaza-senteret, som tilhører Salmones Camanchaca S.A. og plassert i ACS 20, fortsetter kontrolltiltakene som er etablert i samsvar med gjeldende forskrifter. Hittil har innhøstingen av seks merder blitt fullført, mens resten er i ferd med å bli fjernet. Samtidig opprettholder Sernapesca helseovervåkning og kontroll i det berørte senteret og i de som ligger"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -99,23 +124,23 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2189770.jpg?imageId=2189770&x=0&y=19.21&cropw=100&croph=63.55&panox=0&panoy=19.21&panow=100&panoh=63.55&width=1200&height=683"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Fiscalizacion-Sernapesca-Acuicultura-CentrodeCultivo-2-1024x768.jpg"
     },
     {
       "title": {
-        "es": "Lanzan programa de ESA Magallanes 2026, una feria clave para la salmonicultura regional",
-        "en": "Launch of the ESA Magallanes 2026 programme, a key fair for regional salmon farming",
-        "no": "Lansering av ESA Magallanes 2026-programmet, en viktig messe for regionalt lakseoppdrett"
+        "es": "(COLUMNA) Monitorear el océano para anticiparse: un desafío para la salmonicultura frente al cambio climático",
+        "en": "(COLUMN) Monitoring the ocean to anticipate: a challenge for salmon farming in the face of climate change",
+        "no": "(KOLONNE) Overvåking av havet for å forutse: en utfordring for lakseoppdrett i møte med klimaendringer"
       },
-      "url": "https://www.salmonexpert.cl/esa-magallanes-feria-magallanes/lanzan-programa-de-esa-magallanes-2026-una-feria-clave-para-la-salmonicultura-regional/2188171",
-      "date": "",
+      "url": "https://infosalmon.cl/semaforo-ambiental-salmonicultura/",
+      "date": "Thu, 08 Oct 2026 00:31:00 +0000",
       "summary": {
-        "es": "El esperado evento, que impulsará el ecosistema local del sector, verá como autoridades, productores y proveedores definen el futuro de la industria en la zona. También habrá un espacio de Networking para nuevos negocios.",
-        "en": "The expected event, which will boost the local ecosystem of the sector, will see authorities, producers and suppliers define the future of the industry in the area. There will also be a Networking space for new businesses.",
-        "no": "Den forventede hendelsen, som vil styrke det lokale økosystemet i sektoren, vil se myndigheter, produsenter og leverandører definere fremtiden for næringen i området. Det vil også være en nettverksplass for nye virksomheter."
+        "es": "Tanto la mitilicultura como la salmonicultura chilena se desarrollan en uno de los ecosistemas costeros más dinámicos del planeta: la Patagonia. Sus fiordos y canales están sujetos a una interacción permanente entre el océano, la atmósfera y los aportes de agua dulce del continente. Esta variabilidad natural representa también un desafío para actividades productivas que dependen estrechamente de las condiciones del medio marino. En un escenario de cambio climático y frente a este nuevo evento de El Niño , cabe preguntarse si estamos aprovechando bien la información oceanográfica que se genera en las áreas de cultivo. No se trata simplemente de medir más, sino de utilizar esos datos para anti",
+        "en": "Both Chilean mussel farming and salmon farming take place in one of the most dynamic coastal ecosystems on the planet: Patagonia. Its fjords and canals are subject to a permanent interaction between the ocean, the atmosphere and the continent's freshwater inputs. This natural variability also represents a challenge for productive activities that depend closely on the conditions of the marine environment. In a climate change scenario and in the face of this new El Niño event, it is worth asking whether we are taking good advantage of the oceanographic information generated in the cultivation areas. It's not just about measuring more, but using that data to anti-",
+        "no": "Både chilensk muslingoppdrett og lakseoppdrett foregår i et av de mest dynamiske kystøkosystemene på planeten: Patagonia. Fjordene og kanalene er gjenstand for et permanent samspill mellom havet, atmosfæren og kontinentets ferskvannsinnganger. Denne naturlige variasjonen representerer også en utfordring for produktive aktiviteter som er svært avhengig av forholdene i det marine miljøet. I et klimaendringsscenario og i møte med denne nye El Niño-hendelsen , er det verdt å spørre om vi utnytter den oseanografiske informasjonen som genereres i dyrkingsområdene godt. Det handler ikke bare om å måle mer, men å bruke disse dataene til å motvirke"
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -123,21 +148,46 @@
         "no": "Bransjenyheter"
       },
       "score": 12,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/1354978.jpg?imageId=1354978&x=0&y=14.56&cropw=100&croph=70.88&panox=0&panoy=14.56&panow=100&panoh=70.88&width=1200&height=683"
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Vargas-1024x684-1-e1791409188852.webp"
     },
     {
       "title": {
-        "es": "Simulacro de Fiordo Austral recrea emergencia por exposición a H2S en evento FAN",
-        "en": "Simulation of Fiordo Austral recreates emergency due to exposure to H2S in FAN EVENT",
-        "no": "Simulering av Fiordo Austral gjenskaper nødsituasjon på grunn av eksponering for H2S i viftehendelse"
+        "es": "Skretting anuncia sponsors y colaboradores de Sustainability & Innovation Conference 2026",
+        "en": "Skretting announces sponsors and collaborators of Sustainability & Innovation Conference 2026",
+        "no": "Skretting kunngjør sponsorer og samarbeidspartnere av Sustainability & Innovation Conference 2026"
       },
-      "url": "https://www.aqua.cl/simulacro-de-fiordo-austral-recrea-emergencia-por-exposicion-a-h2s-en-evento-fan/",
-      "date": "Mon, 05 Oct 2026 09:48:00 +0000",
+      "url": "https://infosalmon.cl/skretting-anuncia-sponsors-y-colaboradores-de-sustainability-innovation-conference-2026/",
+      "date": "Thu, 08 Oct 2026 00:30:37 +0000",
       "summary": {
-        "es": "En el marco de la preparación ante eventos de mortalidad masiva, Fiordo Austral realizó un simulacro de rescate y respuesta ante emergencias asociado a una Floración de Algas Nocivas (FAN). El ejercicio recreó un escenario de exposición a ácido sulfhídrico (H2S) a bordo de una embarcación. La actividad contempló la activación de los protocolos de emergencia de la compañía y el rescate de trabajadores afectados. El simulacro contó con la participación de la Armada de Chile, Carabineros, Bomberos y servicios de ambulancia. También participaron representantes de empresas como Marine Farm, Salmones Austral, AquaChile y Multi X, entre otras. Simulacro buscó identificar oportunidades de mejora El ",
-        "en": "As part of the preparation for mass mortality events, Fiordo Austral carried out a rescue and emergency response drill associated with a Harmful Algae Flowering (FAN). The exercise recreated a scenario of exposure to hydrogen sulfide (H2S) on board a vessel. The activity included the activation of the company's emergency protocols and the rescue of affected workers. The drill was attended by the Chilean Navy, Carabineros, Firefighters and ambulance services. Representatives of companies such as Marine Farm, Salmones Austral, AquaChile and Multi X, among others, also participated. Drill sought to identify opportunities for improvement The",
-        "no": "Som en del av forberedelsene for massedødelighetshendelser, gjennomførte Fiordo Austral en rednings- og beredskapsøvelse assosiert med en skadelig algeblomstring (VIFTE). Øvelsen gjenskapte et scenario med eksponering for hydrogensulfid (H2S) om bord på et fartøy. Aktiviteten inkluderte aktivering av selskapets nødprotokoller og redning av berørte arbeidere. Øvelsen ble fulgt av den chilenske marinen, Carabineros, brannmenn og ambulansetjenester. Representanter for selskaper som Marine Farm, Salmones Austral, AquaChile og Multi X, blant andre, deltok også. Drill søkte å identifisere muligheter for forbedring The"
+        "es": "Representantes de la industria, proveedores, academia y expertos se reunirán en Sustainability &amp; Innovation Conference 2026 para compartir experiencias, abrir nuevas conversaciones y conectar soluciones con las necesidades del sector. El encuentro busca congregar ideas, conocimiento y aliados comprometidos frente a los grandes desafíos de la salmonicultura. El apoyo de estas organizaciones fortalece un espacio orientado a impulsar una actividad más sostenible, competitiva y preparada para el futuro. “Gracias a nuestros sponsors y colaboradores por confiar en esta nueva edición de la Conferencia y sumarse a una conversación fundamental para el futuro de la salmonicultura. Su respaldo nos ",
+        "en": "Industry representatives, suppliers, academia, and experts will gather at the Sustainability &amp; Innovation Conference 2026 to share experiences, open up new conversations, and connect solutions to industry needs. The meeting seeks to gather ideas, knowledge and committed allies in the face of the great challenges of salmon farming. The support of these organizations strengthens a space aimed at promoting a more sustainable, competitive and future-proof activity. \"Thank you to our sponsors and collaborators for trusting in this new edition of the Conference and joining a fundamental conversation for the future of salmon farming. Your support",
+        "no": "Bransjerepresentanter, leverandører, akademia og eksperter vil samles på bærekrafts- og innovasjonskonferansen 2026 for å dele erfaringer, åpne opp for nye samtaler og koble løsninger til bransjens behov. Møtet søker å samle ideer, kunnskap og engasjerte allierte i møte med de store utfordringene i lakseoppdrett. Støtten fra disse organisasjonene styrker et område som tar sikte på å fremme en mer bærekraftig, konkurransedyktig og fremtidssikret aktivitet. \"Takk til våre sponsorer og samarbeidspartnere for at de stolte på denne nye utgaven av konferansen og ble med i en grunnleggende samtale for fremtiden for lakseoppdrett. Din støtte"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/XIA_4191-2.jpg"
+    },
+    {
+      "title": {
+        "es": "Avanza Mar certifica a 31 pescadores artesanales de Los Lagos",
+        "en": "Avanza Mar certifies 31 artisanal fishermen from Los Lagos",
+        "no": "Avanza Mar sertifiserer 31 håndverksfiskere fra Los Lagos"
+      },
+      "url": "https://www.aqua.cl/avanza-mar-certifica-a-31-pescadores-artesanales-de-los-lagos/",
+      "date": "Wed, 07 Oct 2026 15:00:00 +0000",
+      "summary": {
+        "es": "Un total de 31 pescadores y pescadoras artesanales de la región de Los Lagos recibieron su certificación tras finalizar el programa “Avanza Mar”, iniciativa impulsada por SalmonChile y Duoc UC. La ceremonia se realizó en la sede Duoc UC de Puerto Montt y reunió a participantes provenientes de Calbuco, Los Muermos, Puerto Montt, Chiloé y Hualaihué. El programa contempló más de 100 horas de formación orientadas a fortalecer competencias en gestión, liderazgo, sostenibilidad y desarrollo productivo de las caletas locales. Formación con foco territorial La iniciativa reunió a dirigentes y recolectores de comunas con fuerte vínculo marítimo y contó con una destacada participación de mujeres líder",
+        "en": "A total of 31 artisanal fishermen and fisherwomen from the Los Lagos region received their certification after completing the \"Avanza Mar\" program, an initiative promoted by SalmonChile and Duoc UC. The ceremony was held at the Duoc UC headquarters in Puerto Montt and brought together participants from Calbuco, Los Muermos, Puerto Montt, Chiloé and Hualaihué. The program included more than 100 hours of training aimed at strengthening skills in management, leadership, sustainability and productive development of local coves. Training with a territorial focus The initiative brought together leaders and collectors of communes with a strong maritime link and had an outstanding participation of women leaders",
+        "no": "Totalt 31 håndverksfiskere og fiskere fra Los Lagos-regionen mottok sin sertifisering etter å ha fullført \"Avanza Mar\" -programmet, et initiativ fremmet av SalmonChile og Duoc UC. Seremonien ble holdt i Duoc UCs hovedkvarter i Puerto Montt og samlet deltakere fra Calbuco, Los Muermos, Puerto Montt, Chiloé og Hualaihué. Programmet inkluderte mer enn 100 timers opplæring med sikte på å styrke ferdigheter i ledelse, ledelse, bærekraft og produktiv utvikling av lokale viker. Opplæring med et territorielt fokus Initiativet brakte sammen ledere og samlere av kommuner med et sterkt maritimt bånd og hadde en fremragende deltakelse av kvinnelige ledere"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -148,146 +198,71 @@
         "no": "Bransjenyheter"
       },
       "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Simulacro-AS-FAN-_FA-8-1024x768.jpeg"
-    },
-    {
-      "title": {
-        "es": "Sernapesca confirma variante de virus ISA tras brote y activa campañas en centros de riesgo",
-        "en": "Sernapesca confirms ISA virus variant after outbreak and activates campaigns in risk centers",
-        "no": "Sernapesca bekrefter ISA-virusvariant etter utbrudd og aktiverer kampanjer i risikosentre"
-      },
-      "url": "https://www.salmonexpert.cl/aysen-camanchaca-isa/sernapesca-confirma-variante-de-virus-isa-tras-brote-y-activa-campanas-en-centros-de-riesgo/2188843",
-      "date": "",
-      "summary": {
-        "es": "Respecto de la variante del virus ISA, cuyo brote en la Región de Aysén ha mantenido alerta a la industria del salmón, se determinó que corresponde a la HPR5a.",
-        "en": "Regarding the variant of the ISA virus, whose outbreak in the Aysén Region has kept the salmon industry alert, it was determined that it corresponds to HPR5a.",
-        "no": "Når det gjelder varianten av ISA-viruset, hvis utbrudd i Aysén-regionen har holdt laksenæringen våken, ble det fastslått at det tilsvarer HPR5a."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 8,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2188849.jpg?imageId=2188849&x=0&y=18.23&cropw=100&croph=63.55&panox=0&panoy=18.23&panow=100&panoh=63.55&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Cermaq por ISAv en centro Luchín: “No se han registrado aumentos de mortalidad ni signos clínicos”",
-        "en": "Cermaq by ISAv at the Luchín center: \"There have been no increases in mortality or clinical signs\"",
-        "no": "Cermaq av ISAv ved Luchín-senteret: \"Det har ikke vært noen økning i dødelighet eller kliniske tegn\""
-      },
-      "url": "https://www.mundoacuicola.cl/new/cermaq-por-isav-en-centro-luchin-no-se-han-registrado-aumentos-de-mortalidad-ni-signos-clinicos/",
-      "date": "Fri, 02 Oct 2026 14:33:11 +0000",
-      "summary": {
-        "es": "La compañía señaló que el centro no presenta aumentos de mortalidad ni signos clínicos asociados, mientras se esperan los resultados de secuenciación para caracterizar la variante detectada. Cermaq decidió además cosechar la jaula involucrada. La entrada Cermaq por ISAv en centro Luchín: “No se han registrado aumentos de mortalidad ni signos clínicos” se publicó primero en Mundoacuicola .",
-        "en": "The company noted that the center has no mortality increases or associated clinical signs, while the sequencing results are awaited to characterize the detected variant. Cermaq also decided to harvest the cage involved. The Cermaq entry by ISAv in the Luchín center: \"There have been no increases in mortality or clinical signs\" was first published in Mundoacuicola .",
-        "no": "Selskapet bemerket at senteret ikke har noen økning i dødelighet eller tilknyttede kliniske tegn, mens sekvenseringsresultatene avventes for å karakterisere den påviste varianten. Cermaq bestemte seg også for å høste buret som var involvert. Cermaq-oppføringen av ISAv i Luchín-senteret: \"Det har ikke vært noen økning i dødelighet eller kliniske tegn\" ble først publisert i Mundoacuicola ."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Cermaq-por-ISAv-en-centro-Luchin-No-se-han-registrado-aumentos-de-mortalidad-ni-signos-clinicospng.png"
-    },
-    {
-      "title": {
-        "es": "Ocho empresas de la salmonicultura inauguran Campeonato de Fútbol 7 Nachipa Wellboats",
-        "en": "Eight salmon farming companies inaugurate Football Championship 7 Nachipa Wellboats",
-        "no": "Åtte lakseoppdrettsselskaper innvier Fotballmesterskap 7 Nachipa-brønnbåter"
-      },
-      "url": "https://www.salmonexpert.cl/campeonato-competencia-nachipa/ocho-empresas-de-la-salmonicultura-inauguran-campeonato-de-futbol-7-nachipa-wellboats/2190457",
-      "date": "",
-      "summary": {
-        "es": "AquaChile, Mowi, Multi X, Blumar, Salmones Aysén, Australis, Salmones Austral y Nachipa Wellboats se reúnen en la cancha en una nueva versión de un encuentro que ya es tradición en el sector.",
-        "en": "AquaChile, Mowi, Multi X, Blumar, Salmones Aysén, Australis, Salmones Austral and Nachipa Wellboats meet on the court in a new version of a meeting that is already a tradition in the sector.",
-        "no": "AquaChile, Mowi, Multi X, Blumar, Salmones Aysén, Australis, Salmones Austral og Nachipa Wellboats møtes på banen i en ny versjon av et møte som allerede er en tradisjon i sektoren."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 8,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2190462.jpg?imageId=2190462&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Chile retoma trabajo con India para fortalecer desarrollo comercial del salmón",
-        "en": "Chile resumes work with India to strengthen commercial development of salmon",
-        "no": "Chile gjenopptar samarbeid med India for å styrke kommersiell utvikling av laks"
-      },
-      "url": "https://www.salmonexpert.cl/acuerdo-chile-envios/chile-retoma-trabajo-con-india-para-fortalecer-desarrollo-comercial-del-salmon/2189584",
-      "date": "",
-      "summary": {
-        "es": "Sernapesca concretó una hoja de ruta que acelerará la relación con ese país, en torno a la exportación de productos acuícolas, lo cual será plasmado en un Acuerdo de Entendimiento.",
-        "en": "Sernapesca specified a roadmap that will accelerate the relationship with that country, around the export of aquaculture products, which will be reflected in an Agreement of Understanding.",
-        "no": "Sernapesca spesifiserte et veikart som vil akselerere forholdet til det landet, rundt eksport av akvakulturprodukter, som vil gjenspeiles i en avtale om forståelse."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 8,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2189590.jpg?imageId=2189590&x=0&y=10.83&cropw=100&croph=71.67&panox=0&panoy=10.83&panow=100&panoh=71.67&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Ejecutivo no insistirá con microrelocalizaciones en salmonicultura y diputado evalúa proyecto de ley",
-        "en": "Executive will not insist with micro-relocations in salmon farming and deputy evaluates bill",
-        "no": "Leder vil ikke insistere på mikroflytninger i lakseoppdrett og nestleder vurderer regning"
-      },
-      "url": "https://www.salmonexpert.cl/alejandro-bernales-concesiones-microrelocalizaciones/ejecutivo-no-insistira-con-microrelocalizaciones-en-salmonicultura-y-diputado-evalua-proyecto-de-ley/2189678",
-      "date": "",
-      "summary": {
-        "es": "Alejandro Bernales aseguró que el Gobierno buscaría otros caminos y adelantó que estudian una moción parlamentaria para mantener esta materia dentro de la discusión legislativa para las concesiones.",
-        "en": "Alejandro Bernales said that the Government would seek other ways and advanced that they are studying a parliamentary motion to keep this matter within the legislative discussion for concessions.",
-        "no": "Alejandro Bernales sa at regjeringen ville søke andre veier og avanserte at de studerer et parlamentarisk forslag for å holde denne saken innenfor lovdiskusjonen for innrømmelser."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "regulatory",
-      "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
-      },
-      "score": 12,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2189686.jpg?imageId=2189686&x=0&y=8.12&cropw=100&croph=83.77&panox=0&panoy=8.12&panow=100&panoh=83.77&width=1200&height=683"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/salmonchile.jpg"
     },
     {
       "title": {
-        "es": "Gobierno forma Mesa del Salmón en Magallanes para destrabar inversiones de la industria",
-        "en": "Government forms Salmon Table in Magallanes to unlock industry investments",
-        "no": "Regjeringen danner laksebord i Magallanes for å låse opp industriinvesteringer"
+        "es": "Proximar en Japón mejora precios, pero la geosmina retrasa cosechas",
+        "en": "Approaching in Japan improves prices, but geosmin delays harvests",
+        "no": "Å nærme seg i Japan forbedrer prisene, men geosmin forsinker innhøstingen"
       },
-      "url": "https://www.salmonexpert.cl/gobierno-inversiones-magallanes/gobierno-forma-mesa-del-salmon-en-magallanes-para-destrabar-inversiones-de-la-industria/2184836",
+      "url": "https://infosalmon.cl/proximar-japon-precios-salmon-geosmina/",
+      "date": "Thu, 08 Oct 2026 00:27:55 +0000",
+      "summary": {
+        "es": "La operación de Proximar en Japón mejoró sus precios y la proporción de peces grandes durante el tercer trimestre de 2026. Sin embargo, mayores niveles de geosmina prolongaron la depuración y trasladaron parte de la cosecha al cuarto trimestre. La empresa noruega, que cultiva salmón del Atlántico en tierra cerca del monte Fuji, informó estos resultados en su actualización del 7 de octubre . Cosechó 631 toneladas, frente a las 726 del trimestre anterior, una disminución del 13,1%. Las cifras corresponden a pescado eviscerado con cabeza, conocido como HOG. Mejores precios para Proximar en Japón El precio neto promedio alcanzó aproximadamente US$7,41 por kilo, frente a US$6,68 en el segundo tri",
+        "en": "Proximar's operation in Japan improved its prices and the proportion of large fish during the third quarter of 2026. However, higher levels of geosmin prolonged the purification and moved part of the harvest to the fourth quarter. The Norwegian company, which grows Atlantic salmon on land near Mount Fuji, reported these results in its October 7 update. It harvested 631 tons, compared to 726 in the previous quarter, a decrease of 13.1%. The figures correspond to gutted fish with a head, known as HOG. Best Prices for Proximar in Japan The average net price reached approximately $7.41 per kilo, compared to $6.68 in the second quarter",
+        "no": "Proximars virksomhet i Japan økte prisene og andelen storfisk i tredje kvartal 2026. Høyere nivåer av geosmin forlenget imidlertid rensingen og flyttet en del av innhøstingen til fjerde kvartal. Det norske selskapet, som dyrker atlantisk laks på land nær Fujifjellet, rapporterte disse resultatene i sin 7. oktober-oppdatering. Den høstet 631 tonn, sammenlignet med 726 i forrige kvartal, en nedgang på 13,1%. Figurene tilsvarer sløyd fisk med hode, kjent som SVIN. Beste priser for Proximar i Japan Den gjennomsnittlige nettoprisen nådde ca. $7,41 per kilo, sammenlignet med $6,68 i andre kvartal"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 14,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Unknown-3-1-scaled-e1791400209897.jpeg"
+    },
+    {
+      "title": {
+        "es": "El salmón coho de AquaChile está brillando en los mercados",
+        "en": "AquaChile's coho salmon is shining in the markets",
+        "no": "AquaChiles coho-laks skinner i markedene"
+      },
+      "url": "https://www.salmonexpert.cl/aquachile-coho-conxemar/el-salmon-coho-de-aquachile-esta-brillando-en-los-mercados/2191935",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "Europa es una región muy diversa, afirman desde la empresa, y estar presentes en Conxemar de España les permite acercar los atributos de esta especie y mostrar las distintas posibilidades que ofrece.",
+        "en": "Europe is a very diverse region, according to the company, and being present at Conxemar de España allows them to bring the attributes of this species closer and show the different possibilities it offers.",
+        "no": "Europa er en svært mangfoldig region, ifølge selskapet, og å være til stede på Conxemar de España gjør at de kan bringe egenskapene til denne arten nærmere og vise de forskjellige mulighetene den tilbyr."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 8,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2191945.jpg?imageId=2191945&x=0&y=41.81&cropw=100&croph=35.83&panox=0&panoy=41.81&panow=100&panoh=35.83&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Presupuesto 2027: Lineamientos para salmonicultura más sostenible incrementarán sus recursos",
+        "en": "Budget 2027: Guidelines for more sustainable salmon farming will increase its resources",
+        "no": "Budsjett 2027: Retningslinjer for mer bærekraftig lakseoppdrett vil øke ressursene"
+      },
+      "url": "https://www.salmonexpert.cl/jose-antonio-kast-kast-presidente/presupuesto-2027-lineamientos-para-salmonicultura-mas-sostenible-incrementaran-sus-recursos/2191862",
+      "date": "",
+      "summary": {
+        "es": "Los focos que tendrán Subpesca y Sernapesca durante el próximo año, se dirigen a otorgar certezas a la industria acuícola, reformando entre otras cosas la polémica Ley Lafkenche y acelerando la entrega de permisos sectoriales.",
+        "en": "The focuses that Subpesca and Sernapesca will have during the next year are aimed at providing certainty to the aquaculture industry, reforming, among other things, the controversial Lafkenche Law and accelerating the delivery of sectoral permits.",
+        "no": "Los focos que tendrán Subpesca y Sernapesca durante el próximo año, se dirigen a otorgar certezas a la industria acuícola, reformando entre otras cosas la polémica Ley Lafkenche y acelerando la entrega de permisos sectoriales."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -297,9 +272,34 @@
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 8,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2184872.jpg?imageId=2184872&x=0&y=13.49&cropw=100&croph=84.87&panox=0&panoy=13.49&panow=100&panoh=84.87&width=1200&height=683"
+      "score": 14,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2191907.jpg?imageId=2191907&x=0&y=8.06&cropw=100&croph=71.67&panox=0&panoy=8.06&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Gobierno solicita la renuncia de María Soledad Tapia a la dirección de Sernapesca",
+        "en": "Government requests the resignation of María Soledad Tapia from the management of Sernapesca",
+        "no": "Regjeringen ber om at María Soledad Tapia trekker seg fra ledelsen i Sernapesca"
+      },
+      "url": "https://www.aqua.cl/gobierno-solicita-la-renuncia-de-maria-soledad-tapia-a-la-direccion-de-sernapesca/",
+      "date": "Thu, 08 Oct 2026 09:49:00 +0000",
+      "summary": {
+        "es": "El Gobierno de Chile anunció que decidió solicitar la renuncia voluntaria de María Soledad Tapia Almonacid al cargo de directora nacional del Servicio Nacional de Pesca y Acuicultura (Sernapesca), a contar del 31 de octubre de 2026. La decisión fue informada mediante un comunicado fechado el 7 de octubre de 2026, difundido por la Subsecretaría de Pesca y Acuicultura (Subpesca). El documento señala que la medida se adopta de acuerdo con las atribuciones que entrega la legislación vigente y que el cargo corresponde al Primer Nivel Jerárquico. “El Gobierno de Chile informa que, de acuerdo con las atribuciones que otorga la legislación vigente, ha decidido solicitar la renuncia voluntaria de Mar",
+        "en": "The Government of Chile announced that it decided to request the voluntary resignation of María Soledad Tapia Almonacid from the position of national director of the National Fisheries and Aquaculture Service (SERNAPESCA), as of October 31, 2026. The decision was informed by a statement dated October 7, 2026, issued by the Undersecretariat of Fisheries and Aquaculture (Subpesca). The document states that the measure is adopted in accordance with the powers provided by current legislation and that the position corresponds to the First Hierarchical Level. \"The Government of Chile informs that, in accordance with the powers granted by current legislation, it has decided to request the voluntary resignation of Mar",
+        "no": "El Gobierno de Chile anunció que decidió solicitar la renuncia voluntaria de María Soledad Tapia Almonacid al cargo de directora nacional del Servicio Nacional de Pesca y Acuicultura (Sernapesca), a contar del 31 de octubre de 2026. La decisión fue informada mediante un comunicado fechado el 7 de octubre de 2026, difundido por la Subsecretaría de Pesca y Acuicultura (Subpesca). El documento señala que la medida se adopta de acuerdo con las atribuciones que entrega la legislación vigente y que el cargo corresponde al Primer Nivel Jerárquico. “El Gobierno de Chile informa que, de acuerdo con las atribuciones que otorga la legislación vigente, ha decidido solicitar la renuncia voluntaria de Mar"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "regulatory",
+      "category_label": {
+        "es": "Regulatorio",
+        "en": "Regulatory & Policy",
+        "no": "Regulering og politikk"
+      },
+      "score": 10,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2025/11/AquaForum-Los-Lagos-2025-Soledad-Tapia-B2B-Media-Group.jpeg"
     }
   ]
 }
