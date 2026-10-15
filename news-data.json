@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-12T12:34:19Z",
+  "updated": "2026-10-15T12:33:21Z",
   "articles": [
     {
       "title": {
-        "es": "Imenco Aqua abordará innovaciones para una salmonicultura más resiliente en AquaForum Los Lagos 2026",
-        "en": "Imenco Aqua will address innovations for more resilient salmon farming at AquaForum Los Lagos 2026",
-        "no": "Imenco Aqua vil adressere innovasjoner for mer motstandsdyktig lakseoppdrett på AquaForum Los Lagos 2026"
+        "es": "Edición génica en salmones: Chile comienza a cerrar una brecha estratégica",
+        "en": "Gene editing in salmon: Chile begins to close a strategic gap",
+        "no": "Genredigering i laks: Chile begynner å lukke et strategisk gap"
       },
-      "url": "https://www.aqua.cl/imenco-aqua-abordara-innovaciones-para-una-salmonicultura-mas-resiliente-en-aquaforum-los-lagos-2026/",
-      "date": "Mon, 12 Oct 2026 09:48:00 +0000",
+      "url": "https://infosalmon.cl/edicion-genica-salmones-chile-brecha-estrategica/",
+      "date": "Thu, 15 Oct 2026 00:07:30 +0000",
       "summary": {
-        "es": "La capacidad de anticipar y responder frente a eventos ambientales será un factor cada vez más relevante para la resiliencia de los centros de cultivo. En este contexto, Imenco Aqua destaca la integración de datos, la oxigenación de precisión y los sistemas de surgencia como herramientas para enfrentar los desafíos de la salmonicultura. En el marco de AquaForum Los Lagos 2026 , encuentro que este año aborda el concepto de “Salmonicultura del Futuro”, la empresa plantea que la resiliencia de un centro de cultivo depende de su capacidad de anticipar. “Vemos como determinantes los sistemas integrados, donde datos de oxígeno, temperatura, corrientes y cámaras convergen en una misma plataforma pa",
-        "en": "The ability to anticipate and respond to environmental events will be an increasingly relevant factor for the resilience of crop centres. In this context, Imenco Aqua highlights data integration, precision oxygenation and upwelling systems as tools to face the challenges of salmon farming. Within the framework of AquaForum Los Lagos 2026 , I find that this year it addresses the concept of \"Salmon Farming of the Future\", the company states that the resilience of a cultivation center depends on its ability to anticipate. \"We see as determinants the integrated systems, where oxygen, temperature, currents and chamber data converge on the same platform for",
-        "no": "Evnen til å forutse og reagere på miljøhendelser vil være en stadig mer relevant faktor for avlingssentrenes motstandsdyktighet. I denne sammenhengen fremhever Imenco Aqua dataintegrasjon, presisjonsoksygenering og oppvellingssystemer som verktøy for å møte utfordringene i lakseoppdrett. Innenfor rammen av AquaForum Los Lagos 2026 , finner jeg at i år adresserer konseptet \"Fremtidens lakseoppdrett\", sier selskapet at motstandskraften til et dyrkingssenter avhenger av dets evne til å forutse. \"Vi ser som determinanter de integrerte systemene, hvor oksygen, temperatur, strømmer og kammerdata konvergerer på samme plattform for"
+        "es": "Durante cerca de dos años hemos puesto sobre la mesa una discusión que Chile ya no puede seguir postergando: cómo incorporar la edición génica y las Nuevas Tecnologías Genómicas (NGTs) al desarrollo de una acuicultura más competitiva y sustentable. Bajo este último concepto, adoptado en la Unión Europea, se agrupan herramientas capaces de introducir modificaciones precisas y dirigidas en el ADN, abriendo posibilidades que hasta hace pocos años parecían fuera del alcance del mejoramiento genético convencional. Sin embargo, existe una diferencia importante entre conocer una tecnología, discutirla en seminarios o incluso utilizarla experimentalmente en células dentro de un laboratorio, y genera",
+        "en": "For nearly two years we have put on the table a discussion that Chile can no longer postpone: how to incorporate gene editing and New Genomic Technologies (NGTs) into the development of a more competitive and sustainable aquaculture. Under this last concept, adopted in the European Union, tools capable of introducing precise and targeted modifications to DNA are grouped, opening up possibilities that until a few years ago seemed beyond the reach of conventional genetic improvement. However, there is an important difference between knowing a technology, discussing it in seminars or even using it experimentally in cells within a laboratory, and generating",
+        "no": "I nesten to år har vi lagt på bordet en diskusjon som Chile ikke lenger kan utsette: hvordan innlemme genredigering og New Genomic Technologies (NGTs) i utviklingen av en mer konkurransedyktig og bærekraftig akvakultur. Under dette siste konseptet, vedtatt i EU, er verktøy som er i stand til å introdusere presise og målrettede modifikasjoner av DNA gruppert, og åpner muligheter som inntil for noen år siden virket utenfor rekkevidden av konvensjonell genetisk forbedring. Det er imidlertid en viktig forskjell mellom å kjenne en teknologi, diskutere den i seminarer eller til og med bruke den eksperimentelt i celler i et laboratorium, og å generere"
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 10,
+      "score": 4,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Imenco-Panorama-acuicola-1024x768.jpeg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/IMG_8651.jpg"
     },
     {
       "title": {
-        "es": "Un avance en las pruebas reduce drásticamente el costo de nueva solución contra piojos del salmón",
-        "en": "A breakthrough in testing dramatically reduces the cost of new salmon lice solution",
-        "no": "Et gjennombrudd i testing reduserer dramatisk kostnadene ved ny lakselusløsning"
+        "es": "SRS y recientes casos de ISA plantean nuevos desafíos para el diagnóstico en terreno",
+        "en": "SRS and recent ISA cases pose new challenges for field diagnostics",
+        "no": "SRS og nyere ISA-tilfeller gir nye utfordringer for feltdiagnostikk"
       },
-      "url": "https://www.salmonexpert.cl/caligus-parasito-piojo/un-avance-en-las-pruebas-reduce-drasticamente-el-costo-de-nueva-solucion-contra-piojos-del-salmon/2189442",
+      "url": "https://www.salmonexpert.cl/ciba-isa-piscirickettsia/srs-y-recientes-casos-de-isa-plantean-nuevos-desafios-para-el-diagnostico-en-terreno/2194147",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "En AquaInmuno 2026, especialistas destacaron el valor de las necropsias y la evaluación clínica en terreno, para complementar el diagnóstico de enfermedades infecciosas.",
+        "en": "At AquaInmuno 2026, specialists highlighted the value of necropsies and clinical evaluation in the field, to complement the diagnosis of infectious diseases.",
+        "no": "På AquaInmuno 2026 fremhevet spesialister verdien av obduksjoner og klinisk evaluering i feltet, for å utfylle diagnosen infeksjonssykdommer."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -49,20 +49,20 @@
       },
       "score": 2,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2188261.jpg?imageId=2188261&x=0&y=3.03&cropw=100&croph=78.18&panox=0&panoy=3.03&panow=100&panoh=78.18&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2194183.jpg?imageId=2194183&x=0&y=17.73&cropw=100&croph=63.55&panox=0&panoy=17.73&panow=100&panoh=63.55&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Estudiantes de Ancud conocen la investigación acuícola de la UACh",
-        "en": "Ancud students learn about UACh aquaculture research",
-        "no": "Ancud-studenter lærer om UACh akvakulturforskning"
+        "es": "Estudio revela que la salmonicultura aporta el 2,6% del PIB nacional y sostiene cerca de 338 mil empleos en Chile",
+        "en": "Study reveals that salmon farming contributes 2.6% of the national GDP and supports about 338 thousand jobs in Chile",
+        "no": "Studien viser at lakseoppdrett bidrar med 2,6% av det nasjonale BNP og støtter rundt 338 000 arbeidsplasser i Chile"
       },
-      "url": "https://infosalmon.cl/investigacion-acuicola-estudiantes-ancud-uach/",
-      "date": "Fri, 09 Oct 2026 14:23:08 +0000",
+      "url": "https://infosalmon.cl/estudio-revela-que-la-salmonicultura-aporta-el-26-del-pib-nacional-y-sostiene-cerca-de-338-mil-empleos-en-ch/",
+      "date": "Thu, 15 Oct 2026 00:09:30 +0000",
       "summary": {
-        "es": "Estudiantes de Acuicultura del Colegio Seminario Conciliar de Ancud conocieron la investigación acuícola de la Universidad Austral de Chile (UACh ). Visitaron su Instituto de Acuicultura y Medio Ambiente, en Puerto Montt. Cómo se estudia el ambiente de cultivo Recorrieron los laboratorios de Ecofisiología de Crustáceos (LECOFIC), Macroalgas, Biotecnología Ambiental e Interacciones Ecológicas. Conocieron investigaciones sobre algas, moluscos, crustáceos, monitoreo ambiental y Caligus rogercresseyi. El trabajo de LECOFIC permite comprender una de las conexiones entre ciencia y producción. Según su descripción institucional, el laboratorio estudia los efectos de la temperatura y la salinidad so",
-        "en": "Aquaculture students from the Colegio Seminario Conciliar de Ancud learned about the aquaculture research of the Universidad Austral de Chile (UACh ). They visited his Institute of Aquaculture and Environment, in Puerto Montt. How the cultivation environment is studied The Crustacean Ecophysiology (LECOFIC), Macroalgae, Environmental Biotechnology and Ecological Interactions laboratories were visited. They learned about research on algae, molluscs, crustaceans, environmental monitoring and Caligus rogercresseyi. LECOFIC's work allows us to understand one of the connections between science and production. According to its institutional description, the laboratory studies the effects of temperature and salinity on",
-        "no": "Akvakulturstudenter fra Colegio Seminario Conciliar de Ancud lærte om akvakulturforskningen ved Universidad Austral de Chile (UACh ). De besøkte hans Institutt for akvakultur og miljø, i Puerto Montt. Hvordan dyrkingsmiljøet studeres Laboratoriene for krepsdyrøkofysiologi (LECOFIC), makroalger, miljøbioteknologi og økologiske interaksjoner ble besøkt. De lærte om forskning på alger, bløtdyr, krepsdyr, miljøovervåking og Caligus rogercresseyi. LECOFICs arbeid gjør at vi kan forstå en av sammenhengene mellom vitenskap og produksjon. I henhold til sin institusjonsbeskrivelse studerer laboratoriet effekten av temperatur og saltholdighet på"
+        "es": "SalmonChile dio a conocer los resultados del estudio “Contribución económica de la industria del salmón en Chile”, una investigación que actualiza la radiografía socioeconómica de este sector productivo y cifra su impacto en el Producto Interno Bruto (PIB), el empleo y el encadenamiento productivo regional y nacional. Los hallazgos de este estudio y el impacto de la salmonicultura en múltiples actividades económicas y regiones del país, más allá de las zonas del sur austral en las que se cultiva y procesa el salmón, fueron revelados esta mañana en un seminario organizado por SalmonChile. En el encuentro participaron el subsecretario de Pesca y Acuicultura, Osvaldo Urrutia; el presidente de S",
+        "en": "SalmonChile released the results of the study \"Economic Contribution of the Salmon Industry in Chile\", a research that updates the socio-economic radiography of this productive sector and calculates its impact on the Gross Domestic Product (GDP), employment, and regional and national productive chains. The findings of this study and the impact of salmon farming on multiple economic activities and regions of the country, beyond the southern areas where salmon is grown and processed, were revealed this morning at a seminar organized by SalmonChile. The meeting was attended by the Undersecretary of Fisheries and Aquaculture, Osvaldo Urrutia; the president of S",
+        "no": "SalmonChile publiserte resultatene av studien \"Economic Contribution of the Salmon Industry in Chile\", en forskning som oppdaterer den sosioøkonomiske radiografien til denne produktive sektoren og beregner dens innvirkning på bruttonasjonalproduktet (BNP), sysselsetting og regionale og nasjonale produktive kjeder. Funnene i denne studien og virkningen av lakseoppdrett på flere økonomiske aktiviteter og regioner i landet, utover de sørlige områdene der laks dyrkes og foredles, ble avdekket i morges på et seminar arrangert av SalmonChile. På møtet deltok statssekretær for fiskeri og havbruk, Osvaldo Urrutia, president i S"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -72,22 +72,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 13,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/1-768x576-1.jpeg"
+      "score": 22,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Estudio-SalmonChile-2.jpeg"
     },
     {
       "title": {
-        "es": "Activan planes de contingencia por floración algal nociva en la región de Magallanes",
-        "en": "Contingency plans activated for harmful algal bloom in the Magallanes region",
-        "no": "Beredskapsplaner aktivert for skadelig algeblomstring i Magallanes-regionen"
+        "es": "[LA + LEÍDA EL MIÉRCOLES] Ricardo Manzoliz de Sitecna: “Queremos continuar siendo un socio estratégico de la acuicultura”",
+        "en": "[LA + READ ON WEDNESDAY] Ricardo Manzoliz of Sitecna: \"We want to continue being a strategic partner of aquaculture\"",
+        "no": "[LA + READ ON WEDNESDAY] Ricardo Manzoliz fra Sitecna: \"Vi ønsker å fortsette å være en strategisk partner for akvakultur\""
       },
-      "url": "https://www.aqua.cl/activan-planes-de-contingencia-por-floracion-algal-nociva-en-la-region-de-magallanes/",
-      "date": "Fri, 09 Oct 2026 09:49:00 +0000",
+      "url": "https://www.aqua.cl/ricardo-manzoliz-de-sitecna-queremos-continuar-siendo-un-socio-estrategico-de-la-acuicultura/",
+      "date": "Wed, 14 Oct 2026 09:50:00 +0000",
       "summary": {
-        "es": "El Servicio Nacional de Pesca y Acuicultura (Sernapesca) informó la activación de planes de contingencia por mortalidad masiva de peces asociada a una floración algal nociva (FAN) en la región de Magallanes y Antártica Chilena. El evento afecta a dos centros de cultivo de la empresa Multiexport Patagonia S.A., donde se ha informado una mortalidad estimada de 300 toneladas de salmones. Desde mediados de septiembre, Sernapesca monitorea una floración algal nociva que registra concentraciones sobre los límites referenciales de nocividad establecidos en la normativa. El fenómeno ha estado presente en cuatro centros de cultivo de la misma empresa. Sin embargo, este 8 de octubre, desde las 13:00 h",
-        "en": "The National Fisheries and Aquaculture Service (SERNAPESCA) reported the activation of contingency plans for mass mortality of fish associated with a harmful algal bloom (FAN) in the Magallanes region and Chilean Antarctica. The event affects two farming centers of the company Multiexport Patagonia S.A., where an estimated mortality of 300 tons of salmon has been reported. Since mid-September, Sernapesca has been monitoring a harmful algal bloom that registers concentrations above the reference limits of harmfulness established in the regulations. The phenomenon has been present in four cultivation centers of the same company. However, this October 8, from 1:00 p.m.",
-        "no": "National Fisheries and Aquaculture Service (SERNAPESCA) rapporterte om aktivering av beredskapsplaner for massedødelighet av fisk assosiert med en skadelig algeoppblomstring (VIFTE) i Magallanes-regionen og det chilenske Antarktis. Hendelsen påvirker to oppdrettssentre i selskapet Multiexport Patagonia S.A., hvor det er rapportert en estimert dødelighet på 300 tonn laks. Siden midten av september har Sernapesca overvåket en skadelig algeoppblomstring som registrerer konsentrasjoner over referansegrensene for skadelighet som er fastsatt i forskriftene. Fenomenet har vært til stede i fire dyrkingssenter i samme selskap. Men denne 8. oktober, fra kl. 13.00."
+        "es": "En el marco de AquaForum Los Lagos 2026, que se realizará el próximo 5 de noviembre en Puerto Varas bajo el lema “Salmonicultura del Futuro: Certezas, Sostenibilidad, Liderazgo”, Sitecna, empresa auspiciadora del encuentro, destaca su compromiso con el desarrollo de la industria acuícola y marítima, impulsando nuevas soluciones desde la región de Los Lagos. Fortalecimiento de capacidades navales En este contexto, el gerente general de la compañía, Ricardo Manzoliz, aborda los principales avances de Sitecna durante 2026 y sus proyecciones para fortalecer su participación en el sector naval. Al referirse a los avances que ha tenido Sitecna durante 2026 en el fortalecimiento de sus capacidades ",
+        "en": "Within the framework of AquaForum Los Lagos 2026, which will be held on November 5 in Puerto Varas under the slogan \"Salmon Farming of the Future: Certainties, Sustainability, Leadership\", Sitecna, the sponsor of the meeting, highlights its commitment to the development of the aquaculture and maritime industry, promoting new solutions from the Los Lagos region. Strengthening naval capabilities In this context, the company's general manager, Ricardo Manzoliz, addresses Sitecna's main advances during 2026 and its projections to strengthen its participation in the naval sector. Referring to the progress that Sitecna has made during 2026 in strengthening its capabilities",
+        "no": "Innenfor rammen av AquaForum Los Lagos 2026, som vil bli avholdt 5. november i Puerto Varas under slagordet \"Fremtidens lakseoppdrett: Sertifikater, bærekraft, ledelse\", fremhever Sitecna, sponsor av møtet, sitt engasjement for utviklingen av akvakultur og maritim industri, og fremmer nye løsninger fra Los Lagos-regionen. Styrking av marinekapasiteter I denne sammenhengen adresserer selskapets daglig leder, Ricardo Manzoliz, Sitecnas viktigste fremskritt i løpet av 2026 og dets fremskrivninger for å styrke sin deltakelse i marinesektoren. Henviser til fremdriften som Sitecna har gjort i løpet av 2026 for å styrke sine evner"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -97,22 +97,22 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Centro-de-cultivo-Sernapesca-Magallanes2-scaled.jpg"
+      "score": 14,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/sitecna-e1791990685364.jpeg"
     },
     {
       "title": {
-        "es": "Multi X llega a Agua Viva con la historia de cuatro décadas de salmonicultura chilena",
-        "en": "Multi X arrives at Agua Viva with the history of four decades of Chilean salmon farming",
-        "no": "Multi X kommer til Agua Viva med historien om fire tiår med chilensk lakseoppdrett"
+        "es": "Estudiantes de Puerto Montt convierten desafíos reales de la acuicultura en cinco proyectos de innovación",
+        "en": "Puerto Montt students turn real aquaculture challenges into five innovation projects",
+        "no": "Puerto Montt-studenter forvandler virkelige akvakulturutfordringer til fem innovasjonsprosjekter"
       },
-      "url": "https://www.mundoacuicola.cl/new/multi-x-llega-a-agua-viva-con-la-historia-de-cuatro-decadas-de-salmonicultura-chilena/",
-      "date": "Thu, 08 Oct 2026 18:55:14 +0000",
+      "url": "https://www.mundoacuicola.cl/new/estudiantes-de-puerto-montt-convierten-desafios-reales-de-la-acuicultura-en-cinco-proyectos-de-innovacion/",
+      "date": "Thu, 15 Oct 2026 10:00:24 +0000",
       "summary": {
-        "es": "El fundador y CEO de Multi X José Ramón Gutiérrez recorrerá cuatro décadas de historia de la salmonicultura chilena en un nuevo episodio de Agua Viva – El Futuro del Mar. El programa abordará los inicios de la industria, su transformación tecnológica y las principales crisis que marcaron su desarrollo. Se estrenará este sábado 17 de octubre, a las 21:00 horas, por Mega 2. La entrada Multi X llega a Agua Viva con la historia de cuatro décadas de salmonicultura chilena se publicó primero en Mundoacuicola .",
-        "en": "The founder and CEO of Multi X José Ramón Gutiérrez will cover four decades of the history of Chilean salmon farming in a new episode of Agua Viva – El Futuro del Mar. The program will address the beginnings of the industry, its technological transformation and the main crises that marked its development. It will premiere this Saturday, October 17, at 9:00 p.m., on Mega 2. The entry Multi X arrives at Agua Viva with the story of four decades of Chilean salmon farming was first published in Mundoacuicola .",
-        "no": "Grunnleggeren og administrerende direktør i Multi X José Ramón Gutiérrez vil dekke fire tiår av historien til chilensk lakseoppdrett i en ny episode av Agua Viva – El Futuro del Mar. Programmet vil ta opp begynnelsen av bransjen, dens teknologiske transformasjon og de viktigste krisene som markerte utviklingen. Den har premiere lørdag 17. oktober kl. 21.00 på Mega 2. Oppslaget Multi X ankommer Agua Viva med historien om fire tiår med chilensk lakseoppdrett ble først publisert i Mundoacuicola ."
+        "es": "La primera generación del programa reunió a 48 estudiantes de cuatro establecimientos de Puerto Montt, quienes transformaron aprendizajes, visitas a terreno y charlas con profesionales en cinco propuestas orientadas a desafíos reales de la industria acuícola. La entrada Estudiantes de Puerto Montt convierten desafíos reales de la acuicultura en cinco proyectos de innovación se publicó primero en Mundoacuicola .",
+        "en": "The first generation of the program brought together 48 students from four establishments in Puerto Montt, who transformed learning, field visits and talks with professionals into five proposals oriented to real challenges in the aquaculture industry. The entry Students of Puerto Montt turn real aquaculture challenges into five innovation projects was first published in Mundoacuicola .",
+        "no": "Den første generasjonen av programmet samlet 48 studenter fra fire etablissementer i Puerto Montt, som forvandlet læring, feltbesøk og samtaler med fagfolk til fem forslag rettet mot reelle utfordringer i akvakulturindustrien. Oppføringen Students of Puerto Montt gjør virkelige akvakulturutfordringer til fem innovasjonsprosjekter ble først publisert i Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -121,185 +121,185 @@
         "es": "Industria",
         "en": "Industry & General",
         "no": "Bransjenyheter"
-      },
-      "score": 8,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Multi-X-llega-a-Agua-Viva-con-la-historia-de-cuatro-decadas-de-salmonicultura-chilena.png"
-    },
-    {
-      "title": {
-        "es": "Sernapesca fiscaliza el manejo y traslado de mortalidades por evento FAN en Magallanes",
-        "en": "Sernapesca supervises the management and transfer of mortality due to FAN events in Magallanes",
-        "no": "Sernapesca fører tilsyn med styring og overføring av dødelighet på grunn AV viftehendelser i Magallanes"
-      },
-      "url": "https://www.salmonexpert.cl/algas-nocivas-fan-floracion/sernapesca-fiscaliza-el-manejo-y-traslado-de-mortalidades-por-evento-fan-en-magallanes/2194133",
-      "date": "",
-      "summary": {
-        "es": "De acuerdo con lo informado por la empresa salmonicultora Multi X, las mortandades, que a la fecha alcanzan a 642,5 toneladas, se destinarán a plantas de reducción en la Región de Los Lagos.",
-        "en": "According to information from the salmon farming company Multi X, the deaths, which to date reach 642.5 tons, will be destined for reduction plants in the Los Lagos Region.",
-        "no": "Ifølge informasjon fra lakseoppdrettsselskapet Multi X vil dødsfallene, som til dags dato når 642,5 tonn, gå til reduksjonsanlegg i Los Lagos-regionen."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 7,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2194139.jpg?imageId=2194139&x=0&y=18.23&cropw=100&croph=63.55&panox=0&panoy=18.23&panow=100&panoh=63.55&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Salmón en 2027: mejores precios no garantizan más rentabilidad para Chile",
-        "en": "Salmon in 2027: better prices do not guarantee more profitability for Chile",
-        "no": "Laks i 2027: Bedre priser garanterer ikke mer lønnsomhet for Chile"
-      },
-      "url": "https://infosalmon.cl/salmon-en-2027-precios-desafios-chile/",
-      "date": "Thu, 08 Oct 2026 23:47:58 +0000",
-      "summary": {
-        "es": "El mercado del salmón en 2027 podría ofrecer mejores condiciones de venta, pero esa recuperación no asegura mayores ganancias para los productores chilenos. El costo del alimento, los riesgos asociados a El Niño y las condiciones comerciales con Estados Unidos pueden absorber parte de la mejora, advirtió Gorjan Nikolik, analista de Rabobank. Su evaluación fue presentada en el videopódcast State of Salmon 2026/2027, publicado por Salmon Business . También participaron Dag Sletmo, de DNB, y Henrik Longva Knutsen, de Pareto Securities, en una conversación moderada por Tim Brouwer, director ejecutivo de Norwegian Seafood Group. Chile: el alimento puede reducir el beneficio de mejores precios Seg",
-        "en": "The salmon market in 2027 could offer better sales conditions, but that recovery does not ensure greater profits for Chilean producers. The cost of food, the risks associated with El Niño and trade conditions with the United States can absorb part of the improvement, warned Gorjan Nikolik, an analyst at Rabobank. His assessment was featured on the State of Salmon 2026/2027 video podcast, published by Salmon Business . Dag Sletmo of DNB and Henrik Longva Knutsen of Pareto Securities also participated in a conversation moderated by Tim Brouwer, CEO of Norwegian Seafood Group. Chile: Food can reduce the benefit of better prices Seg",
-        "no": "Laksemarkedet i 2027 kunne by på bedre salgsforhold, men den gjenvinningen sikrer ikke større fortjeneste for chilenske produsenter. Kostnaden for mat, risikoen forbundet med El Niño og handelsforholdene med USA kan absorbere en del av forbedringen, advarte Gorjan Nikolik, analytiker i Rabobank. Hans vurdering ble omtalt på State of Salmon 2026/2027 videopodcast, publisert av Salmon Business . Dag Sletmo i DNB og Henrik Longva Knutsen i Pareto Securities deltok også i en samtale moderert av Tim Brouwer, administrerende direktør i Norwegian Seafood Group. Chile: Mat kan redusere fordelen av bedre priser Seg"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
       },
       "score": 11,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/salmon-e1791479445791.jpg"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Estudiantes-de-Puerto-Montt-convierten-desafios-reales-de-la-acuicultura-en-cinco-proyectos-de-innovacion.jpg"
     },
     {
       "title": {
-        "es": "Brasil mueve la aguja del salmón chileno: las cifras detrás de su avance",
-        "en": "Brazil moves the needle of Chilean salmon: the figures behind its advance",
-        "no": "Brasil flytter nålen til chilensk laks: tallene bak fremgangen"
+        "es": "En evento de Mevea presentan alternativas que prometen bajar antimicrobianos en la acuicultura",
+        "en": "At the Mevea event, they present alternatives that promise to reduce antimicrobials in aquaculture",
+        "no": "På Mevea-arrangementet presenterer de alternativer som lover å redusere antimikrobielle stoffer i akvakultur"
       },
-      "url": "https://infosalmon.cl/brasil-mueve-la-aguja-del-salmon-chileno-las-cifras-detras-de-su-avance/",
-      "date": "Thu, 08 Oct 2026 23:47:44 +0000",
-      "summary": {
-        "es": "Brasil se ha convertido en mucho más que un mercado de destino para la salmonicultura chilena. Su creciente participación en las exportaciones, la cercanía logística y las oportunidades para ampliar la distribución y comercializar productos de mayor valor agregado lo posicionan como un socio estratégico para la industria, en un escenario en que la diversificación comercial cobra especial importancia. Las cifras del intercambio bilateral respaldan esta relevancia. Entre enero y agosto de 2026, las exportaciones chilenas de salmón y trucha alcanzaron los US$682 millones. Esto representa un crecimiento de 12,7% respecto del mismo período del año anterior, según los antecedentes analizados en Em",
-        "en": "Brazil has become much more than a destination market for Chilean salmon farming. Its growing participation in exports, logistics proximity and opportunities to expand distribution and market products with greater added value position it as a strategic partner for the industry, in a scenario in which commercial diversification is especially important. Bilateral exchange figures support this relevance. Between January and August 2026, Chilean exports of salmon and trout reached US$682 million. This represents a growth of 12.7% over the same period of the previous year, according to the background analyzed in Em",
-        "no": "Brasil har blitt mye mer enn et destinasjonsmarked for chilensk lakseoppdrett. Dens voksende deltakelse i eksport, logistikk nærhet og muligheter til å utvide distribusjon og markedsføre produkter med større merverdi posisjonerer den som en strategisk partner for bransjen, i et scenario der kommersiell diversifisering er spesielt viktig. Bilaterale utvekslingstall støtter denne relevansen. Mellom januar og august 2026 nådde den chilenske eksporten av laks og ørret 682 millioner dollar. Dette representerer en vekst på 12,7% i forhold til samme periode året før, ifølge bakgrunnen analysert i em"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/07/Fotografia-al-mercado-brasileno-1024x687.png"
-    },
-    {
-      "title": {
-        "es": "El salmón coho de AquaChile está brillando en los mercados",
-        "en": "AquaChile's coho salmon is shining in the markets",
-        "no": "AquaChiles coho-laks skinner i markedene"
-      },
-      "url": "https://www.salmonexpert.cl/aquachile-coho-conxemar/el-salmon-coho-de-aquachile-esta-brillando-en-los-mercados/2191935",
+      "url": "https://www.salmonexpert.cl/acuicultura-antimicrobianos-mevea/en-evento-de-mevea-presentan-alternativas-que-prometen-bajar-antimicrobianos-en-la-acuicultura/2194047",
       "date": "",
       "summary": {
-        "es": "Europa es una región muy diversa, afirman desde la empresa, y estar presentes en Conxemar de España les permite acercar los atributos de esta especie y mostrar las distintas posibilidades que ofrece.",
-        "en": "Europe is a very diverse region, according to the company, and being present at Conxemar de España allows them to bring the attributes of this species closer and show the different possibilities it offers.",
-        "no": "Europa er en svært mangfoldig region, ifølge selskapet, og å være til stede på Conxemar de España gjør at de kan bringe egenskapene til denne arten nærmere og vise de forskjellige mulighetene den tilbyr."
+        "es": "Con expertos nacionales e internacionales, la Asociación de Médicos Veterinarios Vinculados a la Acuicultura, conmemoró su día en Puerto Varas con ponencias, ciencia y música.",
+        "en": "With national and international experts, the Association of Veterinary Physicians Linked to Aquaculture, commemorated their day in Puerto Varas with presentations, science and music.",
+        "no": "Med nasjonale og internasjonale eksperter feiret Association of Veterinary Physicians Linked to Aquaculture dagen sin i Puerto Varas med presentasjoner, vitenskap og musikk."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
-      "category": "market",
+      "category": "industry",
       "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 8,
+      "score": 11,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2191945.jpg?imageId=2191945&x=0&y=41.81&cropw=100&croph=35.83&panox=0&panoy=41.81&panow=100&panoh=35.83&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2194053.jpg?imageId=2194053&x=0&y=20.68&cropw=100&croph=58.64&panox=0&panoy=20.68&panow=100&panoh=58.64&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Camanchaca reduce 5.752 toneladas de CO₂ y obtiene tres sellos HuellaChile",
-        "en": "Camanchaca reduces 5,752 tons of CO₂ and obtains three FuellaChile seals",
-        "no": "Camanchaca reduserer 5 752 tonn CO₂ og får tre FuellaChile-tetninger"
+        "es": "SalmonChile destaca rol de La Araucanía en producción del 75% de las ovas de salmón",
+        "en": "SalmonChile highlights the role of La Araucanía in the production of 75% of salmon eggs",
+        "no": "SalmonChile fremhever rollen som La Araucanía i produksjonen av 75% av lakseegg"
       },
-      "url": "https://www.mundoacuicola.cl/new/camanchaca-reduce-5-752-toneladas-de-co%e2%82%82-y-obtiene-tres-sellos-huellachile/",
-      "date": "Fri, 09 Oct 2026 14:50:05 +0000",
+      "url": "https://www.mundoacuicola.cl/new/salmonchile-destaca-rol-de-la-araucania-en-produccion-del-75-de-las-ovas-de-salmon/",
+      "date": "Tue, 13 Oct 2026 19:24:47 +0000",
       "summary": {
-        "es": "La División Pesca de Camanchaca acreditó una reducción de 5.752 toneladas de CO₂ equivalente durante 2025, mediante mejoras tecnológicas implementadas en sus plantas de Iquique, Coronel y Tomé. La compañía obtuvo reconocimientos de Cuantificación, Reducción y Excelencia del programa HuellaChile del Ministerio del Medio Ambiente. La entrada Camanchaca reduce 5.752 toneladas de CO₂ y obtiene tres sellos HuellaChile se publicó primero en Mundoacuicola .",
-        "en": "The Camanchaca Fisheries Division credited a reduction of 5,752 tons of CO₂ equivalent during 2025, through technological improvements implemented in its plants in Iquique, Coronel, and Tomé. The company obtained Quantification, Reduction and Excellence awards from the HuellaChile program of the Ministry of the Environment. The Camanchaca entry reduces 5,752 tons of CO₂ and obtains three HuellaChile stamps. It was first published in Mundoacuicola .",
-        "no": "Camanchaca Fisheries Division krediterte en reduksjon på 5 752 tonn CO₂-ekvivalenter i løpet av 2025, gjennom teknologiske forbedringer implementert i sine anlegg i Iquique, Coronel og Tomé. Selskapet mottok Quantification, Reduction and Excellence-priser fra HuellaChile-programmet til Miljøverndepartementet. Camanchaca-oppføringen reduserer 5 752 tonn CO₂ og får tre HuellaChile-stempler. Den ble først publisert i Mundoacuicola ."
+        "es": "Durante una gira por La Araucanía, el presidente de SalmonChile, Patricio Melero, destacó el papel de la región en las primeras etapas de la producción salmonera, con cerca de 6.000 trabajadores. La agenda incluyó visitas a pisciculturas y reuniones con autoridades y gremios locales. La entrada SalmonChile destaca rol de La Araucanía en producción del 75% de las ovas de salmón se publicó primero en Mundoacuicola .",
+        "en": "During a tour of La Araucanía, the president of SalmonChile, Patricio Melero, highlighted the role of the region in the early stages of salmon production, with about 6,000 workers. The agenda included visits to fish farms and meetings with local authorities and unions. The SalmonChile entry highlights the role of La Araucanía in the production of 75% of salmon eggs, which was first published in Mundoacuicola .",
+        "no": "Under en omvisning i La Araucanía fremhevet presidenten i SalmonChile, Patricio Melero, regionens rolle i de tidlige stadiene av lakseproduksjonen, med ca. 6000 arbeidere. På agendaen sto blant annet besøk på oppdrettsanlegg og møter med lokale myndigheter og fagforeninger. SalmonChile-oppføringen fremhever rollen som La Araucanía i produksjonen av 75% lakseegg, som først ble publisert i Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
-      "category": "environment",
+      "category": "industry",
       "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 9,
+      "score": 10,
       "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Camanchaca-reduce-5.752-toneladas-de-CO₂-y-obtiene-tres-sellos-HuellaChile.png"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/SalmonChile-destaca-rol-de-La-Araucania-en-produccion-del-75-de-las-ovas-de-salmon.jpg"
     },
     {
       "title": {
-        "es": "Del cultivo al bienestar animal: los criterios que incorpora el nuevo estándar de Certified Humane para el salmón coho",
-        "en": "From farming to animal welfare: the criteria incorporated in the new Certified Humane standard for coho salmon",
-        "no": "Fra oppdrett til dyrevelferd: kriteriene innlemmet i den nye sertifiserte humane standarden for COHO-laks"
+        "es": "Innovación de la UCSC busca reducir residuos en estanques de salmones",
+        "en": "UCSC innovation seeks to reduce waste in salmon ponds",
+        "no": "UCSC-innovasjon søker å redusere avfall i laksedammer"
       },
-      "url": "https://infosalmon.cl/bienestar-salmon-coho-certified-humane/",
-      "date": "Fri, 09 Oct 2026 16:40:15 +0000",
+      "url": "https://www.aqua.cl/innovacion-de-la-ucsc-busca-reducir-residuos-en-estanques-de-salmones/",
+      "date": "Thu, 15 Oct 2026 09:47:00 +0000",
       "summary": {
-        "es": "La calidad del agua, el tiempo de ayuno y la forma en que se transporta y sacrifica a un pez influyen en su bienestar. Estos aspectos forman parte de la nueva norma para el bienestar del salmón coho (Oncorhynchus kisutch) que Certified Humane presentó el 8 de octubre en un webinar dirigido a la industria salmonicultora. El documento establece los requisitos que deben cumplir las operaciones que buscan esta certificación. En el encuentro participaron Rosangela Poletto, médica veterinaria e integrante del Comité Científico de Humane Farm Animal Care; Daniel Santiago Rucinque, médico veterinario y auditor de acuicultura de Certified Humane; y Luiz Mazzon, director general del programa para Amér",
-        "en": "Water quality, fasting time, and the way a fish is transported and slaughtered all influence its well-being. These aspects are part of the new standard for the welfare of coho salmon (Oncorhynchus kisutch) that Certified Humane presented on October 8 in a webinar aimed at the salmon farming industry. The document establishes the requirements that must be met by operations seeking this certification. The meeting was attended by Rosangela Poletto, veterinarian and member of the Scientific Committee of Humane Farm Animal Care; Daniel Santiago Rucinque, veterinarian and aquaculture auditor of Certified Humane; and Luiz Mazzon, general director of the program for America",
-        "no": "Vannkvalitet, fastetid og måten en fisk transporteres og slaktes på, påvirker dens velvære. Disse aspektene er en del av den nye standarden for velferd for coho laks (Oncorhynchus kisutch) som Certified Humane presenterte 8. oktober i et webinar rettet mot lakseoppdrettsnæringen. Dokumentet fastsetter kravene som må oppfylles av operasjoner som søker denne sertifiseringen. På møtet deltok Rosangela Poletto, veterinær og medlem av Scientific Committee of Humane Farm Animal Care; Daniel Santiago Rucinque, veterinær og akvakulturrevisor for Certified Humane; og Luiz Mazzon, generaldirektør for programmet for Amerika"
+        "es": "Una tecnología desarrollada en la región del Biobío para enfrentar uno de los problemas presentes en las primeras etapas del cultivo de salmones avanzará hacia su validación a escala industrial. El proyecto será llevado adelante por Innaqua LAB, startup nacida en la Universidad Católica de la Santísima Concepción (UCSC), tras ser seleccionada en el Concurso I+D para Innovar 2026 de Fundación Copec-UC. La iniciativa, denominada “DAL y su efecto hasta smoltificación”, fue una de las cuatro seleccionadas entre un récord de 271 postulaciones provenientes de universidades, centros de investigación, empresas y startups. Cada proyecto podrá recibir hasta UF 4.000 para avanzar en el desarrollo y val",
+        "en": "A technology developed in the Biobio region to address one of the problems present in the early stages of salmon farming will move towards its validation on an industrial scale. The project will be carried out by INNAQUA LAB, a startup born at the Catholic University of La Santísima Concepción (UCSC), after being selected in the Copec-UC Foundation's R&D Contest to Innovate 2026. The initiative, called \"DAL and its effect up to smoltification\", was one of the four selected from a record 271 applications from universities, research centers, companies and startups. Each project may receive up to UF 4,000 to advance development and value",
+        "no": "En teknologi som er utviklet i Biobio-regionen for å løse et av problemene som er tilstede i de tidlige stadiene av lakseoppdrett, vil bevege seg mot validering i industriell skala. Prosjektet vil bli utført av Innaqua LAB, en oppstartsbedrift født ved det katolske universitetet i La Santísima Concepción (UCSC), etter å ha blitt valgt ut i Copec-UC-stiftelsens FoU-konkurranse for å innovere 2026. Initiativet, som heter «DAL and its effect up to smoltification», var ett av fire utvalgte fra rekordhøye 271 søknader fra universiteter, forskningssentre, bedrifter og startups. Hvert prosjekt kan motta opptil UF 4000 for å fremme utvikling og verdi"
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "environment",
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
       "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 9,
+      "score": 10,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-09-a-las-1.35.08-p.m.png"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/UCSC.png"
     },
     {
       "title": {
-        "es": "Presupuesto 2027: Lineamientos para salmonicultura más sostenible incrementarán sus recursos",
-        "en": "Budget 2027: Guidelines for more sustainable salmon farming will increase its resources",
-        "no": "Budsjett 2027: Retningslinjer for mer bærekraftig lakseoppdrett vil øke ressursene"
+        "es": "Asume nuevo director nacional (S) de Sernapesca",
+        "en": "Assumes new national director (S) of Sernapesca",
+        "no": "Anta ny (e) nasjonal (e) direktør (er) for Sernapesca"
       },
-      "url": "https://www.salmonexpert.cl/jose-antonio-kast-kast-presidente/presupuesto-2027-lineamientos-para-salmonicultura-mas-sostenible-incrementaran-sus-recursos/2191862",
+      "url": "https://www.aqua.cl/asume-nuevo-director-nacional-subrogante-de-sernapesca/",
+      "date": "Wed, 14 Oct 2026 15:41:00 +0000",
+      "summary": {
+        "es": "El subdirector de Pesquerías de Sernapesca, Pablo Ortiz Lima , asumió como director nacional subrogante del Servicio Nacional de Pesca y Acuicultura a partir del 7 de octubre. Ingeniero pesquero de la Universidad Católica de la Santísima Concepción (UCSC) y magíster en Gestión de Recursos Acuáticos de la Pontificia Universidad Católica de Valparaíso (PUCV), cuenta con más de 20 años de trayectoria en el sector pesquero nacional e internacional. Su experiencia incluye fiscalización, monitoreo, control de flotas pesqueras y gobernanza marítima, áreas vinculadas con la gestión y supervisión de la actividad pesquera. La trayectoria de Ortiz Lima en Sernapesca comenzó en 2010, en la Dirección Reg",
+        "en": "The deputy director of Fisheries of Sernapesca, Pablo Ortiz Lima , took over as the surrogate national director of the National Fisheries and Aquaculture Service as of October 7. A fisheries engineer from the Catholic University of La Santísima Concepción (UCSC) and a master's degree in Aquatic Resource Management from the Pontifical Catholic University of Valparaíso (PUCV), he has more than 20 years of experience in the national and international fishing sector. His experience includes control, monitoring, control of fishing fleets and maritime governance, areas related to the management and supervision of fishing activity. Ortiz Lima's career at Sernapesca began in 2010, in the Reg.",
+        "no": "Visedirektør for fiskeri i Sernapesca, Pablo Ortiz Lima , tok over som nasjonal surrogatdirektør for National Fisheries and Aquaculture Service fra 7. oktober. En fiskeri-ingeniør fra det katolske universitetet i La Santísima Concepción (UCSC) og en mastergrad i akvatisk ressursforvaltning fra det pavelige katolske universitetet i Valparaíso (PUCV), han har mer enn 20 års erfaring i nasjonal og internasjonal fiskerisektor. Hans erfaring omfatter kontroll, overvåking, kontroll av fiskeflåter og maritim styring, områder knyttet til forvaltning og tilsyn av fiskeriaktivitet. Ortiz Limas karriere hos Sernapesca begynte i 2010, i Reg."
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Pablo-Ortiz-Director-S-Sernapesca-HUl8ereXkAAMcI8-scaled-e1791992332786.jpg"
+    },
+    {
+      "title": {
+        "es": "Pese al arancel, exportaciones de salmón chileno a Estados Unidos mantienen crecimiento",
+        "en": "Despite the tariff, Chilean salmon exports to the United States maintain growth",
+        "no": "Til tross for tariffen opprettholder den chilenske lakseeksporten til USA veksten"
+      },
+      "url": "https://www.salmonexpert.cl/aduanas-chile-exportaciones-de-salmon/pese-al-arancel-exportaciones-de-salmon-chileno-a-estados-unidos-mantienen-crecimiento/2194063",
       "date": "",
       "summary": {
-        "es": "Los focos que tendrán Subpesca y Sernapesca durante el próximo año, se dirigen a otorgar certezas a la industria acuícola, reformando entre otras cosas la polémica Ley Lafkenche y acelerando la entrega de permisos sectoriales.",
-        "en": "The focuses that Subpesca and Sernapesca will have during the next year are aimed at providing certainty to the aquaculture industry, reforming, among other things, the controversial Lafkenche Law and accelerating the delivery of sectoral permits.",
-        "no": "Fokusene som Subpesca og Sernapesca vil ha i løpet av det neste året er rettet mot å gi sikkerhet til oppdrettsnæringen, reformere blant annet den kontroversielle Lafkenche-loven og akselerere leveringen av sektortillatelser."
+        "es": "Los envíos al mercado estadounidense superaron los US$2 mil millones entre enero y septiembre, mientras China y Brasil también registraron importantes incrementos en sus importaciones.",
+        "en": "Shipments to the US market exceeded US$2 billion between January and September, while China and Brazil also recorded significant increases in their imports.",
+        "no": "Forsendelser til det amerikanske markedet oversteg US$2 milliarder mellom januar og september, mens Kina og Brasil også registrerte betydelige økninger i importen."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 19,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2194071.jpg?imageId=2194071&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Sernapesca confirma término de cosecha en centro Izaza de Salmones Camanchaca por virus ISA en Aysén",
+        "en": "Sernapesca confirms harvest term in Izaza de Salmones Camanchaca center due to ISA virus in Aysén",
+        "no": "Sernapesca bekrefter innhøstingsperioden i Izaza de Salmones Camanchaca-senteret på grunn av ISA-viruset i Aysén"
+      },
+      "url": "https://www.mundoacuicola.cl/new/sernapesca-confirma-termino-de-cosecha-en-centro-izaza-de-salmones-camanchaca-por-virus-isa-en-aysen/",
+      "date": "Wed, 14 Oct 2026 17:19:33 +0000",
+      "summary": {
+        "es": "El centro de Salmones Camanchaca iniciará su periodo de descanso sanitario, mientras que en el centro Luchín de Cermaq continúan las labores de cosecha. La autoridad informó que no se han detectado nuevos resultados positivos ni signos compatibles con la enfermedad en los centros bajo seguimiento. La entrada Sernapesca confirma término de cosecha en centro Izaza de Salmones Camanchaca por virus ISA en Aysén se publicó primero en Mundoacuicola .",
+        "en": "The Camanchaca Salmon Center will begin its sanitary rest period, while the Luchín de Cermaq Center will continue harvesting. The authority reported that no new positive results or signs compatible with the disease have been detected in the centers under follow-up. The Sernapesca entry confirms that the harvest in the Izaza de Salmones Camanchaca center due to the ISA virus in Aysén was first published in Mundoacuicola .",
+        "no": "Camanchaca Salmon Center vil begynne sin sanitære hvileperiode, mens Luchín de Cermaq Center vil fortsette å høste. Myndigheten rapporterte at det ikke er påvist nye positive resultater eller tegn som er forenlige med sykdommen i sentrene som er under oppfølging. Sernapesca-oppføringen bekrefter at innhøstingen i Izaza de Salmones Camanchaca-senteret på grunn av ISA-viruset i Aysén først ble publisert i Mundoacuicola ."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Sernapesca-confirma-termino-de-cosecha-en-centro-Izaza-de-Salmones-Camanchaca-por-virus-ISA-en-Aysen.jpg"
+    },
+    {
+      "title": {
+        "es": "Sernapesca da por finalizada contingencia por FAN que dejó 917,79 toneladas de mortalidad",
+        "en": "Sernapesca terminates contingency for FAN that left 917.79 tons of mortality",
+        "no": "Sernapesca avslutter beredskapen for VIFTEN som etterlot 917,79 tonn dødelighet"
+      },
+      "url": "https://www.aqua.cl/sernapesca-da-por-finalizada-contingencia-por-fan-que-dejo-91779-toneladas-de-mortalidad/",
+      "date": "Thu, 15 Oct 2026 09:49:00 +0000",
+      "summary": {
+        "es": "El Servicio Nacional de Pesca y Acuicultura (Sernapesca) informó el término de la contingencia asociada a una Floración de Algas Nocivas (FAN) que generó mortalidad masiva de peces en centros de cultivo de Multiexport Patagonia S.A., ubicados en las Agrupaciones de Concesiones de Salmónidos (ACS) 43 A y 43 B, en la región de Magallanes. El evento generó un total de 917,79 toneladas de peces muertos, cuya mortalidad fue retirada en su totalidad. Durante la contingencia, Sernapesca mantuvo fiscalizaciones para verificar que el retiro, manejo, almacenamiento y desnaturalización se efectuaran conforme a las exigencias normativas. Mortalidad fue trasladada a planta reductora en Los Lagos La morta",
+        "en": "The National Fisheries and Aquaculture Service (Sernapesca) reported the end of the contingency associated with a Harmful Algae Flowering (FAN) that generated massive mortality of fish in Multiexport Patagonia SA's cultivation centers, located in Salmonid Concession Groups (ACS) 43 A and 43 B, in the Magallanes region. The event generated a total of 917.79 tons of dead fish, whose mortality was removed in its entirety. During the contingency, Sernapesca maintained audits to verify that the removal, handling, storage and denaturation were carried out in accordance with regulatory requirements. Mortality was transferred to reduction plant in Los Lagos La morta",
+        "no": "National Fisheries and Aquaculture Service (Sernapesca) rapporterte slutten på beredskapen knyttet til en skadelig algeblomstring (VIFTE) som genererte massiv dødelighet av fisk i Multiexport Patagonia SAs kultiveringssenter, lokalisert i Salmonid Concession Groups (ACS) 43 A og 43 B, i Magallanes-regionen. Hendelsen genererte totalt 917,79 tonn død fisk, hvis dødelighet ble fjernet i sin helhet. Under beredskapen gjennomførte Sernapesca revisjoner for å verifisere at fjerning, håndtering, lagring og denaturering ble utført i samsvar med regulatoriske krav. Dødeligheten ble overført til reduksjonsanlegget i Los Lagos La morta"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "regulatory",
       "category_label": {
         "es": "Regulatorio",
         "en": "Regulatory & Policy",
         "no": "Regulering og politikk"
       },
-      "score": 18,
+      "score": 16,
       "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2191907.jpg?imageId=2191907&x=0&y=8.06&cropw=100&croph=71.67&panox=0&panoy=8.06&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Sernapesca-FAN-Magallanes-Sernapesca.jpg"
     }
   ]
 }
