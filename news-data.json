@@ -1,213 +1,38 @@
 {
-  "updated": "2026-10-22T22:25:27Z",
+  "updated": "2026-10-26T12:46:53Z",
   "articles": [
     {
       "title": {
-        "es": "AquaChile y estudiantes UC exploran alternativas para aprovechar la sangre del salmón",
-        "en": "AquaChile and UC students explore alternatives to take advantage of salmon blood",
-        "no": "AquaChile og UC-studenter utforsker alternativer for å dra nytte av lakseblod"
+        "es": "Respuesta inmune del salmón abre nuevas pistas para combatir la tenacibaculosis",
+        "en": "Salmon immune response opens up new clues to combat tenacibaculosis",
+        "no": "Laksens immunrespons åpner opp nye ledetråder for å bekjempe tenacibaculose"
       },
-      "url": "https://www.mundoacuicola.cl/new/aquachile-y-estudiantes-uc-exploran-alternativas-para-aprovechar-la-sangre-del-salmon/",
-      "date": "Thu, 22 Oct 2026 14:00:46 +0000",
+      "url": "https://www.salmonexpert.cl/tenacibaculosis-tenacibaculum/respuesta-inmune-del-salmon-abre-nuevas-pistas-para-combatir-la-tenacibaculosis/2198925",
+      "date": "",
       "summary": {
-        "es": "A través del programa Sin Límites, tres estudiantes de la Pontificia Universidad Católica de Chile trabajaron durante tres meses en alternativas para valorizar la sangre del salmón. La iniciativa, desarrollada junto a AquaChile y el Centro de Innovación UC, identificó posibles aplicaciones en agronomía, nutrición animal y biotecnología. La entrada AquaChile y estudiantes UC exploran alternativas para aprovechar la sangre del salmón se publicó primero en Mundoacuicola .",
-        "en": "Through the Unlimited program, three students from the Pontifical Catholic University of Chile worked for three months on alternatives to enhance salmon blood. The initiative, developed together with AquaChile and the UC Innovation Center, identified possible applications in agronomy, animal nutrition and biotechnology. The entry AquaChile and UC students explore alternatives to take advantage of salmon blood was first published in Mundoacuicola .",
-        "no": "Gjennom Unlimited-programmet arbeidet tre studenter fra Det pavelige katolske universitetet i Chile i tre måneder med alternativer for å forbedre lakseblod. Initiativet, utviklet sammen med AquaChile og UC Innovation Center, identifiserte mulige anvendelser innen agronomi, dyreernæring og bioteknologi. Oppføringen AquaChile og UC-studenter utforsker alternativer for å dra nytte av lakseblod ble først publisert i Mundoacuicola ."
+        "es": "Científicos identificaron señales inflamatorias y mecanismos de regulación inmune frente aTenacibaculum dicentrarchi. Los hallazgos podrían orientar la evaluación de compuestos con potencial terapéutico.",
+        "en": "Scientists identified inflammatory signals and mechanisms of immune regulation against Tenacibaculum dicentrarchi. The findings could guide the evaluation of compounds with therapeutic potential.",
+        "no": "Forskere identifiserte inflammatoriske signaler og mekanismer for immunregulering mot Tenacibaculum dicentrarchi. Funnene kan veilede evalueringen av forbindelser med terapeutisk potensial."
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 8,
+      "score": 4,
       "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/AquaChile-y-estudiantes-UC-exploran-alternativas-para-aprovechar-la-sangre-del-salmon.jpg"
+      "image": "https://image.salmonexpert.cl/2198933.jpg?imageId=2198933&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "AquaChile muestra innovación tecnológica a Sofofa en Aysén",
-        "en": "AquaChile shows technological innovation to Sofofa in Aysén",
-        "no": "AquaChile viser teknologisk innovasjon til Sofofa i Aysén"
+        "es": "Innovación abierta: universitarios buscan nuevas formas de aprovechar subproductos del salmón",
+        "en": "Open Innovation: College Students Seek New Ways to Harness Salmon Byproducts",
+        "no": "Åpen innovasjon: Studenter søker nye måter å utnytte laksebiprodukter på"
       },
-      "url": "https://www.aqua.cl/aquachile-muestra-innovacion-tecnologica-a-sofofa-en-aysen/",
-      "date": "Thu, 22 Oct 2026 09:47:00 +0000",
-      "summary": {
-        "es": "En el marco de una visita a la región de Aysén, el Comité Ejecutivo de la Sociedad de Fomento Fabril (SOFOFA), encabezado por su presidenta, Rosario Navarro, recorrió el centro de cultivo Isla Colorada de AquaChile, ubicado en los fiordos de la zona. La actividad contó también con la participación de representantes de IdeAysén, gremio socio de la entidad empresarial. Durante el recorrido, la delegación conoció el proceso de cultivo y engorda de salmones en agua de mar, las tecnologías utilizadas en las distintas etapas de la operación y las prácticas orientadas al bienestar animal. La visita permitió observar en terreno la incorporación de herramientas de innovación y monitoreo a la activida",
-        "en": "As part of a visit to the Aysén region, the Executive Committee of the Sociedad de Fomento Fabril (SOFOFA), headed by its president, Rosario Navarro, toured the Isla Colorada de AquaChile cultivation center, located in the fjords of the area. The activity was also attended by representatives of IdeAysén, the partner guild of the business entity. During the tour, the delegation learned about the process of farming and fattening salmon in seawater, the technologies used in the different stages of the operation, and the practices aimed at animal welfare. The visit made it possible to observe in the field the incorporation of innovation and monitoring tools to the activity",
-        "no": "Som en del av et besøk til Aysén-regionen, besøkte eksekutivkomiteen for Sociedad de Fomento Fabril (SOFOFA), ledet av sin president, Rosario Navarro, dyrkingssenteret Isla Colorada de AquaChile, som ligger i fjordene i området. Aktiviteten ble også deltatt av representanter for IdeAysén, partnerlauget til forretningsenheten. Under turen lærte delegasjonen om prosessen med oppdrett og fôring av laks i sjøvann, teknologiene som brukes i de ulike stadiene av operasjonen, og praksisen rettet mot dyrevelferd. Besøket gjorde det mulig å observere i feltet inkorporering av innovasjon og overvåkingsverktøy til aktiviteten"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 8,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Visita-Sofofa-AC-scaled.jpg"
-    },
-    {
-      "title": {
-        "es": "Hackatón 2026 en Puerto Montt impulsó soluciones de IA para la industria del salmón",
-        "en": "2026 Hackathon in Puerto Montt boosted AI solutions for the salmon industry",
-        "no": "2026 Hackathon i Puerto Montt styrket AI-løsninger for laksenæringen"
-      },
-      "url": "https://www.aqua.cl/hackaton-2026-en-puerto-montt-impulso-soluciones-de-ia-para-la-industria-del-salmon/",
-      "date": "Thu, 22 Oct 2026 09:49:00 +0000",
-      "summary": {
-        "es": "La Cross Industry Hackatón 2026 reunió el martes 20 de octubre en Puerto Montt a desarrolladores, startups y equipos técnicos para impulsar soluciones innovadoras frente a desafíos de industrias con fuerte presencia en la región de Los Lagos, como la salmonicultura. La iniciativa fue organizada por la Incubadora Volcanes, plataforma impulsada por Këtrawa junto a Corfo y el Centro de Innovación UC Anacleto Angelini. En este contexto, la CEO y fundadora de Këtrawa, María José Urrutia, destacó que “hoy día estamos viendo un hito en la industria. El gobierno actual ha pedido que la industria se empape y haga transformación digital con la IA particularmente”. Asimismo, mencionó que actualmente ha",
-        "en": "The Cross Industry Hackathon 2026 brought together developers, startups and technical teams in Puerto Montt on Tuesday, October 20, to promote innovative solutions to the challenges of industries with a strong presence in the Los Lagos region, such as salmon farming. The initiative was organized by the Volcanoes Incubator, a platform promoted by Këtrawa together with Corfo and the UC Anacleto Angelini Innovation Center. In this context, the CEO and founder of Këtrawa, María José Urrutia, stressed that \"today we are seeing a milestone in the industry. The current government has called for the industry to soak up and make digital transformation with AI in particular.” He also mentioned that he has currently",
-        "no": "Cross Industry Hackathon 2026 samlet utviklere, oppstartsbedrifter og tekniske team i Puerto Montt tirsdag 20. oktober for å fremme innovative løsninger på utfordringene i bransjer med en sterk tilstedeværelse i Los Lagos-regionen, for eksempel lakseoppdrett. Initiativet ble organisert av Volcanoes Incubator, en plattform fremmet av Këtrawa sammen med Corfo og UC Anacleto Angelini Innovation Center. I denne sammenhengen understreket administrerende direktør og grunnlegger av Këtrawa, María José Urrutia, at \"i dag ser vi en milepæl i bransjen. Den nåværende regjeringen har oppfordret bransjen til å suge til seg og gjøre digital transformasjon med AI spesielt.\" Han nevnte også at han for tiden har"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/muncipio-de-puerto-montt.jpg"
-    },
-    {
-      "title": {
-        "es": "Confianza en salmonicultura llega a 40% en regiones del sur austral",
-        "en": "Confidence in salmon farming reaches 40% in southern regions",
-        "no": "Tilliten til lakseoppdrett når 40% i sør"
-      },
-      "url": "https://www.mundoacuicola.cl/new/confianza-en-salmonicultura-llega-a-40-en-regiones-del-sur-austral/",
-      "date": "Wed, 21 Oct 2026 17:48:17 +0000",
-      "summary": {
-        "es": "El estudio Valor Productivo 2026 muestra que la percepción de la industria es más favorable en Los Lagos, Aysén y Magallanes y entre quienes mantienen vínculos laborales o familiares con el sector. Aunque la confianza disminuyó respecto de 2025, se mantiene por encima de los niveles registrados en 2023 y 2024. La entrada Confianza en salmonicultura llega a 40% en regiones del sur austral se publicó primero en Mundoacuicola .",
-        "en": "The 2026 Productive Value study shows that the perception of the industry is more favorable in Los Lagos, Aysén and Magallanes and among those who maintain work or family ties with the sector. Although confidence decreased compared to 2025, it remains above the levels recorded in 2023 and 2024. The entry Confianza en salmonicultura reaches 40% in southern regions was first published in Mundoacuicola .",
-        "no": "2026-studien av produktiv verdi viser at oppfatningen av bransjen er gunstigere i Los Lagos, Aysén og Magallanes og blant de som opprettholder arbeids- eller familiebånd med sektoren. Selv om tilliten ble redusert sammenlignet med 2025, forblir den over nivåene registrert i 2023 og 2024. Oppføringen Confianza en salmonicultura når 40% i sørlige regioner ble først publisert i Mundoacuicola ."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Confianza-en-salmonicultura-llega-a-40-en-regiones-del-sur-austral.png"
-    },
-    {
-      "title": {
-        "es": "Consejo del Salmón destaca liderazgo de Chile en Seafood Show Latin America 2026",
-        "en": "Salmon Council Highlights Chilean Leadership at Seafood Show Latin America 2026",
-        "no": "Lakserådet fremhever chilensk lederskap på Seafood Show Latin-Amerika 2026"
-      },
-      "url": "https://www.aqua.cl/consejo-del-salmon-destaca-liderazgo-de-chile-en-seafood-show-latin-america-2026/",
-      "date": "Thu, 22 Oct 2026 09:46:00 +0000",
-      "summary": {
-        "es": "Los desafíos del comercio internacional, las nuevas dinámicas geopolíticas y el liderazgo de Chile en la producción mundial de salmón fueron parte de los temas abordados por el Consejo del Salmón durante su participación en Seafood Show Latin America 2026. El evento, realizado en São Paulo, Brasil, reúne a representantes de la industria, autoridades y especialistas del sector. Se trata de una de las principales ferias de productos del mar de América Latina. En el marco de la feria, se desarrolló el panel “Geopolítica, Aranceles y Comercio Internacional: cómo el nuevo escenario mundial está redefiniendo el mercado de productos del mar”. La conversación fue moderada por Ricardo Torres, Head de",
-        "en": "The challenges of international trade, the new geopolitical dynamics and Chile's leadership in global salmon production were part of the topics addressed by the Salmon Council during its participation in the Seafood Show Latin America 2026. The event, held in São Paulo, Brazil, brings together industry representatives, authorities, and industry specialists. It is one of the main seafood fairs in Latin America. Within the framework of the fair, the panel \"Geopolitics, Tariffs and International Trade: how the new world scenario is redefining the seafood market\" was developed. The conversation was moderated by Ricardo Torres, Head of",
-        "no": "Utfordringene med internasjonal handel, den nye geopolitiske dynamikken og Chiles lederskap i global lakseproduksjon var en del av temaene som ble tatt opp av Salmon Council under deltakelsen i Seafood Show Latin America 2026. Arrangementet, som holdes i São Paulo, Brasil, samler bransjerepresentanter, myndigheter og bransjespesialister. Det er en av de viktigste sjømatmessene i Latin-Amerika. Innenfor rammen av messen ble panelet \"Geopolitikk, tariffer og internasjonal handel: hvordan det nye verdensscenariet omdefinerer sjømatmarkedet\" utviklet. Samtalen ble moderert av Ricardo Torres, leder av"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 14,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/ConsejoSalmon-Brasil-2-IMGSeafood1-1024x768.jpeg"
-    },
-    {
-      "title": {
-        "es": "Congreso Agua Mar reunirá ciencia e industria para abordar desafíos ambientales y sanitarios de la salmonicultura",
-        "en": "Water Sea Congress will bring together science and industry to address environmental and health challenges of salmon farming",
-        "no": "Water Sea Congress vil samle vitenskap og industri for å løse miljø- og helseutfordringer i lakseoppdrett"
-      },
-      "url": "https://www.mundoacuicola.cl/new/congreso-agua-mar-reunira-ciencia-e-industria-para-abordar-desafios-ambientales-y-sanitarios-de-la-salmonicultura/",
-      "date": "Thu, 22 Oct 2026 12:00:28 +0000",
-      "summary": {
-        "es": "El encuentro, organizado por Mundo Acuícola, se realizará el próximo 26 de noviembre en Puerto Varas y abordará cambio climático, floraciones algales nocivas, virus ISA y SRS, reuniendo a especialistas vinculados a la investigación y la industria salmonicultora. La entrada Congreso Agua Mar reunirá ciencia e industria para abordar desafíos ambientales y sanitarios de la salmonicultura se publicó primero en Mundoacuicola .",
-        "en": "The meeting, organized by Mundo Acuícola, will be held on November 26 in Puerto Varas and will address climate change, harmful algal blooms, ISA and SRS viruses, bringing together specialists linked to research and the salmon farming industry. The entry Water Sea Congress will bring together science and industry to address environmental and health challenges of salmon farming was first published in Mundoacuicola .",
-        "no": "Møtet, organisert av Mundo Acuícola, vil bli avholdt 26. november i Puerto Varas og vil ta opp klimaendringer, skadelige algeoppblomstringer, ISA- og SRS-virus, og bringe sammen spesialister knyttet til forskning og lakseoppdrettsnæringen. Oppslaget Water Sea Congress vil samle vitenskap og industri for å løse miljø- og helseutfordringer i lakseoppdrett ble først publisert i Mundoacuicola ."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 13,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Congreso-Agua-Mar-reunira-ciencia-e-industria-para-abordar-desafios-ambientales-y-sanitarios-de-la-salmonicultura.jpg"
-    },
-    {
-      "title": {
-        "es": "CASA y OMSA abordan el bienestar en acuicultura para reducir el uso de antimicrobianos",
-        "en": "CASA and OMSA address welfare in aquaculture to reduce antimicrobial use",
-        "no": "CASA og OMSA adresserer velferd i akvakultur for å redusere antimikrobiell bruk"
-      },
-      "url": "https://infosalmon.cl/bienestar-acuicultura-casa-omsa-antimicrobianos/",
-      "date": "Wed, 21 Oct 2026 20:12:41 +0000",
-      "summary": {
-        "es": "La prevención de una enfermedad también se juega en el oxígeno disponible y la temperatura del agua. Importa además la forma en que se trasladan o manipulan los peces. Esa conexión entre el bienestar en acuicultura, el estrés y la salud fue el eje del seminario web “Bienestar en Animales Acuáticos: Menos Estrés, Menos Enfermedades, Menos Antimicrobianos”, realizado el 20 de octubre. La actividad fue organizada por el Centro Colaborador CASA , de la Universidad de Chile. También participó la Oficina Regional para las Américas de la Organización Mundial de Sanidad Animal (OMSA). Con ella concluyó el ciclo “Combatiendo la RAM en acuicultura”, dedicado a estrategias preventivas frente a la resis",
-        "en": "Disease prevention is also played out in the available oxygen and water temperature. It also matters how the fish are moved or handled. This connection between aquaculture welfare, stress and health was the focus of the webinar \"Aquatic Animal Welfare: Less Stress, Less Diseases, Less Antimicrobials\", held on October 20. The activity was organized by the CASA Collaborating Center of the University of Chile. The Regional Office for the Americas of the World Organization for Animal Health (OMSA) also participated. With it he concluded the cycle \"Combating AMR in aquaculture\", dedicated to preventive strategies against resis",
-        "no": "Sykdomsforebygging spilles også ut i den tilgjengelige oksygen- og vanntemperaturen. Det har også betydning hvordan fisken flyttes eller håndteres. Denne sammenhengen mellom akvakulturvelferd, stress og helse var fokus for webinaret \"Aquatic Animal Welfare: Less Stress, Less Diseases, Less Antimicrobials\", som ble holdt 20. oktober. Aktiviteten ble organisert av CASA Collaborating Center ved Universitetet i Chile. Det regionale kontoret for Amerika i Verdensorganisasjonen for dyrehelse (OMSA) deltok også. Med den avsluttet han syklusen \"Combating AMR in aquaculture\", dedikert til forebyggende strategier mot resis"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-20-a-las-1.19.49-p.m.png"
-    },
-    {
-      "title": {
-        "es": "Economía circular y salmonicultura: los proyectos sostenibles creados por estudiantes en Micelio Sur 2026",
-        "en": "Circular economy and salmon farming: the sustainable projects created by students in Mycelium South 2026",
-        "no": "Sirkulær økonomi og lakseoppdrett: de bærekraftige prosjektene skapt av studenter i Mycelium South 2026"
-      },
-      "url": "https://www.aqua.cl/economia-circular-y-salmonicultura-los-proyectos-sostenibles-creados-por-estudiantes-en-micelio-sur-2026/",
-      "date": "Thu, 22 Oct 2026 13:00:00 +0000",
-      "summary": {
-        "es": "Con la participación de más de 150 estudiantes de siete establecimientos educacionales de la región de Los Lagos, se realizó la ceremonia de cierre de Micelio Sur 2026 . La iniciativa finalizó con la presentación de ocho proyectos de innovación desarrollados por escolares, en una actividad realizada en el auditorio de Duoc UC, sede Puerto Montt. En esta segunda edición participaron estudiantes de la Escuela Pargua y el Colegio San Miguel, de Calbuco; los establecimientos Felmer Niklitschek, Rosita Novaro y Nueva Braunau, de Puerto Varas; la Escuela Tomás Burgos, de Purranque; y el Liceo de Hombres de Puerto Montt. El programa buscó acercar a los jóvenes al mundo productivo, permitiéndoles co",
-        "en": "With the participation of more than 150 students from seven educational establishments in the Los Lagos region, the Mycelium South 2026 closing ceremony was held. The initiative ended with the presentation of eight innovation projects developed by schoolchildren, in an activity held in the Duoc UC auditorium, Puerto Montt headquarters. This second edition was attended by students from the Pargua School and the San Miguel School, in Calbuco; the Felmer Niklitschek, Rosita Novaro and Nueva Braunau establishments, in Puerto Varas; the Tomás Burgos School, in Purranque; and the Puerto Montt Men's High School. The program sought to bring young people closer to the productive world, allowing them to",
-        "no": "Med deltakelse av mer enn 150 studenter fra syv utdanningsinstitusjoner i Los Lagos-regionen, ble avslutningsseremonien for Mycelium South 2026 avholdt. Initiativet endte med presentasjonen av åtte innovasjonsprosjekter utviklet av skolebarn, i en aktivitet holdt i Duoc UC auditorium, Puerto Montt hovedkvarter. Denne andre utgaven ble fulgt av studenter fra Pargua School og San Miguel School, i Calbuco; Felmer Niklitschek, Rosita Novaro og Nueva Braunau etablissementer, i Puerto Varas; Tomás Burgos School, i Purranque; og Puerto Montt Men's High School. Programmet søkte å bringe unge mennesker nærmere den produktive verden, slik at de kunne"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 11,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/DSC06197-1024x684.jpg"
-    },
-    {
-      "title": {
-        "es": "Pese al arancel, exportaciones de salmón chileno a Estados Unidos mantienen crecimiento",
-        "en": "Despite the tariff, Chilean salmon exports to the United States maintain growth",
-        "no": "Til tross for tariffen opprettholder den chilenske lakseeksporten til USA veksten"
-      },
-      "url": "https://www.salmonexpert.cl/aduanas-chile-exportaciones-de-salmon/pese-al-arancel-exportaciones-de-salmon-chileno-a-estados-unidos-mantienen-crecimiento/2194063",
+      "url": "https://www.salmonexpert.cl/aquachile-estudiantes-innovacion/innovacion-abierta-universitarios-buscan-nuevas-formas-de-aprovechar-subproductos-del-salmon/2198911",
       "date": "",
       "summary": {
         "es": "",
@@ -216,28 +41,253 @@
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 2,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2198917.jpg?imageId=2198917&x=0&y=30.14&cropw=100&croph=35.83&panox=0&panoy=30.14&panow=100&panoh=35.83&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Salmon Next abordó los desafíos de competitividad y resiliencia de la salmonicultura chilena",
+        "en": "Salmon Next addressed the competitiveness and resilience challenges of Chilean salmon farming",
+        "no": "Salmon Next adresserte utfordringene med konkurranseevne og motstandskraft i chilensk lakseoppdrett"
+      },
+      "url": "https://www.aqua.cl/salmon-next-abordo-los-desafios-de-competitividad-y-resiliencia-de-la-salmonicultura-chilena/",
+      "date": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "summary": {
+        "es": "¿Cómo puede la salmonicultura chilena fortalecer su competitividad cuando producir más no necesariamente es la única respuesta? Esta pregunta marcó el encuentro Salmon Next: “Competitividad, resiliencia y desempeño para la próxima era de la salmonicultura” , organizado por Alltech el 22 de octubre en Puerto Varas. En un escenario marcado por condiciones ambientales variables, nuevas exigencias productivas y la necesidad de utilizar los recursos de manera eficiente, la jornada abordó cómo anticiparse a los cambios, aprender de experiencias internacionales y aplicar la ciencia para mejorar la toma de decisiones. El encuentro reunió al economista y académico de la Universidad Adolfo Ibáñez, Rap",
+        "en": "How can Chilean salmon farming strengthen its competitiveness when producing more is not necessarily the only answer? This question marked the Salmon Next meeting: \"Competitiveness, resilience and performance for the next era of salmon farming\" , organized by Alltech on October 22 in Puerto Varas. In a scenario marked by variable environmental conditions, new production demands and the need to use resources efficiently, the conference addressed how to anticipate changes, learn from international experiences and apply science to improve decision-making. The meeting brought together the economist and academic of the Adolfo Ibáñez University, Rap",
+        "no": "Hvordan kan chilensk lakseoppdrett styrke sin konkurranseevne når produksjon av mer ikke nødvendigvis er det eneste svaret? Dette spørsmålet markerte Salmon Next møtet: \"Competitiveness, resilience and performance for the next era of salmon farming\" , arrangert av Alltech 22. oktober i Puerto Varas. I et scenario preget av varierende miljøforhold, nye produksjonskrav og behovet for å bruke ressurser effektivt, adresserte konferansen hvordan man kan forutse endringer, lære av internasjonale erfaringer og anvende vitenskap for å forbedre beslutningstaking. Møtet samlet økonomen og akademikeren ved Adolfo Ibáñez-universitetet, Rap"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/DSC03495-RafaelBergoeing-1024x683.jpg"
+    },
+    {
+      "title": {
+        "es": "BioMar, Multi X e INIA impulsan una acuicultura regenerativa",
+        "en": "BioMar, Multi X and INIA promote regenerative aquaculture",
+        "no": "BioMar, Multi X og inia fremmer regenerativ akvakultur"
+      },
+      "url": "https://www.aqua.cl/biomar-multi-x-e-inia-impulsan-una-acuicultura-regenerativa/",
+      "date": "Mon, 26 Oct 2026 09:48:00 +0000",
+      "summary": {
+        "es": "El proyecto fue presentado oficialmente durante una jornada de kick off que reunió a representantes del sector productivo, la ciencia y la industria de nutrición acuícola, marcando el inicio de un trabajo conjunto orientado a comprender, medir y potenciar prácticas regenerativas en el contexto de la salmonicultura. Más allá de reducir impactos, el enfoque regenerativo busca generar resultados positivos y duraderos, fortaleciendo la resiliencia de los ecosistemas, promoviendo la biodiversidad y creando valor para las personas y territorios vinculados a la actividad acuícola. La colaboración entre organizaciones con experiencias y perspectivas complementarias constituye uno de los pilares fund",
+        "en": "The project was officially presented during a kick off day that brought together representatives of the productive sector, science and the aquaculture nutrition industry, marking the beginning of a joint work aimed at understanding, measuring and promoting regenerative practices in the context of salmon farming. Beyond reducing impacts, the regenerative approach seeks to generate positive and lasting results, strengthening the resilience of ecosystems, promoting biodiversity and creating value for people and territories linked to aquaculture activity. Collaboration between organizations with complementary experiences and perspectives is one of the fund pillars",
+        "no": "Prosjektet ble offisielt presentert i løpet av en kick off-dag som samlet representanter for produktiv sektor, vitenskap og oppdrettsnæring, og markerte starten på et felles arbeid med sikte på å forstå, måle og fremme regenerativ praksis i sammenheng med lakseoppdrett. I tillegg til å redusere konsekvensene, søker den regenerative tilnærmingen å generere positive og varige resultater, styrke økosystemenes motstandskraft, fremme biologisk mangfold og skape verdi for mennesker og territorier knyttet til akvakulturaktivitet. Samarbeid mellom organisasjoner med komplementære erfaringer og perspektiver er en av grunnpilarene"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/biomar-1.webp"
+    },
+    {
+      "title": {
+        "es": "AquaChile integra top ten nacional de empresas más innovadoras en 2026",
+        "en": "AquaChile integrates national top ten of the most innovative companies in 2026",
+        "no": "AquaChile integrerer nasjonale topp ti av de mest innovative selskapene i 2026"
+      },
+      "url": "https://www.aqua.cl/aquachile-integra-top-ten-nacional-de-empresas-mas-innovadoras-en-2026/",
+      "date": "Fri, 23 Oct 2026 17:30:00 +0000",
+      "summary": {
+        "es": "AquaChile alcanzó el octavo lugar a nivel nacional en el ranking Most Innovative Companies (MIC) 2026 y obtuvo, por segundo año consecutivo, el primer lugar en la categoría Acuicultura. El estudio, elaborado por MIC Business Consulting con la participación de ESE Business School Chile, reconoce a organizaciones de distintas industrias que incorporan nuevas tecnologías, modelos de trabajo y soluciones innovadoras a sus operaciones. La ceremonia de premiación fue reprogramada para el lunes 16 de noviembre. En su evaluación, MIC destacó la integración transversal de la innovación en AquaChile, con desarrollos orientados a mejorar la eficiencia productiva, el bienestar animal, la sostenibilidad ",
+        "en": "AquaChile reached the eighth place nationally in the Most Innovative Companies (mic) 2026 ranking and obtained, for the second consecutive year, the first place in the Aquaculture category. The study, prepared by mic Business Consulting with the participation of THAT Business School Chile, recognizes organizations from different industries that incorporate new technologies, work models and innovative solutions to their operations. The award ceremony was rescheduled for Monday, November 16. In its evaluation, mic highlighted the transversal integration of innovation in AquaChile, with developments aimed at improving productive efficiency, animal welfare, sustainability",
+        "no": "AquaChile nådde åttendeplassen nasjonalt i de mest innovative selskapene (MIC) 2026-rangeringen og oppnådde, for andre år på rad, førsteplassen i akvakulturkategorien. Studien, utarbeidet av MIC Business Consulting med deltakelse av DEN Business School Chile, anerkjenner organisasjoner fra ulike bransjer som innlemmer ny teknologi, arbeidsmodeller og innovative løsninger til sin virksomhet. Prisutdelingen ble omlagt til mandag 16. november. I sin evaluering fremhevet MIC den tverrgående integrasjonen av innovasjon i AquaChile, med utviklinger som tar sikte på å forbedre produktiv effektivitet, dyrevelferd, bærekraft"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Equipo-Innovacion-AquaChile-1024x641.png"
+    },
+    {
+      "title": {
+        "es": "Proveedores locales de la salmonicultura brillan y presentan soluciones para la industria magallánica",
+        "en": "Local salmon suppliers shine and present solutions for the Magellanic industry",
+        "no": "Lokale lakseleverandører skinner og presenterer løsninger for den magellanske næringen"
+      },
+      "url": "https://www.salmonexpert.cl/esa-magallanes-innovacion-tecnologica-magallanes/proveedores-locales-de-la-salmonicultura-brillan-y-presentan-soluciones-para-la-industria-magallanica/2200970",
+      "date": "",
+      "summary": {
+        "es": "Durante la feria ESA Magallanes 2026, empresas de distintos sectores presentaron desarrollos tecnológicos, servicios especializados y nuevas propuestas para fortalecer su participación en la salmonicultura.",
+        "en": "During the ESA Magallanes 2026 fair, companies from different sectors presented technological developments, specialized services and new proposals to strengthen their participation in salmon farming.",
+        "no": "Under ESAS Magallanes 2026-messe presenterte selskaper fra ulike sektorer teknologisk utvikling, spesialiserte tjenester og nye forslag for å styrke sin deltakelse i lakseoppdrett."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2200978.jpg?imageId=2200978&x=&y=&cropw=&croph=&panox=&panoy=&panow=&panoh=&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "INCAR² y UMAG investigan ecosistemas marinos y riesgos para la salmonicultura en Magallanes",
+        "en": "INCAR² and UMAG investigate marine ecosystems and risks for salmon farming in Magallanes",
+        "no": "INCAR² og UMAG undersøker marine økosystemer og risikoer for lakseoppdrett i Magallanes"
+      },
+      "url": "https://www.mundoacuicola.cl/new/incar%c2%b2-y-umag-investigan-ecosistemas-marinos-y-riesgos-para-la-salmonicultura-en-magallanes/",
+      "date": "Fri, 23 Oct 2026 20:00:08 +0000",
+      "summary": {
+        "es": "La primera campaña científica de INCAR² en Magallanes, desarrollada junto a la Universidad de Magallanes, busca caracterizar los ecosistemas bentónicos y generar información para evaluar los impactos ambientales de la salmonicultura. La investigación también contempla el desarrollo de modelos para anticipar riesgos asociados a la variabilidad climática. La entrada INCAR² y UMAG investigan ecosistemas marinos y riesgos para la salmonicultura en Magallanes se publicó primero en Mundoacuicola .",
+        "en": "The first INCAR² scientific campaign in Magallanes, developed together with the University of Magallanes, seeks to characterize benthic ecosystems and generate information to evaluate the environmental impacts of salmon farming. The research also contemplates the development of models to anticipate risks associated with climate variability. The entry INCAR² and UMAG investigate marine ecosystems and risks to salmon farming in Magallanes was first published in Mundoacuicola .",
+        "no": "Den første INCAR² vitenskapelige kampanjen i Magallanes, utviklet sammen med Universitetet i Magallanes, søker å karakterisere bentiske økosystemer og generere informasjon for å evaluere miljøpåvirkningen av lakseoppdrett. Forskningen vurderer også utvikling av modeller for å forutse risiko forbundet med klimavariabilitet. Oppføringen INCAR ² og UMAG undersøker marine økosystemer og risikoer for lakseoppdrett i Magallanes ble først publisert i Mundoacuicola ."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/INCAR²-y-UMAG-investigan-ecosistemas-marinos-y-riesgos-para-la-salmonicultura-en-Magallanes.jpg"
+    },
+    {
+      "title": {
+        "es": "Vitalice: la alternativa natural de Salmonfood para el control de cáligus",
+        "en": "Vitalice: Salmonfood's natural alternative for caligus control",
+        "no": "Vitalice: Laksematens naturlige alternativ for kaliguskontroll"
+      },
+      "url": "https://www.aqua.cl/vitalice-la-alternativa-natural-de-salmonfood-para-el-control-de-caligus/",
+      "date": "Mon, 26 Oct 2026 09:47:00 +0000",
+      "summary": {
+        "es": "Salmofood, marca de Vitapro Chile, presentó Vitalice, una solución nutricional de origen natural diseñada como herramienta complementaria para el manejo integrado de Caligus rogercresseyi en salmónidos. El producto se incorpora al alimento y busca reducir la carga parasitaria y la capacidad reproductiva del ectoparásito. El lanzamiento se realizó el martes 20 de octubre, durante el Encuentro de Soluciones Acuícolas (ESA Magallanes), en Punta Arenas. La solución fue presentada por el gerente de Investigación y Desarrollo de Vitapro Chile, Rodrigo Sánchez, durante la charla técnica “La nutrición como herramienta sanitaria”. En su exposición, dio a conocer los resultados de dos estudios desarro",
+        "en": "Salmofood, a brand of Vitapro Chile, presented Vitalice, a nutritional solution of natural origin designed as a complementary tool for the integrated management of Caligus rogercresseyi in salmonids. The product is incorporated into food and seeks to reduce the parasitic load and reproductive capacity of the ectoparasite. The launch took place on Tuesday, October 20, during the Aquaculture Solutions Meeting (ESA Magallanes), in Punta Arenas. The solution was presented by the Research and Development Manager of Vitapro Chile, Rodrigo Sánchez, during the technical talk \"Nutrition as a health tool\". In his presentation, he presented the results of two studies on the development",
+        "no": "Salmofood, et merke fra Vitapro Chile, presenterte Vitalice, en ernæringsløsning av naturlig opprinnelse utformet som et komplementært verktøy for integrert håndtering av Caligus rogercresseyi hos laksefisk. Produktet er innlemmet i mat og søker å redusere parasittbelastningen og reproduksjonskapasiteten til ektoparasitten. Lanseringen fant sted tirsdag 20. oktober under Aquaculture Solutions Meeting (ESA Magallanes) i Punta Arenas. Løsningen ble presentert av forsknings- og utviklingssjef i Vitapro Chile, Rodrigo Sánchez, under det tekniske foredraget \"Ernæring som et helseverktøy\". I sin presentasjon presenterte han resultatene fra to studier av utviklingen"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Rodrigo-Sanchez-1024x1024.jpg"
+    },
+    {
+      "title": {
+        "es": "Despliegan agenda estratégica en Brasil para consolidar la presencia del salmón chileno",
+        "en": "Deploy strategic agenda in Brazil to consolidate the presence of Chilean salmon",
+        "no": "Distribuere strategisk agenda i Brasil for å konsolidere tilstedeværelsen av chilensk laks"
+      },
+      "url": "https://www.salmonexpert.cl/brasil-exportaciones-gremio/despliegan-agenda-estrategica-en-brasil-para-consolidar-la-presencia-del-salmon-chileno/2199003",
+      "date": "",
+      "summary": {
+        "es": "Bajo la marca “Salmón de Chile”, representantes de SalmonChile sostuvieron encuentros de alto nivel con gremios supermercadistas, industriales y autoridades diplomáticas en São Paulo.",
+        "en": "Under the brand \"Salmon de Chile\", representatives of SalmonChile held high-level meetings with supermarket, industrial and diplomatic authorities in São Paulo.",
+        "no": "Under varemerket \"Salmon de Chile\" holdt representanter for SalmonChile møter på høyt nivå med supermarked-, industri- og diplomatiske myndigheter i São Paulo."
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2199008.jpg?imageId=2199008&x=0&y=19.72&cropw=100&croph=71.67&panox=0&panoy=19.72&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "AOLAB y BactiQuant sellan alianza chileno-danesa para transformar la gestión microbiológica del agua en la salmonicultura",
+        "en": "AOLAB and BactiQuant Seal Chilean-Danish Partnership to Transform Microbiological Water Management in Salmon Farming",
+        "no": "AOLAB og BactiQuant Seal chilensk-dansk partnerskap for å transformere mikrobiologisk vannforvaltning i lakseoppdrett"
+      },
+      "url": "https://infosalmon.cl/aolab-bactiquant-calidad-agua-salmonicultura-tablero-salud/",
+      "date": "Sun, 25 Oct 2026 23:39:12 +0000",
+      "summary": {
+        "es": "Con una alta convocatoria que reunió a productores salmoneros, autoridades y especialistas del sector acuícola, la compañía tecnológica AOLAB presentó oficialmente su plataforma “Tablero de Salud”. Además, inauguró en Puerto Montt el primer BactiQuant Knowledge Center de la firma danesa fuera de su país de origen. El hito consolida una alianza estratégica iniciada en 2022 y formalizada comercialmente durante AquaSur 2026. Combina el hardware de monitoreo microbiológico rápido de BactiQuant con un modelo predictivo de gestión desarrollado localmente. Cuenta con el respaldo de Corfo Los Lagos, mediante una inversión de más de $47 millones del instrumento Innova Región. Es un enfoque que se sum",
+        "en": "With a high call that brought together salmon producers, authorities, and specialists from the aquaculture sector, the technology company AOLAB officially presented its \"Health Board\" platform. In addition, he inaugurated the Danish firm's first BactiQuant Knowledge Center outside his home country in Puerto Montt. The milestone consolidates a strategic alliance started in 2022 and formalized commercially during AquaSur 2026. It combines BactiQuant's rapid microbiological monitoring hardware with a locally developed predictive management model. It is supported by Corfo Los Lagos, through an investment of more than $47 million from the Innova Región instrument. It's an approach that adds up",
+        "no": "Med en høy oppfordring som samlet lakseprodusenter, myndigheter og spesialister fra havbruksnæringen, presenterte teknologiselskapet AOLAB offisielt sin «Health Board» -plattform. I tillegg innviet han det danske firmaets første BactiQuant Knowledge Center utenfor hjemlandet i Puerto Montt. Milepælen konsoliderer en strategisk allianse som ble startet i 2022 og formalisert kommersielt under AquaSur 2026. Den kombinerer BactiQuants raske mikrobiologiske overvåkingsmaskinvare med en lokalt utviklet prediktiv styringsmodell. Det støttes av Corfo Los Lagos, gjennom en investering på mer enn $47 millioner fra Innova Región-instrumentet. Det er en tilnærming som legger opp"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 9,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/AOLAB-3.jpg"
+    },
+    {
+      "title": {
+        "es": "Wellboats: informe advierte menores márgenes operacionales ante un mar más cálido",
+        "en": "Wellboats: report warns lower operational margins in the face of a warmer sea",
+        "no": "Brønnbåter: Rapporten advarer om lavere driftsmarginer i møte med et varmere hav"
+      },
+      "url": "https://www.aqua.cl/wellboats-informe-advierte-menores-margenes-operacionales-ante-un-mar-mas-calido/",
+      "date": "Fri, 23 Oct 2026 13:00:00 +0000",
+      "summary": {
+        "es": "El calentamiento del mar austral plantea nuevas exigencias para el transporte de peces vivos. Una mayor temperatura puede reducir el oxígeno disponible, elevar la demanda metabólica de los salmones y acortar la autonomía de los wellboats en circuito cerrado, precisamente cuando una contingencia ambiental obliga a restringir el intercambio de agua con el entorno. Así lo aborda el informe “Wellboats frente al calentamiento del mar austral”, elaborado por el ingeniero Rene Pallalever, Master of Science, en octubre de 2026. El documento combina una revisión de antecedentes científicos con modelación cuantitativa para proponer capacidades de diseño y criterios de contratación destinados a la oper",
+        "en": "Warming of the southern sea poses new demands for the transport of live fish. A higher temperature can reduce the available oxygen, increase the metabolic demand of salmon and shorten the autonomy of closed-loop wellboats, precisely when an environmental contingency requires restricting the exchange of water with the environment. This is addressed in the report \"Wellboats facing the warming of the southern sea\", prepared by engineer Rene Pallalever, Master of Science, in October 2026. The paper combines a review of scientific background with quantitative modelling to propose design capabilities and procurement criteria for the operation",
+        "no": "Oppvarming av Sørishavet stiller nye krav til transport av levende fisk. En høyere temperatur kan redusere tilgjengelig oksygen, øke det metabolske behovet til laks og forkorte autonomien til lukkede brønnbåter, nettopp når en miljømessig nødsituasjon krever begrensning av utveksling av vann med miljøet. Dette tas opp i rapporten \"Wellboats facing the warming of the southern sea\", utarbeidet av ingeniør Rene Pallalever, Master of Science, i oktober 2026. Artikkelen kombinerer en gjennomgang av vitenskapelig bakgrunn med kvantitativ modellering for å foreslå designmuligheter og innkjøpskriterier for operasjonen"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 15,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2194071.jpg?imageId=2194071&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+      "score": 4,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Wellboat-saliendo-de-centro-de-cultivo-generada-por-IA-B2B-Media-Group-1-1024x683.png"
     },
     {
       "title": {
-        "es": "Mowi bate récord en Chile y podría ajustar al alza sus proyecciones de producción",
-        "en": "Mowi beats record in Chile and could adjust its production projections upwards",
-        "no": "Mowi slår rekorden i Chile og kan justere produksjonsprognosene oppover"
+        "es": "Guard refuerza su apuesta por la acuicultura con la incorporación de un nuevo director de Ventas",
+        "en": "Guard reinforces its commitment to aquaculture with the addition of a new Sales Director",
+        "no": "Guard styrker sitt engasjement for akvakultur med tillegg av en ny salgsdirektør"
       },
-      "url": "https://www.salmonexpert.cl/ganancias-mowi-mowi-chile/mowi-bate-record-en-chile-y-podria-ajustar-al-alza-sus-proyecciones-de-produccion/2198159",
+      "url": "https://www.salmonexpert.cl/acuicultura-guard-automation-ventas/guard-refuerza-su-apuesta-por-la-acuicultura-con-la-incorporacion-de-un-nuevo-director-de-ventas/2199280",
       "date": "",
       "summary": {
-        "es": "La salmonicultora más que duplicó sus ganancias gracias a una excelente performance y, además, incrementó sus cosechas en nuestro país con buenos resultados.",
-        "en": "The salmon farmer more than doubled its profits thanks to an excellent performance and, in addition, increased its harvests in our country with good results.",
-        "no": "Lakseoppdretteren mer enn doblet sin fortjeneste takket være en utmerket ytelse og i tillegg økte avlingene i vårt land med gode resultater."
+        "es": "Benjamin Bjørgen aporta una combinación de experiencia operativa en entornos de procesos exigentes y experiencia comercial relacionada a soluciones técnicas.",
+        "en": "Benjamin Bjørgen brings a combination of operational experience in demanding process environments and business experience related to technical solutions.",
+        "no": "Benjamin Bjørgen bringer med seg en kombinasjon av driftserfaring fra krevende prosessmiljøer og forretningserfaring knyttet til tekniske løsninger."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -247,59 +297,9 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 12,
+      "score": 4,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2075358.jpg?imageId=2075358&x=0&y=0.33&cropw=100&croph=84.87&panox=0&panoy=0.33&panow=100&panoh=84.87&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Cermaq concluye la cosecha de jaulas positivas a ISA en el centro Luchín",
-        "en": "Cermaq concludes the harvest of ISA-positive cages at the Luchín center",
-        "no": "Cermaq avslutter innhøstingen av ISA-positive bur ved Luchín-senteret"
-      },
-      "url": "https://infosalmon.cl/cermaq-isa-centro-luchin-cosecha-jaulas-positivas-sernapesca/",
-      "date": "Thu, 22 Oct 2026 00:27:39 +0000",
-      "summary": {
-        "es": "El Servicio Nacional de Pesca y Acuicultura (Sernapesca) informó que el 17 de octubre se completó la cosecha de todas las jaulas con resultados positivos a ISAv. Esto ocurrió en el centro de cultivo Luchín, de Cermaq Chile S.A. , ubicado en la Agrupación de Concesiones de Salmónidos (ACS) 30A. La medida se enmarca en el Programa Sanitario Específico de Vigilancia y Control de ISA, tras la detección de ISAv en Aysén . ISA en el centro Luchín: siete jaulas siguen en cosecha Las siete jaulas restantes mantienen resultados negativos a ISAv y continúan en proceso de cosecha. Su finalización está prevista para la primera semana de noviembre. Una vez concluida la cosecha total, se deberá efectuar l",
-        "en": "The National Fisheries and Aquaculture Service (Sernapesca) reported that the harvest of all the cages with positive ISAv results was completed on October 17. This occurred at the Luchín cultivation center of Cermaq Chile SA , located in the Salmonid Concession Association (ACS) 30A. The measure is part of the ISA Specific Health Surveillance and Control Program, following the detection of ISAv in Aysén . ISA in the Luchín center: seven cages are still being harvested The remaining seven cages have negative results for ISAv and are still in the process of harvesting. It is scheduled to be completed in the first week of November. Once the total harvest has been completed, the",
-        "no": "National Fisheries and Aquaculture Service (Sernapesca) rapporterte at innhøstingen av alle merdene med positive ISAv-resultater ble fullført 17. oktober. Dette skjedde ved dyrkingssenteret Luchín i Cermaq Chile SA , som ligger i Salmonid Concession Association (ACS) 30A. Tiltaket er en del av ISA-spesifikt helseovervåkings- og kontrollprogram, etter påvisning av ISAv i Aysén . ISA i Luchín-senteret: sju merder blir fortsatt høstet De resterende sju merdene har negative resultater for ISAv og er fortsatt i ferd med å høste. Det er planlagt å være ferdig i den første uken i november. Når den totale innhøstingen er fullført,"
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Fotos-para-web-FORMATO-70.jpg"
-    },
-    {
-      "title": {
-        "es": "Gobierno refuerza coordinación ante eventuales FAN para temporada 2026-2027",
-        "en": "Government reinforces coordination with eventual FANS for the 2026-2027 season",
-        "no": "Regjeringen styrker koordineringen med eventuelle FANS for sesongen 2026-2027"
-      },
-      "url": "https://www.mundoacuicola.cl/new/gobierno-refuerza-coordinacion-ante-eventuales-fan-para-temporada-2026-2027/",
-      "date": "Wed, 21 Oct 2026 22:00:51 +0000",
-      "summary": {
-        "es": "Autoridades de Pesca y Acuicultura, Interior, Defensa, Senapred, Medio Ambiente y Salud abordaron en La Moneda mecanismos de preparación y respuesta frente a posibles episodios de floraciones algales nocivas, considerando eventuales cambios en las condiciones oceanográficas durante la próxima temporada. La entrada Gobierno refuerza coordinación ante eventuales FAN para temporada 2026-2027 se publicó primero en Mundoacuicola .",
-        "en": "Authorities of Fisheries and Aquaculture, Interior, Defense, Senapred, Environment and Health addressed in La Moneda mechanisms of preparation and response to possible episodes of harmful algal blooms, considering possible changes in oceanographic conditions during the next season. The Government ticket reinforces coordination with eventual FANS for the 2026-2027 season. It was first published in Mundoacuicola .",
-        "no": "Myndigheter for fiskeri og akvakultur, interiør, forsvar, senapred, miljø og helse adressert i La Moneda-mekanismer for forberedelse og respons på mulige episoder med skadelige algeoppblomstringer, med tanke på mulige endringer i oseanografiske forhold i løpet av neste sesong. Regjeringsbilletten styrker koordineringen med eventuelle FANS for sesongen 2026-2027. Den ble først publisert i Mundoacuicola ."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "environment",
-      "category_label": {
-        "es": "Medioambiente",
-        "en": "Environment & Sustainability",
-        "no": "Miljo og baerekraft"
-      },
-      "score": 11,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Gobierno-refuerza-coordinacion-ante-eventuales-FAN-para-temporada-2026-2027.png"
+      "image": "https://image.salmonexpert.cl/2199286.jpg?imageId=2199286&x=0&y=2.69&cropw=100&croph=57.85&panox=0&panoy=2.69&panow=100&panoh=57.85&width=1200&height=683"
     }
   ]
 }
