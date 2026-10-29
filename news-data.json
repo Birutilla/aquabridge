@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-26T12:46:53Z",
+  "updated": "2026-10-29T12:43:14Z",
   "articles": [
     {
       "title": {
-        "es": "Respuesta inmune del salmón abre nuevas pistas para combatir la tenacibaculosis",
-        "en": "Salmon immune response opens up new clues to combat tenacibaculosis",
-        "no": "Laksens immunrespons åpner opp nye ledetråder for å bekjempe tenacibaculose"
+        "es": "Ideal Control y AbastibleTec impulsan una nueva capa de inteligencia para la salmonicultura chilena",
+        "en": "Ideal Control and AbastibleTec boost a new layer of intelligence for Chilean salmon farming",
+        "no": "Ideal Control og AbastibleTec øker et nytt intelligenslag for chilensk lakseoppdrett"
       },
-      "url": "https://www.salmonexpert.cl/tenacibaculosis-tenacibaculum/respuesta-inmune-del-salmon-abre-nuevas-pistas-para-combatir-la-tenacibaculosis/2198925",
-      "date": "",
+      "url": "https://www.mundoacuicola.cl/new/ideal-control-y-abastibletec-impulsan-una-nueva-capa-de-inteligencia-para-la-salmonicultura-chilena/",
+      "date": "Wed, 28 Oct 2026 14:00:07 +0000",
       "summary": {
-        "es": "Científicos identificaron señales inflamatorias y mecanismos de regulación inmune frente aTenacibaculum dicentrarchi. Los hallazgos podrían orientar la evaluación de compuestos con potencial terapéutico.",
-        "en": "Scientists identified inflammatory signals and mechanisms of immune regulation against Tenacibaculum dicentrarchi. The findings could guide the evaluation of compounds with therapeutic potential.",
-        "no": "Forskere identifiserte inflammatoriske signaler og mekanismer for immunregulering mot Tenacibaculum dicentrarchi. Funnene kan veilede evalueringen av forbindelser med terapeutisk potensial."
+        "es": "La alianza tecnológica busca mejorar la productividad, optimizar el uso del oxígeno y la energía, reducir costos y fortalecer la competitividad de la industria acuícola. La solución integra información de los equipos energéticos y de oxigenación de los centros de cultivo con herramientas de análisis, paneles e informes en tiempo real, adaptados a las necesidades de cada usuario. La entrada Ideal Control y AbastibleTec impulsan una nueva capa de inteligencia para la salmonicultura chilena se publicó primero en Mundoacuicola .",
+        "en": "The technological alliance seeks to improve productivity, optimize the use of oxygen and energy, reduce costs and strengthen the competitiveness of the aquaculture industry. The solution integrates information from the energy and oxygenation equipment of the cultivation centers with analysis tools, panels and reports in real time, adapted to the needs of each user. The entry Ideal Control and AbastibleTec promote a new layer of intelligence for Chilean salmon farming was first published in Mundoacuicola .",
+        "no": "Den teknologiske alliansen søker å forbedre produktiviteten, optimalisere bruken av oksygen og energi, redusere kostnadene og styrke konkurranseevnen til havbruksnæringen. Løsningen integrerer informasjon fra energi- og oksygeneringsutstyret til dyrkingssenterene med analyseverktøy, paneler og rapporter i sanntid, tilpasset behovene til hver bruker. Oppføringen Ideell kontroll og AbastibleTec fremme et nytt lag av intelligens for chilenske lakseoppdrett ble først publisert i Mundoacuicola ."
       },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
       },
-      "score": 4,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2198933.jpg?imageId=2198933&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+      "score": 13,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/81cde696-8a62-41a6-9130-3f4f07bc4e09.jpg"
     },
     {
       "title": {
-        "es": "Innovación abierta: universitarios buscan nuevas formas de aprovechar subproductos del salmón",
-        "en": "Open Innovation: College Students Seek New Ways to Harness Salmon Byproducts",
-        "no": "Åpen innovasjon: Studenter søker nye måter å utnytte laksebiprodukter på"
+        "es": "“Para eliminar los patógenos como SRS y BKD necesitamos activar las células T”",
+        "en": "\"To eliminate pathogens such as SRS and BKD we need to activate T cells\"",
+        "no": "\"For å eliminere patogener som SRS og BKD må vi aktivere T-celler\""
       },
-      "url": "https://www.salmonexpert.cl/aquachile-estudiantes-innovacion/innovacion-abierta-universitarios-buscan-nuevas-formas-de-aprovechar-subproductos-del-salmon/2198911",
+      "url": "https://www.salmonexpert.cl/antibioticos-bacteria-bacterias/para-eliminar-los-patogenos-como-srs-y-bkd-necesitamos-activar-las-celulas-t/2201728",
       "date": "",
       "summary": {
-        "es": "",
-        "en": "",
-        "no": ""
+        "es": "La respuesta correcta para eliminar las bacterias SRS y BKD, según el Dr. Brian Dixon, es una respuesta de células T citotóxicas (killer T cells) \"que destruya las células donde residen antes de que puedan replicarse”.",
+        "en": "The correct response to kill SRS and BKD bacteria, according to Dr. Brian Dixon, is a killer T cell response “that kills the cells where they reside before they can replicate.”",
+        "no": "Den riktige responsen for å drepe SRS- og BKD-bakterier, ifølge Dr. Brian Dixon, er en dreper-T-cellerespons \"som dreper cellene der de bor før de kan replikere.\""
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -49,20 +49,95 @@
       },
       "score": 2,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2198917.jpg?imageId=2198917&x=0&y=30.14&cropw=100&croph=35.83&panox=0&panoy=30.14&panow=100&panoh=35.83&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2201736.jpg?imageId=2201736&x=0&y=4.26&cropw=100&croph=47.78&panox=0&panoy=4.26&panow=100&panoh=47.78&width=1200&height=683"
     },
     {
       "title": {
-        "es": "Salmon Next abordó los desafíos de competitividad y resiliencia de la salmonicultura chilena",
-        "en": "Salmon Next addressed the competitiveness and resilience challenges of Chilean salmon farming",
-        "no": "Salmon Next adresserte utfordringene med konkurranseevne og motstandskraft i chilensk lakseoppdrett"
+        "es": "ULagos, Armasur y Consejo del Salmón abordan desafíos de sostenibilidad y formación de capital humano para la industria marítima",
+        "en": "ULagos, Armasur and Salmon Council address sustainability challenges and human capital training for the maritime industry",
+        "no": "ULagos, Armasur og Salmon Council adresserer bærekraftutfordringer og opplæring i menneskelig kapital for maritim industri"
       },
-      "url": "https://www.aqua.cl/salmon-next-abordo-los-desafios-de-competitividad-y-resiliencia-de-la-salmonicultura-chilena/",
-      "date": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/ulagos-armasur-y-consejo-del-salmon-abordan-desafios-de-sostenibilidad-y-formacion-de-capital-humano-para-la-industria-maritima/",
+      "date": "Wed, 28 Oct 2026 20:00:24 +0000",
       "summary": {
-        "es": "¿Cómo puede la salmonicultura chilena fortalecer su competitividad cuando producir más no necesariamente es la única respuesta? Esta pregunta marcó el encuentro Salmon Next: “Competitividad, resiliencia y desempeño para la próxima era de la salmonicultura” , organizado por Alltech el 22 de octubre en Puerto Varas. En un escenario marcado por condiciones ambientales variables, nuevas exigencias productivas y la necesidad de utilizar los recursos de manera eficiente, la jornada abordó cómo anticiparse a los cambios, aprender de experiencias internacionales y aplicar la ciencia para mejorar la toma de decisiones. El encuentro reunió al economista y académico de la Universidad Adolfo Ibáñez, Rap",
-        "en": "How can Chilean salmon farming strengthen its competitiveness when producing more is not necessarily the only answer? This question marked the Salmon Next meeting: \"Competitiveness, resilience and performance for the next era of salmon farming\" , organized by Alltech on October 22 in Puerto Varas. In a scenario marked by variable environmental conditions, new production demands and the need to use resources efficiently, the conference addressed how to anticipate changes, learn from international experiences and apply science to improve decision-making. The meeting brought together the economist and academic of the Adolfo Ibáñez University, Rap",
-        "no": "Hvordan kan chilensk lakseoppdrett styrke sin konkurranseevne når produksjon av mer ikke nødvendigvis er det eneste svaret? Dette spørsmålet markerte Salmon Next møtet: \"Competitiveness, resilience and performance for the next era of salmon farming\" , arrangert av Alltech 22. oktober i Puerto Varas. I et scenario preget av varierende miljøforhold, nye produksjonskrav og behovet for å bruke ressurser effektivt, adresserte konferansen hvordan man kan forutse endringer, lære av internasjonale erfaringer og anvende vitenskap for å forbedre beslutningstaking. Møtet samlet økonomen og akademikeren ved Adolfo Ibáñez-universitetet, Rap"
+        "es": "El seminario realizado en Puerto Montt reunió a representantes del sector público, privado y académico para abordar los desafíos de sostenibilidad, innovación y formación de capital humano en las actividades marítimas de la Región de Los Lagos. La jornada también permitió acercar a estudiantes de carreras marítimas a las necesidades de la industria. La entrada ULagos, Armasur y Consejo del Salmón abordan desafíos de sostenibilidad y formación de capital humano para la industria marítima se publicó primero en Mundoacuicola .",
+        "en": "The seminar held in Puerto Montt brought together representatives from the public, private and academic sectors to address the challenges of sustainability, innovation and human capital training in maritime activities in the Los Lagos Region. The day also brought maritime career students closer to the needs of the industry. The entry ULagos, Armasur and Salmon Council address sustainability challenges and human capital training for the maritime industry was first published in Mundoacuicola .",
+        "no": "Seminaret som ble holdt i Puerto Montt samlet representanter fra offentlig, privat og akademisk sektor for å møte utfordringene med bærekraft, innovasjon og opplæring i menneskelig kapital i maritime aktiviteter i Los Lagos-regionen. Dagen brakte også maritime karrierestudenter nærmere industriens behov. Oppføringen ULagos, Armasur og Salmon Council adresserer bærekraftutfordringer og opplæring i menneskelig kapital for den maritime industrien ble først publisert i Mundoacuicola ."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 16,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/ULagos-Armasur-y-Consejo-del-Salmon-abordan-desafios-de-sostenibilidad-y-formacion-de-capital-humano-para-la-industria-maritima.jpg"
+    },
+    {
+      "title": {
+        "es": "Levadura de cerveza impulsa el crecimiento del salmón Atlántico: el ingrediente que puede abrir nuevas oportunidades",
+        "en": "Brewer's yeast drives Atlantic salmon growth - the ingredient that can open up new opportunities",
+        "no": "Ølgjær driver atlantisk laksevekst - ingrediensen som kan åpne nye muligheter"
+      },
+      "url": "https://infosalmon.cl/levadura-de-cerveza-impulsa-el-crecimiento-del-salmon-atlantico/",
+      "date": "Wed, 28 Oct 2026 22:36:26 +0000",
+      "summary": {
+        "es": "¿Puede un subproducto de la industria cervecera convertirse en un ingrediente de valor para la salmonicultura? Una reciente investigación científica publicada en la revista Critical Insights in Aquaculture entrega nuevas evidencias. Estas se refieren al potencial de la levadura de cerveza residual para la alimentación del salmón Atlántico ( Salmo salar ), particularmente en sus primeras etapas. El estudio, titulado “Effects of brewer’s spent yeast dietary inclusion on growth performance, intestinal histology, body composition, and immunity-related genes expression in Salmo salar parr”, examinó los efectos de este ingrediente sobre el crecimiento, la composición corporal, la morfología intest",
+        "en": "Can a by-product of the brewing industry become a valuable ingredient for salmon farming? Recent scientific research published in the journal Critical Insights in Aquaculture provides new evidence. These relate to the potential of residual brewer's yeast for feeding Atlantic salmon ( Salmo salar ), particularly in its early stages. The study, titled “Effects of brewer's spent yeast dietary inclusion on growth performance, intestinal histology, body composition, and immunity-related genes expression in Salmo salar parr,” examined the effects of this ingredient on growth, body composition, intestinal morphology",
+        "no": "Kan et biprodukt fra bryggerinæringen bli en verdifull ingrediens i lakseoppdrett? Nyere vitenskapelig forskning publisert i tidsskriftet Critical Insights in Aquaculture gir nye bevis. Disse relaterer seg til potensialet til gjenværende ølgjær for fôring av atlantisk laks ( Salmo salar ), spesielt i sine tidlige stadier. Studien, med tittelen \"Effects of brewer's spent yeast dietary inclusion on growth performance, intestinal histology, body composition, and immununity-related genes expression in Salmo salar parr,\" undersøkte effektene av denne ingrediensen på vekst, kroppssammensetning, intestinal morfologi"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/Levadura-como-ingrediente-salmon-1024x683.png"
+    },
+    {
+      "title": {
+        "es": "Skretting Chile pone el foco en la sostenibilidad para los próximos 50 años de la salmonicultura",
+        "en": "Skretting Chile puts the focus on sustainability for the next 50 years of salmon farming",
+        "no": "Skretting Chile setter fokus på bærekraft for de neste 50 årene med lakseoppdrett"
+      },
+      "url": "https://www.mundoacuicola.cl/new/skretting-pone-el-foco-en-la-sostenibilidad-para-los-proximos-50-anos-de-la-salmonicultura/",
+      "date": "Wed, 28 Oct 2026 10:00:39 +0000",
+      "summary": {
+        "es": "La segunda edición de la Sustainability &#038; Innovation Conference reunió en Frutillar a 220 participantes y 11 expositores para abordar valorización de residuos, nuevas materias primas, nutrición funcional, colaboración territorial y transición energética. La jornada incluyó además el lanzamiento de Necto y una nueva entrega de los reconocimientos ACTívate. La entrada Skretting Chile pone el foco en la sostenibilidad para los próximos 50 años de la salmonicultura se publicó primero en Mundoacuicola .",
+        "en": "The second edition of the Sustainability & Innovation Conference brought together 220 participants and 11 exhibitors in Frutillar to address waste recovery, new raw materials, functional nutrition, territorial collaboration and energy transition. The day also included the launch of Necto and a new delivery of the ACTívate awards. The Skretting Chile entry puts the focus on sustainability for the next 50 years of salmon farming was first published in Mundoacuicola .",
+        "no": "Den andre utgaven av bærekrafts- og innovasjonskonferansen samlet 220 deltakere og 11 utstillere i Frutillar for å ta opp gjenvinning av avfall, nye råvarer, funksjonell ernæring, territorielt samarbeid og energiomstilling. Dagen inkluderte også lanseringen av Necto og en ny levering av ACTívate-prisene. Skretting Chile-oppføringen setter fokus på bærekraft for de neste 50 årene av lakseoppdrett ble først publisert i Mundoacuicola ."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Skretting-proyecta-50-anos-de-salmonicultura-sostenible.jpg"
+    },
+    {
+      "title": {
+        "es": "CSLAB prepara apertura en Puerto Montt y proyecta expansión de sus servicios al 2030",
+        "en": "CSLAB is preparing to open in Puerto Montt and plans to expand its services by 2030",
+        "no": "CSLAB forbereder seg på å åpne i Puerto Montt og planlegger å utvide sine tjenester innen 2030"
+      },
+      "url": "https://www.aqua.cl/cslab-prepara-apertura-en-puerto-montt-y-proyecta-expansion-de-sus-servicios-al-2030/",
+      "date": "Thu, 29 Oct 2026 09:45:00 +0000",
+      "summary": {
+        "es": "CSLAB anunció la próxima apertura de nuevas dependencias en Puerto Montt, como parte de su estrategia de crecimiento hacia 2030 y de fortalecimiento de sus servicios para la industria productora y exportadora de productos del mar. La compañía forma parte de la red de Laboratorios de Verificación Oficial (LVO) del Servicio Nacional de Pesca y Acuicultura (Sernapesca) y ha definido una estrategia de desarrollo basada en cuatro pilares: ampliación de servicios, localización, fortalecimiento de Investigación y Desarrollo (I+D) y atención al cliente. Según informó la empresa, este proceso le ha permitido ampliar su alcance dentro de la red de laboratorios vinculados al organismo fiscalizador. Amp",
+        "en": "CSLAB announced the upcoming opening of new facilities in Puerto Montt, as part of its growth strategy towards 2030 and strengthening its services for the seafood production and export industry. The company is part of the Official Verification Laboratories (LVO) network of the National Fisheries and Aquaculture Service (SERNAPESCA) and has defined a development strategy based on four pillars: expansion of services, localization, strengthening of Research and Development (R&D) and customer service. As reported by the company, this process has allowed it to expand its scope within the network of laboratories linked to the supervisory body. Amp",
+        "no": "CSLAB kunngjorde den kommende åpningen av nye anlegg i Puerto Montt, som en del av sin vekststrategi mot 2030 og styrke sine tjenester for sjømatproduksjon og eksportindustri. Selskapet er en del av LVO-nettverket (Official Verification Laboratories) til National Fisheries and Aquaculture Service (SERNAPESCA) og har definert en utviklingsstrategi basert på fire pilarer: utvidelse av tjenester, lokalisering, styrking av forskning og utvikling (FoU) og kundeservice. Som rapportert av selskapet, har denne prosessen gjort det mulig å utvide omfanget innenfor nettverket av laboratorier knyttet til tilsynsorganet. Amp"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -74,170 +149,20 @@
       },
       "score": 13,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/DSC03495-RafaelBergoeing-1024x683.jpg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Laboratorio-CSLAB.png"
     },
     {
       "title": {
-        "es": "BioMar, Multi X e INIA impulsan una acuicultura regenerativa",
-        "en": "BioMar, Multi X and INIA promote regenerative aquaculture",
-        "no": "BioMar, Multi X og inia fremmer regenerativ akvakultur"
+        "es": "Ciencia aplicada y desarrollo productivo: el desafío que reúne a AquaChile, la academia y el sector público en Aysén",
+        "en": "Applied science and productive development: the challenge that brings together AquaChile, academia and the public sector in Aysén",
+        "no": "Anvendt vitenskap og produktiv utvikling: utfordringen som samler AquaChile, akademia og offentlig sektor i Aysén"
       },
-      "url": "https://www.aqua.cl/biomar-multi-x-e-inia-impulsan-una-acuicultura-regenerativa/",
-      "date": "Mon, 26 Oct 2026 09:48:00 +0000",
+      "url": "https://infosalmon.cl/ciencia-aplicada-y-desarrollo-productivo-el-desafio-que-reune-a-aquachile-la-academia-y-el-sector-publico-en-aysen/",
+      "date": "Wed, 28 Oct 2026 21:52:02 +0000",
       "summary": {
-        "es": "El proyecto fue presentado oficialmente durante una jornada de kick off que reunió a representantes del sector productivo, la ciencia y la industria de nutrición acuícola, marcando el inicio de un trabajo conjunto orientado a comprender, medir y potenciar prácticas regenerativas en el contexto de la salmonicultura. Más allá de reducir impactos, el enfoque regenerativo busca generar resultados positivos y duraderos, fortaleciendo la resiliencia de los ecosistemas, promoviendo la biodiversidad y creando valor para las personas y territorios vinculados a la actividad acuícola. La colaboración entre organizaciones con experiencias y perspectivas complementarias constituye uno de los pilares fund",
-        "en": "The project was officially presented during a kick off day that brought together representatives of the productive sector, science and the aquaculture nutrition industry, marking the beginning of a joint work aimed at understanding, measuring and promoting regenerative practices in the context of salmon farming. Beyond reducing impacts, the regenerative approach seeks to generate positive and lasting results, strengthening the resilience of ecosystems, promoting biodiversity and creating value for people and territories linked to aquaculture activity. Collaboration between organizations with complementary experiences and perspectives is one of the fund pillars",
-        "no": "Prosjektet ble offisielt presentert i løpet av en kick off-dag som samlet representanter for produktiv sektor, vitenskap og oppdrettsnæring, og markerte starten på et felles arbeid med sikte på å forstå, måle og fremme regenerativ praksis i sammenheng med lakseoppdrett. I tillegg til å redusere konsekvensene, søker den regenerative tilnærmingen å generere positive og varige resultater, styrke økosystemenes motstandskraft, fremme biologisk mangfold og skape verdi for mennesker og territorier knyttet til akvakulturaktivitet. Samarbeid mellom organisasjoner med komplementære erfaringer og perspektiver er en av grunnpilarene"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/biomar-1.webp"
-    },
-    {
-      "title": {
-        "es": "AquaChile integra top ten nacional de empresas más innovadoras en 2026",
-        "en": "AquaChile integrates national top ten of the most innovative companies in 2026",
-        "no": "AquaChile integrerer nasjonale topp ti av de mest innovative selskapene i 2026"
-      },
-      "url": "https://www.aqua.cl/aquachile-integra-top-ten-nacional-de-empresas-mas-innovadoras-en-2026/",
-      "date": "Fri, 23 Oct 2026 17:30:00 +0000",
-      "summary": {
-        "es": "AquaChile alcanzó el octavo lugar a nivel nacional en el ranking Most Innovative Companies (MIC) 2026 y obtuvo, por segundo año consecutivo, el primer lugar en la categoría Acuicultura. El estudio, elaborado por MIC Business Consulting con la participación de ESE Business School Chile, reconoce a organizaciones de distintas industrias que incorporan nuevas tecnologías, modelos de trabajo y soluciones innovadoras a sus operaciones. La ceremonia de premiación fue reprogramada para el lunes 16 de noviembre. En su evaluación, MIC destacó la integración transversal de la innovación en AquaChile, con desarrollos orientados a mejorar la eficiencia productiva, el bienestar animal, la sostenibilidad ",
-        "en": "AquaChile reached the eighth place nationally in the Most Innovative Companies (mic) 2026 ranking and obtained, for the second consecutive year, the first place in the Aquaculture category. The study, prepared by mic Business Consulting with the participation of THAT Business School Chile, recognizes organizations from different industries that incorporate new technologies, work models and innovative solutions to their operations. The award ceremony was rescheduled for Monday, November 16. In its evaluation, mic highlighted the transversal integration of innovation in AquaChile, with developments aimed at improving productive efficiency, animal welfare, sustainability",
-        "no": "AquaChile nådde åttendeplassen nasjonalt i de mest innovative selskapene (MIC) 2026-rangeringen og oppnådde, for andre år på rad, førsteplassen i akvakulturkategorien. Studien, utarbeidet av MIC Business Consulting med deltakelse av DEN Business School Chile, anerkjenner organisasjoner fra ulike bransjer som innlemmer ny teknologi, arbeidsmodeller og innovative løsninger til sin virksomhet. Prisutdelingen ble omlagt til mandag 16. november. I sin evaluering fremhevet MIC den tverrgående integrasjonen av innovasjon i AquaChile, med utviklinger som tar sikte på å forbedre produktiv effektivitet, dyrevelferd, bærekraft"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Equipo-Innovacion-AquaChile-1024x641.png"
-    },
-    {
-      "title": {
-        "es": "Proveedores locales de la salmonicultura brillan y presentan soluciones para la industria magallánica",
-        "en": "Local salmon suppliers shine and present solutions for the Magellanic industry",
-        "no": "Lokale lakseleverandører skinner og presenterer løsninger for den magellanske næringen"
-      },
-      "url": "https://www.salmonexpert.cl/esa-magallanes-innovacion-tecnologica-magallanes/proveedores-locales-de-la-salmonicultura-brillan-y-presentan-soluciones-para-la-industria-magallanica/2200970",
-      "date": "",
-      "summary": {
-        "es": "Durante la feria ESA Magallanes 2026, empresas de distintos sectores presentaron desarrollos tecnológicos, servicios especializados y nuevas propuestas para fortalecer su participación en la salmonicultura.",
-        "en": "During the ESA Magallanes 2026 fair, companies from different sectors presented technological developments, specialized services and new proposals to strengthen their participation in salmon farming.",
-        "no": "Under ESAS Magallanes 2026-messe presenterte selskaper fra ulike sektorer teknologisk utvikling, spesialiserte tjenester og nye forslag for å styrke sin deltakelse i lakseoppdrett."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2200978.jpg?imageId=2200978&x=&y=&cropw=&croph=&panox=&panoy=&panow=&panoh=&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "INCAR² y UMAG investigan ecosistemas marinos y riesgos para la salmonicultura en Magallanes",
-        "en": "INCAR² and UMAG investigate marine ecosystems and risks for salmon farming in Magallanes",
-        "no": "INCAR² og UMAG undersøker marine økosystemer og risikoer for lakseoppdrett i Magallanes"
-      },
-      "url": "https://www.mundoacuicola.cl/new/incar%c2%b2-y-umag-investigan-ecosistemas-marinos-y-riesgos-para-la-salmonicultura-en-magallanes/",
-      "date": "Fri, 23 Oct 2026 20:00:08 +0000",
-      "summary": {
-        "es": "La primera campaña científica de INCAR² en Magallanes, desarrollada junto a la Universidad de Magallanes, busca caracterizar los ecosistemas bentónicos y generar información para evaluar los impactos ambientales de la salmonicultura. La investigación también contempla el desarrollo de modelos para anticipar riesgos asociados a la variabilidad climática. La entrada INCAR² y UMAG investigan ecosistemas marinos y riesgos para la salmonicultura en Magallanes se publicó primero en Mundoacuicola .",
-        "en": "The first INCAR² scientific campaign in Magallanes, developed together with the University of Magallanes, seeks to characterize benthic ecosystems and generate information to evaluate the environmental impacts of salmon farming. The research also contemplates the development of models to anticipate risks associated with climate variability. The entry INCAR² and UMAG investigate marine ecosystems and risks to salmon farming in Magallanes was first published in Mundoacuicola .",
-        "no": "Den første INCAR² vitenskapelige kampanjen i Magallanes, utviklet sammen med Universitetet i Magallanes, søker å karakterisere bentiske økosystemer og generere informasjon for å evaluere miljøpåvirkningen av lakseoppdrett. Forskningen vurderer også utvikling av modeller for å forutse risiko forbundet med klimavariabilitet. Oppføringen INCAR ² og UMAG undersøker marine økosystemer og risikoer for lakseoppdrett i Magallanes ble først publisert i Mundoacuicola ."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/INCAR²-y-UMAG-investigan-ecosistemas-marinos-y-riesgos-para-la-salmonicultura-en-Magallanes.jpg"
-    },
-    {
-      "title": {
-        "es": "Vitalice: la alternativa natural de Salmonfood para el control de cáligus",
-        "en": "Vitalice: Salmonfood's natural alternative for caligus control",
-        "no": "Vitalice: Laksematens naturlige alternativ for kaliguskontroll"
-      },
-      "url": "https://www.aqua.cl/vitalice-la-alternativa-natural-de-salmonfood-para-el-control-de-caligus/",
-      "date": "Mon, 26 Oct 2026 09:47:00 +0000",
-      "summary": {
-        "es": "Salmofood, marca de Vitapro Chile, presentó Vitalice, una solución nutricional de origen natural diseñada como herramienta complementaria para el manejo integrado de Caligus rogercresseyi en salmónidos. El producto se incorpora al alimento y busca reducir la carga parasitaria y la capacidad reproductiva del ectoparásito. El lanzamiento se realizó el martes 20 de octubre, durante el Encuentro de Soluciones Acuícolas (ESA Magallanes), en Punta Arenas. La solución fue presentada por el gerente de Investigación y Desarrollo de Vitapro Chile, Rodrigo Sánchez, durante la charla técnica “La nutrición como herramienta sanitaria”. En su exposición, dio a conocer los resultados de dos estudios desarro",
-        "en": "Salmofood, a brand of Vitapro Chile, presented Vitalice, a nutritional solution of natural origin designed as a complementary tool for the integrated management of Caligus rogercresseyi in salmonids. The product is incorporated into food and seeks to reduce the parasitic load and reproductive capacity of the ectoparasite. The launch took place on Tuesday, October 20, during the Aquaculture Solutions Meeting (ESA Magallanes), in Punta Arenas. The solution was presented by the Research and Development Manager of Vitapro Chile, Rodrigo Sánchez, during the technical talk \"Nutrition as a health tool\". In his presentation, he presented the results of two studies on the development",
-        "no": "Salmofood, et merke fra Vitapro Chile, presenterte Vitalice, en ernæringsløsning av naturlig opprinnelse utformet som et komplementært verktøy for integrert håndtering av Caligus rogercresseyi hos laksefisk. Produktet er innlemmet i mat og søker å redusere parasittbelastningen og reproduksjonskapasiteten til ektoparasitten. Lanseringen fant sted tirsdag 20. oktober under Aquaculture Solutions Meeting (ESA Magallanes) i Punta Arenas. Løsningen ble presentert av forsknings- og utviklingssjef i Vitapro Chile, Rodrigo Sánchez, under det tekniske foredraget \"Ernæring som et helseverktøy\". I sin presentasjon presenterte han resultatene fra to studier av utviklingen"
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Rodrigo-Sanchez-1024x1024.jpg"
-    },
-    {
-      "title": {
-        "es": "Despliegan agenda estratégica en Brasil para consolidar la presencia del salmón chileno",
-        "en": "Deploy strategic agenda in Brazil to consolidate the presence of Chilean salmon",
-        "no": "Distribuere strategisk agenda i Brasil for å konsolidere tilstedeværelsen av chilensk laks"
-      },
-      "url": "https://www.salmonexpert.cl/brasil-exportaciones-gremio/despliegan-agenda-estrategica-en-brasil-para-consolidar-la-presencia-del-salmon-chileno/2199003",
-      "date": "",
-      "summary": {
-        "es": "Bajo la marca “Salmón de Chile”, representantes de SalmonChile sostuvieron encuentros de alto nivel con gremios supermercadistas, industriales y autoridades diplomáticas en São Paulo.",
-        "en": "Under the brand \"Salmon de Chile\", representatives of SalmonChile held high-level meetings with supermarket, industrial and diplomatic authorities in São Paulo.",
-        "no": "Under varemerket \"Salmon de Chile\" holdt representanter for SalmonChile møter på høyt nivå med supermarked-, industri- og diplomatiske myndigheter i São Paulo."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2199008.jpg?imageId=2199008&x=0&y=19.72&cropw=100&croph=71.67&panox=0&panoy=19.72&panow=100&panoh=71.67&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "AOLAB y BactiQuant sellan alianza chileno-danesa para transformar la gestión microbiológica del agua en la salmonicultura",
-        "en": "AOLAB and BactiQuant Seal Chilean-Danish Partnership to Transform Microbiological Water Management in Salmon Farming",
-        "no": "AOLAB og BactiQuant Seal chilensk-dansk partnerskap for å transformere mikrobiologisk vannforvaltning i lakseoppdrett"
-      },
-      "url": "https://infosalmon.cl/aolab-bactiquant-calidad-agua-salmonicultura-tablero-salud/",
-      "date": "Sun, 25 Oct 2026 23:39:12 +0000",
-      "summary": {
-        "es": "Con una alta convocatoria que reunió a productores salmoneros, autoridades y especialistas del sector acuícola, la compañía tecnológica AOLAB presentó oficialmente su plataforma “Tablero de Salud”. Además, inauguró en Puerto Montt el primer BactiQuant Knowledge Center de la firma danesa fuera de su país de origen. El hito consolida una alianza estratégica iniciada en 2022 y formalizada comercialmente durante AquaSur 2026. Combina el hardware de monitoreo microbiológico rápido de BactiQuant con un modelo predictivo de gestión desarrollado localmente. Cuenta con el respaldo de Corfo Los Lagos, mediante una inversión de más de $47 millones del instrumento Innova Región. Es un enfoque que se sum",
-        "en": "With a high call that brought together salmon producers, authorities, and specialists from the aquaculture sector, the technology company AOLAB officially presented its \"Health Board\" platform. In addition, he inaugurated the Danish firm's first BactiQuant Knowledge Center outside his home country in Puerto Montt. The milestone consolidates a strategic alliance started in 2022 and formalized commercially during AquaSur 2026. It combines BactiQuant's rapid microbiological monitoring hardware with a locally developed predictive management model. It is supported by Corfo Los Lagos, through an investment of more than $47 million from the Innova Región instrument. It's an approach that adds up",
-        "no": "Med en høy oppfordring som samlet lakseprodusenter, myndigheter og spesialister fra havbruksnæringen, presenterte teknologiselskapet AOLAB offisielt sin «Health Board» -plattform. I tillegg innviet han det danske firmaets første BactiQuant Knowledge Center utenfor hjemlandet i Puerto Montt. Milepælen konsoliderer en strategisk allianse som ble startet i 2022 og formalisert kommersielt under AquaSur 2026. Den kombinerer BactiQuants raske mikrobiologiske overvåkingsmaskinvare med en lokalt utviklet prediktiv styringsmodell. Det støttes av Corfo Los Lagos, gjennom en investering på mer enn $47 millioner fra Innova Región-instrumentet. Det er en tilnærming som legger opp"
+        "es": "Las jornadas de planificación estratégica del Centro de Investigación en Ecosistemas de la Patagonia (CIEP) buscaron vincular la ciencia con las necesidades de Aysén. Se realizaron en Coyhaique. La instancia reunió a autoridades regionales, servicios públicos, gremios productivos, instituciones académicas e integrantes del directorio del centro. El trabajo se organizó en mesas de diálogo que abordaron qué preguntas necesita responder la ciencia en la región durante los próximos años. A partir de este intercambio, se recogieron distintas perspectivas que serán sistematizadas para orientar las prioridades del CIEP durante las próximas dos décadas. Qué espera la región del CIEP La directora eje",
+        "en": "The strategic planning sessions of the Patagonia Ecosystem Research Center (CIEP) sought to link science with the needs of Aysén. They were held in Coyhaique. The instance brought together regional authorities, public services, productive unions, academic institutions and members of the center's board of directors. The work was organized in dialogue tables that addressed what questions science needs to answer in the region over the next few years. From this exchange, different perspectives were collected that will be systematized to guide the priorities of the CIEP over the next two decades. What the CIEP region expects The axis director",
+        "no": "De strategiske planleggingsøktene til Patagonia Ecosystem Research Center (CIEP) søkte å koble vitenskap med behovene til Aysén. De ble holdt i Coyhaique. Forekomsten samlet regionale myndigheter, offentlige tjenester, produktive fagforeninger, akademiske institusjoner og medlemmer av senterets styre. Arbeidet ble organisert i dialogtabeller som tok for seg hvilke spørsmål vitenskapen må svare på i regionen de neste årene. Fra denne utvekslingen ble det samlet inn ulike perspektiver som vil bli systematisert for å veilede CIEPs prioriteringer i løpet av de neste to tiårene. Dette forventer CIEP-regionen AXIS-direktøren"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -247,47 +172,47 @@
         "en": "Industry & General",
         "no": "Bransjenyheter"
       },
-      "score": 9,
+      "score": 12,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/AOLAB-3.jpg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/CIEP-AquaChile-2.jpeg"
     },
     {
       "title": {
-        "es": "Wellboats: informe advierte menores márgenes operacionales ante un mar más cálido",
-        "en": "Wellboats: report warns lower operational margins in the face of a warmer sea",
-        "no": "Brønnbåter: Rapporten advarer om lavere driftsmarginer i møte med et varmere hav"
+        "es": "Salmonicultura gana protagonismo en Enade como motor de inversión y crecimiento",
+        "en": "Salmon farming gains prominence in Enade as an engine of investment and growth",
+        "no": "Lakseoppdrett blir fremtredende i Enade som en motor for investering og vekst"
       },
-      "url": "https://www.aqua.cl/wellboats-informe-advierte-menores-margenes-operacionales-ante-un-mar-mas-calido/",
-      "date": "Fri, 23 Oct 2026 13:00:00 +0000",
+      "url": "https://www.aqua.cl/salmonicultura-gana-protagonismo-en-enade-como-motor-de-inversion-y-crecimiento/",
+      "date": "Thu, 29 Oct 2026 09:48:01 +0000",
       "summary": {
-        "es": "El calentamiento del mar austral plantea nuevas exigencias para el transporte de peces vivos. Una mayor temperatura puede reducir el oxígeno disponible, elevar la demanda metabólica de los salmones y acortar la autonomía de los wellboats en circuito cerrado, precisamente cuando una contingencia ambiental obliga a restringir el intercambio de agua con el entorno. Así lo aborda el informe “Wellboats frente al calentamiento del mar austral”, elaborado por el ingeniero Rene Pallalever, Master of Science, en octubre de 2026. El documento combina una revisión de antecedentes científicos con modelación cuantitativa para proponer capacidades de diseño y criterios de contratación destinados a la oper",
-        "en": "Warming of the southern sea poses new demands for the transport of live fish. A higher temperature can reduce the available oxygen, increase the metabolic demand of salmon and shorten the autonomy of closed-loop wellboats, precisely when an environmental contingency requires restricting the exchange of water with the environment. This is addressed in the report \"Wellboats facing the warming of the southern sea\", prepared by engineer Rene Pallalever, Master of Science, in October 2026. The paper combines a review of scientific background with quantitative modelling to propose design capabilities and procurement criteria for the operation",
-        "no": "Oppvarming av Sørishavet stiller nye krav til transport av levende fisk. En høyere temperatur kan redusere tilgjengelig oksygen, øke det metabolske behovet til laks og forkorte autonomien til lukkede brønnbåter, nettopp når en miljømessig nødsituasjon krever begrensning av utveksling av vann med miljøet. Dette tas opp i rapporten \"Wellboats facing the warming of the southern sea\", utarbeidet av ingeniør Rene Pallalever, Master of Science, i oktober 2026. Artikkelen kombinerer en gjennomgang av vitenskapelig bakgrunn med kvantitativ modellering for å foreslå designmuligheter og innkjøpskriterier for operasjonen"
+        "es": "SalmonChile participó en la XLVIII versión del Encuentro Nacional de la Empresa (Enade 2026), realizada en el centro de eventos Metropolitan Santiago y organizada por Icare bajo el lema “Tempus Invertendi: Tiempo de Invertir”. La instancia reunió a autoridades de Gobierno, representantes del sector productivo, la academia y la sociedad civil para abordar los desafíos asociados a inversión, crecimiento y generación de oportunidades para el país. Durante el bloque central de la jornada, denominado “Invertir en Chile”, las exposiciones destacaron la necesidad de generar condiciones que permitan movilizar capital y dinamizar los encadenamientos productivos a lo largo del territorio nacional. Sal",
+        "en": "SalmonChile participated in the XLVIII version of the National Meeting of the Company (Enade 2026), held at the Metropolitan Santiago event center and organized by Icare under the slogan \"Tempus Invertendi: Time to Invest\". The event brought together government authorities, representatives of the productive sector, academia and civil society to address the challenges associated with investment, growth and generation of opportunities for the country. During the central block of the day, called \"Investing in Chile\", the exhibitions highlighted the need to generate conditions that allow capital to be mobilized and productive chains to be dynamized throughout the national territory.",
+        "no": "SalmonChile deltok i XLVIII-versjonen av selskapets landsmøte (Enade 2026), holdt på Metropolitan Santiago arrangementsenter og organisert av Icare under slagordet \"Tempus Invertendi: Time to Invest\". Arrangementet samlet myndigheter, representanter for produktiv sektor, akademia og sivilsamfunn for å møte utfordringene knyttet til investeringer, vekst og generering av muligheter for landet. Under dagens sentrale blokk, kalt \"Investering i Chile\", fremhevet utstillingene behovet for å generere forhold som gjør at kapital kan mobiliseres og produktive kjeder kan dynamiseres over hele det nasjonale territoriet."
       },
       "source": "AQUA",
       "source_id": "aquacl",
-      "category": "market",
+      "category": "industry",
       "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
-      "score": 4,
+      "score": 10,
       "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/Wellboat-saliendo-de-centro-de-cultivo-generada-por-IA-B2B-Media-Group-1-1024x683.png"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Salmonicultura-en-ENADE-SalmonChile.jpeg"
     },
     {
       "title": {
-        "es": "Guard refuerza su apuesta por la acuicultura con la incorporación de un nuevo director de Ventas",
-        "en": "Guard reinforces its commitment to aquaculture with the addition of a new Sales Director",
-        "no": "Guard styrker sitt engasjement for akvakultur med tillegg av en ny salgsdirektør"
+        "es": "Autoridades de Brasil evalúan en terreno controles de Sernapesca en exportaciones de salmónidos",
+        "en": "Brazilian authorities evaluate Sernapesca's controls on salmonid exports on the ground",
+        "no": "Brasilianske myndigheter vurderer Sernapescas kontroll med eksport av laksefisk på bakken"
       },
-      "url": "https://www.salmonexpert.cl/acuicultura-guard-automation-ventas/guard-refuerza-su-apuesta-por-la-acuicultura-con-la-incorporacion-de-un-nuevo-director-de-ventas/2199280",
+      "url": "https://www.salmonexpert.cl/brasil-envios-exportaciones/autoridades-de-brasil-evaluan-en-terreno-controles-de-sernapesca-en-exportaciones-de-salmonidos/2202961",
       "date": "",
       "summary": {
-        "es": "Benjamin Bjørgen aporta una combinación de experiencia operativa en entornos de procesos exigentes y experiencia comercial relacionada a soluciones técnicas.",
-        "en": "Benjamin Bjørgen brings a combination of operational experience in demanding process environments and business experience related to technical solutions.",
-        "no": "Benjamin Bjørgen bringer med seg en kombinasjon av driftserfaring fra krevende prosessmiljøer og forretningserfaring knyttet til tekniske løsninger."
+        "es": "Pablo Ortiz, director nacional (s), destacó: “Estamos a la espera de los resultados de la auditoría. Estamos tranquilos, porque los estándares chilenos en sanidad animal e inocuidad son reconocidos a nivel mundial\".",
+        "en": "Pablo Ortiz, national director (s), said: \"We are waiting for the results of the audit. We are calm, because Chilean standards in animal health and safety are recognized worldwide.\"",
+        "no": "Pablo Ortiz, nasjonal (e) direktør (er), sa: \"Vi venter på resultatene av revisjonen. Vi er rolige, fordi chilenske standarder for dyrehelse og -sikkerhet er anerkjent over hele verden.\""
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -297,9 +222,84 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 4,
+      "score": 14,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2202967.jpg?imageId=2202967&x=0&y=18.23&cropw=100&croph=63.55&panox=0&panoy=18.23&panow=100&panoh=63.55&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Centros de cultivo de Magallanes aumentaron sus cosechas de salmón en 2,6%",
+        "en": "Magellan farming centers increased their salmon harvests by 2.6%",
+        "no": "Magellan oppdrettssentre økte sine lakseavlinger med 2,6%"
+      },
+      "url": "https://www.aqua.cl/centros-de-cultivo-de-magallanes-aumentaron-sus-cosechas-de-salmon-en-26/",
+      "date": "Thu, 29 Oct 2026 09:49:00 +0000",
+      "summary": {
+        "es": "La cosecha de salmón del Atlántico en los centros de cultivo de la región de Magallanes y de la Antártica Chilena alcanzó las 12.450,73 toneladas en agosto de 2026. La cifra representó un incremento de 2,6% en comparación con el mismo mes del año anterior, equivalente a 313,65 toneladas adicionales. El crecimiento estuvo impulsado por el mayor volumen cosechado de salmón del Atlántico, único recurso registrado en las cosechas de los centros de cultivo regionales durante el periodo analizado. La totalidad de esta producción se procesa en plantas autorizadas de la región. Aumentan los centros de cultivo operativos Durante agosto de 2026, la región contabilizó 50 centros de cultivo operativos d",
+        "en": "The Atlantic salmon harvest in the cultivation centers of the Magellan region and Chilean Antarctica reached 12,450.73 tons in August 2026. The figure represented an increase of 2.6% compared to the same month of the previous year, equivalent to 313.65 additional tons. The growth was driven by the greater volume harvested of Atlantic salmon, the only resource recorded in the harvests of the regional farming centers during the period analyzed. All of this production is processed in authorized plants in the region. Operational Grow Centers Increase During August 2026, the region accounted for 50 operational grow centers d",
+        "no": "La cosecha de salmón del Atlántico en los centros de cultivo de la región de Magallanes y de la Antártica Chilena alcanzó las 12.450,73 toneladas en agosto de 2026. La cifra representó un incremento de 2,6% en comparación con el mismo mes del año anterior, equivalente a 313,65 toneladas adicionales. El crecimiento estuvo impulsado por el mayor volumen cosechado de salmón del Atlántico, único recurso registrado en las cosechas de los centros de cultivo regionales durante el periodo analizado. La totalidad de esta producción se procesa en plantas autorizadas de la región. Aumentan los centros de cultivo operativos Durante agosto de 2026, la región contabilizó 50 centros de cultivo operativos d"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 12,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/Cosecha-Magallanes-Agosto-2026.jpg"
+    },
+    {
+      "title": {
+        "es": "SEB eleva proyección del salmón a US$9,04 por kilo en 2027",
+        "en": "SEB raises salmon projection to US$9.04 per kilo in 2027",
+        "no": "SEB hever lakseprognosen til USD 9,04 per kilo i 2027"
+      },
+      "url": "https://infosalmon.cl/seb-precio-salmon-proyeccion-2027/",
+      "date": "Wed, 28 Oct 2026 22:36:44 +0000",
+      "summary": {
+        "es": "SEB elevó sus estimaciones del precio del salmón en el mercado spot para 2026–2028. SalmonBusiness difundió este 28 de octubre el reporte del analista Sander Lie. Las proyecciones, expresadas en dólares, son las siguientes: Año Estimación anterior Nueva estimación 2026 US$8,07/kg US$8,18/kg 2027 US$8,82/kg US$9,04/kg 2028 US$8,82/kg US$9,15/kg El banco anticipa mayor demanda y una caída de 1% en la oferta mundial para 2027. Ese escenario contrasta con un crecimiento de 1% estimado por Kontali, según la misma publicación. Chile pesa en la revisión: SEB advierte menor biomasa en cultivo y riesgos por El Niño. Un evento intenso podría sumar US$0,32–US$0,65 por kilo a su escenario base. Antes, S",
+        "en": "SEB raised its estimates of the price of salmon in the spot market for 2026–2028. SalmonBusiness released the report of analyst Sander Lie on October 28. The projections, expressed in dollars, are as follows: Year Previous estimate New estimate 2026 US$8.07/kg US$8.18/kg 2027 US$8.82/kg US$9.04/kg 2028 US$8.82/kg US$9.15/kg The bank anticipates higher demand and a 1% drop in global supply by 2027. That scenario contrasts with a 1% growth estimated by Kontali, according to the same publication. Chile weighs in the review: SEB warns of lower biomass in cultivation and El Niño risks. An intense event could add US$0.32 -US $0.65 per kilo to your baseline scenario. Before, S",
+        "no": "SEB elevó sus estimaciones del precio del salmón en el mercado spot para 2026–2028. SalmonBusiness difundió este 28 de octubre el reporte del analista Sander Lie. Las proyecciones, expresadas en dólares, son las siguientes: Año Estimación anterior Nueva estimación 2026 US$8,07/kg US$8,18/kg 2027 US$8,82/kg US$9,04/kg 2028 US$8,82/kg US$9,15/kg El banco anticipa mayor demanda y una caída de 1% en la oferta mundial para 2027. Ese escenario contrasta con un crecimiento de 1% estimado por Kontali, según la misma publicación. Chile pesa en la revisión: SEB advierte menor biomasa en cultivo y riesgos por El Niño. Un evento intenso podría sumar US$0,32–US$0,65 por kilo a su escenario base. Antes, S"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 12,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2199286.jpg?imageId=2199286&x=0&y=2.69&cropw=100&croph=57.85&panox=0&panoy=2.69&panow=100&panoh=57.85&width=1200&height=683"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/SEB-DELFI-Photo-by-S.-Mazeika-1.jpg"
+    },
+    {
+      "title": {
+        "es": "Precio del salmón noruego sube 2,7% y repuntan los envíos",
+        "en": "Norwegian salmon price rises 2.7% and shipments rebound",
+        "no": "Norsk laksepris stiger 2,7% og forsendelsene tar seg opp igjen"
+      },
+      "url": "https://infosalmon.cl/precio-salmon-noruego-semana-43-2026/",
+      "date": "Wed, 28 Oct 2026 22:36:16 +0000",
+      "summary": {
+        "es": "El precio del salmón noruego fresco o refrigerado aumentó 2,7% en la semana 43 de 2026, según Statistics Norway (SSB) . El promedio de exportación alcanzó el equivalente a US$8,18 por kilo, de acuerdo con las cifras publicadas este 28 de octubre. El indicador registró su segunda alza semanal consecutiva. En la semana anterior había llegado a un equivalente de US$7,97 por kilo. La recuperación también se observó en los volúmenes. Noruega exportó 28.518 toneladas de salmón fresco o refrigerado, frente a las 27.689 toneladas de la semana anterior. El incremento fue de 829 toneladas, equivalente a 3%. Precio del salmón noruego sigue bajo el nivel de 2025 El repunte semanal convive con una difere",
+        "en": "The price of fresh or chilled Norwegian salmon increased 2.7% in week 43 of 2026, according to Statistics Norway (SSB) . Average exports amounted to US$8.18 per kilo, according to figures published on October 28. The indicator registered its second consecutive weekly rise. In the previous week it had reached an equivalent of US$7.97 per kilo. Recovery was also observed in volumes. Norway exported 28,518 tons of fresh or chilled salmon, compared to 27,689 tons the week before. The increase was 829 tons, equivalent to 3%. Norwegian Salmon Price Remains Below 2025 Level Weekly Rise Coexists With Difference",
+        "no": "El precio del salmón noruego fresco o refrigerado aumentó 2,7% en la semana 43 de 2026, según Statistics Norway (SSB) . El promedio de exportación alcanzó el equivalente a US$8,18 por kilo, de acuerdo con las cifras publicadas este 28 de octubre. El indicador registró su segunda alza semanal consecutiva. En la semana anterior había llegado a un equivalente de US$7,97 por kilo. La recuperación también se observó en los volúmenes. Noruega exportó 28.518 toneladas de salmón fresco o refrigerado, frente a las 27.689 toneladas de la semana anterior. El incremento fue de 829 toneladas, equivalente a 3%. Precio del salmón noruego sigue bajo el nivel de 2025 El repunte semanal convive con una difere"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 12,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/10/gfmo4kohzogaoc0gxsyick_mainimage.webp"
     }
   ]
 }
