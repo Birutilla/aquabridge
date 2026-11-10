@@ -1,93 +1,93 @@
 {
-  "updated": "2026-11-03T11:50:35Z",
+  "updated": "2026-11-10T11:55:45Z",
   "articles": [
     {
       "title": {
-        "es": "QYSEA: Robótica submarina para una acuicultura más eficiente y de alta precisión",
-        "en": "QYSEA: Underwater robotics for more efficient and high-precision aquaculture",
-        "no": "QYSEA: Undervannsrobotikk for mer effektiv og høypresis akvakultur"
+        "es": "IA y modelación abren nuevas herramientas de pronóstico para acuicultura",
+        "en": "AI and modeling open up new forecasting tools for aquaculture",
+        "no": "AI og modellering åpner for nye prognoseverktøy for havbruk"
       },
-      "url": "https://www.aqua.cl/qysea-robotica-submarina-para-una-acuicultura-mas-eficiente-y-de-alta-precision/",
-      "date": "Tue, 03 Nov 2026 09:49:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/ia-y-modelacion-abren-nuevas-herramientas-de-pronostico-para-acuicultura/",
+      "date": "Mon, 09 Nov 2026 17:57:41 +0000",
       "summary": {
-        "es": "Desde el año 2016, QYSEA –empresa con base en Shenzhen, China– desarrolla sistemas inteligentes para tareas submarinas que integran plataformas ROV ( Remotely Operated Vehicle ), cargas útiles modulares y herramientas específicas para diversas funciones, así como tecnologías de navegación y posicionamiento, softwares asistidos por inteligencia artificial (IA) y flujos de trabajo digitales que optimizan las labores acuáticas. La compañía se ha propuesto llevar la robótica submarina más allá de la simple observación remota hacia flujos de trabajo inteligentes, orientados a tareas específicas y basados en datos, ayudando a los usuarios a mejorar la eficiencia operativa, la repetibilidad y la tr",
-        "en": "Since 2016, QYSEA, a company based in Shenzhen, China, has been developing intelligent systems for underwater tasks that integrate ROV (Remotely Operated Vehicle) platforms, modular payloads and task-specific tools, together with navigation and positioning technologies, artificial intelligence (AI)-assisted software and digital workflows that optimize aquatic work. The company aims to take underwater robotics beyond simple remote observation toward intelligent, task-oriented, data-driven workflows, helping users improve operational efficiency, repeatability and tr...",
-        "no": "Siden 2016 har QYSEA, et selskap med base i Shenzhen i Kina, utviklet intelligente systemer for undervannsoppgaver som integrerer ROV-plattformer (Remotely Operated Vehicle), modulære nyttelaster og oppgavespesifikke verktøy, sammen med navigasjons- og posisjoneringsteknologier, programvare støttet av kunstig intelligens (KI) og digitale arbeidsflyter som optimaliserer arbeidet i vann. Selskapet vil løfte undervannsrobotikk utover enkel fjernobservasjon mot intelligente, oppgaveorienterte og datadrevne arbeidsflyter, og hjelpe brukere med å forbedre driftseffektivitet, repeterbarhet og spor..."
+        "es": "El oceanógrafo físico Peter McComb presentó en Puerto Montt herramientas desarrolladas en Nueva Zelanda que integran modelación numérica, datos ambientales e inteligencia artificial para anticipar condiciones relevantes para la operación acuícola. La entrada IA y modelación abren nuevas herramientas de pronóstico para acuicultura se publicó primero en Mundoacuicola .",
+        "en": "Physical oceanographer Peter McComb presented in Puerto Montt tools developed in New Zealand that integrate numerical modelling, environmental data and artificial intelligence to anticipate conditions relevant to the aquaculture operation. The entry AI and modeling open new forecasting tools for aquaculture was first published in Mundoacuicola .",
+        "no": "Fysisk oseanograf Peter McComb presenterte i Puerto Montt verktøy utviklet i New Zealand som integrerer numerisk modellering, miljødata og kunstig intelligens for å forutse forhold som er relevante for akvakulturdriften. Artikkelen AI and modeling open new forecasting tools for aquaculture ble først publisert i Mundoacuicola ."
       },
-      "source": "AQUA",
-      "source_id": "aquacl",
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "technology",
       "category_label": {
         "es": "Tecnologia",
         "en": "Technology",
         "no": "Teknologi"
+      },
+      "score": 5,
+      "cross_source": false,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/11/IA-y-modelacion-abren-nuevas-herramientas-de-pronostico-para-acuicultura.jpg"
+    },
+    {
+      "title": {
+        "es": "Nueva tecnología mide los patrones respiratorios del salmón en tiempo real",
+        "en": "New technology measures salmon breathing patterns in real time",
+        "no": "Ny teknologi måler laksens pustemønster i sanntid"
+      },
+      "url": "https://www.salmonexpert.cl/bienestar-bienestar-animal-noruega/nueva-tecnologia-mide-los-patrones-respiratorios-del-salmon-en-tiempo-real/2202354",
+      "date": "",
+      "summary": {
+        "es": "",
+        "en": "",
+        "no": ""
+      },
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 5,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/2162278.jpg?imageId=2162278&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "ADL incorpora a experto europeo para enfrentar los desafíos sanitarios de la salmonicultura chilena",
+        "en": "ADL incorporates a European expert to face the health challenges of Chilean salmon farming",
+        "no": "ADL inkluderer en europeisk ekspert for å møte helseutfordringene i chilensk lakseoppdrett"
+      },
+      "url": "https://infosalmon.cl/adl-hamish-rodger-salud-salmon/",
+      "date": "Mon, 09 Nov 2026 19:56:20 +0000",
+      "summary": {
+        "es": "Con el objetivo de fortalecer las capacidades de diagnóstico, investigación y prevención de enfermedades que afectan a la salmonicultura, ADL Diagnostic Chile anunció una alianza estratégica con el reconocido especialista europeo Hamish Rodger, médico veterinario con más de cuatro décadas de trayectoria en salud de peces. El acuerdo, presentado el 4 de noviembre durante un workshop técnico realizado en Puerto Varas, contempla asesoría especializada en casos clínicos complejos, desarrollo de proyectos de investigación y cooperación internacional, con especial atención a desafíos sanitarios como la Piscirickettsiosis, las enfermedades branquiales y otras patologías relevantes para la industria",
+        "en": "With the aim of strengthening the capabilities of diagnosis, research and prevention of diseases that affect salmon farming, ADL Diagnostic Chile announced a strategic alliance with the renowned European specialist Hamish Rodger, a veterinarian with more than four decades of experience in fish health. The agreement, presented on November 4 during a technical workshop held in Puerto Varas, includes specialized advice on complex clinical cases, development of research projects and international cooperation, with special attention to health challenges such as Piscirickettsiosis, gill diseases and other pathologies relevant to the industry",
+        "no": "Med sikte på å styrke evnen til diagnose, forskning og forebygging av sykdommer som påvirker lakseoppdrett, annonserte ADL Diagnostic Chile en strategisk allianse med den anerkjente europeiske spesialisten Hamish Rodger, en veterinær med mer enn fire tiår med erfaring innen fiskehelse. Avtalen, som ble presentert 4. november under en teknisk workshop i Puerto Varas, inkluderer spesialisert rådgivning om komplekse kliniske tilfeller, utvikling av forskningsprosjekter og internasjonalt samarbeid, med særlig vekt på helseutfordringer som Piscirickettsiosis, gjellesykdommer og andre patologier som er relevante for bransjen"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
       },
       "score": 13,
-      "cross_source": false,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/10/13_-1024x573.jpg"
-    },
-    {
-      "title": {
-        "es": "Club Innovación Acuícola y UAI anuncian diplomado de IA para decisiones críticas en salmonicultura",
-        "en": "Aquaculture Innovation Club and UAI announce AI diploma for critical decisions in salmon farming",
-        "no": "Aquaculture Innovation Club og UAI lanserer KI-diplom for kritiske beslutninger i lakseoppdrett"
-      },
-      "url": "https://infosalmon.cl/diplomado-ia-salmonicultura/",
-      "date": "Mon, 02 Nov 2026 20:17:25 +0000",
-      "summary": {
-        "es": "El Club Innovación Acuícola y la Universidad Adolfo Ibáñez (UAI) anunciaron el diplomado de IA en salmonicultura. Su nombre completo es Diplomado en Inteligencia Artificial Aplicada a Decisiones Críticas en Salmonicultura. La iniciativa busca fortalecer las capacidades de ejecutivos y profesionales para incorporar nuevas tecnologías en la gestión y la toma de decisiones del sector. El programa será presentado oficialmente el 20 de noviembre en Santiago. Comenzará sus actividades académicas el 18 de mayo de 2027, en modalidad online en vivo. La iniciativa surge de una premisa central. La transformación que provoca la inteligencia artificial no depende solo de disponer de nuevas tecnologías. P",
-        "en": "The Aquaculture Innovation Club and Universidad Adolfo Ibáñez (UAI) announced the AI diploma program in salmon farming. Its full name is Diploma in Artificial Intelligence Applied to Critical Decisions in Salmon Farming. The initiative seeks to strengthen the capabilities of executives and professionals to incorporate new technologies into management and decision-making in the sector. The program will be officially presented on November 20 in Santiago. Academic activities will begin on May 18, 2027, in a live online format. The initiative stems from a central premise: the transformation caused by artificial intelligence does not depend only on having new technologies. P...",
-        "no": "Aquaculture Innovation Club og Universidad Adolfo Ibáñez (UAI) har kunngjort et KI-diplom i lakseoppdrett. Det fulle navnet er Diplom i kunstig intelligens anvendt på kritiske beslutninger i lakseoppdrett. Initiativet skal styrke ledere og fagpersoners evne til å ta i bruk ny teknologi i styring og beslutningstaking i næringen. Programmet presenteres offisielt 20. november i Santiago. Den akademiske virksomheten starter 18. mai 2027, som direktesendt nettundervisning. Initiativet bygger på en sentral forutsetning: Omstillingen som kunstig intelligens medfører, avhenger ikke bare av tilgang til ny teknologi. P..."
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 7,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/IA-uai-cia-diplomado-scaled.jpeg"
-    },
-    {
-      "title": {
-        "es": "Blumar acerca la tecnología de alimentación remota a estudiantes de Duoc UC en Puerto Montt",
-        "en": "Blumar brings remote feeding technology to Duoc UC students in Puerto Montt",
-        "no": "Blumar viser fjernfôringsteknologi til Duoc UC-studenter i Puerto Montt"
-      },
-      "url": "https://www.aqua.cl/blumar-acerca-la-tecnologia-de-alimentacion-remota-a-estudiantes-de-duoc-uc-en-puerto-montt/",
-      "date": "Tue, 03 Nov 2026 09:47:00 +0000",
-      "summary": {
-        "es": "Acercar la realidad de la industria acuícola a la formación técnica y abrir espacios de aprendizaje directo en las operaciones fueron los focos de la visita que estudiantes de Duoc UC Sede Puerto Montt realizaron a la Sala de Alimentación Remota de Blumar, donde conocieron cómo se integra la inteligencia artificial para el seguimiento de la biomasa. La actividad se enmarca en la asignatura “Introducción a Tecnologías de la Acuicultura”, impartida por DUOC UC en alianza con SalmonChile e impulsada junto a empresas socias como Blumar, Innovex, Akva, Multi X y Kran para vincular a los estudiantes a la realidad del sector mediante la participación directa de profesionales del gremio. Para introd",
-        "en": "Bringing the reality of the aquaculture industry to technical education and opening spaces for direct learning in operations were the focus of the visit by Duoc UC Puerto Montt students to Blumar's Remote Feeding Room, where they learned how artificial intelligence is integrated for biomass monitoring. The activity is part of the course \"Introduction to Aquaculture Technologies\", taught by DUOC UC in partnership with SalmonChile and promoted together with partner companies such as Blumar, Innovex, Akva, Multi X and Kran to connect students with the reality of the sector through the direct participation of industry professionals. To intro...",
-        "no": "Å bringe virkeligheten i akvakulturnæringen inn i yrkesopplæringen og skape rom for læring direkte i driften var hovedfokuset for besøket til studenter fra Duoc UC i Puerto Montt i Blumars fjernfôringsrom, hvor de fikk se hvordan kunstig intelligens brukes til å følge biomassen. Aktiviteten er en del av faget «Introduksjon til akvakulturteknologi», som undervises av DUOC UC i samarbeid med SalmonChile og drives frem sammen med partnerselskaper som Blumar, Innovex, Akva, Multi X og Kran, for å knytte studentene til næringens virkelighet gjennom direkte deltakelse fra fagfolk i bransjen. For å intro..."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 17,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/duoc.webp"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/adl-experto-internacional.png"
     },
     {
       "title": {
-        "es": "[LA + LEÍDA EL LUNES] Gremios rechazan campaña internacional que excluye el salmón de cultivo de restaurantes",
-        "en": "[MOST READ ON MONDAY] Industry groups reject international campaign that excludes farmed salmon from restaurants",
-        "no": "[MEST LESTE PÅ MANDAG] Bransjeorganisasjoner avviser internasjonal kampanje som utelukker oppdrettslaks fra restauranter"
+        "es": "Ángela Saavedra: La industria del salmón “le cambió la cara al sur de Chile”",
+        "en": "Ángela Saavedra: The salmon industry \"changed the face of southern Chile\"",
+        "no": "Ángela Saavedra: Laksenæringen «forandret det sørlige Chiles ansikt»"
       },
-      "url": "https://www.aqua.cl/salmonchile-y-consejo-del-salmon-responden-a-campana-internacional-contra-el-salmon-de-cultivo/",
-      "date": "Mon, 02 Nov 2026 09:50:00 +0000",
+      "url": "https://www.aqua.cl/angela-saavedra-la-industria-del-salmon-le-cambio-la-cara-al-sur-de-chile/",
+      "date": "Tue, 10 Nov 2026 09:50:00 +0000",
       "summary": {
-        "es": "Los gremios salmonicultores chilenos cuestionaron una campaña internacional que busca excluir el salmón de cultivo de las cartas de restaurantes. La iniciativa, denominada “Off the Table” , es impulsada por WildFish, una organización benéfica con base en Escocia. La campaña derivó en una carta suscrita por más de 120 chefs y representantes del mundo gastronómico. Sus firmantes se comprometieron a no servir salmón de cultivo en sus establecimientos. Frente a esta iniciativa, representantes de SalmonChile y del Consejo del Salmón manifestaron sus reparos. Ambos gremios defendieron el aporte nutricional del producto, su presencia en los mercados internacionales y el rol de la salmonicultura en ",
-        "en": "Chilean salmon farming associations challenged an international campaign that seeks to exclude farmed salmon from restaurant menus. The initiative, called \"Off the Table\", is promoted by WildFish, a Scotland-based charity. The campaign led to a letter signed by more than 120 chefs and representatives of the culinary world, who pledged not to serve farmed salmon in their establishments. In response, representatives of SalmonChile and the Salmon Council voiced their objections. Both associations defended the product's nutritional contribution, its presence in international markets and the role of salmon farming in...",
-        "no": "Chilenske lakseoppdrettsorganisasjoner har stilt spørsmål ved en internasjonal kampanje som vil utelukke oppdrettslaks fra restaurantmenyer. Initiativet, kalt «Off the Table», drives av WildFish, en skotskbasert veldedig organisasjon. Kampanjen førte til et brev underskrevet av over 120 kokker og representanter for gastronomien, som forpliktet seg til ikke å servere oppdrettslaks. Representanter for SalmonChile og Salmon Council kom med innvendinger. Begge organisasjonene forsvarte produktets ernæringsmessige bidrag, dets tilstedeværelse i internasjonale markeder og lakseoppdrettets rolle i..."
+        "es": "La necesidad de avanzar en decisiones concretas para impulsar la salmonicultura fue uno de los ejes de la intervención de la directora regional del Consejo del Salmón, Ángela Saavedra, en AquaForum Los Lagos. La representante vinculó las perspectivas de la actividad con las condiciones que debe generar el país, la sostenibilidad y el trabajo conjunto entre empresas, autoridades, trabajadores y otros sectores productivos. A partir de los conceptos de certeza, sostenibilidad y liderazgo, presentes en el lema del encuentro, Saavedra planteó que proyectar la industria requiere tanto oportunidades de desarrollo como un compromiso compartido para enfrentar sus desafíos. Asimismo, destacó el papel ",
+        "en": "The need to advance in concrete decisions to promote salmon farming was one of the axes of the intervention of the regional director of the Salmon Council, Ángela Saavedra, at AquaForum Los Lagos. The representative linked the prospects of the activity with the conditions that the country must generate, sustainability and joint work between companies, authorities, workers and other productive sectors. Based on the concepts of certainty, sustainability and leadership, present in the motto of the meeting, Saavedra stated that projecting the industry requires both development opportunities and a shared commitment to face its challenges. He also highlighted the role",
+        "no": "Behovet for å fremme konkrete beslutninger om å fremme lakseoppdrett var en av aksene i intervensjonen til regiondirektør i Lakserådet, Ángela Saavedra, ved AquaForum Los Lagos. Representanten knyttet utsiktene for aktiviteten til forholdene som landet må generere, bærekraft og felles arbeid mellom bedrifter, myndigheter, arbeidstakere og andre produktive sektorer. Basert på konseptene om sikkerhet, bærekraft og lederskap, som er til stede i mottoet til møtet, uttalte Saavedra at prosjektering av bransjen krever både utviklingsmuligheter og en felles forpliktelse til å møte sine utfordringer. Han fremhevet også rollen"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -99,23 +99,23 @@
       },
       "score": 12,
       "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/09/PmELERO-2.png"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/Angela-Saavedra-B2B-Media-Group-scaled.jpg"
     },
     {
       "title": {
-        "es": "En Sustainability & Innovation Conference destacan cinco proyectos con los Reconocimientos ACTívate",
-        "en": "Five projects highlighted with ACTívate Awards at the Sustainability & Innovation Conference",
-        "no": "Fem prosjekter hedret med ACTívate-prisene på Sustainability & Innovation Conference"
+        "es": "SEA anuncia nueve proyectos salmonicultores en evaluación ambiental por US$39 millones",
+        "en": "SEA announces nine salmon farming projects under environmental assessment for US$39 million",
+        "no": "SEA kunngjør ni lakseoppdrettsprosjekter i miljøvurdering for 39 millioner dollar"
       },
-      "url": "https://infosalmon.cl/sustainability-innovation-conference-destacan-cinco-proyectos/",
-      "date": "Mon, 02 Nov 2026 21:15:05 +0000",
+      "url": "https://www.aqua.cl/sea-anuncia-nueve-proyectos-salmonicultores-en-evaluacion-ambiental-por-us39-millones/",
+      "date": "Tue, 10 Nov 2026 09:47:00 +0000",
       "summary": {
-        "es": "Los Reconocimientos ACTívate 2026 distinguieron cinco proyectos de empresas salmonicultoras. El martes 27 de octubre, Skretting Chile entregó los premios. La iniciativa reconoce proyectos que generan impacto positivo en comunidades, medioambiente e innovación sostenible. La entrega se realizó al cierre del bloque Comunidades y Vinculación. La segunda edición de la Sustainability &amp; Innovation Conference se realizó con éxito. Reunió a casi 250 personas del ecosistema salmonicultor: productores, autoridades, academia, proveedores, gremios y otras organizaciones. Antes del evento, InfoSALMON publicó el programa completo y los speakers confirmados . “Con ACTívate queremos destacar todo lo pos",
-        "en": "The ACTívate Awards 2026 recognized five projects from salmon farming companies. On Tuesday, October 27, Skretting Chile presented the awards. The initiative recognizes projects that generate a positive impact on communities, the environment and sustainable innovation. The ceremony took place at the close of the Communities and Engagement block. The second edition of the Sustainability & Innovation Conference was a success, bringing together nearly 250 people from the salmon farming ecosystem: producers, authorities, academia, suppliers, industry associations and other organizations. Before the event, InfoSALMON published the full program and confirmed speakers. \"With ACTívate we want to highlight all that is pos...",
-        "no": "ACTívate-prisene 2026 hedret fem prosjekter fra lakseoppdrettsselskaper. Tirsdag 27. oktober delte Skretting Chile ut prisene. Initiativet anerkjenner prosjekter som skaper positiv effekt for lokalsamfunn, miljø og bærekraftig innovasjon. Utdelingen fant sted ved avslutningen av blokken Lokalsamfunn og samhandling. Den andre utgaven av Sustainability & Innovation Conference ble gjennomført med suksess og samlet nesten 250 personer fra lakseoppdrettets økosystem: produsenter, myndigheter, akademia, leverandører, bransjeorganisasjoner og andre organisasjoner. Før arrangementet publiserte InfoSALMON hele programmet og bekreftede talere. «Med ACTívate vil vi løfte frem alt det positive..."
+        "es": "El Director ejecutivo del Servicio de Evaluación Ambiental, Arturo Farías, informó que en la Región de Los Lagos se encuentran en evaluación 22 proyectos de inversión que involucran US$3.183 millones. El balance fue realizado en medio de una jornada de trabajo en Puerto Montt, en la que la autoridad se reunió con el Delegado Presidencial, Cristián Palma y con la Seremi del Medio Ambiente, Lorena Leichtle, entre otras autoridades. Aquaforum y encuentro con equipo local La autoridad del SEA, por otra parte, expuso y participó de un panel en AquaForum 2026 evento que tiene como propósito analizar los principales desafíos y perspectivas de la salmonicultura nacional. En el encuentro, el máximo r",
+        "en": "The Executive Director of the Environmental Assessment Service, Arturo Farías, reported that in the Los Lagos Region, 22 investment projects involving US$3,183 million are being evaluated. The balance was made in the middle of a working day in Puerto Montt, in which the authority met with the Presidential Delegate, Cristián Palma, and with the Environment Seremi, Lorena Leichtle, among other authorities. Aquaforum and meeting with local team The SEA authority, on the other hand, presented and participated in a panel at AquaForum 2026 event that aims to analyze the main challenges and perspectives of national salmon farming. At the meeting, the maximum r",
+        "no": "Administrerende direktør for miljøvurderingstjenesten, Arturo Farías, rapporterte at i Los Lagos-regionen blir 22 investeringsprosjekter som involverer US$ 3.183 millioner evaluert. Balansen ble gjort midt i en arbeidsdag i Puerto Montt, der myndigheten møtte presidentens delegat, Cristián Palma, og med miljøet Seremi, Lorena Leichtle, blant andre myndigheter. Aquaforum og møte med lokalt team Sjøfartsdirektoratet presenterte og deltok derimot i et panel på AquaForum 2026-arrangementet som tar sikte på å analysere hovedutfordringene og perspektivene til nasjonalt lakseoppdrett. På møtet er maksimum r"
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -123,71 +123,71 @@
         "no": "Bransjenyheter"
       },
       "score": 12,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/SEA.png"
+    },
+    {
+      "title": {
+        "es": "Mercado de Israel: Abriendo las oportunidades para el salmón chileno",
+        "en": "Israel Market: Opening Opportunities for Chilean Salmon",
+        "no": "Israel-markedet: Åpner muligheter for chilensk laks"
+      },
+      "url": "https://www.aqua.cl/mercado-de-israel-abriendo-las-oportunidades-para-el-salmon-chileno/",
+      "date": "Tue, 10 Nov 2026 09:49:00 +0000",
+      "summary": {
+        "es": "En los supermercados, restaurantes, preparaciones de sushi y servicios de delivery de Israel, el salmón encuentra distintos caminos para llegar al consumidor. Su presencia se vincula tanto con las preferencias por una alimentación saludable como con tradiciones gastronómicas y celebraciones religiosas. Para la industria chilena, esa combinación configura un destino donde las oportunidades dependen de comprender cómo se consume el producto, qué formatos se demandan y cuáles son las condiciones para sostener el abastecimiento. Las exportaciones chilenas de salmonídeos a Israel muestran una recuperación. Entre enero y agosto de 2026 sumaron US$70.693.480 y 6.926,43 toneladas netas, con aumentos",
+        "en": "In supermarkets, restaurants, sushi preparations and delivery services in Israel, salmon find different ways to reach the consumer. Its presence is linked both to preferences for healthy eating and to gastronomic traditions and religious celebrations. For the Chilean industry, this combination creates a destination where opportunities depend on understanding how the product is consumed, what formats are demanded, and what the conditions are to sustain supply. Chilean exports of salmonids to Israel show a recovery. Between January and August 2026, US$70,693,480 and 6,926.43 net tons were added, with increases",
+        "no": "I supermarkeder, restauranter, sushitilberedninger og leveringstjenester i Israel finner laksen forskjellige måter å nå forbrukeren på. Tilstedeværelsen er knyttet både til preferanser for sunn mat og til gastronomiske tradisjoner og religiøse feiringer. For den chilenske industrien skaper denne kombinasjonen en destinasjon der mulighetene avhenger av å forstå hvordan produktet forbrukes, hvilke formater som etterspørres, og hva betingelsene er for å opprettholde tilbudet. Chilensk eksport av laksefisk til Israel viser bedring. Mellom januar og august 2026 ble US$ 70 693 480 og 6 926 43 netto tonn lagt til, med økninger"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 18,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/XIA_9275-scaled.jpg"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/Foto-1-IA-scaled.jpg"
     },
     {
       "title": {
-        "es": "SalmonChile releva potencial de la acuicultura para invertir en ENADE 2026",
-        "en": "SalmonChile highlights aquaculture's investment potential at ENADE 2026",
-        "no": "SalmonChile løfter frem akvakulturens investeringspotensial på ENADE 2026"
+        "es": "RaboResearch: Salmón modera su expansión y camarón mantiene crecimiento hacia 2027",
+        "en": "RaboResearch: Salmon moderates its expansion and shrimp maintains growth towards 2027",
+        "no": "RaboResearch: Laks modererer ekspansjonen og reker opprettholder veksten mot 2027"
       },
-      "url": "https://www.mundoacuicola.cl/new/salmonchile-releva-potencial-de-la-acuicultura-para-invertir-en-enade-2026/",
-      "date": "Mon, 02 Nov 2026 14:00:58 +0000",
+      "url": "https://www.aqua.cl/raboresearch-salmon-modera-su-expansion-y-camaron-mantiene-crecimiento-hacia-2027/",
+      "date": "Tue, 10 Nov 2026 09:46:00 +0000",
       "summary": {
-        "es": "Durante el encuentro empresarial, el gremio destacó las oportunidades de crecimiento de la salmonicultura, en una jornada donde el ministro de Hacienda, Jorge Quiroz, y el exministro Juan Carlos Jobet abordaron el aporte de los sectores productivos al desarrollo económico del país. La entrada SalmonChile releva potencial de la acuicultura para invertir en ENADE 2026 se publicó primero en Mundoacuicola .",
-        "en": "At the business gathering, the association highlighted salmon farming's growth opportunities, in a session where Finance Minister Jorge Quiroz and former minister Juan Carlos Jobet discussed the contribution of productive sectors to the country's economic development. The post SalmonChile highlights aquaculture's investment potential at ENADE 2026 was first published on Mundoacuicola.",
-        "no": "På næringslivssamlingen løftet organisasjonen frem vekstmulighetene i lakseoppdrett, på en dag der finansminister Jorge Quiroz og tidligere minister Juan Carlos Jobet diskuterte produksjonssektorenes bidrag til landets økonomiske utvikling. Innlegget SalmonChile løfter frem akvakulturens investeringspotensial på ENADE 2026 ble først publisert på Mundoacuicola."
+        "es": "Un crecimiento acuícola positivo, pero con diferencias cada vez más marcadas entre especies y países, proyecta el informe Global Aquaculture Outlook 2027 de RaboResearch . El documento anticipa una desaceleración de la oferta de salmón Atlántico, una expansión sostenida del camarón y un escenario dispar para Brasil, donde la tilapia perdería dinamismo y el cultivo de camarón seguiría apoyado en la demanda interna. El análisis, elaborado por Novel Sharma y Gorjan Nikolik, se basa en la encuesta mundial de acuicultura 2027 de Global Seafood Alliance (GSA) y RaboResearch, con aportes de Kontal i . Sus proyecciones muestran que las restricciones biológicas, regulatorias y de costos influirán en ",
+        "en": "Positive aquaculture growth, but with increasingly marked differences between species and countries, projects the Global Aquaculture Outlook 2027 report by RaboResearch . The document anticipates a slowdown in the supply of Atlantic salmon, a sustained expansion of shrimp, and a mixed scenario for Brazil, where tilapia would lose dynamism and shrimp cultivation would continue to be supported by domestic demand. The analysis, prepared by Novel Sharma and Gorjan Nikolik, is based on the 2027 Global Seafood Alliance (GSA) and RaboResearch global aquaculture survey, with input from Kontal i . Their projections show that biological, regulatory and cost constraints will influence",
+        "no": "Positiv akvakulturvekst, men med stadig mer markerte forskjeller mellom arter og land, prosjekterer Global Aquaculture Outlook 2027-rapporten fra RaboResearch . Dokumentet forutser en nedgang i tilførselen av atlantisk laks, en vedvarende utvidelse av reker, og et blandet scenario for Brasil, der tilapia vil miste dynamikken og rekedyrking vil fortsette å bli støttet av innenlandsk etterspørsel. Analysen, utarbeidet av Novel Sharma og Gorjan Nikolik, er basert på 2027 Global Seafood Alliance (GSA) og RaboResearch global aquaculture survey, med innspill fra Kontal i . Deres anslag viser at biologiske, regulatoriske og kostnadsbegrensninger vil påvirke"
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "industry",
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
       "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
       },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/11/SalmonChile-en-ENADE-2026.png"
+      "score": 14,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2024/08/ChinaSeafood-Rabobank.jpg"
     },
     {
       "title": {
-        "es": "Alltech: Ciencia nutricional y resiliencia marcan la hoja de ruta para la competitividad en salmonicultura",
-        "en": "Alltech: Nutritional science and resilience set the roadmap for competitiveness in salmon farming",
-        "no": "Alltech: Ernæringsvitenskap og robusthet viser vei for konkurranseevnen i lakseoppdrett"
+        "es": "Nissui eleva sus resultados y proyecta la recuperación de Yadran",
+        "en": "Nissui raises its results and projects Yadran's recovery",
+        "no": "Nissui hever sine resultater og prosjekter Yadrans utvinning"
       },
-      "url": "https://www.salmonexpert.cl/alltech-economia-nofima/alltech-ciencia-nutricional-y-resiliencia-marcan-la-hoja-de-ruta-para-la-competitividad-en-salmonicultura/2201469",
-      "date": "",
+      "url": "https://infosalmon.cl/nissui-eleva-sus-resultados-y-proyecta-la-recuperacion-de-yadran/",
+      "date": "Mon, 09 Nov 2026 19:08:35 +0000",
       "summary": {
-        "es": "Especialistas de Chile y Noruega analizaron el impacto macroeconómico del sector, la adaptación al cambio climático, el estrés oxidativo y el manejo preventivo de patologías que comprometen el valor productivo.",
-        "en": "Specialists from Chile and Norway analyzed the sector's macroeconomic impact, climate change adaptation, oxidative stress and the preventive management of diseases that compromise productive value.",
-        "no": "Eksperter fra Chile og Norge analyserte næringens makroøkonomiske betydning, tilpasning til klimaendringer, oksidativt stress og forebyggende håndtering av sykdommer som truer produksjonsverdien."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "industry",
-      "category_label": {
-        "es": "Industria",
-        "en": "Industry & General",
-        "no": "Bransjenyheter"
-      },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2201493.jpg?imageId=2201493&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Emprender en acuicultura en EE.UU: Informe revela que la oportunidad está en la tecnología y no en el cultivo",
-        "en": "Entrepreneurship in U.S. aquaculture: Report finds the opportunity is in technology, not farming",
-        "no": "Gründerskap i amerikansk akvakultur: Rapport viser at mulighetene ligger i teknologi, ikke i oppdrett"
-      },
-      "url": "https://infosalmon.cl/acuicultura-estados-unidos-informe-hatch-blue-tecnologia-chile/",
-      "date": "Mon, 02 Nov 2026 20:56:32 +0000",
-      "summary": {
-        "es": "Estados Unidos es uno de los mayores mercados de consumo de productos del mar a nivel global. Sin embargo, entre el 70% y el 80% de su demanda interna se abastece mediante importaciones. Pese a contar con un mercado de capitales consolidado y centros de investigación de vanguardia, la producción acuícola estadounidense no logra despegar. Esta disyuntiva es el eje central del informe « Unlocking Investment In U.S. Aquaculture: Barriers, Opportunities &amp; Pathways Forward «, elaborado por Hatch Blue. Se trata de una empresa de inversión y aceleración global. El estudio contó con apoyo de la Administración de Pequeñas Empresas de EE.UU. (SBA). El documento desglosa las condiciones del ecosist",
-        "en": "The United States is one of the largest seafood consumer markets in the world. However, between 70% and 80% of its domestic demand is met through imports. Despite having a consolidated capital market and cutting-edge research centers, U.S. aquaculture production fails to take off. This dilemma is the central theme of the report \"Unlocking Investment In U.S. Aquaculture: Barriers, Opportunities & Pathways Forward\", prepared by Hatch Blue, a global investment and acceleration firm. The study was supported by the U.S. Small Business Administration (SBA). The document breaks down the conditions of the ecosyst...",
-        "no": "USA er et av verdens største forbruksmarkeder for sjømat. Likevel dekkes 70 til 80 prosent av den innenlandske etterspørselen gjennom import. Til tross for et etablert kapitalmarked og fremste forskningssentre kommer ikke amerikansk akvakulturproduksjon i gang. Dette dilemmaet er kjernen i rapporten «Unlocking Investment In U.S. Aquaculture: Barriers, Opportunities & Pathways Forward», utarbeidet av Hatch Blue, et globalt investerings- og akselerasjonsselskap. Studien ble støttet av det amerikanske Small Business Administration (SBA). Dokumentet gjennomgår forholdene i øko..."
+        "es": "Nissui cerró el primer semestre de su año fiscal 2026 con resultados récord en ventas y utilidad operacional, impulsada por el desempeño de sus negocios pesqueros y de procesamiento y comercialización. Sin embargo, la recuperación de la acuicultura sudamericana continúa avanzando más lentamente de lo esperado, en un escenario marcado por desafíos productivos en Yadran. De acuerdo con los resultados presentados por la compañía, las ventas netas alcanzaron ¥506.700 millones (aproximadamente US$3.202 millones), lo que representa un incremento de 11,9% respecto del mismo período del año anterior. El resultado operacional llegó a ¥21.100 millones (cerca de US$133,3 millones), con un crecimiento d",
+        "en": "Nissui closed the first half of its fiscal year 2026 with record results in sales and operating profit, driven by the performance of its fishing and processing and marketing businesses. However, the recovery of South American aquaculture continues to advance more slowly than expected, in a scenario marked by productive challenges in Yadran. According to the results presented by the company, net sales reached ¥506,700 million (approximately US$3,202 million), representing an increase of 11.9% over the same period of the previous year. The operating result reached ¥21.1 billion (about $133.3 million), with a growth of",
+        "no": "Nissui avsluttet første halvdel av regnskapsåret 2026 med rekordresultater i salg og driftsresultat, drevet av resultatene fra fiske- og foredlings- og markedsføringsvirksomhetene. Utvinningen av søramerikansk havbruk fortsetter imidlertid å gå langsommere enn forventet, i et scenario preget av produktive utfordringer i Yadran. Ifølge resultatene som ble presentert av selskapet, nådde nettoomsetningen 506,7 milliarder yen (ca. US$ 3 202 millioner), noe som representerer en økning på 11,9% i forhold til samme periode året før. Driftsresultatet nådde 21,1 milliarder yen (ca. USD 133,3 millioner), med en vekst på"
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -197,72 +197,22 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 17,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/HFF6-Aquatic-5MS.jpg"
+      "score": 14,
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/08/Teru-Tanaka-nissui.png"
     },
     {
       "title": {
-        "es": "Cuatro empresas de Los Lagos participan en feria de productos del mar en China",
-        "en": "Four Los Lagos companies take part in seafood fair in China",
-        "no": "Fire selskaper fra Los Lagos deltar på sjømatmesse i Kina"
+        "es": "Ordenan prisión preventiva de imputados por la sustracción de 6 toneladas de salmón a Blumar",
+        "en": "Pre-trial detention of defendants for the theft of 6 tons of salmon from Blumar is ordered",
+        "no": "Forvarsling av tiltalte for tyveri av 6 tonn laks fra Blumar beordres"
       },
-      "url": "https://www.mundoacuicola.cl/new/cuatro-empresas-de-los-lagos-participan-en-feria-de-productos-del-mar-en-china/",
-      "date": "Fri, 30 Oct 2026 20:00:01 +0000",
-      "summary": {
-        "es": "Pure Nature Foods, Salmones de Chile, Pacific Star y Pesquera Catalunya integran el pabellón nacional coordinado por ProChile en China Fisheries &#038; Seafood Expo 2026, que finaliza este viernes 30 de octubre en Qingdao. La participación coincide con un crecimiento de 35,1% de las exportaciones regionales a China. La entrada Cuatro empresas de Los Lagos participan en feria de productos del mar en China se publicó primero en Mundoacuicola .",
-        "en": "Pure Nature Foods, Salmones de Chile, Pacific Star and Pesquera Catalunya are part of the national pavilion coordinated by ProChile at China Fisheries & Seafood Expo 2026, which ends this Friday, October 30 in Qingdao. The participation coincides with a 35.1% growth in regional exports to China. The post Four Los Lagos companies take part in seafood fair in China was first published on Mundoacuicola.",
-        "no": "Pure Nature Foods, Salmones de Chile, Pacific Star og Pesquera Catalunya er med i det nasjonale paviljongen koordinert av ProChile på China Fisheries & Seafood Expo 2026, som avsluttes fredag 30. oktober i Qingdao. Deltakelsen faller sammen med en vekst på 35,1 prosent i regionens eksport til Kina. Innlegget Fire selskaper fra Los Lagos deltar på sjømatmesse i Kina ble først publisert på Mundoacuicola."
-      },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 12,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Cuatro-empresas-de-Los-Lagos-participan-en-feria-de-productos-del-mar-en-China.png"
-    },
-    {
-      "title": {
-        "es": "Esta es la estrategia de las salmonicultoras chilenas para contener el impacto de los aranceles de EE.UU.",
-        "en": "This is the strategy of Chilean salmon producers to contain the impact of U.S. tariffs",
-        "no": "Dette er strategien til chilenske lakseprodusenter for å begrense virkningen av amerikanske tollsatser"
-      },
-      "url": "https://infosalmon.cl/esta-es-la-estrategia-de-las-salmonicultoras-chilenas-para-contener-el-impacto-de-los-aranceles-de-ee-uu/",
-      "date": "Mon, 02 Nov 2026 21:21:08 +0000",
-      "summary": {
-        "es": "Los aranceles de Estados Unidos plantean uno de los escenarios comerciales más desafiantes de los últimos años para el salmón chileno. La administración de Donald Trump aplicó nuevas tarifas. Por ello, las empresas han debido reajustar sus estrategias y absorber parte de los mayores costos. También buscan alternativas para mantener su competitividad en su principal mercado de exportación. Estados Unidos representa más del 40% de las ventas globales del sector. Desde abril de 2025, las exportaciones chilenas están sujetas a un arancel transitorio de 10%. Posteriormente se sumó un incremento que elevó la sobretasa a 12,5%, vigente desde el 24 de julio de 2026. De acuerdo con los antecedentes p",
-        "en": "U.S. tariffs pose one of the most challenging trade scenarios in recent years for Chilean salmon. The Donald Trump administration applied new tariffs. As a result, companies have had to readjust their strategies and absorb part of the higher costs. They are also seeking alternatives to maintain their competitiveness in their main export market. The United States accounts for more than 40% of the sector's global sales. Since April 2025, Chilean exports have been subject to a temporary 10% tariff. Subsequently, an increase was added that raised the surcharge to 12.5%, in force since July 24, 2026. According to the backg...",
-        "no": "Amerikanske tollsatser skaper et av de mest utfordrende handelsscenarioene på flere år for chilensk laks. Donald Trumps administrasjon innførte nye tollsatser. Derfor har selskapene måttet justere strategiene sine og absorbere deler av de økte kostnadene. De leter også etter alternativer for å opprettholde konkurranseevnen i sitt viktigste eksportmarked. USA står for over 40 prosent av næringens globale salg. Siden april 2025 har chilensk eksport vært underlagt en midlertidig toll på 10 prosent. Deretter kom en økning som løftet tilleggssatsen til 12,5 prosent, gjeldende fra 24. juli 2026. Ifølge bakgrunns..."
-      },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 11,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/Exportacion-de-salmon-fuente-consejo.jpg"
-    },
-    {
-      "title": {
-        "es": "Autoridades de Brasil evalúan en terreno controles de Sernapesca en exportaciones de salmónidos",
-        "en": "Brazilian authorities assess Sernapesca's salmonid export controls on site",
-        "no": "Brasilianske myndigheter vurderer Sernapescas eksportkontroller for laksefisk på stedet"
-      },
-      "url": "https://www.salmonexpert.cl/brasil-envios-exportaciones/autoridades-de-brasil-evaluan-en-terreno-controles-de-sernapesca-en-exportaciones-de-salmonidos/2202961",
+      "url": "https://www.salmonexpert.cl/aysen-blumar-centro/ordenan-prision-preventiva-de-imputados-por-la-sustraccion-de-6-toneladas-de-salmon-a-blumar/2208683",
       "date": "",
       "summary": {
-        "es": "Pablo Ortiz, director nacional (s), destacó: “Estamos a la espera de los resultados de la auditoría. Estamos tranquilos, porque los estándares chilenos en sanidad animal e inocuidad son reconocidos a nivel mundial\".",
-        "en": "Pablo Ortiz, national director (acting), stated: \"We are awaiting the audit results. We are calm, because Chilean standards in animal health and food safety are recognized worldwide.\"",
-        "no": "Pablo Ortiz, nasjonal direktør (konstituert), uttalte: «Vi venter på resultatene av revisjonen. Vi er rolige, fordi chilenske standarder for dyrehelse og næringsmiddeltrygghet er anerkjent over hele verden.»"
+        "es": "La organización habría contado con la colaboración de un trabajador de la empresa, quien facilitaba el ingreso al recinto. Luego de romper las mallas de las jaulas, los imputados extraían los especímenes y los trasladaban en embarcaciones hasta Puerto Aysén.",
+        "en": "The organization reportedly had the collaboration of a worker from the company, who facilitated the entrance to the site. After breaking the meshes of the cages, the accused extracted the specimens and transported them in boats to Puerto Aysén.",
+        "no": "Organisasjonen skal ha samarbeidet med en arbeidstaker fra selskapet, som la til rette for inngangen til anlegget. Etter å ha brutt maskene i merdene, tok den anklagede ut prøvene og transporterte dem i båter til Puerto Aysén."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -272,25 +222,50 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 10,
-      "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2202967.jpg?imageId=2202967&x=0&y=18.23&cropw=100&croph=63.55&panox=0&panoy=18.23&panow=100&panoh=63.55&width=1200&height=683"
+      "score": 12,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/1222572.jpg?imageId=1222572&x=0&y=15.13&cropw=100&croph=84.87&panox=0&panoy=15.13&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
       "title": {
-        "es": "¿Cuáles son las proyecciones del nuevo centro de cosecha de salmones en Magallanes?",
-        "en": "What are the projections for the new salmon harvest center in Magallanes?",
-        "no": "Hva er prognosene for det nye lakseslakteriet i Magallanes?"
+        "es": "Mowi crecerá a 630.000 toneladas de salmón: es la mayor empresa de productos del mar en el mundo",
+        "en": "Mowi will grow to 630,000 tonnes of salmon - it is the largest seafood company in the world",
+        "no": "Mowi vil vokse til 630 000 tonn laks - det er det største sjømatselskapet i verden"
       },
-      "url": "https://infosalmon.cl/las-proyecciones-del-nuevo-centro-de-cosecha-de-salmones-en-magallanes/",
-      "date": "Mon, 02 Nov 2026 23:17:44 +0000",
+      "url": "https://www.salmonexpert.cl/cosechas-ebit-ebitda/mowi-crecera-a-630000-toneladas-de-salmon-es-la-mayor-empresa-de-productos-del-mar-en-el-mundo/2206015",
+      "date": "",
       "summary": {
-        "es": "Un nuevo centro de cosecha de salmones en Magallanes busca acompañar las proyecciones de crecimiento de la salmonicultura en la región. Lo impulsa Abick. La iniciativa considera una inversión de US$6 millones. Recientemente obtuvo la aprobación de la Comisión Regional de Uso del Borde Costero (CRUBC) para avanzar en su concesión marítima . El proyecto se emplazará en Bahía Puerto Riquelme, en la Península Antonio Varas, comuna de Puerto Natales. Contempla la operación de un pontón que permitirá la descarga directa de peces vivos desde wellboats. Se hará mediante un sistema de salmoducto y bombeo hacia la planta de faenamiento. Posteriormente, los peces serán descargados post desangre en Fish",
-        "en": "A new salmon harvest center in Magallanes seeks to support the growth projections of salmon farming in the region. It is promoted by Abick. The initiative involves an investment of US$6 million. It recently obtained approval from the Regional Commission for the Use of the Coastal Border (CRUBC) to advance its maritime concession. The project will be located in Bahía Puerto Riquelme, on the Antonio Varas Peninsula, in the commune of Puerto Natales. It includes operating a pontoon that will allow the direct unloading of live fish from wellboats, using a salmon pipeline and pumping system to the processing plant. Afterwards, the fish will be unloaded post-bleeding at Fish...",
-        "no": "Et nytt slakteri for laks i Magallanes skal støtte vekstprognosene for lakseoppdrett i regionen. Det drives frem av Abick. Initiativet innebærer en investering på 6 millioner USD. Det har nylig fått godkjenning fra den regionale kommisjonen for bruk av kystsonen (CRUBC) for å gå videre med sin maritime konsesjon. Prosjektet etableres i Bahía Puerto Riquelme på Antonio Varas-halvøya, i kommunen Puerto Natales. Det omfatter drift av en ponton som tillater direkte lossing av levende fisk fra brønnbåter, ved hjelp av et lakserørsystem og pumping til slakteriet. Deretter losses fisken etter avblødning ved Fish..."
+        "es": "La empresa registra ingresos y utilidades récord, mientras que su filial chilena, aportará con 88.000 toneladas para la operación del 2027, consolidándose como la segunda más importante del grupo.",
+        "en": "The company has record revenues and profits, while its Chilean subsidiary will contribute 88,000 tons for the 2027 operation, consolidating itself as the second most important of the group.",
+        "no": "Selskapet har rekordinntekter og overskudd, mens det chilenske datterselskapet vil bidra med 88 000 tonn for 2027-operasjonen, og konsolidere seg som den nest viktigste i konsernet."
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 12,
+      "cross_source": false,
+      "image": "https://image.salmonexpert.cl/1739732.jpg?imageId=1739732&x=0&y=23.06&cropw=100&croph=71.67&panox=0&panoy=23.06&panow=100&panoh=71.67&width=1200&height=683"
+    },
+    {
+      "title": {
+        "es": "Blumar negocia la venta de su filial de salmones a Agrosuper",
+        "en": "Blumar negotiates the sale of its salmon subsidiary to Agrosuper",
+        "no": "Blumar forhandler om salg av sitt laksedatterselskap til Agrosuper"
+      },
+      "url": "https://www.mundoacuicola.cl/new/blumar-negocia-la-venta-de-su-filial-de-salmones-a-agrosuper/",
+      "date": "Mon, 09 Nov 2026 17:35:41 +0000",
+      "summary": {
+        "es": "Mediante un hecho esencial enviado a la Comisión del Mercado Financiero (CMF), Empresas Agrosuper informó... La entrada Blumar negocia la venta de su filial de salmones a Agrosuper se publicó primero en Mundoacuicola .",
+        "en": "Through an essential fact sent to the Financial Market Commission (CMF), Empresas Agrosuper reported... The Blumar entry negotiating the sale of its salmon subsidiary to Agrosuper was first published in Mundoacuicola .",
+        "no": "Gjennom et viktig faktum sendt til Financial Market Commission (CMF), rapporterte Empresas Agrosuper... Blumar-oppføringen som forhandlet salget av sitt laksedatterselskap til Agrosuper, ble først publisert i Mundoacuicola ."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
       "category": "market",
       "category_label": {
         "es": "Mercado",
@@ -299,7 +274,32 @@
       },
       "score": 10,
       "cross_source": true,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/Creditos-Abick.webp"
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2025/05/BlumarSalmones.jpg"
+    },
+    {
+      "title": {
+        "es": "Alianza entre Fiordo Austral y SARIA busca ampliar mercados y valorizar subproductos del salmón",
+        "en": "Alliance between Fiordo Austral and Saria seeks to expand markets and enhance salmon by-products",
+        "no": "Alliansen mellom Fiordo Austral og Saria søker å utvide markeder og forbedre laksebiprodukter"
+      },
+      "url": "https://www.aqua.cl/alianza-entre-fiordo-austral-y-saria-busca-ampliar-mercados-y-valorizar-subproductos-del-salmon/",
+      "date": "Mon, 09 Nov 2026 18:46:20 +0000",
+      "summary": {
+        "es": "En un desayuno con la prensa especializada, en el que participó Medios AQUA, Fiordo Austral profundizó en los alcances de la incorporación del grupo alemán SARIA como socio estratégico, anunciada en septiembre. El gerente general de la compañía, Juan Guiresse, expuso el sentido de la alianza y las oportunidades que abre para la empresa y para la cadena de valor del salmón. SARIA ingresa a la propiedad de Fiordo Austral a través de su unidad de negocios Bioceval, con una participación de 36,45%. La operación combina el conocimiento y la posición de la compañía chilena en la salmonicultura con la experiencia técnica y el alcance comercial internacional del grupo alemán. Su materialización está",
+        "en": "In a breakfast with the specialized press, in which AQUA Media participated, Fiordo Austral delved into the scope of the incorporation of the German group Saria as a strategic partner, announced in September. The company's general manager, Juan Guiresse, explained the meaning of the alliance and the opportunities it opens for the company and for the salmon value chain. SARIA enters the Fiordo Austral property through its Bioceval business unit, with a 36.45% stake. The operation combines the knowledge and position of the Chilean company in salmon farming with the technical experience and international commercial reach of the German group. Its materialization is",
+        "no": "I en frokost med den spesialiserte pressen, der AQUA Media deltok, dykket Fiordo Austral inn i omfanget av inkorporeringen av den tyske gruppen Saria som en strategisk partner, kunngjort i september. Selskapets daglig leder, Juan Guiresse, forklarte betydningen av alliansen og mulighetene den åpner for selskapet og for verdikjeden for laks. SARIA går inn i Fiordo Austral-eiendommen gjennom forretningsenheten Bioceval, med en eierandel på 36,45%. Operasjonen kombinerer kunnskapen og posisjonen til det chilenske selskapet innen lakseoppdrett med den tekniske erfaringen og den internasjonale kommersielle rekkevidden til det tyske konsernet. Dens materialisering er"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "market",
+      "category_label": {
+        "es": "Mercado",
+        "en": "Market & Business",
+        "no": "Marked og naringsliv"
+      },
+      "score": 10,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/fiordo-Austral-1-scaled.jpg"
     }
   ]
 }
