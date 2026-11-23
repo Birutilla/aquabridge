@@ -1,68 +1,18 @@
 {
-  "updated": "2026-11-19T12:37:24Z",
+  "updated": "2026-11-23T12:35:31Z",
   "articles": [
     {
       "title": {
-        "es": "Innovación molecular busca fortalecer la vigilancia de la resistencia del piojo de mar",
-        "en": "Molecular innovation seeks to strengthen surveillance of sea lice resistance",
-        "no": "Molekylær innovasjon skal styrke overvåkingen av resistens hos lakselus"
+        "es": "En EtMday 2026: SalmonChile invita a emprendedores a mirar al mar y destaca la revolución biotecnológica y de IA en la salmonicultura",
+        "en": "At EtMday 2026: SalmonChile invites entrepreneurs to look to the sea and highlights the biotech and AI revolution in salmon farming",
+        "no": "På EtMday 2026: SalmonChile inviterer gründere til å se mot havet og fremhever den bioteknologiske og AI-revolusjonen innen lakseoppdrett"
       },
-      "url": "https://www.aqua.cl/innovacion-molecular-busca-fortalecer-la-vigilancia-de-la-resistencia-del-piojo-de-mar/",
-      "date": "Thu, 19 Nov 2026 09:47:00 +0000",
+      "url": "https://infosalmon.cl/salmonchile-etmday-2026-patricio-melero-biotecnologia-ia-salmonicultura/",
+      "date": "Fri, 20 Nov 2026 15:22:22 +0000",
       "summary": {
-        "es": "La creciente necesidad de detectar tempranamente cambios en la sensibilidad del piojo de mar ( Caligus rogercresseyi ) frente a los tratamientos antiparasitarios fue el eje central del webinar de cierre del proyecto Fondef IDeA ID24I10188, liderado por el Centro Incar². La iniciativa busca desarrollar una herramienta molecular que complemente los bioensayos tradicionales utilizados por la industria y las autoridades sanitarias para monitorear la eficacia de los tratamientos contra uno de los principales desafíos sanitarios de la salmonicultura chilena. Durante la actividad, que reunió a especialistas de organismos públicos, centros de investigación y la academia, el investigador de Incar², D",
-        "en": "The growing need to detect early changes in the sensitivity of sea lice (Caligus rogercresseyi) to antiparasitic treatments was the central theme of the closing webinar of Fondef IDeA project ID24I10188, led by the Incar² Centre. The initiative aims to develop a molecular tool that complements the traditional bioassays used by industry and health authorities to monitor the effectiveness of treatments against one of the main health challenges of Chilean salmon farming. During the event, which brought together specialists from public agencies, research centres and academia, Incar² researcher D...",
-        "no": "Det økende behovet for tidlig å oppdage endringer i lakselusens (Caligus rogercresseyi) følsomhet for antiparasittiske behandlinger var hovedtemaet på avslutningswebinaret for Fondef IDeA-prosjektet ID24I10188, ledet av Incar²-senteret. Initiativet har som mål å utvikle et molekylært verktøy som utfyller de tradisjonelle bioassayene som næringen og helsemyndighetene bruker for å overvåke effekten av behandlinger mot en av de største helseutfordringene i chilensk lakseoppdrett. Under arrangementet, som samlet spesialister fra offentlige etater, forskningssentre og akademia, presenterte Incar²-forsker D..."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/webinar15.png"
-    },
-    {
-      "title": {
-        "es": "OMSA publica guía sobre uso de antimicrobianos en acuicultura y destaca experiencia de Chile",
-        "en": "WOAH publishes guidelines on antimicrobial use in aquaculture and highlights Chile's experience",
-        "no": "WOAH publiserer veiledning om bruk av antimikrobielle midler i akvakultur og fremhever Chiles erfaring"
-      },
-      "url": "https://www.aqua.cl/omsa-publica-guia-sobre-uso-de-antimicrobianos-en-acuicultura-y-destaca-experiencia-de-chile/",
-      "date": "Wed, 18 Nov 2026 18:00:00 +0000",
-      "summary": {
-        "es": "La Organización Mundial de Sanidad Animal (OMSA) publicó la guía Guidelines for Monitoring Antimicrobial Use in Aquaculture at the Field Level . Se trata de una herramienta técnica que busca apoyar a los países en el desarrollo e implementación de sistemas de monitoreo del uso de antimicrobianos en establecimientos acuícolas. La publicación es resultado de un trabajo iniciado en 2023 por un grupo técnico internacional de expertos convocados por la OMSA. Sus integrantes provienen de distintos países y continentes, y cuentan con experiencia en investigación y políticas públicas relacionadas con el uso de antimicrobianos. El equipo, coordinado por la organización desde su sede en París, desarro",
-        "en": "The World Organisation for Animal Health (WOAH) has published the Guidelines for Monitoring Antimicrobial Use in Aquaculture at the Field Level. It is a technical tool intended to support countries in developing and implementing systems to monitor antimicrobial use at aquaculture facilities. The publication is the result of work begun in 2023 by an international technical group of experts convened by WOAH. Its members come from different countries and continents and have experience in research and public policy related to antimicrobial use. The team, coordinated by the organisation from its headquarters in Paris, develop...",
-        "no": "Verdens dyrehelseorganisasjon (WOAH) har publisert veiledningen Guidelines for Monitoring Antimicrobial Use in Aquaculture at the Field Level. Dette er et teknisk verktøy som skal hjelpe land med å utvikle og innføre systemer for å overvåke bruken av antimikrobielle midler ved akvakulturanlegg. Publikasjonen er resultatet av et arbeid som startet i 2023 i en internasjonal teknisk ekspertgruppe sammenkalt av WOAH. Medlemmene kommer fra ulike land og kontinenter og har erfaring fra forskning og offentlig politikk knyttet til bruk av antimikrobielle midler. Teamet, koordinert av organisasjonen fra hovedkontoret i Paris, utvikl..."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "technology",
-      "category_label": {
-        "es": "Tecnologia",
-        "en": "Technology",
-        "no": "Teknologi"
-      },
-      "score": 12,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/Marcela-Lara-3-1024x768.jpg"
-    },
-    {
-      "title": {
-        "es": "Hatch Blue invierte para impulsar monitoreo de plancton y salud acuícola con IA en Latinoamérica",
-        "en": "Hatch Blue invests to boost AI-based plankton monitoring and aquaculture health in Latin America",
-        "no": "Hatch Blue investerer for å styrke KI-basert planktonovervåking og fiskehelse i Latin-Amerika"
-      },
-      "url": "https://infosalmon.cl/hatch-blue-invierte-ia-hadl-monitoreo-plancton-acuicultura/",
-      "date": "Wed, 18 Nov 2026 15:56:16 +0000",
-      "summary": {
-        "es": "El fondo de inversión especializado en acuicultura Hatch Blue, concretó una inversión en la empresa tecnológica estadounidense Hadl ( Hadl.ai ), enfocada en el desarrollo de modelos de inteligencia artificial (IA) para el monitoreo de plancton y el diagnóstico sanitario de especies acuícolas. La operación se ejecutó a través del Hatch Accelerator Fund II (fondo de USD 13,9 millones destinado a tecnologías en etapas tempranas) tras el paso de la compañía por el programa de aceleración Hatch CREST en noviembre de 2025. Mediante su plataforma insignia AquaSense, Hadl emplea algoritmos de visión por computadora entrenados para interpretar imágenes microscópicas de muestras de agua y tejidos anim",
-        "en": "The aquaculture-focused investment fund Hatch Blue has invested in the US technology company Hadl (Hadl.ai), which develops artificial intelligence (AI) models for plankton monitoring and health diagnostics of aquaculture species. The deal was made through the Hatch Accelerator Fund II (a USD 13.9 million fund for early-stage technologies) after the company took part in the Hatch CREST acceleration programme in November 2025. Through its flagship platform AquaSense, Hadl uses computer vision algorithms trained to interpret microscope images of water samples and animal tissue...",
-        "no": "Det akvakulturspesialiserte investeringsfondet Hatch Blue har investert i det amerikanske teknologiselskapet Hadl (Hadl.ai), som utvikler modeller for kunstig intelligens (KI) til planktonovervåking og helsediagnostikk av oppdrettsarter. Investeringen ble gjort gjennom Hatch Accelerator Fund II (et fond på 13,9 millioner USD for teknologi i tidlig fase) etter at selskapet deltok i akselerasjonsprogrammet Hatch CREST i november 2025. Gjennom sin hovedplattform AquaSense bruker Hadl datasynsalgoritmer trent til å tolke mikroskopbilder av vannprøver og dyrevev..."
+        "es": "En el marco de la primera jornada de EtMday 2026 (el mayor encuentro internacional de innovación, emprendimiento e inversión de Latinoamérica celebrado en el Parque Bicentenario de Vitacura), el presidente de SalmonChile, Patricio Melero, participó en el panel “Impacto y propósito como motor del negocio”, instancia desde donde invitó a las startups y emprendedores a explorar oportunidades en áreas como biotecnología, nutrición e inteligencia artificial aplicadas al mar. Durante su intervención, Melero abordó el desafío de abastecer de proteínas a una población mundial que alcanzará los 10.000 millones de habitantes hacia 2050, relevando el potencial productivo de los océanos frente a la esca",
+        "en": "On the first day of EtMday 2026 (Latin America's largest international event for innovation, entrepreneurship, and investment, held at the Bicentennial Park in Vitacura), SalmonChile President Patricio Melero participated in the panel \"Impact and Purpose as a Business Driver,\" where he invited startups and entrepreneurs to explore opportunities in areas such as biotechnology, nutrition, and artificial intelligence applied to the sea. During his speech, Melero addressed the challenge of supplying protein to a global population that will reach 10 billion people by 2050, highlighting the productive potential of the oceans in the face of scarcity.",
+        "no": "Innenfor rammen av den første dagen av EtMday 2026 (det største internasjonale møtet for innovasjon, entreprenørskap og investeringer i Latin-Amerika, avholdt i Parque Bicentenario de Vitacura), deltok lederen for SalmonChile, Patricio Melero, i panelet «Virkning og formål som drivkraft for virksomheten», et forum der han oppfordret oppstartsbedrifter og gründere til å utforske muligheter innen områder som bioteknologi, ernæring og kunstig intelligens anvendt på havet. Under sitt innlegg tok Melero opp utfordringen med å forsyne en verdensbefolkning som vil nå 10 milliarder mennesker innen 2050 med proteiner, og fremhevet havets produksjonspotensial i møte med mangelen."
       },
       "source": "InfoSalmon",
       "source_id": "infosalmon",
@@ -74,20 +24,95 @@
       },
       "score": 11,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/HADL-1.jpg"
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/ETM_SalmonChile.jpeg"
     },
     {
       "title": {
-        "es": "MSD Salud Animal refuerza apuesta por prevención e innovación en salmonicultura chilena",
-        "en": "MSD Animal Health strengthens its commitment to prevention and innovation in Chilean salmon farming",
-        "no": "MSD Animal Health styrker satsingen på forebygging og innovasjon i chilensk lakseoppdrett"
+        "es": "OMSA destaca a Chile en nueva guía sobre antimicrobianos en acuicultura",
+        "en": "OIE highlights Chile in new guide on antimicrobials in aquaculture",
+        "no": "OIE fremhever Chile i ny veiledning om antimikrobielle midler i akvakultur"
       },
-      "url": "https://www.aqua.cl/msd-salud-animal-refuerza-apuesta-por-prevencion-e-innovacion-en-salmonicultura-chilena/",
-      "date": "Thu, 19 Nov 2026 09:46:00 +0000",
+      "url": "https://www.mundoacuicola.cl/new/omsa-destaca-a-chile-en-nueva-guia-sobre-antimicrobianos-en-acuicultura/",
+      "date": "Fri, 20 Nov 2026 16:10:17 +0000",
       "summary": {
-        "es": "MSD Salud Animal reafirmó su continuidad en el mercado acuícola chileno tras una reorganización global que implicó ajustes internos en el país, sin afectar su operación en este segmento. La compañía señaló que mantendrá su trabajo con productores de salmón a través de su portafolio biofarmacéutico, la asesoría técnica en terreno y sus capacidades de investigación e innovación. “Chile es un mercado estratégico para la acuicultura y nuestro compromiso con esta industria se mantiene firme. Seguiremos presentes, trabajando junto a nuestros clientes, productores y poniendo a su disposición nuestra experiencia y capacidades de innovación para enfrentar los desafíos sanitarios de la salmonicultura”",
-        "en": "MSD Animal Health has reaffirmed its continued presence in the Chilean aquaculture market following a global reorganisation that led to internal adjustments in the country, without affecting its operations in this segment. The company said it will keep working with salmon producers through its biopharmaceutical portfolio, on-site technical advice and its research and innovation capabilities. “Chile is a strategic market for aquaculture and our commitment to this industry remains firm. We will remain present, working alongside our customers and producers and placing our experience and innovation capabilities at their disposal to face the health challenges of salmon farming.”",
-        "no": "MSD Animal Health har bekreftet at selskapet blir værende i det chilenske akvakulturmarkedet etter en global omorganisering som medførte interne justeringer i landet, uten at virksomheten i dette segmentet ble berørt. Selskapet opplyser at det vil fortsette arbeidet med lakseprodusenter gjennom sin biofarmasøytiske portefølje, teknisk rådgivning i felt og sin forsknings- og innovasjonskapasitet. «Chile er et strategisk marked for akvakultur, og vårt engasjement for denne næringen står fast. Vi vil fortsatt være til stede, jobbe sammen med kunder og produsenter og stille vår erfaring og innovasjonskapasitet til rådighet for å møte helseutfordringene i lakseoppdrett.»"
+        "es": "El documento internacional, elaborado por un grupo de expertos convocado por la Organización Mundial de Sanidad Animal (OMSA), destaca los sistemas chilenos de vigilancia activa, reporte mensual y trazabilidad del uso de antimicrobianos en centros de cultivo. En su elaboración participó la Dra. Marcela Lara, asesora senior del Centro Colaborador CASA, aportando al desarrollo de orientaciones para fortalecer el monitoreo y la gestión sanitaria en acuicultura. La entrada OMSA destaca a Chile en nueva guía sobre antimicrobianos en acuicultura se publicó primero en Mundoacuicola .",
+        "en": "The international document, prepared by a group of experts convened by the World Organization for Animal Health (WOAH), highlights Chile's systems for active surveillance, monthly reporting, and traceability of antimicrobial use in farming facilities. Dr. Marcela Lara, Senior Advisor at the CASA Collaborating Center, contributing to the development of guidelines to strengthen monitoring and health management in aquaculture. The article \"WOAH highlights Chile in new guideline on antimicrobials in aquaculture\" was first published on Mundoacuicola.",
+        "no": "Det internasjonale dokumentet, utarbeidet av en ekspertgruppe sammenkalt av Verdens dyrehelseorganisasjon (OIE), fremhever de chilenske systemene for aktiv overvåking, månedlig rapportering og sporbarhet av bruk av antimikrobielle midler i oppdrettsanlegg. Dr. Marcela Lara, seniorrådgiver ved CASA-samarbeidssenteret, bidrar til utviklingen av retningslinjer for å styrke overvåking og helseforvaltning innen akvakultur. Artikkelen «OIE fremhever Chile i ny veiledning om antimikrobielle midler i akvakultur» ble først publisert på Mundoacuicola."
+      },
+      "source": "Mundo Acuicola",
+      "source_id": "mundoacuicola",
+      "category": "technology",
+      "category_label": {
+        "es": "Tecnologia",
+        "en": "Technology",
+        "no": "Teknologi"
+      },
+      "score": 6,
+      "cross_source": true,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/11/OMSA-destaca-a-Chile-en-nueva-guia-sobre-antimicrobianos-en-acuicultura.jpg"
+    },
+    {
+      "title": {
+        "es": "José Ramón Gutiérrez: “Podemos generar 180.000 nuevos puestos de trabajo”",
+        "en": "José Ramón Gutiérrez: \"We can create 180,000 new jobs\"",
+        "no": "José Ramón Gutiérrez: «Vi kan skape 180 000 nye arbeidsplasser»"
+      },
+      "url": "https://www.aqua.cl/jose-ramon-gutierrez-podemos-generar-180-000-nuevos-puestos-de-trabajo/",
+      "date": "Mon, 23 Nov 2026 09:50:00 +0000",
+      "summary": {
+        "es": "La salmonicultura chilena podría sumar 400.000 toneladas por sobre una trayectoria de crecimiento del 2%, estimó el presidente del directorio de Multi X, José Ramón Gutiérrez, quien junto al director ejecutivo de Acuasesorías, Marcelo Campos, abrió el bloque llamado “Industria y regulación” del seminario “El próximo salto de la salmonicultura chilena”. El evento fue organizado por la Facultad de Ingeniería y Ciencias de la Universidad Adolfo Ibáñez y el Club Innovación Acuícola de Chile como parte del lanzamiento del diplomado “Inteligencia artificial aplicada a decisiones críticas en salmonicultura”. Dónde reducir costos José Ramón Gutiérrez reconoció que la industria descuidó su relación c",
+        "en": "Chilean salmon farming could add 400,000 tons over a growth trajectory of 2%, estimated the Chairman of the Board of Multi X, José Ramón Gutiérrez, who, together with the CEO of Acuasesorías, Marcelo Campos, opened the session called \"Industry and Regulation\" of the seminar \"The Next Leap for Chilean Salmon Farming.\" The event was organized by the School of Engineering and Sciences of Adolfo Ibáñez University and the Chilean Aquaculture Innovation Club as part of the launch of the diploma course \"Artificial Intelligence Applied to Critical Decisions in Salmon Farming.\" Where to reduce costs José Ramón Gutiérrez acknowledged that the industry neglected its relationship with",
+        "no": "Den chilenske lakseoppdrettsnæringen kan komme til å produsere 400 000 tonn mer enn en vekstkurve på 2 %, anslår styrelederen i Multi X, José Ramón Gutiérrez, som sammen med administrerende direktør i Acuasesorías, Marcelo Campos, åpnet delen kalt «Næring og regulering» av seminaret «Den chilenske lakseoppdrettsnæringens neste sprang». Arrangementet ble organisert av Fakultetet for ingeniørfag og naturvitenskap ved Adolfo Ibáñez-universitetet og Chiles klubb for akvakulturinnovasjon som en del av lanseringen av diplomkurset «Kunstig intelligens anvendt på kritiske beslutninger innen lakseoppdrett». Hvor kan man redusere kostnadene? José Ramón Gutiérrez erkjente at næringen har forsømt forholdet sitt til"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 14,
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/Marcelo-Campos-Acuasesorias-B2B-Media-Group-1024x611.png"
+    },
+    {
+      "title": {
+        "es": "Salmonicultura mira a otras industrias para acelerar adopción de inteligencia artificial",
+        "en": "Salmon farming looks to other industries to accelerate the adoption of artificial intelligence",
+        "no": "Lakseoppdrett ser til andre bransjer for å akselerere innføringen av kunstig intelligens"
+      },
+      "url": "https://www.aqua.cl/salmonicultura-mira-a-otras-industrias-para-acelerar-adopcion-de-inteligencia-artificial/",
+      "date": "Fri, 20 Nov 2026 15:00:00 +0000",
+      "summary": {
+        "es": "Más de 120 personas participaron en la quinta versión del After Office Lythium, realizada en Puerto Varas, encuentro que este año puso el foco en cómo distintas industrias están adoptando inteligencia artificial y qué aprendizajes pueden ser aplicables a la salmonicultura. La actividad se desarrolló en las oficinas de Keepex y reunió, entre otros, a representantes vinculados a las principales empresas salmonicultoras del país. El objetivo fue observar experiencias provenientes de sectores como economía, salud y minería, con el propósito de analizar cómo la inteligencia artificial puede traducirse en productividad, mejores decisiones y nuevos modelos de operación. Tecnología, productividad y ",
+        "en": "More than 120 people attended the fifth edition of the Lythium After Office event, held in Puerto Varas. This year, the event focused on how different industries are adopting artificial intelligence and what lessons can be applied to the salmon farming industry. The event was held at Keepex's offices and brought together, among others, representatives from the country's leading salmon farming companies. The goal was to look at experiences from sectors such as economics, healthcare, and mining, with the aim of analyzing how artificial intelligence can translate into productivity, better decision-making, and new operating models. Technology, productivity and",
+        "no": "Mer enn 120 personer deltok på den femte utgaven av After Office Lythium, som ble avholdt i Puerto Varas. Årets arrangement fokuserte på hvordan ulike bransjer tar i bruk kunstig intelligens og hvilken lærdom som kan overføres til lakseoppdrett. Arrangementet fant sted i Keepex' lokaler og samlet blant andre representanter for landets største lakseoppdrettsselskaper. Målet var å se på erfaringer fra sektorer som økonomi, helse og gruvedrift, for å analysere hvordan kunstig intelligens kan føre til økt produktivitet, bedre beslutninger og nye driftsmodeller. Teknologi, produktivitet og"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 13,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/lythium-2-1024x468.jpeg"
+    },
+    {
+      "title": {
+        "es": "Adolfo Alvial: “No hay ninguna posibilidad de productividad si no hay innovación”",
+        "en": "Adolfo Alvial: “There is no possibility of productivity without innovation”",
+        "no": "Adolfo Alvial: «Det er ingen mulighet for produktivitet uten innovasjon»"
+      },
+      "url": "https://www.aqua.cl/adolfo-alvial-no-hay-ninguna-posibilidad-de-productividad-si-no-hay-innovacion/",
+      "date": "Mon, 23 Nov 2026 09:48:00 +0000",
+      "summary": {
+        "es": "El pasado 20 de noviembre se llevó a cabo el seminario titulado “El próximo salto de la salmonicultura chilena” y el lanzamiento del diplomado “Inteligencia artificial aplicada a decisiones críticas en salmonicultura”, encuentro organizado por la Facultad de Ingeniería y Ciencias de la Universidad Adolfo Ibáñez y el Club Innovación Acuícola de Chile, con el auspicio de ABB. En el marco de la segunda parte del evento, enfocado en innovación y cooperación, participó Adolfo Alvial, director ejecutivo del Club Innovación Acuícola, quien presentó la exposición “Innovación y diversificación: nuevas oportunidades para la salmonicultura”. En su exposición, Adolfo Alvial especificó que “no hay ningun",
+        "en": "On November 20, the seminar entitled \"The Next Leap for Chilean Salmon Farming\" was held, along with the launch of the diploma program \"Artificial Intelligence Applied to Critical Decisions in Salmon Farming.\" The event was organized by the School of Engineering and Sciences at Universidad Adolfo Ibáñez and the Chilean Aquaculture Innovation Club, with the sponsorship of ABB. As part of the second segment of the event, which focused on innovation and cooperation, Adolfo Alvial, Executive Director of the Aquaculture Innovation Club, gave a presentation entitled \"Innovation and Diversification: New Opportunities for Salmon Farming.\" In his presentation, Adolfo Alvial stated that \"there is no",
+        "no": "Den 20. november ble det avholdt et seminar med tittelen «Det chilenske lakseoppdrettets neste steg» og lanseringen av diplomkurset «Kunstig intelligens anvendt på kritiske beslutninger i lakseoppdrett», et arrangement organisert av Fakultetet for ingeniørfag og naturvitenskap ved Adolfo Ibáñez-universitetet og den chilenske klubben for innovasjon innen akvakultur, med støtte fra ABB. I forbindelse med andre del av arrangementet, som fokuserte på innovasjon og samarbeid, deltok Adolfo Alvial, administrerende direktør i Club Innovación Acuícola, som holdt foredraget «Innovasjon og diversifisering: nye muligheter for lakseoppdrett». I foredraget sitt presiserte Adolfo Alvial at «det ikke finnes noen"
       },
       "source": "AQUA",
       "source_id": "aquacl",
@@ -98,24 +123,49 @@
         "no": "Bransjenyheter"
       },
       "score": 12,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/Salmon-MSD-Salud-Animal.jpg"
+      "cross_source": false,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/adolfo.png"
     },
     {
       "title": {
-        "es": "Congreso Agua Mar Bloque AM: preparación de la salmonicultura ante El Niño y las FAN",
-        "en": "Agua Mar Congress, AM Block: preparing salmon farming for El Niño and harmful algal blooms",
-        "no": "Agua Mar-kongressen, AM-blokken: lakseoppdrettets beredskap mot El Niño og skadelige algeoppblomstringer"
+        "es": "Sin nuevas concesiones: industria salmonera plantea cambios regulatorios para recuperar competitividad",
+        "en": "No new concessions: The salmon industry proposes regulatory changes to regain competitiveness",
+        "no": "Ingen nye konsesjoner: Lakseindustrien foreslår lovendringer for å gjenvinne konkurranseevnen"
       },
-      "url": "https://www.mundoacuicola.cl/new/congreso-agua-mar-bloque-am-preparacion-de-la-salmonicultura-ante-el-nino-y-las-fan/",
-      "date": "Tue, 17 Nov 2026 23:00:09 +0000",
+      "url": "https://infosalmon.cl/salmonicultura-chilena-competitividad-regulacion/",
+      "date": "Sun, 22 Nov 2026 20:59:07 +0000",
       "summary": {
-        "es": "El Congreso Agua Mar organizado por Mundo Acuícola el 26 de noviembre en Hotel Wyndham Pettra Puerto Varas, reunirá a representantes de productoras, proveedores, investigación y organismos públicos para abordar prevención, alertas tempranas y respuesta frente a riesgos ambientales. La entrada Congreso Agua Mar Bloque AM: preparación de la salmonicultura ante El Niño y las FAN se publicó primero en Mundoacuicola .",
-        "en": "The Agua Mar Congress, organised by Mundo Acuícola on 26 November at the Hotel Wyndham Pettra in Puerto Varas, will bring together representatives of producers, suppliers, research and public agencies to address prevention, early warning and response to environmental risks.",
-        "no": "Agua Mar-kongressen, arrangert av Mundo Acuícola 26. november på Hotel Wyndham Pettra i Puerto Varas, samler representanter for produsenter, leverandører, forskning og offentlige etater for å drøfte forebygging, tidlig varsling og respons på miljørisiko."
+        "es": "Recuperar la competitividad de la salmonicultura chilena sin depender de nuevas concesiones, modernizar el marco regulatorio y acelerar la incorporación de inteligencia artificial fueron parte de los principales desafíos abordados durante el seminario “El próximo salto de la salmonicultura chilena” . El encuentro, realizado el viernes 20 de noviembre en Santiago y organizado por la Universidad Adolfo Ibáñez (UAI) y el Club Innovación Acuícola de Chile , reunió a representantes de SalmonChile, ejecutivos, investigadores y especialistas para discutir las condiciones necesarias para impulsar el crecimiento sostenible de una de las principales actividades exportadoras del país. El encuentro conv",
+        "en": "Restoring the competitiveness of Chilean salmon farming without relying on new concessions, modernizing the regulatory framework, and accelerating the incorporation of artificial intelligence were some of the main challenges addressed during the seminar \"The Next Leap for Chilean Salmon Farming.\" The meeting, held on Friday, November 20 in Santiago and organized by the Adolfo Ibáñez University (UAI) and the Chilean Aquaculture Innovation Club, brought together representatives from SalmonChile, executives, researchers, and specialists to discuss the conditions necessary to drive the sustainable growth of one of the country's leading export industries.",
+        "no": "Å gjenvinne den chilenske lakseoppdrettsnæringens konkurranseevne uten å være avhengig av nye konsesjoner, modernisere regelverket og fremskynde innføringen av kunstig intelligens var noen av de viktigste utfordringene som ble tatt opp under seminaret «Den chilenske lakseoppdrettsnæringens neste steg». Møtet, som ble avholdt fredag 20. november i Santiago og arrangert av Adolfo Ibáñez-universitetet (UAI) og den chilenske klubben for innovasjon innen akvakultur, samlet representanter for SalmonChile, ledere, forskere og spesialister for å diskutere de nødvendige forutsetningene for å fremme bærekraftig vekst i en av landets viktigste eksportnæringer. Møtet"
       },
-      "source": "Mundo Acuicola",
-      "source_id": "mundoacuicola",
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 10,
+      "cross_source": false,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/UAI.jpg"
+    },
+    {
+      "title": {
+        "es": "Ensayo contra el SRS revela mayor eficacia de vacunas vivas y plantea revisar estrategias de inmunización",
+        "en": "Trial against SRS reveals greater efficacy of live vaccines and suggests reviewing immunization strategies",
+        "no": "Forsøk mot SRS viser høyere effektivitet for levende vaksiner og foreslår en gjennomgang av immuniseringsstrategier"
+      },
+      "url": "https://infosalmon.cl/vacunas-srs-ensayo-alianza-yelcho/",
+      "date": "Sun, 22 Nov 2026 21:07:59 +0000",
+      "summary": {
+        "es": "¿Es más efectiva una vacuna viva administrada individualmente que su combinación con otras vacunas para prevenir el SRS ? Un ensayo experimental sobre vacunas contra el SRS, desarrollado por Challenge Room para Alianza Yelcho , encontró diferencias relevantes entre siete alternativas contra Piscirickettsia salmonis . Estas incluyeron vacunas vivas, una formulación inactivada y esquemas de coadministración con vacunas pentavalentes. Los resultados se presentaron durante la SRS International Conference 2026 , realizada entre el 9 y el 11 de noviembre en Puerto Varas. Mostraron que las vacunas vivas solas alcanzaron mayor protección y un perfil de seguridad más favorable, bajo las condiciones e",
+        "en": "Is a live vaccine administered individually more effective than its combination with other vaccines in preventing SRS? An experimental trial on SRS vaccines, developed by Challenge Room for Alianza Yelcho, found significant differences between seven alternatives against Piscirickettsia salmonis. These included live vaccines, an inactivated formulation, and co-administration schedules with pentavalent vaccines. The results were presented during the SRS International Conference 2026, held from November 9 to 11 in Puerto Varas. They showed that live vaccines alone achieved greater protection and a more favorable safety profile, under the conditions and",
+        "no": "Er en levende vaksine som administreres individuelt mer effektiv enn kombinasjonen av den med andre vaksiner for å forebygge SRS? En eksperimentell studie av vaksiner mot SRS, utviklet av Challenge Room for Alianza Yelcho, fant relevante forskjeller mellom syv alternativer mot Piscirickettsia salmonis. Disse omfattet levende vaksiner, en inaktivert formulering og samadministrasjonsregimer med pentavalente vaksiner. Resultatene ble presentert under SRS International Conference 2026, som ble avholdt fra 9. til 11. november i Puerto Varas. De viste at levende vaksiner alene ga bedre beskyttelse og en mer gunstig sikkerhetsprofil under forholdene og"
+      },
+      "source": "InfoSalmon",
+      "source_id": "infosalmon",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -123,24 +173,49 @@
         "no": "Bransjenyheter"
       },
       "score": 9,
-      "cross_source": false,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/10/Congreso-Agua-Mar-reunira-ciencia-e-industria-para-abordar-desafios-ambientales-y-sanitarios-de-la-salmonicultura.jpg"
+      "cross_source": true,
+      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/Reunion-2-scaled.jpg"
     },
     {
       "title": {
-        "es": "Olas de calor obligan al salmón del Atlántico a desplazarse un 31% más profundo para evitar temperaturas elevadas",
-        "en": "Heatwaves drive Atlantic salmon to swim 31% deeper to avoid high temperatures",
-        "no": "Hetebølger får atlantisk laks til å svømme 31 % dypere for å unngå høye temperaturer"
+        "es": "Salmones Austral y Enseña Chile proyectan ampliar su impacto en comunidades educativas",
+        "en": "Salmones Austral and Enseña Chile plan to expand their impact on educational communities",
+        "no": "Salmones Austral og Enseña Chile planlegger å utvide sin innvirkning på utdanningsmiljøer"
       },
-      "url": "https://infosalmon.cl/olas-de-calor-obligan-al-salmon-atlantico-a-desplazarse-un-31-mas-profundo/",
-      "date": "Wed, 18 Nov 2026 21:53:04 +0000",
+      "url": "https://www.aqua.cl/salmones-austral-y-ensena-chile-proyectan-ampliar-su-impacto-en-comunidades-educativas/",
+      "date": "Mon, 23 Nov 2026 09:47:00 +0000",
       "summary": {
-        "es": "Las olas de calor no solo elevan la temperatura del agua. También modifican el comportamiento de los peces y la forma en que utilizan su hábitat. Así lo demuestra una investigación científica publicada en Biology Letters , que identificó que el salmón Atlántico ( Salmo salar ) responde a estos eventos desplazándose hacia sectores más profundos de la columna de agua, aparentemente en busca de condiciones térmicas más favorables. El trabajo, titulado “Lake heatwaves are associated with deeper swimming depths in Atlantic salmon” , fue desarrollado por un equipo internacional de investigadores encabezado por Jack A. Brand, junto con científicos de la Swedish University of Agricultural Sciences, ",
-        "en": "Heatwaves do not only raise water temperatures. They also change fish behaviour and the way fish use their habitat. This is shown by a scientific study published in Biology Letters, which found that Atlantic salmon (Salmo salar) respond to these events by moving to deeper parts of the water column, apparently in search of more favourable thermal conditions. The work, titled “Lake heatwaves are associated with deeper swimming depths in Atlantic salmon”, was carried out by an international team of researchers led by Jack A. Brand, together with scientists from the Swedish University of Agricultural Sciences...",
-        "no": "Hetebølger hever ikke bare vanntemperaturen. De endrer også fiskens atferd og hvordan den bruker leveområdet sitt. Det viser en vitenskapelig studie publisert i Biology Letters, som fant at atlantisk laks (Salmo salar) reagerer på slike hendelser ved å trekke dypere ned i vannsøylen, tilsynelatende på jakt etter gunstigere temperaturforhold. Arbeidet, med tittelen «Lake heatwaves are associated with deeper swimming depths in Atlantic salmon», ble utført av et internasjonalt forskerteam ledet av Jack A. Brand, sammen med forskere fra Sveriges lantbruksuniversitet..."
+        "es": "Desde 2018 ambas organizaciones buscan generar un impacto en Los Lagos y Aysén, buscando acercar profesionales de Enseña Chile a colegios de alta vulnerabilidad, fortalecer el trabajo con liceos técnico profesionales y desarrollar proyectos de reciclaje o manejo de residuos en comunidades educativas. “Gracias a esta alianza podremos llegar a diversos territorios y acercar oportunidades a estudiantes de contextos vulnerables. Así, juntos podemos apoyar el futuro de la región que hoy está formándose en las salas de clases”, explica Jennifer Masotti, Directora de Enseña Chile en la patagonia. Durante el 2025, la alianza se concretó en la Isla de Puerto Aguirre, en la región de Aysén, con la don",
+        "en": "Since 2018, both organizations have been seeking to make an impact in Los Lagos and Aysén, aiming to connect Enseña Chile professionals with highly vulnerable schools, strengthen work with technical and vocational high schools, and develop recycling or waste management projects in educational communities. “Thanks to this partnership, we will be able to reach various regions and bring opportunities to students from vulnerable backgrounds. In this way, together we can support the future of the region that is currently taking shape in classrooms,” explains Jennifer Masotti, Director of Enseña Chile in Patagonia. In 2025, the partnership was established on Puerto Aguirre Island, in the Aysén region, with the donation",
+        "no": "Siden 2018 har begge organisasjonene forsøkt å skape en virkning i Los Lagos og Aysén, ved å forsøke å bringe fagfolk fra Enseña Chile nærmere skoler med høy sårbarhet, styrke arbeidet med tekniske yrkesfagskoler og utvikle prosjekter for gjenvinning eller avfallshåndtering i utdanningssamfunn. «Takket være dette samarbeidet vil vi kunne nå ut til forskjellige områder og bringe muligheter nærmere elever fra sårbare miljøer. På denne måten kan vi sammen støtte fremtiden til regionen som i dag formes i klasserommene», forklarer Jennifer Masotti, direktør for Enseña Chile i Patagonia. I løpet av 2025 ble samarbeidet konkretisert på øya Puerto Aguirre i Aysén-regionen, med donasjonen"
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "AQUA",
+      "source_id": "aquacl",
+      "category": "industry",
+      "category_label": {
+        "es": "Industria",
+        "en": "Industry & General",
+        "no": "Bransjenyheter"
+      },
+      "score": 8,
+      "cross_source": true,
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/salmones-austral.jpeg"
+    },
+    {
+      "title": {
+        "es": "Patagonic 2026 puso el foco en nutrición, eficiencia y sostenibilidad",
+        "en": "Patagonic 2026 focused on nutrition, efficiency, and sustainability",
+        "no": "Patagonic 2026 fokuserte på ernæring, effektivitet og bærekraft"
+      },
+      "url": "https://www.aqua.cl/patagonic-2026-puso-el-foco-en-nutricion-eficiencia-y-sostenibilidad/",
+      "date": "Fri, 20 Nov 2026 16:00:00 +0000",
+      "summary": {
+        "es": "Patagonic RAS se ha consolidado como un espacio de encuentro para conectar ciencia, tecnología, nutrición y experiencia operacional. Desde sus primeras ediciones, la iniciativa ha promovido el intercambio de conocimientos entre distintos actores de la cadena de valor acuícola. El 19 de noviembre de 2026, BioMar Chile realizó una nueva edición de Patagonic RAS, encuentro técnico y estratégico que reunió a expertos internacionales, representantes de la industria, investigadores y organizaciones vinculadas al desarrollo de la acuicultura en sistemas de recirculación. En el marco del segundo eje temático, el líder del área Land Based para Latinoamérica de Akva group, Rodrigo Torrijo, abordó la r",
+        "en": "Patagonic RAS has established itself as a meeting place to connect science, technology, nutrition, and operational expertise. Since its first editions, the initiative has promoted the exchange of knowledge among different stakeholders in the aquaculture value chain. On November 19, 2026, BioMar Chile held a new edition of Patagonic RAS, a technical and strategic event that brought together international experts, industry representatives, researchers, and organizations involved in the development of aquaculture in recirculating systems. As part of the second thematic focus, Rodrigo Torrijo, Head of the Land-Based Area for Latin America at Akva Group, addressed the",
+        "no": "Patagonic RAS se ha consolidado como un espacio de encuentro para conectar ciencia, tecnología, nutrición y experiencia operacional. Desde sus primeras ediciones, la iniciativa ha promovido el intercambio de conocimientos entre distintos actores de la cadena de valor acuícola. El 19 de noviembre de 2026, BioMar Chile realizó una nueva edición de Patagonic RAS, encuentro técnico y estratégico que reunió a expertos internacionales, representantes de la industria, investigadores y organizaciones vinculadas al desarrollo de la acuicultura en sistemas de recirculación. En el marco del segundo eje temático, el líder del área Land Based para Latinoamérica de Akva group, Rodrigo Torrijo, abordó la r"
+      },
+      "source": "AQUA",
+      "source_id": "aquacl",
       "category": "industry",
       "category_label": {
         "es": "Industria",
@@ -149,20 +224,20 @@
       },
       "score": 8,
       "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2026/11/rsbl.2026.0487.f001-scaled.png"
+      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/R-Torrijo-Patagonic-Ras-1024x683.jpg"
     },
     {
       "title": {
-        "es": "Consejo del Salmón pide medidas ante interés noruego en Brasil",
-        "en": "Salmon Council calls for measures in response to Norwegian interest in Brazil",
-        "no": "Laksrådet ber om tiltak etter norsk interesse for Brasil"
+        "es": "Exportaciones de salmón y trucha marcan récord a octubre pero gremio advierte estancamiento productivo",
+        "en": "Salmon and trout exports set a record in October, but the industry warns of a production standstill",
+        "no": "Eksporten av laks og ørret satte rekord i oktober, men bransjen advarer om stagnasjon i produksjonen"
       },
-      "url": "https://www.mundoacuicola.cl/new/consejo-del-salmon-pide-medidas-ante-interes-noruego-en-brasil/",
-      "date": "Tue, 17 Nov 2026 19:19:44 +0000",
+      "url": "https://www.mundoacuicola.cl/new/exportaciones-de-salmon-y-trucha-marcan-record-a-octubre-pero-gremio-advierte-estancamiento-productivo/",
+      "date": "Thu, 19 Nov 2026 22:36:03 +0000",
       "summary": {
-        "es": "Loreto Seguel destacó el crecimiento de las exportaciones chilenas de salmón a Brasil y llamó a fortalecer la competitividad de la industria, ante las nuevas iniciativas comerciales de Noruega en ese mercado. La entrada Consejo del Salmón pide medidas ante interés noruego en Brasil se publicó primero en Mundoacuicola .",
-        "en": "Loreto Seguel highlighted the growth of Chilean salmon exports to Brazil and called for strengthening the industry's competitiveness in light of Norway's new trade initiatives in that market.",
-        "no": "Loreto Seguel fremhevet veksten i chilensk lakseeksport til Brasil og ba om å styrke næringens konkurranseevne i lys av Norges nye handelsinitiativer i dette markedet."
+        "es": "Los envíos alcanzaron US$ 5.748 millones y 716.437 toneladas entre enero y octubre, con alzas de 8,1% y 9,8%, respectivamente. El Consejo del Salmón atribuye el avance a mejoras de eficiencia y advierte que sostener el crecimiento exigirá nuevas inversiones. La entrada Exportaciones de salmón y trucha marcan récord a octubre pero gremio advierte estancamiento productivo se publicó primero en Mundoacuicola .",
+        "en": "Exports reached US$ 5.748 billion and 716,437 tons between January and October, with increases of 8.1% and 9.8%, respectively. The Salmon Council attributes the progress to efficiency improvements and warns that sustaining growth will require new investments. The article Salmon and trout exports set a record in October, but the industry warns of a production standstill was first published on Mundoacuicola.",
+        "no": "Los envíos alcanzaron US$ 5.748 millones y 716.437 toneladas entre enero y octubre, con alzas de 8,1% y 9,8%, respectivamente. El Consejo del Salmón atribuye el avance a mejoras de eficiencia y advierte que sostener el crecimiento exigirá nuevas inversiones. La entrada Exportaciones de salmón y trucha marcan récord a octubre pero gremio advierte estancamiento productivo se publicó primero en Mundoacuicola ."
       },
       "source": "Mundo Acuicola",
       "source_id": "mundoacuicola",
@@ -172,97 +247,47 @@
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 16,
-      "cross_source": true,
-      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/11/Consejo-del-Salmon-pide-medidas-ante-interes-noruego-en-Brasil.jpg"
+      "score": 12,
+      "cross_source": false,
+      "image": "https://www.mundoacuicola.cl/new/wp-content/uploads/2026/11/IMG_4562.png"
     },
     {
       "title": {
-        "es": "Andfjord Salmon apuesta por combinar post-smolt y salmón comercial para acelerar su crecimiento en Noruega",
-        "en": "Andfjord Salmon bets on combining post-smolt and commercial salmon to accelerate growth in Norway",
-        "no": "Andfjord Salmon satser på å kombinere postsmolt og kommersiell laks for å øke veksten i Norge"
+        "es": "Proyecto Micelio impulsa la innovación estudiantil junto a tres empresas de la salmonicultura",
+        "en": "Proyecto Micelio promotes student innovation alongside three salmon farming companies",
+        "no": "Prosjektet Micelio fremmer studentinnovasjon sammen med tre lakseoppdrettsbedrifter"
       },
-      "url": "https://infosalmon.cl/andfjord-salmon-estrategia-post-smolt-cosechas/",
-      "date": "Wed, 18 Nov 2026 17:50:20 +0000",
+      "url": "https://www.salmonexpert.cl/aquachile-camanchaca-estudiantes/proyecto-micelio-impulsa-la-innovacion-estudiantil-junto-a-tres-empresas-de-la-salmonicultura/2211913",
+      "date": "",
       "summary": {
-        "es": "La salmonicultura terrestre de Noruega sumó un nuevo avance productivo durante el tercer trimestre de 2026. Andfjord Salmon Group AS más que duplicó su biomasa en sus instalaciones de Kvalnes, en la isla de Andøya, y registró un fuerte incremento en el crecimiento de los peces, resultados que acompañan el inicio de sus primeras cosechas comerciales y la ampliación de su capacidad productiva. De acuerdo con el informe de resultados presentado el 17 de noviembre , la compañía alcanzó una biomasa de 2.581 toneladas en peso vivo al cierre de septiembre, frente a las 1.255 toneladas registradas al término del segundo trimestre. En paralelo, la producción neta trimestral aumentó desde 559 hasta 1.",
-        "en": "Norway's land-based salmon farming made new production progress in the third quarter of 2026. Andfjord Salmon Group AS more than doubled the biomass at its Kvalnes facility on the island of Andøya and recorded a strong increase in fish growth, results that coincide with the start of its first commercial harvests and the expansion of its production capacity. According to the results report presented on 17 November, the company reached a biomass of 2,581 tonnes live weight at the end of September, compared with 1,255 tonnes at the end of the second quarter. Meanwhile, net quarterly production rose from 559 to 1...",
-        "no": "Landbasert lakseoppdrett i Norge tok et nytt produksjonsmessig steg i tredje kvartal 2026. Andfjord Salmon Group AS mer enn doblet biomassen ved anlegget på Kvalnes på Andøya og registrerte en kraftig økning i fiskens tilvekst, resultater som faller sammen med oppstarten av de første kommersielle slaktingene og utvidelsen av produksjonskapasiteten. Ifølge resultatrapporten som ble lagt fram 17. november, nådde selskapet en biomasse på 2 581 tonn levende vekt ved utgangen av september, mot 1 255 tonn ved utgangen av andre kvartal. Samtidig økte netto kvartalsproduksjon fra 559 til 1..."
+        "es": "Un total de 570 jóvenes participaron durante 2026 en experiencias de aprendizaje junto a AquaChile, Camanchaca y Multi X, desarrollando soluciones innovadoras para enfrentar desafíos reales de la industria.",
+        "en": "A total of 570 young people participated in learning experiences with AquaChile, Camanchaca, and Multi X in 2026, developing innovative solutions to address real-world industry challenges.",
+        "no": "Un total de 570 jóvenes participaron durante 2026 en experiencias de aprendizaje junto a AquaChile, Camanchaca y Multi X, desarrollando soluciones innovadoras para enfrentar desafíos reales de la industria."
       },
-      "source": "InfoSalmon",
-      "source_id": "infosalmon",
+      "source": "Salmon Expert",
+      "source_id": "salmonexpert",
       "category": "market",
       "category_label": {
         "es": "Mercado",
         "en": "Market & Business",
         "no": "Marked og naringsliv"
       },
-      "score": 16,
-      "cross_source": false,
-      "image": "https://infosalmon.cl/wp-content/uploads/2024/01/Martin-Rasmussen-CEO-de-Andfjord-Salmon.jpg"
+      "score": 10,
+      "cross_source": true,
+      "image": "https://image.salmonexpert.cl/2211918.jpg?imageId=2211918&x=0&y=30.54&cropw=100&croph=63.55&panox=0&panoy=30.54&panow=100&panoh=63.55&width=1200&height=683"
     },
     {
       "title": {
         "es": "SMA formula cargos contra salmonicultora por sobreproducción en centro de Aysén",
-        "en": "SMA files charges against salmon farmer for overproduction at an Aysén site",
-        "no": "SMA tar ut tiltale mot lakseoppdretter for overproduksjon ved en lokalitet i Aysén"
+        "en": "SMA files charges against salmon farmer for overproduction at Aysén farm",
+        "no": "SMA reiser tiltale mot lakseoppdretter for overproduksjon i anlegg i Aysén"
       },
       "url": "https://www.salmonexpert.cl/aquachile-aysen-cisnes/sma-formula-cargos-contra-salmonicultora-por-sobreproduccion-en-centro-de-aysen/2212928",
       "date": "",
       "summary": {
         "es": "La empresa Exportadora Los Fiordos -de AquaChile- habría excedido en 133,54 toneladas el límite de producción autorizado para el centro Cuptana 4, ubicado en la comuna de Cisnes, al interior de la Reserva Nacional Las Guaitecas.",
-        "en": "The company Exportadora Los Fiordos, part of AquaChile, allegedly exceeded the authorised production limit by 133.54 tonnes at the Cuptana 4 site, located in the commune of Cisnes, within the Las Guaitecas National Reserve.",
-        "no": "Selskapet Exportadora Los Fiordos, som tilhører AquaChile, skal ha overskredet den tillatte produksjonsgrensen med 133,54 tonn ved lokaliteten Cuptana 4 i kommunen Cisnes, innenfor nasjonalreservatet Las Guaitecas."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 14,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2212934.jpg?imageId=2212934&x=0&y=10.44&cropw=100&croph=81.65&panox=0&panoy=10.44&panow=100&panoh=81.65&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "AquaChile impulsó la proyección internacional de Magallanes en misión empresarial a México",
-        "en": "AquaChile promoted Magallanes internationally during a business mission to Mexico",
-        "no": "AquaChile fremmet Magallanes internasjonalt under en næringslivsdelegasjon til Mexico"
-      },
-      "url": "https://www.aqua.cl/aquachile-impulso-la-proyeccion-internacional-de-magallanes-en-mision-empresarial-a-mexico/",
-      "date": "Thu, 19 Nov 2026 09:48:00 +0000",
-      "summary": {
-        "es": "Con el objetivo de promover las capacidades productivas de Magallanes y explorar nuevas oportunidades de cooperación internacional, AquaChile participó en una misión empresarial público-privada que visitó Querétaro y Ciudad de México. La delegación estuvo encabezada por el gobernador regional de Magallanes y de la Antártica Chilena, Jorge Flies Añón, y contó con actores de distintas industrias presentes en la región. Durante la gira, la comitiva participó en el Tercer Congreso de Comercio Exterior 2026, organizado por COPARMEX, y sostuvo reuniones con representantes de dicha organización, del Consejo Empresarial Mexicano de Comercio Exterior, Inversión y Tecnología (COMCE) y de la Secretaría",
-        "en": "With the aim of promoting the productive capabilities of Magallanes and exploring new opportunities for international cooperation, AquaChile took part in a public-private business mission that visited Querétaro and Mexico City. The delegation was led by the regional governor of Magallanes and Chilean Antarctica, Jorge Flies Añón, and included players from various industries present in the region. During the tour, the delegation attended the Third Foreign Trade Congress 2026, organised by COPARMEX, and held meetings with representatives of that organisation, the Mexican Business Council for Foreign Trade, Investment and Technology (COMCE) and the Ministry...",
-        "no": "For å fremme produksjonskapasiteten i Magallanes og utforske nye muligheter for internasjonalt samarbeid deltok AquaChile i en offentlig-privat næringslivsdelegasjon som besøkte Querétaro og Mexico by. Delegasjonen ble ledet av regionguvernøren i Magallanes og Chilensk Antarktis, Jorge Flies Añón, og omfattet aktører fra ulike næringer i regionen. Under turen deltok delegasjonen på den tredje utenrikshandelskongressen 2026, arrangert av COPARMEX, og hadde møter med representanter for organisasjonen, Det meksikanske næringslivsrådet for utenrikshandel, investeringer og teknologi (COMCE) og departementet..."
-      },
-      "source": "AQUA",
-      "source_id": "aquacl",
-      "category": "market",
-      "category_label": {
-        "es": "Mercado",
-        "en": "Market & Business",
-        "no": "Marked og naringsliv"
-      },
-      "score": 10,
-      "cross_source": true,
-      "image": "https://www.aqua.cl/wp-content/uploads/2026/11/aquachile.jpeg"
-    },
-    {
-      "title": {
-        "es": "Industria chilena pide quitar las trabas a su salmón tras el aviso de competencia noruega en Brasil",
-        "en": "Chilean industry calls for removing barriers to its salmon after warning of Norwegian competition in Brazil",
-        "no": "Chilensk næring ber om å fjerne hindringer for laksen etter varsel om norsk konkurranse i Brasil"
-      },
-      "url": "https://www.salmonexpert.cl/brasil-chile-competencia/industria-chilena-pide-quitar-las-trabas-a-su-salmon-tras-el-aviso-de-competencia-noruega-en-brasil/2212476",
-      "date": "",
-      "summary": {
-        "es": "La presidenta ejecutiva del Consejo del Salmón, Loreto Seguel, indicó que “debemos hacernos cargo de las dificultades que limitan nuestro crecimiento y desarrollo. Hoy el salmón chileno llega a 100 mercados y tenemos la oportunidad de llegar a muchos más”.",
-        "en": "The executive president of the Salmon Council, Loreto Seguel, said that “we must address the difficulties that limit our growth and development. Today Chilean salmon reaches 100 markets and we have the opportunity to reach many more.”",
-        "no": "Administrerende direktør i Laksrådet, Loreto Seguel, uttalte at «vi må ta tak i vanskelighetene som begrenser vår vekst og utvikling. I dag når chilensk laks 100 markeder, og vi har muligheten til å nå mange flere.»"
+        "en": "The exporting company Los Fiordos – part of AquaChile – reportedly exceeded the authorized production limit for the Cuptana 4 center, located in the municipality of Cisnes, within the Las Guaitecas National Reserve, by 133.54 tons.",
+        "no": "La empresa Exportadora Los Fiordos -de AquaChile- habría excedido en 133,54 toneladas el límite de producción autorizado para el centro Cuptana 4, ubicado en la comuna de Cisnes, al interior de la Reserva Nacional Las Guaitecas."
       },
       "source": "Salmon Expert",
       "source_id": "salmonexpert",
@@ -273,33 +298,8 @@
         "no": "Marked og naringsliv"
       },
       "score": 10,
-      "cross_source": true,
-      "image": "https://image.salmonexpert.cl/2212502.jpg?imageId=2212502&x=0&y=2.3&cropw=100&croph=84.87&panox=0&panoy=2.3&panow=100&panoh=84.87&width=1200&height=683"
-    },
-    {
-      "title": {
-        "es": "Columna de OpiniónPropuestas de Pivotes para la salmonicultura: ¿son posibles de concretar?",
-        "en": "Opinion column: Pivotes' proposals for salmon farming, can they be achieved?",
-        "no": "Kommentar: Pivotes' forslag for lakseoppdrett, lar de seg gjennomføre?"
-      },
-      "url": "https://www.salmonexpert.cl/acuiestudios-concesiones-crecimiento/propuestas-de-pivotes-para-la-salmonicultura-son-posibles-de-concretar/2211465",
-      "date": "",
-      "summary": {
-        "es": "*Columna de opinión para Salmonexpert de Jéssica Fuentes, abogada asociada de Acuiestudios, investigadora de Centro INCAR². Pivotes ha planteado siete medidas para destrabar la acuicultura, de modo de propender a su crecimiento mediante la reapertura del acceso a nuevas concesiones. Cinco de las siete medidas dependen de reformas legales. Al efecto, es importante considerar que cada vez que se ha tramitado una iniciativa legal referida a la acuicultura, el proceso ha sido largo y complejo. Un ejemplo está en la inclusión del artículo referido a las relocalizaciones en el requerimiento que se hizo ante el Tribunal Constitucional con ocasión del trámite de la ley 21.850 sobre reconstrucción na",
-        "en": "*Opinion column for Salmonexpert by Jéssica Fuentes, associate lawyer at Acuiestudios and researcher at the INCAR² Centre. Pivotes has proposed seven measures to unlock aquaculture, so as to encourage its growth by reopening access to new concessions. Five of the seven measures depend on legal reforms. In this regard, it is important to bear in mind that every time a legal initiative concerning aquaculture has been processed, the process has been long and complex. One example is the inclusion of the article on relocations in the challenge filed before the Constitutional Court during the passage of Law 21,850 on national reconstruction...",
-        "no": "*Kommentar for Salmonexpert av Jéssica Fuentes, advokat i Acuiestudios og forsker ved INCAR²-senteret. Pivotes har lagt fram sju tiltak for å løse opp akvakulturen og fremme vekst ved å gjenåpne tilgangen til nye konsesjoner. Fem av de sju tiltakene avhenger av lovendringer. I den sammenheng er det viktig å huske at hver gang et lovinitiativ om akvakultur har vært til behandling, har prosessen vært lang og komplisert. Et eksempel er at artikkelen om relokaliseringer ble tatt med i begjæringen til forfatningsdomstolen under behandlingen av lov 21.850 om nasjonal gjenoppbygging..."
-      },
-      "source": "Salmon Expert",
-      "source_id": "salmonexpert",
-      "category": "regulatory",
-      "category_label": {
-        "es": "Regulatorio",
-        "en": "Regulatory & Policy",
-        "no": "Regulering og politikk"
-      },
-      "score": 16,
       "cross_source": false,
-      "image": "https://image.salmonexpert.cl/2117153.jpg?imageId=2117153&x=0&y=8.61&cropw=100&croph=71.67&panox=0&panoy=8.61&panow=100&panoh=71.67&width=1200&height=683"
+      "image": "https://image.salmonexpert.cl/2212934.jpg?imageId=2212934&x=0&y=10.44&cropw=100&croph=81.65&panox=0&panoy=10.44&panow=100&panoh=81.65&width=1200&height=683"
     }
   ]
 }
